@@ -1,0 +1,17 @@
+# Krako
+
+the Quantum Experimental Laboratories at 0xpblab — directory
+
+A web1-style directory of interesting places on the internet.
+
+This is a Gemini capsule.
+
+## Pages
+
+=> /pages/index.gmi index
+=> /pages/recomendati0n.gmi recomendati0n
+
+## Collections
+
+=> /collections/cartas/index.gmi Cartas para Pablo
+
