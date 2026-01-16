@@ -569,9 +569,18 @@ The internet is weird, and that's okay.
             sections_data = collections_data[collection_name]
             if sections_data:
                 collection_display = translate_collection_name(collection_name, sections_data)
+                # If collection has only one section, link directly to section index
+                sections_order = sections_data.get('order', [])
+                if len(sections_order) == 1:
+                    # Single section - link directly to section index
+                    section = sections_order[0]
+                    content += f"=> /collections/{collection_name}/{section}/index.gmi {collection_display}\n"
+                else:
+                    # Multiple sections - link to collection index
+                    content += f"=> /collections/{collection_name}/index.gmi {collection_display}\n"
             else:
                 collection_display = translate_collection_name(collection_name)
-            content += f"=> /collections/{collection_name}/index.gmi {collection_display}\n"
+                content += f"=> /collections/{collection_name}/index.gmi {collection_display}\n"
         content += "\n"
     
     content += """---
@@ -591,13 +600,21 @@ The internet is weird, and that's okay.
             sections_data = collections_data[collection_name]
             if sections_data:
                 collection_display = translate_collection_name(collection_name, sections_data)
+                # If collection has only one section, link directly to section index
+                sections_order = sections_data.get('order', [])
+                if len(sections_order) == 1:
+                    section = sections_order[0]
+                    link_path = f"/collections/{collection_name}/{section}/index.gmi"
+                else:
+                    link_path = f"/collections/{collection_name}/index.gmi"
+                
                 # Add a generic description based on collection name
                 if 'cartas' in collection_name.lower():
-                    content += f"=> /collections/{collection_name}/index.gmi Explore personal letters collection\n"
+                    content += f"=> {link_path} Explore personal letters collection\n"
                 elif 'mental' in collection_name.lower():
-                    content += f"=> /collections/{collection_name}/index.gmi Explore {collection_display.lower()} collection\n"
+                    content += f"=> {link_path} Explore {collection_display.lower()} collection\n"
                 else:
-                    content += f"=> /collections/{collection_name}/index.gmi Explore {collection_display.lower()} collection\n"
+                    content += f"=> {link_path} Explore {collection_display.lower()} collection\n"
     
     content += """
 ---

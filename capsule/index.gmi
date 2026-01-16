@@ -35,16 +35,16 @@ The internet is weird, and that's okay.
 
 ### Collections
 
-=> /collections/cartas/index.gmi Letters for Pablo
-=> /collections/mentalhealth/index.gmi Mental Health
+=> /collections/cartas/random/index.gmi Letters for Pablo
+=> /collections/mentalhealth/main/index.gmi Mental Health
 
 ---
 
 ## Quick Start
 
 => /pages/recomendati0n.gmi Browse curated links
-=> /collections/cartas/index.gmi Explore personal letters collection
-=> /collections/mentalhealth/index.gmi Explore mental health collection
+=> /collections/cartas/random/index.gmi Explore personal letters collection
+=> /collections/mentalhealth/main/index.gmi Explore mental health collection
 
 ---
 
