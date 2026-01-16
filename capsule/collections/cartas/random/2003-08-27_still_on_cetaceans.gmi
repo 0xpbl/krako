@@ -1,12 +1,5 @@
 # Still on Cetaceans
 
-=> /collections/cartas/random/2003-07-21_conversation_starter_dolphin_bite.gmi ← 2003-07-21 Conversation Starter Dolphin Bite
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2003-09-12_vikings_montaigne_and_a_fat_toad.gmi 2003-09-12 Vikings Montaigne And A Fat Toad →
-
----
-
-
 ## Message Metadata
 * Date: Wed, 27 Aug 2003 15:31:11 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

@@ -1,12 +1,5 @@
 # Grandpa Simpson's Onion Belt
 
-=> /collections/cartas/random/2006-09-12_after_watching_the_farm_a_fazenda.gmi ← 2006-09-12 After Watching The Farm A Fazenda
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2007-04-12_breaking_news_badgers.gmi 2007-04-12 Breaking News Badgers →
-
----
-
-
 ## Message Metadata
 * Date: Mon, 15 Jan 2007 08:00:33 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

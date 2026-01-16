@@ -1,12 +1,5 @@
 # Smell of Uranium
 
-=> /collections/cartas/random/2011-05-25_hydrogenated_fat_parade.gmi ← 2011-05-25 Hydrogenated Fat Parade
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2011-11-15_pluto_the_dwarf_planet.gmi 2011-11-15 Pluto The Dwarf Planet →
-
----
-
-
 ## Message Metadata
 * Date: Thu, 03 Nov 2011 16:18:33 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

@@ -1,12 +1,5 @@
 # After Watching 'The Farm' (A Fazenda)
 
-=> /collections/cartas/random/2006-06-30_restaurant_review_le_domaine_de_chateauvieux.gmi ← 2006-06-30 Restaurant Review Le Domaine De Chateauvieux
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2007-01-15_grandpa_simpson_s_onion_belt.gmi 2007-01-15 Grandpa Simpson S Onion Belt →
-
----
-
-
 ## Message Metadata
 * Date: Tue, 12 Sep 2006 18:18:11 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

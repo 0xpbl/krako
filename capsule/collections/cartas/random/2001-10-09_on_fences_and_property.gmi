@@ -1,12 +1,5 @@
 # On Fences and Property
 
-=> /collections/cartas/random/2001-07-25_boring_bird_talk.gmi ← 2001-07-25 Boring Bird Talk
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2001-10-09_the_gloucester_cheese_race.gmi 2001-10-09 The Gloucester Cheese Race →
-
----
-
-
 ## Message Metadata
 * Date: Tue, 09 Oct 2001 18:23:53 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

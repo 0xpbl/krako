@@ -1,12 +1,5 @@
 # On Long Novels
 
-=> /collections/cartas/random/2001-06-06_proud_of_their_gums.gmi ← 2001-06-06 Proud Of Their Gums
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2001-07-25_boring_bird_talk.gmi 2001-07-25 Boring Bird Talk →
-
----
-
-
 ## Message Metadata
 * Date: Thu, 28 Jun 2001 11:31:11 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

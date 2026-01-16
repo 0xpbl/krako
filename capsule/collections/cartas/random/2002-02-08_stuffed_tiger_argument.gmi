@@ -1,12 +1,5 @@
 # Stuffed Tiger Argument
 
-=> /collections/cartas/random/2002-01-16_776_bc_at_the_olympics.gmi ← 2002-01-16 776 Bc At The Olympics
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2002-03-07_telerj.gmi 2002-03-07 Telerj →
-
----
-
-
 ## Message Metadata
 * Date: Fri, 08 Feb 2002 11:18:33 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

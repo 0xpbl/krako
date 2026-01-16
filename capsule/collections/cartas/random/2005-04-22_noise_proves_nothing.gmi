@@ -1,12 +1,5 @@
 # Noise Proves Nothing
 
-=> /collections/cartas/random/2004-12-03_christmas_tales_gdansk_or_kelvin.gmi ← 2004-12-03 Christmas Tales Gdansk Or Kelvin
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2005-05-17_joel_stole_my_gibao.gmi 2005-05-17 Joel Stole My Gibao →
-
----
-
-
 ## Message Metadata
 * Date: Fri, 22 Apr 2005 10:37:27 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

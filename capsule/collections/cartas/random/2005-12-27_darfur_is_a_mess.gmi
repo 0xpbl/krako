@@ -1,12 +1,5 @@
 # Darfur Is a Mess
 
-=> /collections/cartas/random/2005-12-14_ape_men_in_sweden.gmi ← 2005-12-14 Ape Men In Sweden
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2006-06-30_restaurant_review_le_domaine_de_chateauvieux.gmi 2006-06-30 Restaurant Review Le Domaine De Chateauvieux →
-
----
-
-
 ## Message Metadata
 * Date: Tue, 27 Dec 2005 15:07:19 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

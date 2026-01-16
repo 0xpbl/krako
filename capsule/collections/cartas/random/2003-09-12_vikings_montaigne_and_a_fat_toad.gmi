@@ -1,12 +1,5 @@
 # Vikings, Montaigne, and a Fat Toad
 
-=> /collections/cartas/random/2003-08-27_still_on_cetaceans.gmi ← 2003-08-27 Still On Cetaceans
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2004-01-05_super_pla_1969.gmi 2004-01-05 Super Pla 1969 →
-
----
-
-
 ## Message Metadata
 * Date: Fri, 12 Sep 2003 16:00:27 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

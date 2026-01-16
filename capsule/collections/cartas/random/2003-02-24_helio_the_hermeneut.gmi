@@ -1,12 +1,5 @@
 # Helio the Hermeneut
 
-=> /collections/cartas/random/2002-09-11_the_horse_at_the_gates.gmi ← 2002-09-11 The Horse At The Gates
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2003-03-18_corporate_ear_muffs.gmi 2003-03-18 Corporate Ear Muffs →
-
----
-
-
 ## Message Metadata
 * Date: Mon, 24 Feb 2003 16:12:19 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

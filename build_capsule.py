@@ -559,7 +559,13 @@ The internet is weird, and that's okay.
         for page in pages:
             if page == "index":
                 continue  # Skip empty index page
-            page_display = page.replace('_', ' ').title()
+            # Keep original case if it's already uppercase/mixed, otherwise use uppercase
+            page_display = page.replace('_', ' ')
+            # If it contains numbers or is already in a special format, preserve it
+            if page.lower() == 'recomendati0n':
+                page_display = 'Recomendati0N'
+            else:
+                page_display = page_display.upper()
             content += f"=> /pages/{page}.gmi {page_display}\n"
         content += "\n"
     
@@ -569,6 +575,8 @@ The internet is weird, and that's okay.
             sections_data = collections_data[collection_name]
             if sections_data:
                 collection_display = translate_collection_name(collection_name, sections_data)
+                # Convert to uppercase for display
+                collection_display = collection_display.upper()
                 # If collection has only one section, link directly to section index
                 sections_order = sections_data.get('order', [])
                 if len(sections_order) == 1:
@@ -580,6 +588,7 @@ The internet is weird, and that's okay.
                     content += f"=> /collections/{collection_name}/index.gmi {collection_display}\n"
             else:
                 collection_display = translate_collection_name(collection_name)
+                collection_display = collection_display.upper()
                 content += f"=> /collections/{collection_name}/index.gmi {collection_display}\n"
         content += "\n"
     

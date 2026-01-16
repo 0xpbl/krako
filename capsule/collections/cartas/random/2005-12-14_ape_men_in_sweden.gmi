@@ -1,12 +1,5 @@
 # Ape-Men in Sweden
 
-=> /collections/cartas/random/2005-11-24_part_camel.gmi ← 2005-11-24 Part Camel
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2005-12-27_darfur_is_a_mess.gmi 2005-12-27 Darfur Is A Mess →
-
----
-
-
 ## Message Metadata
 * Date: Wed, 14 Dec 2005 17:23:27 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

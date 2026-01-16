@@ -1,12 +1,5 @@
 # The Horse at the Gates
 
-=> /collections/cartas/random/2002-04-19_sombreros_and_sophistication.gmi ← 2002-04-19 Sombreros And Sophistication
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2003-02-24_helio_the_hermeneut.gmi 2003-02-24 Helio The Hermeneut →
-
----
-
-
 ## Message Metadata
 * Date: Wed, 11 Sep 2002 11:00:33 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

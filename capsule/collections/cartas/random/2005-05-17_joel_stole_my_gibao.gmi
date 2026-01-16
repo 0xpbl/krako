@@ -1,12 +1,5 @@
 # Joel Stole My Gibao
 
-=> /collections/cartas/random/2005-04-22_noise_proves_nothing.gmi ← 2005-04-22 Noise Proves Nothing
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2005-06-30_germany_vs_south_korea_broadcast.gmi 2005-06-30 Germany Vs South Korea Broadcast →
-
----
-
-
 ## Message Metadata
 * Date: Tue, 17 May 2005 08:18:33 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

@@ -1,12 +1,5 @@
 # Icebreaker: Alfredo's Swim Briefs
 
-=> /collections/cartas/random/2004-01-05_super_pla_1969.gmi ← 2004-01-05 Super Pla 1969
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2004-04-20_pan_games_flash.gmi 2004-04-20 Pan Games Flash →
-
----
-
-
 ## Message Metadata
 * Date: Tue, 06 Apr 2004 14:18:00 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

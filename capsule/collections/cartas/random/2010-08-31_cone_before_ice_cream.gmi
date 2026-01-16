@@ -1,12 +1,5 @@
 # Cone Before Ice Cream
 
-=> /collections/cartas/random/2010-08-12_presidents_of_gabon.gmi ← 2010-08-12 Presidents Of Gabon
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2010-10-20_rejected_samba_north_korea.gmi 2010-10-20 Rejected Samba North Korea →
-
----
-
-
 ## Message Metadata
 * Date: Tue, 31 Aug 2010 18:12:19 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

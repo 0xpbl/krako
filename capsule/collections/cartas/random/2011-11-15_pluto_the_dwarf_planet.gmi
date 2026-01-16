@@ -1,12 +1,5 @@
 # Pluto, the Dwarf Planet
 
-=> /collections/cartas/random/2011-11-03_smell_of_uranium.gmi ← 2011-11-03 Smell Of Uranium
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2011-11-25_catheterization_samba.gmi 2011-11-25 Catheterization Samba →
-
----
-
-
 ## Message Metadata
 * Date: Tue, 15 Nov 2011 14:52:53 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

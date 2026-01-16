@@ -1,12 +1,5 @@
 # Telerj
 
-=> /collections/cartas/random/2002-02-08_stuffed_tiger_argument.gmi ← 2002-02-08 Stuffed Tiger Argument
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2002-04-09_grandpa_simpson_on_labels.gmi 2002-04-09 Grandpa Simpson On Labels →
-
----
-
-
 ## Message Metadata
 * Date: Thu, 07 Mar 2002 16:31:27 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>

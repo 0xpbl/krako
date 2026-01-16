@@ -31,12 +31,12 @@ The internet is weird, and that's okay.
 
 ### Pages
 
-=> /pages/recomendati0n.gmi Recomendati0N
+=> /pages/recomendati0n.gmi **Recomendati0N**
 
 ### Collections
 
-=> /collections/cartas/random/index.gmi Letters for Pablo
-=> /collections/mentalhealth/main/index.gmi Mental Health
+=> /collections/cartas/random/index.gmi **LETTERS FOR PABLO**
+=> /collections/mentalhealth/main/index.gmi **MENTAL HEALTH**
 
 ---
 

@@ -1,12 +1,5 @@
 # Do Be Do Be Do
 
-=> /collections/cartas/random/2005-06-30_germany_vs_south_korea_broadcast.gmi ← 2005-06-30 Germany Vs South Korea Broadcast
-=> /collections/cartas/random/index.gmi ↑ Section index
-=> /collections/cartas/random/2005-11-24_part_camel.gmi 2005-11-24 Part Camel →
-
----
-
-
 ## Message Metadata
 * Date: Fri, 01 Jul 2005 11:12:41 -0300
  From: Marcos Barbará <marc**xx@euroletters.net>
