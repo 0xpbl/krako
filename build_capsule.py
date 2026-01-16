@@ -20,6 +20,34 @@ def ensure_dir(path: Path):
     """Create directory if it doesn't exist."""
     path.mkdir(parents=True, exist_ok=True)
 
+def detect_file_format(content: str) -> str:
+    """
+    Detect if content is Markdown or plain text.
+    Returns 'md' if Markdown syntax is detected, 'txt' otherwise.
+    """
+    # Check for Markdown indicators
+    has_markdown_links = bool(re.search(r'\[([^\]]+)\]\(([^)]+)\)', content))
+    has_markdown_headings = bool(re.search(r'^#{1,6}\s+', content, re.MULTILINE))
+    has_markdown_bold = bool(re.search(r'\*\*[^*]+\*\*', content))
+    has_markdown_code_blocks = bool(re.search(r'```', content))
+    
+    # If any Markdown syntax is found, treat as Markdown
+    if has_markdown_links or has_markdown_headings or has_markdown_bold or has_markdown_code_blocks:
+        return 'md'
+    
+    return 'txt'
+
+def sanitize_filename(name: str) -> str:
+    """
+    Sanitize filename for URL-safe use.
+    Replaces spaces with underscores and removes special characters.
+    """
+    # Replace spaces with underscores
+    name = name.replace(' ', '_')
+    # Remove or replace problematic characters
+    name = re.sub(r'[^\w\-_\.]', '', name)
+    return name
+
 def convert_txt_to_gmi(content: str) -> str:
     """
     Convert .txt content to Gemtext.
@@ -120,6 +148,37 @@ def convert_md_to_gmi(content: str) -> str:
     
     return '\n'.join(result)
 
+def discover_collections() -> List[str]:
+    """
+    Discover all collection directories in dir/files/.
+    A collection is a directory that is not a .txt file.
+    """
+    collections = []
+    if not SOURCE_DIR.exists():
+        return collections
+    
+    for item in SOURCE_DIR.iterdir():
+        if item.is_dir():
+            # Check if it's not empty and has files (not just sections.json)
+            has_files = False
+            for subitem in item.iterdir():
+                if subitem.is_file() and subitem.name != 'sections.json':
+                    has_files = True
+                    break
+                elif subitem.is_dir():
+                    # Check if subdirectory has files
+                    for subfile in subitem.iterdir():
+                        if subfile.is_file():
+                            has_files = True
+                            break
+                    if has_files:
+                        break
+            
+            if has_files:
+                collections.append(item.name)
+    
+    return sorted(collections)
+
 def get_all_txt_files() -> List[Path]:
     """Return list of .txt files in dir/files/."""
     txt_files = []
@@ -145,17 +204,89 @@ def get_all_cartas_files() -> List[Tuple[str, Path]]:
     
     return sorted(cartas, key=lambda x: x[1].name)
 
-def load_sections_json() -> dict:
-    """Load sections.json from cartas collection."""
-    sections_file = SOURCE_DIR / "cartas" / "sections.json"
+def load_sections_json(collection_name: str) -> dict:
+    """Load sections.json from a collection directory."""
+    sections_file = SOURCE_DIR / collection_name / "sections.json"
     if sections_file.exists():
         with open(sections_file, 'r', encoding='utf-8') as f:
             return json.load(f)
     return None
 
-def write_gmi_file(path: Path, content: str):
+def get_default_sections(collection_name: str, files_by_section: dict) -> dict:
+    """Generate default sections.json structure if it doesn't exist."""
+    # Use collection name as main menu name (with proper formatting)
+    # Handle common compound words
+    common_words = {
+        'mentalhealth': 'Mental Health',
+        'mental health': 'Mental Health',
+    }
+    
+    name_lower = collection_name.lower().replace('_', ' ')
+    if name_lower in common_words:
+        main_menu_name = common_words[name_lower]
+    else:
+        # Replace underscores with spaces and title case
+        main_menu_name = collection_name.replace('_', ' ').title()
+    
+    # If there's only one section, use it; otherwise use "main"
+    sections = {}
+    if len(files_by_section) == 1:
+        section_key = list(files_by_section.keys())[0]
+        sections[section_key] = section_key.replace('_', ' ').title()
+    else:
+        sections['main'] = 'Main'
+    
+    return {
+        'mainMenuName': main_menu_name,
+        'sections': sections,
+        'order': list(files_by_section.keys())
+    }
+
+def get_collection_files(collection_name: str) -> List[Tuple[str, Path]]:
+    """
+    Return list of tuples (section, file_path) for files in a collection.
+    Handles files with or without extensions.
+    """
+    collection_dir = SOURCE_DIR / collection_name
+    files = []
+    
+    if not collection_dir.exists():
+        return files
+    
+    # Check if collection has subdirectories (sections) or files directly
+    has_sections = False
+    for item in collection_dir.iterdir():
+        if item.is_dir() and item.name != 'sections.json':
+            has_sections = True
+            break
+    
+    if has_sections:
+        # Collection has sections (like cartas/random/)
+        for section_dir in collection_dir.iterdir():
+            if section_dir.is_dir() and section_dir.name != 'sections.json':
+                section = section_dir.name
+                # Get all files (with or without extensions)
+                for file_path in section_dir.iterdir():
+                    if file_path.is_file() and file_path.name != 'sections.json':
+                        files.append((section, file_path))
+    else:
+        # Collection has files directly (like mentalhealth/)
+        # Put them in a "main" section
+        for file_path in collection_dir.iterdir():
+            if file_path.is_file() and file_path.name != 'sections.json':
+                files.append(('main', file_path))
+    
+    return sorted(files, key=lambda x: x[1].name)
+
+def get_footer() -> str:
+    """Generate footer text."""
+    return "\n---\n\ndesenvolvido por pablo murad - 2024 - 2026\n"
+
+def write_gmi_file(path: Path, content: str, add_footer: bool = False):
     """Write .gmi file."""
     ensure_dir(path.parent)
+    if add_footer:
+        content = content.rstrip() + get_footer()
     with open(path, 'w', encoding='utf-8') as f:
         f.write(content)
 
@@ -178,7 +309,7 @@ def build_pages():
         page_name = txt_file.stem
         gmi_file = PAGES_DIR / f"{page_name}.gmi"
         
-        write_gmi_file(gmi_file, gmi_content)
+        write_gmi_file(gmi_file, gmi_content, add_footer=True)
         page_names.append(page_name)
         print(f"[OK] Converted: {txt_file.name} -> {gmi_file}")
     
@@ -193,92 +324,115 @@ def build_pages():
     
     return page_names
 
-def build_cartas_collection():
-    """Process cartas collection and generate .gmi files."""
-    sections_data = load_sections_json()
+def build_collection(collection_name: str):
+    """Process any collection and generate .gmi files."""
+    collection_files = get_collection_files(collection_name)
+    if not collection_files:
+        print(f"[WARNING] No files found in collection: {collection_name}")
+        return None
+    
+    # Organize files by section
+    files_by_section = {}
+    for section, file_path in collection_files:
+        if section not in files_by_section:
+            files_by_section[section] = []
+        files_by_section[section].append(file_path)
+    
+    # Sort files in each section
+    for section in files_by_section:
+        files_by_section[section].sort(key=lambda x: x.name)
+    
+    # Load or create sections.json
+    sections_data = load_sections_json(collection_name)
     if not sections_data:
-        print("[WARNING] sections.json not found, skipping cartas collection")
-        return None
+        sections_data = get_default_sections(collection_name, files_by_section)
+        print(f"[INFO] Using default sections for {collection_name}")
     
-    cartas_files = get_all_cartas_files()
-    if not cartas_files:
-        print("[WARNING] No carta files found")
-        return None
-    
-    # Organize cartas by section
-    cartas_by_section = {}
-    for section, file_path in cartas_files:
-        if section not in cartas_by_section:
-            cartas_by_section[section] = []
-        cartas_by_section[section].append(file_path)
-    
-    # Sort cartas in each section
-    for section in cartas_by_section:
-        cartas_by_section[section].sort(key=lambda x: x.name)
-    
-    # Convert each carta
-    carta_paths = []  # List of (section, filename) for navigation
-    for section, file_path in cartas_files:
+    # Convert each file
+    file_paths = []  # List of (section, sanitized_filename) for navigation
+    for section, file_path in collection_files:
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
         
-        gmi_content = convert_md_to_gmi(content)
+        # Detect format and convert
+        file_format = detect_file_format(content)
+        if file_format == 'md':
+            gmi_content = convert_md_to_gmi(content)
+        else:
+            gmi_content = convert_txt_to_gmi(content)
+        
+        # Sanitize filename for output
+        if file_path.suffix:
+            # Has extension, use stem
+            sanitized_name = sanitize_filename(file_path.stem)
+        else:
+            # No extension, sanitize the whole name
+            sanitized_name = sanitize_filename(file_path.name)
         
         # Output path
-        section_dir = COLLECTIONS_DIR / "cartas" / section
-        gmi_file = section_dir / f"{file_path.stem}.gmi"
+        section_dir = COLLECTIONS_DIR / collection_name / section
+        gmi_file = section_dir / f"{sanitized_name}.gmi"
         
-        write_gmi_file(gmi_file, gmi_content)
-        carta_paths.append((section, file_path.stem))
-        print(f"[OK] Converted carta: {section}/{file_path.name} -> {gmi_file}")
+        write_gmi_file(gmi_file, gmi_content, add_footer=True)
+        file_paths.append((section, sanitized_name))
+        print(f"[OK] Converted {collection_name}: {section}/{file_path.name} -> {gmi_file}")
     
     # Generate collection index
-    collection_index_path = COLLECTIONS_DIR / "cartas" / "index.gmi"
-    # Translate mainMenuName if it's in Portuguese
-    main_menu_name = sections_data.get('mainMenuName', 'Letters')
+    collection_index_path = COLLECTIONS_DIR / collection_name / "index.gmi"
+    # Translate mainMenuName if it's in Portuguese (for cartas compatibility)
+    main_menu_name = sections_data.get('mainMenuName', collection_name.title())
     if main_menu_name == 'Cartas para Pablo':
         main_menu_name = 'Letters for Pablo'
     elif main_menu_name == 'Cartas':
         main_menu_name = 'Letters'
     collection_index = f"# {main_menu_name}\n\n"
     
-    sections_order = sections_data.get('order', list(cartas_by_section.keys()))
+    sections_order = sections_data.get('order', list(files_by_section.keys()))
     for section in sections_order:
-        section_name = sections_data.get('sections', {}).get(section, section)
+        section_name = sections_data.get('sections', {}).get(section, section.replace('_', ' ').title())
         collection_index += f"## {section_name}\n\n"
-        collection_index += f"=> /collections/cartas/{section}/index.gmi View {section_name}\n\n"
+        collection_index += f"=> /collections/{collection_name}/{section}/index.gmi View {section_name}\n\n"
     
-    write_gmi_file(collection_index_path, collection_index)
+    write_gmi_file(collection_index_path, collection_index, add_footer=True)
     print(f"[OK] Generated collection index: {collection_index_path}")
     
     # Generate section indices
     for section in sections_order:
-        section_name = sections_data.get('sections', {}).get(section, section)
-        section_cartas = cartas_by_section.get(section, [])
+        section_name = sections_data.get('sections', {}).get(section, section.replace('_', ' ').title())
+        section_files = files_by_section.get(section, [])
         
-        section_index_path = COLLECTIONS_DIR / "cartas" / section / "index.gmi"
+        section_index_path = COLLECTIONS_DIR / collection_name / section / "index.gmi"
         section_index = f"# {section_name}\n\n"
-        section_index += f"=> /collections/cartas/index.gmi ← Back to collection\n\n"
-        section_index += "## Letters\n\n"
+        section_index += f"=> /collections/{collection_name}/index.gmi ← Back to collection\n\n"
+        section_index += "## Documents\n\n"
         
-        for carta_file in section_cartas:
-            carta_name = carta_file.stem.replace('_', ' ').title()
-            section_index += f"=> /collections/cartas/{section}/{carta_file.stem}.gmi {carta_name}\n"
+        for file_path in section_files:
+            if file_path.suffix:
+                display_name = file_path.stem.replace('_', ' ').title()
+                sanitized_name = sanitize_filename(file_path.stem)
+            else:
+                display_name = file_path.name.replace('_', ' ').title()
+                sanitized_name = sanitize_filename(file_path.name)
+            section_index += f"=> /collections/{collection_name}/{section}/{sanitized_name}.gmi {display_name}\n"
         
-        write_gmi_file(section_index_path, section_index)
+        write_gmi_file(section_index_path, section_index, add_footer=True)
         print(f"[OK] Generated section index: {section_index_path}")
     
-    # Add previous/next navigation to cartas
-    all_cartas_flat = []
+    # Add previous/next navigation to files
+    all_files_flat = []
     for section in sections_order:
-        for carta_file in cartas_by_section.get(section, []):
-            all_cartas_flat.append((section, carta_file.stem))
+        for file_path in files_by_section.get(section, []):
+            if file_path.suffix:
+                sanitized_name = sanitize_filename(file_path.stem)
+            else:
+                sanitized_name = sanitize_filename(file_path.name)
+            all_files_flat.append((section, sanitized_name))
     
-    for idx, (section, carta_name) in enumerate(all_cartas_flat):
-        carta_path = COLLECTIONS_DIR / "cartas" / section / f"{carta_name}.gmi"
+    for idx, (section, file_name) in enumerate(all_files_flat):
+        file_path = COLLECTIONS_DIR / collection_name / section / f"{file_name}.gmi"
         
-        if carta_path.exists():
-            with open(carta_path, 'r', encoding='utf-8') as f:
+        if file_path.exists():
+            with open(file_path, 'r', encoding='utf-8') as f:
                 content = f.read()
             
             # Add navigation at the beginning
@@ -286,16 +440,16 @@ def build_cartas_collection():
             nav_lines.append("")
             
             if idx > 0:
-                prev_section, prev_name = all_cartas_flat[idx - 1]
+                prev_section, prev_name = all_files_flat[idx - 1]
                 prev_display = prev_name.replace('_', ' ').title()
-                nav_lines.append(f"=> /collections/cartas/{prev_section}/{prev_name}.gmi ← {prev_display}")
+                nav_lines.append(f"=> /collections/{collection_name}/{prev_section}/{prev_name}.gmi ← {prev_display}")
             
-            nav_lines.append(f"=> /collections/cartas/{section}/index.gmi ↑ Section index")
+            nav_lines.append(f"=> /collections/{collection_name}/{section}/index.gmi ↑ Section index")
             
-            if idx < len(all_cartas_flat) - 1:
-                next_section, next_name = all_cartas_flat[idx + 1]
+            if idx < len(all_files_flat) - 1:
+                next_section, next_name = all_files_flat[idx + 1]
                 next_display = next_name.replace('_', ' ').title()
-                nav_lines.append(f"=> /collections/cartas/{next_section}/{next_name}.gmi {next_display} →")
+                nav_lines.append(f"=> /collections/{collection_name}/{next_section}/{next_name}.gmi {next_display} →")
             
             nav_lines.append("")
             nav_lines.append("---")
@@ -319,12 +473,51 @@ def build_cartas_collection():
                 new_lines = nav_lines + new_lines
             
             updated_content = '\n'.join(new_lines)
-            write_gmi_file(carta_path, updated_content)
+            # Keep footer if it exists, otherwise add it
+            if get_footer().strip() not in updated_content:
+                write_gmi_file(file_path, updated_content, add_footer=True)
+            else:
+                write_gmi_file(file_path, updated_content, add_footer=False)
     
     return sections_data
 
-def build_index(pages: List[str], has_cartas: bool, cartas_name: str = None):
-    """Generate index.gmi (home page)."""
+def build_cartas_collection():
+    """Process cartas collection and generate .gmi files."""
+    return build_collection("cartas")
+
+def translate_collection_name(name: str, sections_data: dict = None) -> str:
+    """Translate collection name if needed (for Portuguese to English)."""
+    if sections_data:
+        main_menu_name = sections_data.get('mainMenuName', name.title())
+        if main_menu_name == 'Cartas para Pablo':
+            return 'Letters for Pablo'
+        elif main_menu_name == 'Cartas':
+            return 'Letters'
+        return main_menu_name
+    
+    # Handle common compound words first (before any transformation)
+    common_words = {
+        'mentalhealth': 'Mental Health',
+        'mental health': 'Mental Health',
+    }
+    
+    name_lower = name.lower().replace('_', ' ')
+    if name_lower in common_words:
+        return common_words[name_lower]
+    
+    # Replace underscores with spaces
+    name = name.replace('_', ' ')
+    
+    # Add spaces before capital letters (for camelCase)
+    name = re.sub(r'(?<!^)(?<! )([A-Z])', r' \1', name)
+    
+    return name.title()
+
+def build_index(pages: List[str], collections_data: dict):
+    """
+    Generate index.gmi (home page).
+    collections_data: dict mapping collection_name -> sections_data
+    """
     content = """```
  __                   __          
 │  │ ______________  │  │ ______  
@@ -370,22 +563,16 @@ The internet is weird, and that's okay.
             content += f"=> /pages/{page}.gmi {page_display}\n"
         content += "\n"
     
-    if has_cartas:
+    if collections_data:
         content += "### Collections\n\n"
-        if cartas_name:
-            content += f"=> /collections/cartas/index.gmi {cartas_name}\n\n"
-        else:
-            # Load sections.json to get the translated name
-            sections_data = load_sections_json()
+        for collection_name in sorted(collections_data.keys()):
+            sections_data = collections_data[collection_name]
             if sections_data:
-                main_menu_name = sections_data.get('mainMenuName', 'Letters')
-                if main_menu_name == 'Cartas para Pablo':
-                    main_menu_name = 'Letters for Pablo'
-                elif main_menu_name == 'Cartas':
-                    main_menu_name = 'Letters'
-                content += f"=> /collections/cartas/index.gmi {main_menu_name}\n\n"
+                collection_display = translate_collection_name(collection_name, sections_data)
             else:
-                content += "=> /collections/cartas/index.gmi Letters\n\n"
+                collection_display = translate_collection_name(collection_name)
+            content += f"=> /collections/{collection_name}/index.gmi {collection_display}\n"
+        content += "\n"
     
     content += """---
 
@@ -399,8 +586,18 @@ The internet is weird, and that's okay.
         else:
             content += f"=> /pages/recomendati0n.gmi Browse {page_count} curated links\n"
     
-    if has_cartas:
-        content += "=> /collections/cartas/index.gmi Explore personal letters collection\n"
+    if collections_data:
+        for collection_name in sorted(collections_data.keys()):
+            sections_data = collections_data[collection_name]
+            if sections_data:
+                collection_display = translate_collection_name(collection_name, sections_data)
+                # Add a generic description based on collection name
+                if 'cartas' in collection_name.lower():
+                    content += f"=> /collections/{collection_name}/index.gmi Explore personal letters collection\n"
+                elif 'mental' in collection_name.lower():
+                    content += f"=> /collections/{collection_name}/index.gmi Explore {collection_display.lower()} collection\n"
+                else:
+                    content += f"=> /collections/{collection_name}/index.gmi Explore {collection_display.lower()} collection\n"
     
     content += """
 ---
@@ -419,7 +616,7 @@ Enjoy your journey through the weird and wonderful corners of the internet.
 
 """
     
-    write_gmi_file(CAPSULE_DIR / "index.gmi", content)
+    write_gmi_file(CAPSULE_DIR / "index.gmi", content, add_footer=True)
     print(f"[OK] Generated index.gmi")
 
 def main():
@@ -436,24 +633,23 @@ def main():
     pages = build_pages()
     print()
     
-    # Build cartas collection
-    print("Processing cartas collection...")
-    cartas_data = build_cartas_collection()
+    # Discover and build collections
+    print("Discovering collections...")
+    collections = discover_collections()
+    print(f"Found collections: {', '.join(collections) if collections else 'none'}")
     print()
+    
+    collections_data = {}
+    for collection_name in collections:
+        print(f"Processing {collection_name} collection...")
+        collection_data = build_collection(collection_name)
+        if collection_data:
+            collections_data[collection_name] = collection_data
+        print()
     
     # Build index
     print("Generating index.gmi...")
-    # Get translated cartas name if collection exists
-    cartas_name = None
-    if cartas_data:
-        main_menu_name = cartas_data.get('mainMenuName', 'Letters')
-        if main_menu_name == 'Cartas para Pablo':
-            cartas_name = 'Letters for Pablo'
-        elif main_menu_name == 'Cartas':
-            cartas_name = 'Letters'
-        else:
-            cartas_name = main_menu_name
-    build_index(pages, cartas_data is not None, cartas_name)
+    build_index(pages, collections_data)
     print()
     
     print("Build complete!")

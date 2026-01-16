@@ -1,0 +1,11 @@
+# Main
+
+=> /collections/mentalhealth/index.gmi ← Back to collection
+
+## Documents
+
+=> /collections/mentalhealth/main/demônio_em_fuga_1.gmi Demônio Em Fuga 1
+=> /collections/mentalhealth/main/demônio_em_fuga_2.gmi Demônio Em Fuga 2
+---
+
+desenvolvido por pablo murad - 2024 - 2026

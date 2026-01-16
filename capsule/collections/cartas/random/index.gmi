@@ -2,7 +2,7 @@
 
 => /collections/cartas/index.gmi ← Back to collection
 
-## Letters
+## Documents
 
 => /collections/cartas/random/2000-04-06_moderate_reflections.gmi 2000-04-06 Moderate Reflections
 => /collections/cartas/random/2000-09-21_on_animals_and_humility.gmi 2000-09-21 On Animals And Humility
@@ -81,3 +81,6 @@
 => /collections/cartas/random/2016-05-03_community_idea_better_english_than_hugh_grant.gmi 2016-05-03 Community Idea Better English Than Hugh Grant
 => /collections/cartas/random/2016-05-17_community_idea_edecarlos_law_yer.gmi 2016-05-17 Community Idea Edecarlos Law Yer
 => /collections/cartas/random/2016-07-04_community_idea_cured_by_citrus.gmi 2016-07-04 Community Idea Cured By Citrus
+---
+
+desenvolvido por pablo murad - 2024 - 2026

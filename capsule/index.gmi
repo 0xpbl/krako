@@ -36,6 +36,7 @@ The internet is weird, and that's okay.
 ### Collections
 
 => /collections/cartas/index.gmi Letters for Pablo
+=> /collections/mentalhealth/index.gmi Mental Health
 
 ---
 
@@ -43,6 +44,7 @@ The internet is weird, and that's okay.
 
 => /pages/recomendati0n.gmi Browse curated links
 => /collections/cartas/index.gmi Explore personal letters collection
+=> /collections/mentalhealth/index.gmi Explore mental health collection
 
 ---
 
@@ -57,4 +59,6 @@ Enjoy your journey through the weird and wonderful corners of the internet.
 ---
 
 *Crafted with questionable taste and questionable methods*
+---
 
+desenvolvido por pablo murad - 2024 - 2026
