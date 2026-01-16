@@ -125,7 +125,7 @@ def get_all_txt_files() -> List[Path]:
     txt_files = []
     if SOURCE_DIR.exists():
         for file in SOURCE_DIR.glob("*.txt"):
-            if file.name != "index.txt" or file.name == "index.txt":  # Include all
+            if file.name != "index.txt":  # Exclude empty index.txt
                 txt_files.append(file)
     return sorted(txt_files)
 
@@ -166,7 +166,11 @@ def build_pages():
     
     for txt_file in txt_files:
         with open(txt_file, 'r', encoding='utf-8') as f:
-            content = f.read()
+            content = f.read().strip()
+        
+        # Skip empty files
+        if not content:
+            continue
         
         gmi_content = convert_txt_to_gmi(content)
         
@@ -177,6 +181,15 @@ def build_pages():
         write_gmi_file(gmi_file, gmi_content)
         page_names.append(page_name)
         print(f"[OK] Converted: {txt_file.name} -> {gmi_file}")
+    
+    # Remove empty index.gmi if it exists
+    index_gmi = PAGES_DIR / "index.gmi"
+    if index_gmi.exists():
+        try:
+            index_gmi.unlink()
+            print(f"[OK] Removed empty: {index_gmi}")
+        except Exception:
+            pass
     
     return page_names
 
@@ -310,9 +323,18 @@ def build_cartas_collection():
     
     return sections_data
 
-def build_index(pages: List[str], has_cartas: bool):
+def build_index(pages: List[str], has_cartas: bool, cartas_name: str = None):
     """Generate index.gmi (home page)."""
-    content = """# Krako
+    content = """```
+ __                   __          
+│  │ ______________  │  │ ______  
+│  │╱ ╱╲_  __ ╲__  ╲ │  │╱ ╱  _ ╲ 
+│    <  │  │ ╲╱╱ __ ╲│    <  <_> )
+│__│_ ╲ │__│  (____  ╱__│_ ╲____╱ 
+     ╲╱            ╲╱     ╲╱      
+```
+
+# Krako
 
 the Quantum Experimental Laboratories at 0xpblab — directory
 
@@ -320,27 +342,82 @@ A web1-style directory of interesting places on the internet.
 
 This is a Gemini capsule.
 
+---
+
+## Welcome
+
+Welcome to a mildly organized pile of internet oddities, lovingly indexed by 0xpblab.
+
+Here you'll find a collection of things that made someone go "hmm", things that made someone go "why", and things that made someone go "what".
+
+The internet is weird, and that's okay.
+
+---
+
+## Explore
+
 """
     
+    # Count pages (excluding empty index)
+    page_count = len([p for p in pages if p != "index"])
+    
     if pages:
-        content += "## Pages\n\n"
+        content += "### Pages\n\n"
         for page in pages:
-            content += f"=> /pages/{page}.gmi {page}\n"
+            if page == "index":
+                continue  # Skip empty index page
+            page_display = page.replace('_', ' ').title()
+            content += f"=> /pages/{page}.gmi {page_display}\n"
         content += "\n"
     
     if has_cartas:
-        content += "## Collections\n\n"
-        # Load sections.json to get the translated name
-        sections_data = load_sections_json()
-        if sections_data:
-            main_menu_name = sections_data.get('mainMenuName', 'Letters')
-            if main_menu_name == 'Cartas para Pablo':
-                main_menu_name = 'Letters for Pablo'
-            elif main_menu_name == 'Cartas':
-                main_menu_name = 'Letters'
-            content += f"=> /collections/cartas/index.gmi {main_menu_name}\n\n"
+        content += "### Collections\n\n"
+        if cartas_name:
+            content += f"=> /collections/cartas/index.gmi {cartas_name}\n\n"
         else:
-            content += "=> /collections/cartas/index.gmi Letters\n\n"
+            # Load sections.json to get the translated name
+            sections_data = load_sections_json()
+            if sections_data:
+                main_menu_name = sections_data.get('mainMenuName', 'Letters')
+                if main_menu_name == 'Cartas para Pablo':
+                    main_menu_name = 'Letters for Pablo'
+                elif main_menu_name == 'Cartas':
+                    main_menu_name = 'Letters'
+                content += f"=> /collections/cartas/index.gmi {main_menu_name}\n\n"
+            else:
+                content += "=> /collections/cartas/index.gmi Letters\n\n"
+    
+    content += """---
+
+## Quick Start
+
+"""
+    
+    if page_count > 0:
+        if page_count == 1:
+            content += "=> /pages/recomendati0n.gmi Browse curated links\n"
+        else:
+            content += f"=> /pages/recomendati0n.gmi Browse {page_count} curated links\n"
+    
+    if has_cartas:
+        content += "=> /collections/cartas/index.gmi Explore personal letters collection\n"
+    
+    content += """
+---
+
+## About
+
+This capsule is a curated collection of interesting places on the internet and personal correspondence from the early web era.
+
+Navigate using the links above, or explore the collections to discover content that captures the spirit of the independent web.
+
+Enjoy your journey through the weird and wonderful corners of the internet.
+
+---
+
+*Crafted with questionable taste and questionable methods*
+
+"""
     
     write_gmi_file(CAPSULE_DIR / "index.gmi", content)
     print(f"[OK] Generated index.gmi")
@@ -366,7 +443,17 @@ def main():
     
     # Build index
     print("Generating index.gmi...")
-    build_index(pages, cartas_data is not None)
+    # Get translated cartas name if collection exists
+    cartas_name = None
+    if cartas_data:
+        main_menu_name = cartas_data.get('mainMenuName', 'Letters')
+        if main_menu_name == 'Cartas para Pablo':
+            cartas_name = 'Letters for Pablo'
+        elif main_menu_name == 'Cartas':
+            cartas_name = 'Letters'
+        else:
+            cartas_name = main_menu_name
+    build_index(pages, cartas_data is not None, cartas_name)
     print()
     
     print("Build complete!")

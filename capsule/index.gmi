@@ -1,3 +1,12 @@
+```
+ __                   __          
+│  │ ______________  │  │ ______  
+│  │╱ ╱╲_  __ ╲__  ╲ │  │╱ ╱  _ ╲ 
+│    <  │  │ ╲╱╱ __ ╲│    <  <_> )
+│__│_ ╲ │__│  (____  ╱__│_ ╲____╱ 
+     ╲╱            ╲╱     ╲╱      
+```
+
 # Krako
 
 the Quantum Experimental Laboratories at 0xpblab — directory
@@ -6,12 +15,46 @@ A web1-style directory of interesting places on the internet.
 
 This is a Gemini capsule.
 
-## Pages
+---
 
-=> /pages/index.gmi index
-=> /pages/recomendati0n.gmi recomendati0n
+## Welcome
 
-## Collections
+Welcome to a mildly organized pile of internet oddities, lovingly indexed by 0xpblab.
+
+Here you'll find a collection of things that made someone go "hmm", things that made someone go "why", and things that made someone go "what".
+
+The internet is weird, and that's okay.
+
+---
+
+## Explore
+
+### Pages
+
+=> /pages/recomendati0n.gmi Recomendati0N
+
+### Collections
 
 => /collections/cartas/index.gmi Letters for Pablo
+
+---
+
+## Quick Start
+
+=> /pages/recomendati0n.gmi Browse curated links
+=> /collections/cartas/index.gmi Explore personal letters collection
+
+---
+
+## About
+
+This capsule is a curated collection of interesting places on the internet and personal correspondence from the early web era.
+
+Navigate using the links above, or explore the collections to discover content that captures the spirit of the independent web.
+
+Enjoy your journey through the weird and wonderful corners of the internet.
+
+---
+
+*Crafted with questionable taste and questionable methods*
 
