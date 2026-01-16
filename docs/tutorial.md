@@ -191,3 +191,7 @@ Use:
 - Se você quer publicar textos rápidos e não se importa com UX: use **Modo A** (servir `.md` como texto cru) e linkar a partir de `.gmi`.
 
 Se você me disser onde ficam exatamente seus arquivos fonte (pasta e convenção), eu adapto os comandos do tutorial para o seu layout real do Krako (pages/cartas/etc.) e incluo um script de deploy já com paths definitivos.
+
+
+rsync -a --delete ~/krako/capsule/ /var/lib/krako/content/
+chown -R krako:krako /var/lib/krako/content
