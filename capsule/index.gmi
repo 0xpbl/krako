@@ -13,5 +13,5 @@ This is a Gemini capsule.
 
 ## Collections
 
-=> /collections/cartas/index.gmi Cartas para Pablo
+=> /collections/cartas/index.gmi Letters for Pablo
 

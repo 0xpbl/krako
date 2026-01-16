@@ -1,7 +1,7 @@
 # The Gloucester Cheese Race
 
 => /collections/cartas/random/2001-10-09_on_fences_and_property.gmi ← 2001-10-09 On Fences And Property
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2002-01-16_776_bc_at_the_olympics.gmi 2002-01-16 776 Bc At The Olympics →
 
 ---

@@ -1,7 +1,7 @@
 # Small Talk with a Frog-Man
 
 => /collections/cartas/random/2014-05-07_small_talk_with_an_occupational_therapist.gmi ← 2014-05-07 Small Talk With An Occupational Therapist
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2014-07-31_community_idea_voluptuous_pea.gmi 2014-07-31 Community Idea Voluptuous Pea →
 
 ---

@@ -1,7 +1,7 @@
 # Restaurant Review: Le Domaine de Châteauvieux
 
 => /collections/cartas/random/2005-12-27_darfur_is_a_mess.gmi ← 2005-12-27 Darfur Is A Mess
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2006-09-12_after_watching_the_farm_a_fazenda.gmi 2006-09-12 After Watching The Farm A Fazenda →
 
 ---

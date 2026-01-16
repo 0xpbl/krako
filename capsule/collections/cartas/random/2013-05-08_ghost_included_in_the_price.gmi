@@ -1,7 +1,7 @@
 # Ghost Included in the Price
 
 => /collections/cartas/random/2013-03-15_ivo_who_saw_the_grape.gmi ← 2013-03-15 Ivo Who Saw The Grape
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2013-07-04_buying_a_flea.gmi 2013-07-04 Buying A Flea →
 
 ---

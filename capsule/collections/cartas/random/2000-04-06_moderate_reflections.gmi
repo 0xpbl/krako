@@ -1,6 +1,6 @@
 # Moderate Reflections
 
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2000-09-21_on_animals_and_humility.gmi 2000-09-21 On Animals And Humility →
 
 ---

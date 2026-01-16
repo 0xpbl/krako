@@ -1,7 +1,7 @@
 # Cone Before Ice Cream
 
 => /collections/cartas/random/2010-08-12_presidents_of_gabon.gmi ← 2010-08-12 Presidents Of Gabon
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2010-10-20_rejected_samba_north_korea.gmi 2010-10-20 Rejected Samba North Korea →
 
 ---

@@ -1,7 +1,7 @@
 # Boring Bird Talk
 
 => /collections/cartas/random/2001-06-28_on_long_novels.gmi ← 2001-06-28 On Long Novels
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2001-10-09_on_fences_and_property.gmi 2001-10-09 On Fences And Property →
 
 ---

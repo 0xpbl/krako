@@ -1,7 +1,7 @@
 # On Animals and Humility
 
 => /collections/cartas/random/2000-04-06_moderate_reflections.gmi ← 2000-04-06 Moderate Reflections
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2001-06-06_proud_of_their_gums.gmi 2001-06-06 Proud Of Their Gums →
 
 ---

@@ -1,7 +1,7 @@
 # Amapa's 26 Guinea Fowl
 
 => /collections/cartas/random/2010-01-29_the_disguised_gorilla.gmi ← 2010-01-29 The Disguised Gorilla
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2010-04-23_an_aparicio_on_the_pitch.gmi 2010-04-23 An Aparicio On The Pitch →
 
 ---

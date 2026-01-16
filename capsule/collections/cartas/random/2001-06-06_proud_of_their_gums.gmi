@@ -1,7 +1,7 @@
 # Proud of Their Gums
 
 => /collections/cartas/random/2000-09-21_on_animals_and_humility.gmi ← 2000-09-21 On Animals And Humility
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2001-06-28_on_long_novels.gmi 2001-06-28 On Long Novels →
 
 ---

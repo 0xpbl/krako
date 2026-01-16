@@ -1,7 +1,7 @@
 # 776 BC at the Olympics
 
 => /collections/cartas/random/2001-10-09_the_gloucester_cheese_race.gmi ← 2001-10-09 The Gloucester Cheese Race
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2002-02-08_stuffed_tiger_argument.gmi 2002-02-08 Stuffed Tiger Argument →
 
 ---

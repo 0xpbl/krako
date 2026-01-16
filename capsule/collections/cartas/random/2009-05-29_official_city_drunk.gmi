@@ -1,7 +1,7 @@
 # Official City Drunk
 
 => /collections/cartas/random/2009-03-23_moustache_as_collateral.gmi ← 2009-03-23 Moustache As Collateral
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2010-01-29_the_disguised_gorilla.gmi 2010-01-29 The Disguised Gorilla →
 
 ---

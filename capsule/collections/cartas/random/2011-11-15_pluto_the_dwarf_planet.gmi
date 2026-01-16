@@ -1,7 +1,7 @@
 # Pluto, the Dwarf Planet
 
 => /collections/cartas/random/2011-11-03_smell_of_uranium.gmi ← 2011-11-03 Smell Of Uranium
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2011-11-25_catheterization_samba.gmi 2011-11-25 Catheterization Samba →
 
 ---

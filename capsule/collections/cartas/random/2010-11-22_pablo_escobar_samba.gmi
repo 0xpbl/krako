@@ -1,7 +1,7 @@
 # Pablo Escobar Samba
 
 => /collections/cartas/random/2010-10-20_rejected_samba_north_korea.gmi ← 2010-10-20 Rejected Samba North Korea
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2011-04-14_tsetse_fly_chorus.gmi 2011-04-14 Tsetse Fly Chorus →
 
 ---

@@ -1,7 +1,7 @@
 # Sombreros and Sophistication
 
 => /collections/cartas/random/2002-04-09_grandpa_simpson_on_labels.gmi ← 2002-04-09 Grandpa Simpson On Labels
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2002-09-11_the_horse_at_the_gates.gmi 2002-09-11 The Horse At The Gates →
 
 ---

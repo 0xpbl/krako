@@ -1,7 +1,7 @@
 # Community Idea: Smoked Herring
 
 => /collections/cartas/random/2014-09-15_community_idea_chrysippus_died_laughing.gmi ← 2014-09-15 Community Idea Chrysippus Died Laughing
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2015-01-26_community_idea_sausage_events.gmi 2015-01-26 Community Idea Sausage Events →
 
 ---

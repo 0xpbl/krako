@@ -1,8 +1,8 @@
 # Insane Letters
 
-=> /collections/cartas/index.gmi ← Voltar para coleção
+=> /collections/cartas/index.gmi ← Back to collection
 
-## Cartas
+## Letters
 
 => /collections/cartas/random/2000-04-06_moderate_reflections.gmi 2000-04-06 Moderate Reflections
 => /collections/cartas/random/2000-09-21_on_animals_and_humility.gmi 2000-09-21 On Animals And Humility

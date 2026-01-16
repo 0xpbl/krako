@@ -1,7 +1,7 @@
 # Community Idea: Voluptuous Pea
 
 => /collections/cartas/random/2014-07-01_small_talk_with_a_frog_man.gmi ← 2014-07-01 Small Talk With A Frog Man
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2014-09-15_community_idea_chrysippus_died_laughing.gmi 2014-09-15 Community Idea Chrysippus Died Laughing →
 
 ---

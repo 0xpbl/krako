@@ -1,7 +1,7 @@
 # Moustache as Collateral
 
 => /collections/cartas/random/2008-05-23_pigeons_and_peace.gmi ← 2008-05-23 Pigeons And Peace
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2009-05-29_official_city_drunk.gmi 2009-05-29 Official City Drunk →
 
 ---

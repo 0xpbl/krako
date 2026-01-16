@@ -1,7 +1,7 @@
 # Vikings, Montaigne, and a Fat Toad
 
 => /collections/cartas/random/2003-08-27_still_on_cetaceans.gmi ← 2003-08-27 Still On Cetaceans
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2004-01-05_super_pla_1969.gmi 2004-01-05 Super Pla 1969 →
 
 ---

@@ -1,7 +1,7 @@
 # Germany vs South Korea Broadcast
 
 => /collections/cartas/random/2005-05-17_joel_stole_my_gibao.gmi ← 2005-05-17 Joel Stole My Gibao
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2005-07-01_do_be_do_be_do.gmi 2005-07-01 Do Be Do Be Do →
 
 ---

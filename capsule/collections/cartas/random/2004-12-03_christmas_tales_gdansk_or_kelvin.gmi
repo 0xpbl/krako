@@ -1,7 +1,7 @@
 # Christmas Tales: Gdansk or Kelvin
 
 => /collections/cartas/random/2004-04-20_pan_games_flash.gmi ← 2004-04-20 Pan Games Flash
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2005-04-22_noise_proves_nothing.gmi 2005-04-22 Noise Proves Nothing →
 
 ---

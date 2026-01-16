@@ -1,7 +1,7 @@
 # Thailand's Petition Husband
 
 => /collections/cartas/random/2007-06-01_tomatoes_once_poisonous.gmi ← 2007-06-01 Tomatoes Once Poisonous
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2008-01-21_san_marino_gdp_shares_1952.gmi 2008-01-21 San Marino Gdp Shares 1952 →
 
 ---

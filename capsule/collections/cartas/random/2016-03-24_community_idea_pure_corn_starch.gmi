@@ -1,7 +1,7 @@
 # Community Idea: Pure Corn Starch
 
 => /collections/cartas/random/2016-02-23_community_idea_barry_pepper_and_the_dolphin.gmi ← 2016-02-23 Community Idea Barry Pepper And The Dolphin
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2016-05-03_community_idea_better_english_than_hugh_grant.gmi 2016-05-03 Community Idea Better English Than Hugh Grant →
 
 ---

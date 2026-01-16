@@ -1,7 +1,7 @@
 # Catheterization Samba
 
 => /collections/cartas/random/2011-11-15_pluto_the_dwarf_planet.gmi ← 2011-11-15 Pluto The Dwarf Planet
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2011-12-14_male_nipple_question.gmi 2011-12-14 Male Nipple Question →
 
 ---

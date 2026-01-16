@@ -1,7 +1,7 @@
 # Grandpa Simpson on Labels
 
 => /collections/cartas/random/2002-03-07_telerj.gmi ← 2002-03-07 Telerj
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2002-04-19_sombreros_and_sophistication.gmi 2002-04-19 Sombreros And Sophistication →
 
 ---

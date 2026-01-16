@@ -1,7 +1,7 @@
 # Pan Games Flash
 
 => /collections/cartas/random/2004-04-06_icebreaker_alfredo_s_swim_briefs.gmi ← 2004-04-06 Icebreaker Alfredo S Swim Briefs
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2004-12-03_christmas_tales_gdansk_or_kelvin.gmi 2004-12-03 Christmas Tales Gdansk Or Kelvin →
 
 ---

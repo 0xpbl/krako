@@ -1,7 +1,7 @@
 # Part Camel
 
 => /collections/cartas/random/2005-07-01_do_be_do_be_do.gmi ← 2005-07-01 Do Be Do Be Do
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2005-12-14_ape_men_in_sweden.gmi 2005-12-14 Ape Men In Sweden →
 
 ---

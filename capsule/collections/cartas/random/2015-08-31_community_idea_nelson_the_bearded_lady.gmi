@@ -1,7 +1,7 @@
 # Community Idea: Nelson the Bearded Lady
 
 => /collections/cartas/random/2015-08-18_community_idea_the_greatest_tourniquet.gmi ← 2015-08-18 Community Idea The Greatest Tourniquet
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2015-11-18_community_idea_obscure_biblical_characters.gmi 2015-11-18 Community Idea Obscure Biblical Characters →
 
 ---

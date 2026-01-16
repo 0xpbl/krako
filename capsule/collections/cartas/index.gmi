@@ -1,6 +1,6 @@
-# Cartas para Pablo
+# Letters for Pablo
 
 ## Insane Letters
 
-=> /collections/cartas/random/index.gmi Ver cartas de Insane Letters
+=> /collections/cartas/random/index.gmi View Insane Letters
 

@@ -1,7 +1,7 @@
 # Ivo Who Saw the Grape
 
 => /collections/cartas/random/2012-05-07_borrowing_an_eraser.gmi ← 2012-05-07 Borrowing An Eraser
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2013-05-08_ghost_included_in_the_price.gmi 2013-05-08 Ghost Included In The Price →
 
 ---

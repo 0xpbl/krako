@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Build script para converter o projeto Krako em uma capsule Gemini.
-Converte arquivos .txt e .md para formato Gemtext (.gmi).
+Build script to convert the Krako project into a Gemini capsule.
+Converts .txt and .md files to Gemtext (.gmi) format.
 """
 
 import os
@@ -10,25 +10,25 @@ import re
 from pathlib import Path
 from typing import List, Tuple
 
-# Diretórios
+# Directories
 SOURCE_DIR = Path("dir/files")
 CAPSULE_DIR = Path("capsule")
 PAGES_DIR = CAPSULE_DIR / "pages"
 COLLECTIONS_DIR = CAPSULE_DIR / "collections"
 
 def ensure_dir(path: Path):
-    """Cria diretório se não existir."""
+    """Create directory if it doesn't exist."""
     path.mkdir(parents=True, exist_ok=True)
 
 def convert_txt_to_gmi(content: str) -> str:
     """
-    Converte conteúdo .txt para Gemtext.
+    Convert .txt content to Gemtext.
     
-    Regras:
-    - Linhas começando com '# ' → heading
-    - Linhas começando com '- https://...' → '=> https://...'
-    - Linhas vazias preservadas
-    - Texto normal preservado
+    Rules:
+    - Lines starting with '# ' → heading
+    - Lines starting with '- https://...' → '=> https://...'
+    - Empty lines preserved
+    - Normal text preserved
     """
     lines = content.split('\n')
     result = []
@@ -39,14 +39,14 @@ def convert_txt_to_gmi(content: str) -> str:
         # Heading
         if stripped.startswith('# '):
             result.append(stripped)
-        # URL com prefixo '- '
+        # URL with '- ' prefix
         elif stripped.startswith('- ') and (stripped.startswith('- http://') or stripped.startswith('- https://')):
             url = stripped[2:].strip()
             result.append(f"=> {url}")
-        # Linha vazia
+        # Empty line
         elif not stripped:
             result.append('')
-        # Texto normal
+        # Normal text
         else:
             result.append(line)
     
@@ -54,22 +54,22 @@ def convert_txt_to_gmi(content: str) -> str:
 
 def convert_md_to_gmi(content: str) -> str:
     """
-    Converte conteúdo Markdown para Gemtext.
+    Convert Markdown content to Gemtext.
     
-    Regras:
-    - Headings preservados (#, ##, ###)
-    - Listas '- item' → '* item'
-    - Links '[texto](url)' → '=> url texto'
-    - Remover negrito **texto** → texto
-    - Remover itálico *texto* → texto (mas preservar listas)
-    - Preservar blocos de código
+    Rules:
+    - Headings preserved (#, ##, ###)
+    - Lists '- item' → '* item'
+    - Links '[text](url)' → '=> url text'
+    - Remove bold **text** → text
+    - Remove italic *text* → text (but preserve lists)
+    - Preserve code blocks
     """
     lines = content.split('\n')
     result = []
     in_code_block = False
     
     for line in lines:
-        # Detectar blocos de código
+        # Detect code blocks
         if line.strip().startswith('```'):
             in_code_block = not in_code_block
             result.append(line)
@@ -81,38 +81,38 @@ def convert_md_to_gmi(content: str) -> str:
         
         stripped = line.strip()
         
-        # Headings (preservar)
+        # Headings (preserve)
         if re.match(r'^#{1,3}\s+', stripped):
             result.append(stripped)
-        # Listas: '- item' → '* item'
+        # Lists: '- item' → '* item'
         elif re.match(r'^-\s+', stripped):
             item = re.sub(r'^-\s+', '* ', stripped)
-            # Remover formatação inline da lista
+            # Remove inline formatting from list
             item = re.sub(r'\*\*(.+?)\*\*', r'\1', item)
             item = re.sub(r'\*(.+?)\*', r'\1', item)
             result.append(item)
-        # Links: [texto](url) → => url texto
+        # Links: [text](url) → => url text
         elif '](' in line:
-            # Processar múltiplos links na mesma linha
+            # Process multiple links on the same line
             def replace_link(match):
                 text = match.group(1)
                 url = match.group(2)
                 return f"=> {url} {text}"
             line = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', replace_link, line)
-            # Remover formatação restante
+            # Remove remaining formatting
             line = re.sub(r'\*\*(.+?)\*\*', r'\1', line)
-            line = re.sub(r'(?<!\*)\*([^*]+?)\*(?!\*)', r'\1', line)  # Itálico, mas não listas
+            line = re.sub(r'(?<!\*)\*([^*]+?)\*(?!\*)', r'\1', line)  # Italic, but not lists
             result.append(line)
-        # Linha vazia
+        # Empty line
         elif not stripped:
             result.append('')
-        # Texto normal - remover formatação inline
+        # Normal text - remove inline formatting
         else:
-            # Remover negrito
+            # Remove bold
             line = re.sub(r'\*\*(.+?)\*\*', r'\1', line)
-            # Remover itálico (mas não listas que já foram processadas)
+            # Remove italic (but not lists that were already processed)
             line = re.sub(r'(?<!\*)\*([^*]+?)\*(?!\*)', r'\1', line)
-            # Remover regras horizontais markdown (---)
+            # Remove markdown horizontal rules (---)
             if stripped == '---':
                 result.append('')
             else:
@@ -121,17 +121,17 @@ def convert_md_to_gmi(content: str) -> str:
     return '\n'.join(result)
 
 def get_all_txt_files() -> List[Path]:
-    """Retorna lista de arquivos .txt em dir/files/."""
+    """Return list of .txt files in dir/files/."""
     txt_files = []
     if SOURCE_DIR.exists():
         for file in SOURCE_DIR.glob("*.txt"):
-            if file.name != "index.txt" or file.name == "index.txt":  # Incluir todos
+            if file.name != "index.txt" or file.name == "index.txt":  # Include all
                 txt_files.append(file)
     return sorted(txt_files)
 
 def get_all_cartas_files() -> List[Tuple[str, Path]]:
     """
-    Retorna lista de tuplas (section, file_path) para arquivos .md em cartas/.
+    Return list of tuples (section, file_path) for .md files in cartas/.
     """
     cartas = []
     cartas_dir = SOURCE_DIR / "cartas"
@@ -146,7 +146,7 @@ def get_all_cartas_files() -> List[Tuple[str, Path]]:
     return sorted(cartas, key=lambda x: x[1].name)
 
 def load_sections_json() -> dict:
-    """Carrega sections.json da coleção cartas."""
+    """Load sections.json from cartas collection."""
     sections_file = SOURCE_DIR / "cartas" / "sections.json"
     if sections_file.exists():
         with open(sections_file, 'r', encoding='utf-8') as f:
@@ -154,13 +154,13 @@ def load_sections_json() -> dict:
     return None
 
 def write_gmi_file(path: Path, content: str):
-    """Escreve arquivo .gmi."""
+    """Write .gmi file."""
     ensure_dir(path.parent)
     with open(path, 'w', encoding='utf-8') as f:
         f.write(content)
 
 def build_pages():
-    """Converte arquivos .txt para páginas .gmi."""
+    """Convert .txt files to .gmi pages."""
     txt_files = get_all_txt_files()
     page_names = []
     
@@ -170,86 +170,92 @@ def build_pages():
         
         gmi_content = convert_txt_to_gmi(content)
         
-        # Nome do arquivo sem extensão
+        # File name without extension
         page_name = txt_file.stem
         gmi_file = PAGES_DIR / f"{page_name}.gmi"
         
         write_gmi_file(gmi_file, gmi_content)
         page_names.append(page_name)
-        print(f"[OK] Convertido: {txt_file.name} -> {gmi_file}")
+        print(f"[OK] Converted: {txt_file.name} -> {gmi_file}")
     
     return page_names
 
 def build_cartas_collection():
-    """Processa coleção cartas e gera arquivos .gmi."""
+    """Process cartas collection and generate .gmi files."""
     sections_data = load_sections_json()
     if not sections_data:
-        print("[AVISO] sections.json nao encontrado, pulando colecao cartas")
+        print("[WARNING] sections.json not found, skipping cartas collection")
         return None
     
     cartas_files = get_all_cartas_files()
     if not cartas_files:
-        print("[AVISO] Nenhum arquivo de carta encontrado")
+        print("[WARNING] No carta files found")
         return None
     
-    # Organizar cartas por seção
+    # Organize cartas by section
     cartas_by_section = {}
     for section, file_path in cartas_files:
         if section not in cartas_by_section:
             cartas_by_section[section] = []
         cartas_by_section[section].append(file_path)
     
-    # Ordenar cartas em cada seção
+    # Sort cartas in each section
     for section in cartas_by_section:
         cartas_by_section[section].sort(key=lambda x: x.name)
     
-    # Converter cada carta
-    carta_paths = []  # Lista de (section, filename) para navegação
+    # Convert each carta
+    carta_paths = []  # List of (section, filename) for navigation
     for section, file_path in cartas_files:
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
         
         gmi_content = convert_md_to_gmi(content)
         
-        # Caminho de saída
+        # Output path
         section_dir = COLLECTIONS_DIR / "cartas" / section
         gmi_file = section_dir / f"{file_path.stem}.gmi"
         
         write_gmi_file(gmi_file, gmi_content)
         carta_paths.append((section, file_path.stem))
-        print(f"[OK] Convertido carta: {section}/{file_path.name} -> {gmi_file}")
+        print(f"[OK] Converted carta: {section}/{file_path.name} -> {gmi_file}")
     
-    # Gerar índice da coleção
+    # Generate collection index
     collection_index_path = COLLECTIONS_DIR / "cartas" / "index.gmi"
-    collection_index = f"# {sections_data.get('mainMenuName', 'Cartas')}\n\n"
+    # Translate mainMenuName if it's in Portuguese
+    main_menu_name = sections_data.get('mainMenuName', 'Letters')
+    if main_menu_name == 'Cartas para Pablo':
+        main_menu_name = 'Letters for Pablo'
+    elif main_menu_name == 'Cartas':
+        main_menu_name = 'Letters'
+    collection_index = f"# {main_menu_name}\n\n"
     
     sections_order = sections_data.get('order', list(cartas_by_section.keys()))
     for section in sections_order:
         section_name = sections_data.get('sections', {}).get(section, section)
         collection_index += f"## {section_name}\n\n"
-        collection_index += f"=> /collections/cartas/{section}/index.gmi Ver cartas de {section_name}\n\n"
+        collection_index += f"=> /collections/cartas/{section}/index.gmi View {section_name}\n\n"
     
     write_gmi_file(collection_index_path, collection_index)
-    print(f"[OK] Gerado indice da colecao: {collection_index_path}")
+    print(f"[OK] Generated collection index: {collection_index_path}")
     
-    # Gerar índices por seção
+    # Generate section indices
     for section in sections_order:
         section_name = sections_data.get('sections', {}).get(section, section)
         section_cartas = cartas_by_section.get(section, [])
         
         section_index_path = COLLECTIONS_DIR / "cartas" / section / "index.gmi"
         section_index = f"# {section_name}\n\n"
-        section_index += f"=> /collections/cartas/index.gmi ← Voltar para coleção\n\n"
-        section_index += "## Cartas\n\n"
+        section_index += f"=> /collections/cartas/index.gmi ← Back to collection\n\n"
+        section_index += "## Letters\n\n"
         
         for carta_file in section_cartas:
             carta_name = carta_file.stem.replace('_', ' ').title()
             section_index += f"=> /collections/cartas/{section}/{carta_file.stem}.gmi {carta_name}\n"
         
         write_gmi_file(section_index_path, section_index)
-        print(f"[OK] Gerado indice da secao: {section_index_path}")
+        print(f"[OK] Generated section index: {section_index_path}")
     
-    # Adicionar navegação anterior/próxima nas cartas
+    # Add previous/next navigation to cartas
     all_cartas_flat = []
     for section in sections_order:
         for carta_file in cartas_by_section.get(section, []):
@@ -262,7 +268,7 @@ def build_cartas_collection():
             with open(carta_path, 'r', encoding='utf-8') as f:
                 content = f.read()
             
-            # Adicionar navegação no início
+            # Add navigation at the beginning
             nav_lines = []
             nav_lines.append("")
             
@@ -271,7 +277,7 @@ def build_cartas_collection():
                 prev_display = prev_name.replace('_', ' ').title()
                 nav_lines.append(f"=> /collections/cartas/{prev_section}/{prev_name}.gmi ← {prev_display}")
             
-            nav_lines.append(f"=> /collections/cartas/{section}/index.gmi ↑ Índice da seção")
+            nav_lines.append(f"=> /collections/cartas/{section}/index.gmi ↑ Section index")
             
             if idx < len(all_cartas_flat) - 1:
                 next_section, next_name = all_cartas_flat[idx + 1]
@@ -282,7 +288,7 @@ def build_cartas_collection():
             nav_lines.append("---")
             nav_lines.append("")
             
-            # Inserir navegação após o primeiro heading
+            # Insert navigation after first heading
             lines = content.split('\n')
             new_lines = []
             first_heading_found = False
@@ -295,7 +301,7 @@ def build_cartas_collection():
                 else:
                     new_lines.append(line)
             
-            # Se não encontrou heading, adicionar no início
+            # If no heading found, add at the beginning
             if not first_heading_found:
                 new_lines = nav_lines + new_lines
             
@@ -305,7 +311,7 @@ def build_cartas_collection():
     return sections_data
 
 def build_index(pages: List[str], has_cartas: bool):
-    """Gera index.gmi (home page)."""
+    """Generate index.gmi (home page)."""
     content = """# Krako
 
 the Quantum Experimental Laboratories at 0xpblab — directory
@@ -324,37 +330,47 @@ This is a Gemini capsule.
     
     if has_cartas:
         content += "## Collections\n\n"
-        content += "=> /collections/cartas/index.gmi Cartas para Pablo\n\n"
+        # Load sections.json to get the translated name
+        sections_data = load_sections_json()
+        if sections_data:
+            main_menu_name = sections_data.get('mainMenuName', 'Letters')
+            if main_menu_name == 'Cartas para Pablo':
+                main_menu_name = 'Letters for Pablo'
+            elif main_menu_name == 'Cartas':
+                main_menu_name = 'Letters'
+            content += f"=> /collections/cartas/index.gmi {main_menu_name}\n\n"
+        else:
+            content += "=> /collections/cartas/index.gmi Letters\n\n"
     
     write_gmi_file(CAPSULE_DIR / "index.gmi", content)
-    print(f"[OK] Gerado index.gmi")
+    print(f"[OK] Generated index.gmi")
 
 def main():
-    """Função principal."""
-    print("Iniciando build da capsule Gemini...\n")
+    """Main function."""
+    print("Starting Gemini capsule build...\n")
     
-    # Criar diretórios
+    # Create directories
     ensure_dir(CAPSULE_DIR)
     ensure_dir(PAGES_DIR)
     ensure_dir(COLLECTIONS_DIR)
     
-    # Build páginas
-    print("Convertendo paginas...")
+    # Build pages
+    print("Converting pages...")
     pages = build_pages()
     print()
     
-    # Build coleção cartas
-    print("Processando colecao cartas...")
+    # Build cartas collection
+    print("Processing cartas collection...")
     cartas_data = build_cartas_collection()
     print()
     
     # Build index
-    print("Gerando index.gmi...")
+    print("Generating index.gmi...")
     build_index(pages, cartas_data is not None)
     print()
     
-    print("Build concluido!")
-    print(f"Capsule gerada em: {CAPSULE_DIR.absolute()}")
+    print("Build complete!")
+    print(f"Capsule generated at: {CAPSULE_DIR.absolute()}")
 
 if __name__ == "__main__":
     main()

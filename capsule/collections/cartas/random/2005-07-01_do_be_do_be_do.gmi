@@ -1,7 +1,7 @@
 # Do Be Do Be Do
 
 => /collections/cartas/random/2005-06-30_germany_vs_south_korea_broadcast.gmi ← 2005-06-30 Germany Vs South Korea Broadcast
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2005-11-24_part_camel.gmi 2005-11-24 Part Camel →
 
 ---

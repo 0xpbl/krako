@@ -1,7 +1,7 @@
 # Community Idea: Chrysippus Died Laughing
 
 => /collections/cartas/random/2014-07-31_community_idea_voluptuous_pea.gmi ← 2014-07-31 Community Idea Voluptuous Pea
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2015-01-14_community_idea_smoked_herring.gmi 2015-01-14 Community Idea Smoked Herring →
 
 ---

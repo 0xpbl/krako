@@ -1,7 +1,7 @@
 # Hydrogenated Fat Parade
 
 => /collections/cartas/random/2011-04-14_tsetse_fly_chorus.gmi ← 2011-04-14 Tsetse Fly Chorus
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2011-11-03_smell_of_uranium.gmi 2011-11-03 Smell Of Uranium →
 
 ---

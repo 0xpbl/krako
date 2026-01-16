@@ -1,7 +1,7 @@
 # Rejected Samba: North Korea
 
 => /collections/cartas/random/2010-08-31_cone_before_ice_cream.gmi ← 2010-08-31 Cone Before Ice Cream
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2010-11-22_pablo_escobar_samba.gmi 2010-11-22 Pablo Escobar Samba →
 
 ---

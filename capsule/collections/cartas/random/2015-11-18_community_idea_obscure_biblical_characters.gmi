@@ -1,7 +1,7 @@
 # Community Idea: Obscure Biblical Characters
 
 => /collections/cartas/random/2015-08-31_community_idea_nelson_the_bearded_lady.gmi ← 2015-08-31 Community Idea Nelson The Bearded Lady
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2016-02-23_community_idea_barry_pepper_and_the_dolphin.gmi 2016-02-23 Community Idea Barry Pepper And The Dolphin →
 
 ---

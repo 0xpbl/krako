@@ -1,7 +1,7 @@
 # Community Idea: The Great Stoat Revolution
 
 => /collections/cartas/random/2015-01-26_community_idea_sausage_events.gmi ← 2015-01-26 Community Idea Sausage Events
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2015-08-18_community_idea_the_greatest_tourniquet.gmi 2015-08-18 Community Idea The Greatest Tourniquet →
 
 ---

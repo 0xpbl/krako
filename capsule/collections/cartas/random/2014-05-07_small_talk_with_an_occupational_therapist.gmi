@@ -1,7 +1,7 @@
 # Small Talk with an Occupational Therapist
 
 => /collections/cartas/random/2014-03-31_small_talk_with_an_epidemiologist.gmi ← 2014-03-31 Small Talk With An Epidemiologist
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2014-07-01_small_talk_with_a_frog_man.gmi 2014-07-01 Small Talk With A Frog Man →
 
 ---

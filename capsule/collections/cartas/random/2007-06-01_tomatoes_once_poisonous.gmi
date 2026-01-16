@@ -1,7 +1,7 @@
 # Tomatoes Once Poisonous
 
 => /collections/cartas/random/2007-04-12_breaking_news_badgers.gmi ← 2007-04-12 Breaking News Badgers
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2007-08-03_thailand_s_petition_husband.gmi 2007-08-03 Thailand S Petition Husband →
 
 ---

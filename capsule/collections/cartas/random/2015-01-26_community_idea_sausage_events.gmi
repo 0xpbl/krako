@@ -1,7 +1,7 @@
 # Community Idea: Sausage Events
 
 => /collections/cartas/random/2015-01-14_community_idea_smoked_herring.gmi ← 2015-01-14 Community Idea Smoked Herring
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2015-06-10_community_idea_the_great_stoat_revolution.gmi 2015-06-10 Community Idea The Great Stoat Revolution →
 
 ---

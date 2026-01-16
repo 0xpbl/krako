@@ -1,7 +1,7 @@
 # Community Idea: Edecarlos, 'Law-yer'
 
 => /collections/cartas/random/2016-05-03_community_idea_better_english_than_hugh_grant.gmi ← 2016-05-03 Community Idea Better English Than Hugh Grant
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2016-07-04_community_idea_cured_by_citrus.gmi 2016-07-04 Community Idea Cured By Citrus →
 
 ---

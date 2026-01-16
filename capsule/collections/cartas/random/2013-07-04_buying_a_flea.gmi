@@ -1,7 +1,7 @@
 # Buying a Flea
 
 => /collections/cartas/random/2013-05-08_ghost_included_in_the_price.gmi ← 2013-05-08 Ghost Included In The Price
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2014-01-29_small_talk_across_species.gmi 2014-01-29 Small Talk Across Species →
 
 ---

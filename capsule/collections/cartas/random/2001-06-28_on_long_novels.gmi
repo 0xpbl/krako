@@ -1,7 +1,7 @@
 # On Long Novels
 
 => /collections/cartas/random/2001-06-06_proud_of_their_gums.gmi ← 2001-06-06 Proud Of Their Gums
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2001-07-25_boring_bird_talk.gmi 2001-07-25 Boring Bird Talk →
 
 ---

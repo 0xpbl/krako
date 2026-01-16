@@ -1,7 +1,7 @@
 # Breaking News: Badgers
 
 => /collections/cartas/random/2007-01-15_grandpa_simpson_s_onion_belt.gmi ← 2007-01-15 Grandpa Simpson S Onion Belt
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2007-06-01_tomatoes_once_poisonous.gmi 2007-06-01 Tomatoes Once Poisonous →
 
 ---

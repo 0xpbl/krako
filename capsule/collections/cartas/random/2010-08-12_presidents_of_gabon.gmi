@@ -1,7 +1,7 @@
 # Presidents of Gabon
 
 => /collections/cartas/random/2010-05-19_notable_birthdays_june_7.gmi ← 2010-05-19 Notable Birthdays June 7
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2010-08-31_cone_before_ice_cream.gmi 2010-08-31 Cone Before Ice Cream →
 
 ---

@@ -1,7 +1,7 @@
 # Stuffed Tiger Argument
 
 => /collections/cartas/random/2002-01-16_776_bc_at_the_olympics.gmi ← 2002-01-16 776 Bc At The Olympics
-=> /collections/cartas/random/index.gmi ↑ Índice da seção
+=> /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2002-03-07_telerj.gmi 2002-03-07 Telerj →
 
 ---
