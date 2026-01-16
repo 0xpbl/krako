@@ -1,0 +1,23 @@
+# Pablo Escobar Samba
+
+## Message Metadata
+- **Date:** Mon, 22 Nov 2010 11:52:11 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** Pablo Escobar Samba
+
+---
+
+## Email
+
+Hello Pablo,
+
+Pablo Escobar and other men
+Kidnapped the senator
+And the cherub shines
+In the Medellin cartel
+
+(And Abadia?) x2
+
+All the best,
+Marcos Barbxxara

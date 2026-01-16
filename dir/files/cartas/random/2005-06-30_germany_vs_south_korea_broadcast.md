@@ -1,0 +1,23 @@
+# Germany vs South Korea Broadcast
+
+## Message Metadata
+- **Date:** Thu, 30 Jun 2005 10:44:27 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** Germany vs South Korea Broadcast
+
+---
+
+## Email
+
+Hello Pablo,
+
+Germany vs South Korea
+
+"The ball is with Stefan Effenberg, what a player Stefan Effenberg... excellent Effenberg."
+And then: "Ladies and gentlemen, Germany makes a substitution. Stefan Effenberg comes on."
+Awkward silence.
+Wheat flour ad: Haz de Oros. "It goes far, it goes far, it goeees far, what a pleasure!"
+
+Cheers,
+Marcos Barbxxara

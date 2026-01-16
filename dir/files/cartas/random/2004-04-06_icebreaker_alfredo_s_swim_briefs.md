@@ -1,0 +1,20 @@
+# Icebreaker: Alfredo's Swim Briefs
+
+## Message Metadata
+- **Date:** Tue, 06 Apr 2004 14:18:00 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** Icebreaker: Alfredo's Swim Briefs
+
+---
+
+## Email
+
+Hello Pablo,
+
+More icebreakers:
+
+Alfredo ate his own swim briefs.
+
+Warmly,
+Marcos Barbxxara

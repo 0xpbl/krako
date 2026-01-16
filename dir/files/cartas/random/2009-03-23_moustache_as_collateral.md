@@ -1,0 +1,18 @@
+# Moustache as Collateral
+
+## Message Metadata
+- **Date:** Mon, 23 Mar 2009 17:00:41 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** Moustache as Collateral
+
+---
+
+## Email
+
+Hello Pablo,
+
+It is said that Dom Joao de Castro, a Portuguese general in Goa, once found himself short of money, cut off one of his moustaches, and sent it to request a loan of twenty thousand dobroes as collateral. The money arrived immediately, and when the term was up he paid the debt and reclaimed the pledged hair.
+
+Take care,
+Marcos Barbxxara

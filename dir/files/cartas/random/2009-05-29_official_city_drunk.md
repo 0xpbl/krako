@@ -1,0 +1,18 @@
+# Official City Drunk
+
+## Message Metadata
+- **Date:** Fri, 29 May 2009 18:31:19 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** Official City Drunk
+
+---
+
+## Email
+
+Hello Pablo,
+
+In ancient Sparta, an official was appointed to the position of "Official City Drunk." His mission was to stay drunk for as long and as often as possible, in order to serve as a vile example to the youth.
+
+Cheers,
+Marcos Barbxxara

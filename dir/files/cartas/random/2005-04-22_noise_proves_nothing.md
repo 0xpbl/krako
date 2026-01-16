@@ -1,0 +1,19 @@
+# Noise Proves Nothing
+
+## Message Metadata
+- **Date:** Fri, 22 Apr 2005 10:37:27 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** Noise Proves Nothing
+
+---
+
+## Email
+
+Hello Pablo,
+
+"Noise proves nothing: often a hen that simply laid an egg cackles as if she'd laid an asteroid."
+— Mark Twain
+
+Regards,
+Marcos Barbxxara

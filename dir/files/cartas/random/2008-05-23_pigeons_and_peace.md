@@ -1,0 +1,18 @@
+# Pigeons and Peace
+
+## Message Metadata
+- **Date:** Fri, 23 May 2008 10:52:53 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** Pigeons and Peace
+
+---
+
+## Email
+
+Hello Pablo,
+
+According to ornithologists, the pigeon is not really the bird that should have been chosen as the symbol of peace, because when they fight they are capable of indescribable cruelties.
+
+Regards,
+Marcos Barbxxara

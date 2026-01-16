@@ -1,0 +1,19 @@
+# Part Camel
+
+## Message Metadata
+- **Date:** Thu, 24 Nov 2005 16:37:19 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** Part Camel
+
+---
+
+## Email
+
+Hello Pablo,
+
+"Show me a man who doesn't drink and I'll prove to you he's part camel."
+— W. C. Fields
+
+Warmly,
+Marcos Barbxxara

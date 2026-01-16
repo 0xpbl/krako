@@ -1,0 +1,18 @@
+# San Marino GDP Shares (1952)
+
+## Message Metadata
+- **Date:** Mon, 21 Jan 2008 15:23:53 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** San Marino GDP Shares (1952)
+
+---
+
+## Email
+
+Hello Pablo,
+
+Share of the GDP of the Republic of San Marino in 1952: Stamps — 18.2%; Wigs — 16.8%; Tourism — 13.1%. (Source: Universal Dictionary of Curiosities, 1959)
+
+Best,
+Marcos Barbxxara

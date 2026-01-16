@@ -1,0 +1,19 @@
+# Sombreros and Sophistication
+
+## Message Metadata
+- **Date:** Fri, 19 Apr 2002 09:37:00 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** Sombreros and Sophistication
+
+---
+
+## Email
+
+Hello Pablo,
+
+"What's the point of being sophisticated if you can't wear a sombrero?"
+— Haroldo
+
+All the best,
+Marcos Barbxxara

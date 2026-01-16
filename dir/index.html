@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="the Quantum Experimental Laboratories at 0xpblab — directory" />
+  <title>0xpblab /dir</title>
+
+  <!-- Minimal CSP (ajuste se você tiver scripts/estilos inline) -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://webneko.net; img-src 'self' https://webneko.net; frame-src 'self' data: blob:; base-uri 'none'; object-src 'none'">
+  <!-- CSP ajuda a mitigar XSS e restringe origens carregadas :contentReference[oaicite:3]{index=3} -->
+
+  <link rel="stylesheet" href="./dir.css" />
+</head>
+<body>
+  <main class="frame">
+    <pre class="banner" aria-label="0xpblab directory banner">
+    
+      (_)_)   _                                 /|\
+      | |  .' `-._                             / | \
+      | X==|      `-._______________________,-'   O \
+      | X==|    _______________________________     /   passároaltovertical
+      |_|  |_,-'                               `---'    ================
+      \_/
+     
+
+   a mildly organized pile of internet oddities
+   lovingly indexed by 0xpblab
+    </pre>
+
+    <section class="controls" aria-label="directory controls">
+      <div class="row">
+        <label for="q">Filter:</label>
+        <input id="q" type="search" placeholder="type to filter (e.g., archive, tilde, webring, cern)" autocomplete="off" />
+        <button id="clear" type="button">clear</button>
+      </div>
+    </section>
+
+    <section class="content" aria-label="directory listing">
+      <div class="file-index" id="file-index"></div>
+      <div class="toc" id="toc"></div>
+      <div class="error-container" id="error-container" style="display: none;"></div>
+      <pre class="listing" id="listing">Loading…</pre>
+    </section>
+
+    <footer class="footer">
+      <em>developed by pmurad</em>
+    </footer>
+  </main>
+
+  <script src="./dir.js"></script>
+</body>
+</html>

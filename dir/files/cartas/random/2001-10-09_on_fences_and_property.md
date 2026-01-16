@@ -1,0 +1,19 @@
+# On Fences and Property
+
+## Message Metadata
+- **Date:** Tue, 09 Oct 2001 18:23:53 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** On Fences and Property
+
+---
+
+## Email
+
+Hello Pablo,
+
+"The first man who, having enclosed a piece of land, thought of saying 'this is mine' and found people simple enough to believe him, was the true founder of civil society. How many crimes, wars, murders, misfortunes, and horrors would the human race have been spared if someone had torn down the fences and cried: 'No, impostor!'"
+— Jean-Jacques Rousseau
+
+Until soon,
+Marcos Barbxxara

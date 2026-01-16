@@ -1,0 +1,18 @@
+# Thailand's Petition Husband
+
+## Message Metadata
+- **Date:** Fri, 03 Aug 2007 08:52:11 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** Thailand's Petition Husband
+
+---
+
+## Email
+
+Hello Pablo,
+
+In Thailand, any unmarried woman who turns 30 has the right to petition the government to find her a husband.
+
+Until soon,
+Marcos Barbxxara

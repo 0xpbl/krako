@@ -1,0 +1,18 @@
+# Vikings, Montaigne, and a Fat Toad
+
+## Message Metadata
+- **Date:** Fri, 12 Sep 2003 16:00:27 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** Vikings, Montaigne, and a Fat Toad
+
+---
+
+## Email
+
+Hello Pablo,
+
+"(...) and there we were, rowing like Vikings, when Michel de Montaigne decided it would be appropriate to challenge me with a riddle. Gustave Flaubert said 'a fat frog' even before the riddle was told — which caused a great commotion on the boat, which went bankrupt six minutes later." — Popular proverb
+
+Cheers,
+Marcos Barbxxara

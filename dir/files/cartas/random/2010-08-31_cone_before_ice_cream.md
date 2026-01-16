@@ -1,0 +1,18 @@
+# Cone Before Ice Cream
+
+## Message Metadata
+- **Date:** Tue, 31 Aug 2010 18:12:19 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** Cone Before Ice Cream
+
+---
+
+## Email
+
+Hello Pablo,
+
+Did you know the ice cream cone was invented before ice cream?
+
+Take care,
+Marcos Barbxxara

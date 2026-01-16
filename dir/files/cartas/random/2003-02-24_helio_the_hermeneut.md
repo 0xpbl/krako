@@ -1,0 +1,20 @@
+# Helio the Hermeneut
+
+## Message Metadata
+- **Date:** Mon, 24 Feb 2003 16:12:19 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** Helio the Hermeneut
+
+---
+
+## Email
+
+Hello Pablo,
+
+Idea to be developed:
+
+Helio, the Hermeneut: a mild-mannered Capricorn, often mistaken for a weather balloon. Loves blue and pulp.
+
+Until soon,
+Marcos Barbxxara

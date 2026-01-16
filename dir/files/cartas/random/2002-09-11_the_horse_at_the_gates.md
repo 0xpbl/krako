@@ -1,0 +1,21 @@
+# The Horse at the Gates
+
+## Message Metadata
+- **Date:** Wed, 11 Sep 2002 11:00:33 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** The Horse at the Gates
+
+---
+
+## Email
+
+Hello Pablo,
+
+"A thousand years have passed since
+Agamemnon said: 'Don't open
+the gates; what good is
+a horse this big?'"
+
+Warmly,
+Marcos Barbxxara

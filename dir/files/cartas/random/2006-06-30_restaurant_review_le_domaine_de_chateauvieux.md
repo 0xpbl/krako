@@ -1,0 +1,26 @@
+# Restaurant Review: Le Domaine de Châteauvieux
+
+## Message Metadata
+- **Date:** Fri, 30 Jun 2006 09:18:53 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** Restaurant Review: Le Domaine de Châteauvieux
+
+---
+
+## Email
+
+Hello Pablo,
+
+Review — Le Domaine de Chateauvieux Restaurant
+
+In 2002, chef Guy Savoneux established himself as a goldsmith of cuisine, never lacking originality. His flamboyant dish in Astdrès sauce was seductive and minimalist; it carried the palate to the flowered meadow of Troyes, transmitting the savoir-faire of classic chefs.
+
+But the cote d'or ended tragically. Last Tuesday we tried Savoneux's papaya lamb at Le Domaine de Chateauvieux Restaurant. The lamb turned out to be a foolish, sad food.
+
+Le Domaine de Chateauvieux Restaurant
+16 Avenue Bugeaud II, Bersiller
+Accepts meal vouchers (VR and Ticket Restaurante).
+
+Regards,
+Marcos Barbxxara

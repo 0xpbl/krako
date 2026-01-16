@@ -1,0 +1,24 @@
+# After Watching 'The Farm' (A Fazenda)
+
+## Message Metadata
+- **Date:** Tue, 12 Sep 2006 18:18:11 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** After Watching 'The Farm' (A Fazenda)
+
+---
+
+## Email
+
+Hello Pablo,
+
+After watching "A Fazenda" ("The Farm"):
+
+Possible headlines for tomorrow:
+
+- Dollar falls 1.77% after Theo Becker is elected Farmer of the Week
+- Al Gore is tipped to mediate the Dolabella–Becker conflict
+- Mulher Samambaia announces the purchase of Chrysler for US$ 4 billion
+
+Take care,
+Marcos Barbxxara

@@ -1,0 +1,18 @@
+# Stuffed Tiger Argument
+
+## Message Metadata
+- **Date:** Fri, 08 Feb 2002 11:18:33 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** Stuffed Tiger Argument
+
+---
+
+## Email
+
+Hello Pablo,
+
+"I don't know what looks more pathetic: you fighting with your stuffed tiger, or the fact that it looks like you're losing." — Susie
+
+Regards,
+Marcos Barbxxara

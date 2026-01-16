@@ -1,0 +1,18 @@
+# Boring Bird Talk
+
+## Message Metadata
+- **Date:** Wed, 25 Jul 2001 08:18:53 -0300
+- **From:** Marcos Barbará <marc***xx@euroletters.net>
+- **To:** Pablo Murad
+- **Subject:** Boring Bird Talk
+
+---
+
+## Email
+
+Hello Pablo,
+
+Someone learned to communicate with birds and discovered that their conversation was incredibly boring. They spoke only about wind speed, wingspan, power-to-weight ratio, and a lot of things about little berries.
+
+All the best,
+Marcos Barbxxara

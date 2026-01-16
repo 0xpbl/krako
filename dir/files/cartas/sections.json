@@ -1,0 +1,7 @@
+{
+  "mainMenuName": "Cartas para Pablo",
+  "sections": {
+    "random": "Insane Letters"
+  },
+  "order": ["random"]
+}
