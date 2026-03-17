@@ -1,8 +1,8 @@
 {
-  "mainMenuName": "BBS Texts",
+  "mainMenuName": "TEXTS",
   "sections": {
-    "adventure": "Adventure",
-    "100": "100",
+    "adventure": "TEXTS",
+    "100": "BBS 100",
     "computers/CYBERSPACE": "CYBERSPACE",
     "computers/ASTRESEARCH": "ASTRESEARCH"
   },

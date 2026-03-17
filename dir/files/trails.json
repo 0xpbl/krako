@@ -12,8 +12,8 @@
     "id": "strange_texts",
     "title": "Strange texts",
     "links": [
-      ["/collections/New/adventure/index.gmi", "BBS Adventure"],
-      ["/collections/New/100/index.gmi", "BBS 100"]
+      ["/collections/TEXTS/adventure/index.gmi", "TEXTS"],
+      ["/collections/TEXTS/100/index.gmi", "BBS 100"]
     ]
   },
   {
@@ -34,11 +34,11 @@
   },
   {
     "id": "obscure_files",
-    "title": "Obscure files (BBS)",
+    "title": "Obscure files (TEXTS)",
     "links": [
-      ["/collections/New/index.gmi", "BBS Texts"],
-      ["/collections/New/adventure/index.gmi", "Adventure"],
-      ["/collections/New/100/index.gmi", "100"]
+      ["/collections/TEXTS/index.gmi", "TEXTS"],
+      ["/collections/TEXTS/adventure/index.gmi", "TEXTS"],
+      ["/collections/TEXTS/100/index.gmi", "BBS 100"]
     ]
   }
 ]

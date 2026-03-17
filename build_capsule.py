@@ -24,7 +24,7 @@ COLLECTIONS_DIR = CAPSULE_DIR / "collections"
 # Home: Start here (5 curated links)
 START_HERE_LINKS = [
     ("/collections/cartas/random/index.gmi", "Letters"),
-    ("/collections/New/adventure/index.gmi", "BBS Texts (Adventure)"),
+    ("/collections/TEXTS/adventure/index.gmi", "TEXTS"),
     ("/pages/recomendati0n.gmi", "Curated links"),
     ("/pages/about.gmi", "About"),
     ("/pages/map.gmi", "Map"),
@@ -33,8 +33,8 @@ START_HERE_LINKS = [
 BEST_TEXTS_LINKS = [
     ("/pages/recomendati0n.gmi", "Curated links"),
     ("/collections/cartas/random/index.gmi", "Letters"),
-    ("/collections/New/adventure/index.gmi", "BBS Adventure"),
-    ("/collections/New/100/index.gmi", "BBS 100"),
+    ("/collections/TEXTS/adventure/index.gmi", "TEXTS"),
+    ("/collections/TEXTS/100/index.gmi", "BBS 100"),
     ("/pages/about.gmi", "About"),
     ("/pages/now.gmi", "Now"),
     ("/pages/uses.gmi", "Uses"),
@@ -47,7 +47,7 @@ TRAIL_TITLES = {
     "strange_texts": "Strange texts",
     "personal_letters": "Personal letters",
     "mental_health": "Mental health",
-    "obscure_files": "Obscure files (BBS)",
+    "obscure_files": "Obscure files (TEXTS)",
 }
 
 # Deploy target: override with env KRAKO_DEPLOY_TARGET.
@@ -545,7 +545,7 @@ def build_cartas_collection():
     return build_collection("cartas")
 
 def translate_collection_name(name: str, sections_data: dict = None) -> str:
-    """Translate collection name if needed (for Portuguese to English). Menu uses mainMenuName from sections.json (e.g. BBS Texts for New)."""
+    """Translate collection name if needed (for Portuguese to English). Menu uses mainMenuName from sections.json (e.g. TEXTS)."""
     if sections_data:
         main_menu_name = sections_data.get('mainMenuName', name.title())
         if main_menu_name == 'Cartas para Pablo':
@@ -558,7 +558,7 @@ def translate_collection_name(name: str, sections_data: dict = None) -> str:
     common_words = {
         'mentalhealth': 'Mental Health',
         'mental health': 'Mental Health',
-        'new': 'BBS Texts',
+        'texts': 'TEXTS',
     }
     name_lower = name.lower().replace('_', ' ')
     if name_lower in common_words:
