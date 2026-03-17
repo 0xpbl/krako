@@ -1,7 +1,0 @@
-# Strange texts
-
-=> /collections/New/adventure/index.gmi BBS Adventure
-=> /collections/New/100/index.gmi BBS 100
----
-
-By Pablo Murad — 2024–2026

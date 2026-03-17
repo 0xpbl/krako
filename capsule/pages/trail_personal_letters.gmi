@@ -1,8 +1,0 @@
-# Personal letters
-
-=> /collections/cartas/random/index.gmi Letters index
-=> /collections/cartas/random/2000-04-06_moderate_reflections.gmi Moderate reflections
-=> /collections/cartas/random/2001-07-25_boring_bird_talk.gmi Boring bird talk
----
-
-By Pablo Murad — 2024–2026

@@ -1,8 +1,0 @@
-# Read in 5 minutes
-
-=> /pages/recomendati0n.gmi Curated links
-=> /pages/about.gmi About
-=> /collections/cartas/random/2000-04-06_moderate_reflections.gmi Moderate reflections (letter)
----
-
-By Pablo Murad — 2024–2026

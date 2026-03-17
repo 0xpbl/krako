@@ -2,8 +2,10 @@
   "mainMenuName": "BBS Texts",
   "sections": {
     "adventure": "Adventure",
-    "100": "100"
+    "100": "100",
+    "computers/CYBERSPACE": "CYBERSPACE",
+    "computers/ASTRESEARCH": "ASTRESEARCH"
   },
-  "order": ["adventure", "100"],
+  "order": ["adventure", "100", "computers/CYBERSPACE", "computers/ASTRESEARCH"],
   "intro": "=> http://textfiles.com TEXTFILES.COM\n\nOriginal content by Jason Scott / textfiles.com. Unofficial, unauthorized mirror in Gemini by Pablo Murad."
 }

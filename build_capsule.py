@@ -301,14 +301,23 @@ def get_collection_files(collection_name: str) -> List[Tuple[str, Path]]:
             break
     
     if has_sections:
-        # Collection has sections (like cartas/random/)
-        for section_dir in collection_dir.iterdir():
-            if section_dir.is_dir() and section_dir.name != 'sections.json':
-                section = section_dir.name
-                # Get all files (with or without extensions)
-                for file_path in section_dir.iterdir():
-                    if file_path.is_file() and file_path.name != 'sections.json':
-                        files.append((section, file_path))
+        # Collection has sections (e.g. adventure/, 100/, or nested computers/CYBERSPACE/)
+        for section_dir in sorted(collection_dir.iterdir()):
+            if not section_dir.is_dir() or section_dir.name == 'sections.json':
+                continue
+            section_name = section_dir.name
+            direct_files = [p for p in section_dir.iterdir() if p.is_file() and p.name != 'sections.json']
+            subdirs = [p for p in section_dir.iterdir() if p.is_dir()]
+            if direct_files:
+                for file_path in direct_files:
+                    files.append((section_name, file_path))
+            elif subdirs:
+                # Nested section (e.g. computers/ with CYBERSPACE, ASTRESEARCH)
+                for subdir in sorted(subdirs):
+                    subsection = f"{section_name}/{subdir.name}"
+                    for file_path in subdir.iterdir():
+                        if file_path.is_file() and file_path.name != 'sections.json':
+                            files.append((subsection, file_path))
     else:
         # Collection has files directly (like mentalhealth/)
         # Put them in a "main" section
@@ -409,8 +418,8 @@ def build_collection(collection_name: str):
             # No extension, sanitize the whole name
             sanitized_name = sanitize_filename(file_path.name)
         
-        # Output path
-        section_dir = COLLECTIONS_DIR / collection_name / section
+        # Output path (section may be nested, e.g. "computers/CYBERSPACE")
+        section_dir = COLLECTIONS_DIR / collection_name / Path(section)
         gmi_file = section_dir / f"{sanitized_name}.gmi"
         
         write_gmi_file(gmi_file, gmi_content, add_footer=True)
@@ -443,7 +452,7 @@ def build_collection(collection_name: str):
         section_name = sections_data.get('sections', {}).get(section, section.replace('_', ' ').title())
         section_files = files_by_section.get(section, [])
         
-        section_index_path = COLLECTIONS_DIR / collection_name / section / "index.gmi"
+        section_index_path = COLLECTIONS_DIR / collection_name / Path(section) / "index.gmi"
         section_index = f"# {section_name}\n\n"
         section_index += f"=> /collections/{collection_name}/index.gmi ← Back to collection\n\n"
         section_index += "## Documents\n\n"
@@ -471,7 +480,7 @@ def build_collection(collection_name: str):
             all_files_flat.append((section, sanitized_name, src_path))
     
     for idx, (section, file_name, src_path) in enumerate(all_files_flat):
-        file_path = COLLECTIONS_DIR / collection_name / section / f"{file_name}.gmi"
+        file_path = COLLECTIONS_DIR / collection_name / Path(section) / f"{file_name}.gmi"
         
         if file_path.exists():
             with open(file_path, 'r', encoding='utf-8') as f:

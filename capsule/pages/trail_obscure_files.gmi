@@ -1,8 +1,0 @@
-# Obscure files (BBS)
-
-=> /collections/New/index.gmi BBS Texts
-=> /collections/New/adventure/index.gmi Adventure
-=> /collections/New/100/index.gmi 100
----
-
-By Pablo Murad — 2024–2026

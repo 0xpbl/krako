@@ -1,8 +1,0 @@
-# Recurring
-
-## Ship's log and more
-
-=> /collections/recurring/main/index.gmi View Ship's log and more
----
-
-By Pablo Murad — 2024–2026

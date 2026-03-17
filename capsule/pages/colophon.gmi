@@ -1,8 +1,0 @@
-# Colophon
-
-This site is generated from plain text and Markdown sources by a Python build script. Output is Gemtext (.gmi) for Gemini. Collections, trails, and the map are built automatically; static pages are converted from .txt in dir/files.
-
-(To be updated with server and tooling details.)
----
-
-By Pablo Murad — 2024–2026
