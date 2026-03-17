@@ -1,0 +1,48 @@
+
+=> /collections/New/adventure/ecstwalk.gmi ← Ecstwalk
+=> /collections/New/adventure/index.gmi ↑ Section index
+=> /collections/New/adventure/elvenemy.gmi Elvenemy →
+
+---
+
+                     ELVIRA - MISSTRESS OF THE DARK
+
+			   D U N G E O N
+
+                    Written by GCH, Vilnius, Lithuania
+                            (IDoLL & Wizard)
+                             Oct-16-1991
+
+		       ┌──────────────────────────────────┐
+		       │				  │
+		       │  ┌──────────────────────┬──┬──┐  │
+		    ───┘  ├───┐ 		 │  │  │  │
+	       ENTER	  │   │ 		 └──┘  │  │
+		    ───┐  ├───┘       Dragon's┌──┐     │  │
+		       │  │	      blood   │X │     │  │
+  ┌────────────────────┘  └───────────────────┴──┴─────┘  └───────────────┐
+  │				  (1)					  │
+  │  ┌──────────────────────┬──┬───┐  ┌──────────────────────────┬──┬──┐  │
+  │  │			    │  │   │  │ 		      ┌──┘  │  │  │
+  │  ├───┐		    └──┘   │  ├───┐		      │ (2) │  │  │
+  │  │	 │			   │  │   │		      └─────┘  │  │
+  │  ├───┘			   │  ├───┘			       │  │
+  │  │				   │  │ 			       │  │
+  │  │				   │  │ 			       │  │
+  │  │				   │  │ 			       │  │
+  │  │		  Iron ┌──┐	   │  │ 		  ┌──┐	       │  │
+  │  │		  key  │X │	   │  │ 		  │  │	       │  │
+  │  └─────────────────┴──┴────────┘  └───────────────────┴──┴─────────┘  │
+  │		  Stone monster X					  │
+  └───────────────────────────────────────────────────────────────────────┘
+
+ 1 - there You will need to place a stone
+ 2 -	 ┌─┬┬┬─┐
+       ╓─┤ │││ ├╥─┐
+       ║ └─┴┼┴─┘║ └──
+       ╠════╧═══╣
+       ║	║
+       ╚════════╝
+---
+
+desenvolvido por pablo murad - 2024 - 2026

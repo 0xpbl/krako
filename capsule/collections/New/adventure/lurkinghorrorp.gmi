@@ -1,0 +1,25 @@
+
+=> /collections/New/adventure/lurkinghorr.gmi ← Lurkinghorr
+=> /collections/New/adventure/index.gmi ↑ Section index
+=> /collections/New/adventure/lurkinghorrorsolv.gmi Lurkinghorrorsolv →
+
+---
+
+
+To log on to the computer in The Lurking Horror (which you have to),
+you need the following information that was provided in the documentation:
+
+your id: 872325412
+your password: Uhlersoth
+
+More exactly, you sit down, turn on the computer and type:
+
+LOGIN 872325412
+PASSWORD UHLERSOTH
+
+and you're in.
+
+(>
+---
+
+desenvolvido por pablo murad - 2024 - 2026

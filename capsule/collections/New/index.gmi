@@ -1,0 +1,16 @@
+# TEXTFILES.COM (mirror)
+
+=> http://textfiles.com TEXTFILES.COM
+
+Conteúdo original por Jason Scott / textfiles.com. Este é um mirror não oficial e não autorizado, disponibilizado dentro do Gemini por pablo murad (0xpblab).
+
+## Adventure
+
+=> /collections/New/adventure/index.gmi View Adventure
+
+## 100
+
+=> /collections/New/100/index.gmi View 100
+---
+
+desenvolvido por pablo murad - 2024 - 2026

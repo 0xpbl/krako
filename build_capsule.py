@@ -386,7 +386,9 @@ def build_collection(collection_name: str):
     elif main_menu_name == 'Cartas':
         main_menu_name = 'Letters'
     collection_index = f"# {main_menu_name}\n\n"
-    
+    intro = sections_data.get('intro')
+    if intro:
+        collection_index += intro.strip() + "\n\n"
     sections_order = sections_data.get('order', list(files_by_section.keys()))
     for section in sections_order:
         section_name = sections_data.get('sections', {}).get(section, section.replace('_', ' ').title())

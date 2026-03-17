@@ -1,0 +1,1454 @@
+******* Brought To you by The Raven- Freelance Oerative *******
+
+ ULTIMA V
+  Part 1
+
+ You, the great Avatar of legend, were enjoying a comfortable 
+sleep in your own world. It had been a long time since you ì
+ventured deep into the Great Stygian Abyss and entered the Codex ì
+of Ultimate Wisdom. Returning back to Britannia, the world you ì
+had begun to love as your own, was not as easy as it seemed. The ì
+gate into Lord British's realm had not appeared since the fateful ì
+day the Codex returned you to your home.
+
+ But now things are looking pretty grim. I'm sure Iolo has given ì
+you the story,and those three beings he calls Shadowlords are ì
+more than enough evidence that Britannia is in trouble. It is ì
+time to don your armour and carry the Ankh again.
+
+ First of all, my compliments go out to Lord British, who has ì
+created the best adventure/RPG game I have ever played. He pushes ì
+the point of realism and has cleared up a lot of the "minor ì
+things" that were wrong with ULTIMA IV. More importantly, ì
+however, he has doubled the size. ULTIMA V (in case you may not
+have dug into the game yet) is BIG, but fun!
+
+ Let's get some of the preliminary things cleared up. First of ì
+all, it will be beneficial to you to open up your "Book of Lore" ì
+and read it straight through. Pay attention to the section on ì
+"Virtue" if you didn't play ULTIMA IV. Next, I recommend that you ì
+memorize the runes in the "Language" section. Several times
+in the game, you will be required to read and/or translate ì
+messages in runic writing. Having the table committed to memory ì
+makes things a lot easier. As for the other information ì
+(geography, economy, etc.), it will help you understand and get ì
+closer to the detailed and enchanting world you are about to ì
+enter. Take a peek at the "Ethics" section. You'll soon see how ì
+Britannia came to be in this shape because of these "laws."
+
+ But behold! There is more: a map, a journal of Lord British's ì
+fateful trip, aplayer's reference card, and a quick reference ì
+card. Set the map out where it's comfortable -- for you and for ì
+it (your map is probably tired of being folded in that dark box): ì
+You'll be using it a lot. Read the sheet about Lord British's
+trip, then set it aside for later (it will be used to obtain a ì
+needed item). The player's reference card deserves a read, and ì
+the quick reference card would do well sitting next to your ì
+keyboard. There is a list of spells on the back that
+helps considerably.
+
+ NOTE: It is assumed that you have played ULTIMA IV (you should ì
+definitely do so, if you haven't already), although you need no ì
+prior experience. The "Create a character" function is self-ì
+explanatory; nevertheless, the gypsy's questions may be confusing ì
+to someone who did not witness the same thing in ULTIMA IV.
+Each virtue represents a class. By repeatedly choosing the virtue ìèof the classyou wish, you will e as that class. For example: ì
+If you're given a choice between Honesty and being humble in some ì
+way, choose the Honesty response if you want to be a Mage. Since ì
+there are only three classes in ULTIMA V (instead of eight, as in ì
+ULTIMA IV), and you're automatically an Avatar (regardless of
+class), the only things that are minimally affected are the ì
+intelligence, strength, and dexterity stats.
+
+ The introduction fits well with your current location in the ì
+game. You're inIolo's hut with Shamino (who doesn't look so ì
+good). Iolo is already in your party. First things first. Let's ì
+try out some of those spells on Shamino. A few MANIs should do.
+
+ Next, teach yourself good searching habits. Searching is of ì
+major importance in ULTIMA V. Almost anything can be searched, ì
+and many things hold items of value and power. Barrels, ì
+bookcases, beds, vanities, coffers, trunks -- if you see it,
+search it. For example, a barrel in Iolo's barn contains a ì
+potion. Try to S)earch there. When you're sure you've mastered ì
+lesson one, it's time for lesson two.
+
+ Lesson Two. What you find is yours, no matter where it is, with ì
+one exception: food. DO NOT, under any circumstances, get into a ì
+habit of looting fields or tables for food -- no matter how ì
+painful those hunger pangs are. "Stealing" food is one of the few ì
+things in this game that are detrimental to your Avatarhood. The ì
+best way to obtain food is to buy or summon it. Details on food ì
+-- a major obstacle in the game -- will be discussed later.
+
+ After picking up any items you might find at Iolo's, exit to ì
+Britannia. If you're lost, you should be in the northwest corner ì
+of the map, just east of Empath Abbey. Hike west and find Empath ì
+Abbey. Enter and utilize your new talent for searching and ì
+getting. Next comes Lesson Three.
+
+ Lesson Three. Much like ULTIMA IV, talking is essential to the ì
+game. Similar to the rule of searching, the rule of talking is: ì
+If you see someone, talk to him or her and use the general topics ì
+to extract as much information as possible. JOB is the most ì
+useful starting point. JOIN works, but for most of the
+characters you won't need it, since they ask you if they may join ì
+you. As with the rule of taking, there is an exception. Don't try ì
+to talk with guards in towns. More often than not you'll end up ì
+in the slammer or out a goodly sum of gold.
+
+ Inside Empath Abbey you should begin to draw some conclusions: ì
+Think about what is going on, who is corrupting who, where to go ì
+for further information, etc. When you feel you've talked to ì
+everyone you can, hang around in the kitchen. Julia, an old ì
+companion, wants to join you. If you wish, pick her up. ì
+Also, Toshi, a bard, would like to join. Be picky with whom you  ì
+let join because there are only six slots, and you will be ì
+meeting all seven (actually eight) of your former companions. ì
+Exit Empath Abbey and head east onto the road.
+
+è Follow the road around to Yew. This will be your first ì
+experience with Blackthorn's tyranny. Upon entering (after ì
+passing the signs bearing Blackthorn's law of justice) a guard ì
+should beset you. Just this once, let him
+approach you and demand a fine. Refuse to pay, but go with him ì
+quietly. You end up in a cell in Yew any time you are caught in ì
+the above manner. Here you can talk to your fellow prisoners and ì
+learn how to get keys. Always be kind, and always be on the ì
+lookout for help.
+                               
+ After receiving your keys, head north through the secret door ì
+behind the bed. Jaana is in the underground, as well as rats and ì
+a silver sword. Search, search, search! After you escape, head ì
+over to the father and son "criminals" in the manacles (be ì
+careful to avoid the guards!). Talk to them and learn of ì
+their plight. This, for me, was the first example of Blackthorn's ì
+evil perversion of the virtues. Think about it, then prepare ì
+yourself to battle evil. Be an Avatar, and release the two poor ì
+souls.
+
+ From here, you're on your own. T)alk and S)earch. Here are a few ì
+things to listen for: the Resistance (a bartender can help with ì
+this one); Lord British's items; the names of the Shadowlords; ì
+the locations of the shards; and the Words of Power. There is ì
+much more to do in the game, but these are the main subjects you ì
+will need to acquire and learn before you can successfully ì
+complete your quest. Good luck!
+
+ After many days in Britannia, you will begin to encounter the ì
+single most frustrating problem of the game: lack of food. A ì
+spell, IN XEN MANI, can be found in Moonglow and allows the ì
+creation of a meager amount of food. Unfortunately, the quantity ì
+is not worth the price of the spell. A few suggestions follow to ì
+help alleviate the problem:
+
+ 1. Don't carry a full load of people until you carry a full load of gold.
+ 2. Moonglow and Britain usually have the best prices for food: ì
+    Stock up when in town.
+ 3. Save the game at milestones. If you feel you've wasted your ì
+    food floating at sea, turn the computer off and come back.
+
+ The food problem soon leads to a development of the philosophy ì
+of the "ULTIMA Chain." Everything starts at the bountiful ì
+encounters of the night. To survive, it will be necessary for you ì
+to fight as often as you can. Land monsters, such as Ettins, ì
+Headlesses, and Trolls, are the best monsters to attack, ì
+especially when you compare the difficulty to defeat them with ì
+the treasure you receive for your efforts. From these encounters, ì
+you'll gain a tiny amount of food, and a tremendous amount of ì
+weapons and armour. Stockpile equipment, and then sell it.
+This brings you gold. And we all know what gold brings you, right?
+
+
+
+
+è
+
+
+
+
+
+
+ ULTIMA V
+  Part 2
+
+ Iolo's hut is just one of the many interesting places you will ì
+visit in yourQuest of the Avatar. You will encounter two castles, ì
+eight major towns, six villages, four lighthouses, three major ì
+keeps, four minor keeps, four huts, and the Codex. Most of these ì
+locations are in the same places in Britannia as they were in ì
+ULTIMA IV. The major exceptions are the keeps, huts, lighthouses, ì
+and one of the castles. It is helpful to use the map provided in ì
+the game box. Pin tags on it showing the names of the specific ì
+locations, dungeons, and shrines as you visit them. This helps ì
+when you need to return to a specific location.
+
+ In each of these places, it is imperative that you search the ì
+buildings and environs thoroughly and talk extensively with all ì
+the inhabitants, if you are to succeed in ULTIMA V. The order in ì
+which you visit the locations cannot be set precisely, so a step-ì
+by-step walkthru is impossible. In some cases, conversations at ì
+one location will lead you to another, and then back again toget ì
+all the information you need for a particular situation. It is ì
+suggested, however, that after investigating Iolo's surroundings, ì
+you travel south and east to Brittany Bay, and begin your ì
+investigating at Lord British's Castle.
+
+ Of course, during your travels, visitations, and investigations, ì
+you will be building your group's attributes so that you will be ì
+ready for the final quest: the assault on Doom. Since there is no ì
+real order to visiting, this walkthru will take the locations in ì
+basically the order listed above, and discuss the major features ì
+and personalities in each. One word of caution: Do not eat the ì
+food from the tables or take food from the fields. This is the ì
+only activity that can have a negative effect on the "growth" of ì
+your party. Otherwise, you can search and take all you want. Be ì
+sure to search all trees, stumps, chests, furniture, etc. ì
+Additionally, you can back out of fights without penalty in this
+game. Occasionally, when you enter a town you will be told, "An ì
+air of __ surrounds you!" When this happens, leave the town ì
+immediately (unless you like frustrating experiences). This ì
+simply means that one of the Shadowlords is in residence, and he ì
+will keep you from getting good answers, even disallowing the ì
+people to talk to you. If you persist, the Shadowlord will attack ì
+you, and, believe me, you cannot win that fight. Usually you can ì
+exit the town, camp for the night, and re-enter the town the next ì
+day. There is one other general note: Some of the people will not ì
+talk with you completely until you have finished several of the ì
+Shrine Quests. One other suggestion: Mapping the towns, ì
+villages, and buildings is helpful in locating hidden doors and  ìèpassages, as well as in saving yo time used to retrace your ì
+footsteps. Now, let's get on with the specifics.
+
+ THE CASTLES
+
+ Lord British's Castle is located just where it was in ULTIMA IV ì
+-- right on Brittany Bay. Only now, after years of peace and ì
+prosperity, it has grown. The building consists of five levels ì
+and has some interesting things and people in it.
+
+ LEVEL 1 (MAIN FLOOR)
+
+ The major features here are a kitchen and a stable. You won't ì
+get much information here from either Stephen (the Cook), or ì
+Treanna (the Stable Girl), although the latter may help you ì
+later. There is a locked door off the corridor outside the stable ì
+which leads to the outside. If one of your party has enough ì
+dexterity to unlock this door, you can mount a horse here, and ì
+ride out of the castle. In the northern corridor, there is a door ì
+to the outside that is locked. Don't worry with it or waste your ì
+time. Those of you who played ULTIMA IV will recall that one of ì
+the dungeons had an entrance in the back of this Castle. It is ì
+not there in ULTIMA V. This exit to the castle can be used to get ì
+back to the great outdoors, but only if: 1) you can open the ì
+door, and 2) you have the flying carpet to get over the stream. ì
+In each corner of the castle, there are towers with up and down ì
+ladders. Down leads to the Basement.
+
+ THE BASEMENT
+
+ On this level you will find the North Star Armoury, proprietor ì
+Max Engle, the jail, and several storage rooms. In the armoury ì
+you will be offered some nice pieces of equipment, if you can ì
+afford them. The magical shield is quite nice, but very ì
+expensive. In the storage rooms (if you can get in), search all ì
+the containers. There should be some interesting artifacts ì
+available. By the way, some of the hidden special items will ì
+regenerate when you leave the building and town; others will not. ì
+Now, about the locks. Some are magical and will require either ì
+Skull Keys or the IN EX POR spell to open. Don't waste keys when ì
+you are told that the key broke. You either don't have enough ì
+dexterity yet, or the door is sealed with magic. There are three ì
+doors in the Jail: Behind the right there is nothing, the middle ì
+holds a nasty prisoner who gives no real hints or service (he ì
+will fight you if you let him out), and the left is a mystery ì
+this Avatar never solved. If you get the door open, there is a ì
+stone wall! Don't waste time, spells, or keys in this area. Go ì
+back to a tower and go up twice.
+
+ LEVEL 2
+
+ Here you will find lots of rooms to explore, but little of ì
+value. There is a kitchen, cook's room, dining room, banquet ì
+room, guard barracks, throne room (empty), and banquet hall. ì
+There is a secret passage running down the middle of the level ìèwith entrances to the banquet hall,ne room, and kitchen. As ì
+far as I could determine, there was no real value to this ì
+passage. It required a lot of keys and spells to finally solve ì
+with no gain. You may encounter Desiree on this floor. In ì
+chatting with her, she will tell you that Lord Stuart (he is in ì
+Moonglow) is working on a magic spell to create food. More on ì
+this later. Go back to a tower, and go up once.
+
+ LEVEL 3 (THE ROOF)
+
+ What a view from the battlements! Although not of any real value ì
+but cute: Go to one of the cannons and F)ire it. You can actually ì
+move them around, but they have no use. DO NOT try to use them on ì
+the guard (who will try to keep you from entering the center area ì
+of the roof). As a matter of fact, do not, repeat, DO NOT kill ì
+the guard. You may not get out of the Castle alive. By the way, ì
+this warning applies to all places in Britannia (don't fight or ì
+kill the denizens unless they assault you first). Okay, if you ì
+can't kill the guard, how do you get by him? Play a waiting game ì
+until you can't see him, and then sneak to the center of the ì
+roof, where you will be faced with a door you can't open! The ì
+sign says this is Lord British's apartment. You will need the IN ì
+EX POR spell or a Skull Key to gain entrance.
+
+ Right inside this entrance you will see a carpet on the floor. ì
+Get it! You now have a flying carpet, which is one of the most ì
+useful modes of transportation in this game. By the way, it ì
+regenerates when you leave the castle, which means if you lose ì
+the one you have, you can return for another. Search the room ì
+thoroughly. If you have mapped the roof, you will see that the ì
+room and the outside walls do not match. Go through the ì
+fireplace. Ah ha! A secret room! Search and take potions/scrolls ì
+you are offered. Again, look at the diagram. There is still an ì
+area in the northeast corner unaccounted for. Go back in the ì
+room, sit down at the harpsichord, and play the tune you were ì
+taught by Lord Kenneth in the Grayhaven Lighthouse. (On your ì
+keyboard type 6 7 8 9 8 7 8 7 6 7 6 5 3, in that order.) There ì
+will be a rumble, and a secret door in the northeast will be  ì
+revealed. Enter the room, and take the box. Don't waste your time ì
+trying to use it, open it, etc. Just take it and keep it with you ì
+until you get to the end of the game. Its use will be made ì
+apparent to you then. From the apartment, you can go up to the ì
+final level, which is the observatory.
+
+ THE OBSERVATORY
+
+ On the roof of Lord British's apartment, you will find a ì
+telescope and flag. If it is night, look through the telescope at ì
+the stars and comets. The comets represent the Shadowlords and ì
+the stars/planets represent the eight towns of Britannia. The ì
+Shadowlords will be occupying the towns to which the comets are
+closest.
+
+ That's it for this Castle. Exit the penthouse and go to the ì
+nearest tower, go down to main floor, and exit. A couple of  ìèinteresting points about this buildinere are not a lot of  ì
+people to talk to, nor are there many clues which will help you ì
+in the rest of the game. The other interesting feature is if you ì
+and your party are killed during your travels, you will be ì
+resurrected by Lord British, and you will find yourselves on the ì
+top level of this Castle with all your hit points restored and ì
+all your possessions intact. Additionally, if you are ready for ì
+advancement, you will get that honor from LB during the ceremony. ì
+Actually, it is worth dying just for the show.
+
+ BLACKTHORN'S CASTLE
+
+ You will not be able to reach this location until you have ì
+sufficient funds to buy a ship. Secondly, you should not even try ì
+to assault this bastion of evil until you have acquired the Black ì
+Badge and learned the password of the Opposition. Wearing the ì
+badge and giving the password when asked will allow free passage ì
+around the castle in search of Lord British's Crown. By the way, ì
+the Badge will be given to you by Elistaria (located in Windemere ì
+Keep) when you give her the password for the Opposition (IMPERA), ì
+which you you will learn from Judge Dryden in Yew, after you've ì
+talked to Tactus in Minoc. Confused? Just goto Windemere Keep ì
+with this information, and ask Elistaria about the opposition. ì
+You have all the information you need to get the Badge. She will ì
+tell you that Thrud has other items. Don't bother. It's a sword ì
+and shield of dubious value. Also, if you have talked to Toede (a ì
+prisoner in the Serpent's Hold), you will have been told to ì
+beware of trapdoors in Blackthorn's Castle. How true! These ì
+devilish traps are located in most hallways, and can be very ì
+frustrating. You can try to avoid them (in the Apple version, you ì
+can see little red dots surrounding squares that have trap doors ì
+in them), or you can travel the corridors on the magic carpet.
+
+ There is one other way to get around Blackthorn's domain without ì
+the subterfuge afforded by the Badge. It is called sneaking, but ì
+when you're caught (and you will be!), you'll be taken to the ì
+dungeon and tortured until you tell Blackthorn what he wants to ì
+know. In this process one of your party -- Shamino or Iolo ì
+usually -- will be sacrificed. You will be put in a cell with ì
+Gorn, who will offer you some information if you will let him ì
+join your party. Okay, take him up on the offer. He will tell you ì
+how to escape from the castle using secret passages and doors. ì
+Specifically, he says: "There is a secret door behind me.
+Klimb to the roof, and sneak down the northern ladder. In ì
+Blackthorn's bedroom there is a secret door. Klimb down the  ì
+ladder to the other side. Go through the secret door to the ì
+north, down another ladder, and out the back gates. Wait there ì
+until morning, when the drawbridge is lowered, and flee for our ì
+lives." Confused? So was this Avatar. That is why I chose to do ì
+this part of the game with the Badge and Password. Additionally, ì
+I didn't care for Gorn and preferred my old friends, Shamino and ì
+Iolo. By the way, Hassad, one of the former Council Members, is ì
+imprisoned here. He can give you the Word of Power -- MALUM -- to
+open the Dungeon Wrong.
+
+è Blackthorn's Castle is made up of many rooms, confusing ì
+stairways, and lots of locked doors. Interestingly, most of the  ì
+doors can be opened only with skull keys. But don't waste them; ì
+they are too hard to come by. Since it is really not necessary to ì
+explore this whole castle, I will not give a complete floor-by-ì
+floor description, but I'll leave that to you if you want to do a
+complete exploration some time.
+
+ Wearing the Black Badge, take Gorn's advice and enter the Castle ì
+from the rear. Here you will find a hallway with doors to the ì
+east and west, and stairs going up to the south. The western door ì
+leads to a Stable. Be careful! There are two trapdoors in the ì
+center of the hallway. Walk next to the wall all the way south, ì
+then take the stairs up. In this room you will see stairways in ì
+the northeast, northwest, southeast, and southwest corners. You ì
+will also see an individual sitting in a chair. If you talk to ì
+him, you'll find he is Weblock, a mysterious old mage who offers ì
+to help, but who really won't! Anyway, take either the
+northwest or northeast stairway up to Level 3.
+
+ It makes no difference whether you enter this level from the ì
+northwest or northeast stairway on Level 2. Let's assume you ì
+entered using the northeast stairs. (If you use the northwest ì
+stairs, just reverse the following instructions.) Go east as far ì
+as you can. Go south through the room of columns, and continue ì
+south past the fountain, as far as you can. Turn west and go to ì
+the first door going north. Enter the room. Wow! Blackthorn's ì
+throne room. Are you in trouble? No, just stay to the side, and ì
+go all the way north, turning to the center of the room, then ì
+west to the door. Go north, and you are in Blackthorn's bedroom. ì
+Take the time to search everything here, and get all the ì
+"goodies." You have earned them! To the north there are stairs to ì
+the roof; use them.
+
+ You are on the northern wall of the Castle. Board your Carpet ì
+because there are trapdoors in all four of the corner towers. ì
+Just to be sure, travel along the walls. Go either west or east, ì
+then south, then either west or east to the center of the ì
+southern wall, and the walkway that leads to Lord British's ì
+Crown. You will cause the Gargoyles to come alive and attack you. ì
+If you're strong enough, you should be able to kill them easily;  ì
+as an alternative, have one of your party equipped with a Ring of ì
+Invisibility, and remove all the others from the battle. The ì
+Gargoyle with think everyone has gone, and he will leave, too. ì
+You have beat him and have access to the Crown. Open the door ì
+using a skull key. (Again, magic won't work here.) Stay on your ì
+carpet, and get the Crown. That's it. Exit by reversing your ì
+route. As long as you keep the Black Badge on and speak the right ì
+password to any guard who stops you, you will be able to get out
+with no problem.
+
+ Now that you have completed this quest, TAKE OFF THE BLACK ì
+BADGE! There aremany good people in the land who will not talk to ì
+you if you are wearing it.
+
+è
+
+
+
+
+ ULTIMA V
+  Part 3
+
+ THE MAJOR KEEPS
+
+ These buildings were in ULTIMA IV, but they have changed greatly ì
+in the years since that scenario. There are three such keeps: ì
+Empath Abbey, The Lyceum, and Serpent's Hold.
+
+ Empath Abbey can be found in the northwestern part of the main ì
+continent. This keep represents LOVE. There are two levels to ì
+this keep. Searching them will reveal the major features: a ì
+healer on the first level, and the Flame of Love (on the second ì
+level on a balcony off the northern wall). From Tim, the Keep's ì
+Bard, you will learn about Sir Kenneth, the court composer, and ì
+where he can be found. Lady Barbara is the Keeper of the Flame of ì
+Love. Lord Michael will discuss the principles of Love, give you ì
+the Grapple, and reveal the name of the Shadowlord of Hatred: ì
+ASTAROTH.
+
+ The Lyceum is located on the same island as the town of ì
+Moonglow, and is due east of Brittanny Bay. This keep stands for ì
+TRUTH. The building has three levels. It contains a stable, a ì
+pub, a healer, a library, and the Flame of Truth. The stable is ì
+on level one, the healer and pub are on level two, the Flame of ì
+Truth is in a room to the north of the throne room, and the ì
+library is in the northwest quarter of level three. There is ì
+nothing hidden in this keep. Lady Hayden and Lord R'hien will ì
+share some philosophical views of the state of the land with you. ì
+Lady Janell will give you the information on the twins in Cove, ì
+who can help you reach the Shard of Falsehood. Shalineth, the ì
+Lord of the Keep of Truth, reveals to you the name of the ì
+Shadowlord of Falsehood: FAULINEI. Rollo, The Lyceum's scribe, ì
+validates the final travels of Lord British -- a loose hint about ì
+the location of the Amulet if you have accurately strung all
+the other clues together.
+
+ Serpent's Hold is on an island at the far south of the realm. ì
+This keep stands for Courage. The building has two levels above ì
+ground, and an underground area. Exploring them will reveal an ì
+armoury (with standard fare), a dungeon, and the Flame of ì
+Courage. The basement level houses the Flame of Courage, and a ì
+couple of secret doors and corridors which have nothing of real ì
+interest behind them. The armoury and dungeon are on the main ì
+level. On the second level is a training room and the throne ì
+room. Lord Malone, the Lord of the Keep, reveals the name of
+the Shadowlord of Cowardice: NOSFENTOR. In the training room, ì
+Monsieur Loubet, the fencing master, tells you that a magic ì
+carpet can be secured from Bandaii in Paws. In the dungeon, Toede ì
+(a prisoner there) tells you to beware the trapdoors in Lord ìèBlackthorn's Castle, which he helped ruct. Kristi, the cook ì
+for the Keep, will sell you some Skull Keys. Buy them! At 100 ì
+gold pieces, they're a bargain! Gardner, the keeper of the Flame ì
+of Courage, tells you where to locate the Shard of Cowardice from ì
+the Underworld entrance to the Dungeon Hythloth. He gives you the ì
+coordinates L'A"-L'I" and explains that the area is composed of ì
+many small chambers, which require magic (IN POR) to reach, and ì
+lots of exploration to locate the Shard.
+
+ THE TOWNS
+
+ The eight towns -- Britain, Yew, Jhelom, Minoc, Moonglow, New ì
+Magincia, Skara Brae, and Trinsic -- are in the same locations as ì
+they were in ULTIMA IV. For those who did not play the previous ì
+scenario, this walkthru will pinpoint their locations for you.
+
+ BRITAIN
+
+ Britain is located on Brittany Bay just to the west of Lord ì
+British's Castle. In the town you will find a full service inn ì
+(food and lodging), and an armoury. This armoury will provide you ì
+with a magical bow (if you can afford it) and other fine wares. ì
+The Inn has two stories and is worthy of exploration. Food can
+be purchased in the tavern section of this inn. Also in town, you ì
+will find the Bard Gwenno, who will join your party if asked. You ì
+will also learn the Mantra of Compassion (MU) in town. The major ì
+personalities and the clues they will give
+you are:
+
+ Greyson: He tells you about the guardians of the Codex. He warns ì
+you that only those on a sacred quest can be granted passage to ì
+the Codex. What he means is that unless you have visited a Shrine ì
+and received the Quest, you cannot visit the Codex to get the ì
+information you need to complete the Quest.
+
+ Terrance, a soiled farmer: He is located in the Orchard and will ì
+tell you to ask the owner of the Arms of Justice in Yew about the ì
+Resistance.
+
+ Telila, the cleaning lady: She is in the Inn and will tell you ì
+about a strange man, Annon, who spends his days alone on the ì
+balconies. Additionally, say the word Gossip to her, and she will ì
+give you a very important clue about finding the Mystical Arms ì
+and Armour. She will relate a conversation she overheard
+involving a man named Bullwier from Jhelom.
+
+ Annon, a wizard and former Council member: Probably the first ì
+time you meet Annon, he will be most reticent with you unless you ì
+have completed a couple of the Shrine Quests. He will tell you ì
+that he does not trust your virtue. Once he opens up, he will ì
+give you the Word of Power (FALLAX), which can be used to unseal ì
+the Dungeon Deceit. He tells you that the eight dungeons were ì
+sealed with these words of power, but Blackthorn is hunting down ì
+the former Council members to obtain the words so he can unleash ì
+the horrors from the dungeons. He will also tell you that the ìèdaughter of another Council Member was a sailmaker. "Ask the ì
+child about her mother, for she knows one of the Words of Power." ì
+The child is Fenelon. She is in Minoc, and her mother is Fiona, ì
+who runs the Poorhouse there.
+
+ Eb, a young boy: He is the busboy in the tavern in the inn. He ì
+will help you find the Glass Sword by telling you to talk to ì
+Malik in Moonglow.
+
+ YEW
+
+ Yew is located in the northwest part of the main continent of ì
+Britannia, and it may be the first town you encounter after ì
+leaving Iolo's hut (located in the deep woods just to the south ì
+of this town). Yew and Empath Abbey are connected by a road; one ì
+of the Moongates is located between the two locations. The town ì
+itself has two levels. You can secure the Mantra of Justice (BEH) ì
+here. On the main level, you will find an armoury, an apothecary ì
+(reagents), a tavern, a cemetery, and a hall of administration ì
+and justice. By the way, avoid the guards. They will want to take ì
+your money as a donation to "charity." If you don't give ì
+willingly, you will be attacked! At the Arms of Justice, you can ì
+purchase a magical axe. This is probably the best weapon in the ì
+game, and I would recommend that all members of the party be ì
+equipped with one as soon as you can afford to do so.
+
+ Obviously, food is available in the tavern. Madam Pendra's ì
+Apothecary offers Sulfur Ash, Ginseng, Garlic, Spider Silk, and ì
+Blood Moss. If you enjoy translating the language of Britannia ì
+(which I found to be a pain), explore the cemetery and read the ì
+headstones. By the way, there is a secret exit in the wall in the ì
+northwest corner of the cemetery. It can be handy if you are ì
+running from the guards. The administrative offices also contain ì
+the town's jail. There is a trapdoor here which will take you to ì
+the lower level (see below). On this level you will meet and talk ì
+to:
+
+ Jerone: He is a prisoner in the Hall of Justice jail. He tells ì
+you about "seeing" Lord British as an apparition while  ì
+adventuring. This is a loose hint about how LB will visit and ì
+bestow advancement on your party when you camp and rest "before ì
+the campfire."
+
+ Chamfort, a hearty Blacksmith: He owns the Arms of Justice and ì
+can tell you about the Resistance if you remember who (Terrance ì
+in Britain) told you about him. He will give you the password ì
+(DAWN) for the Resistance and tell you to talk to Landon, who is ì
+the local leader. He can be reached through the fireplace, which ì
+leads to a secret passage in the lower level.
+
+ Mario and Aleyn: This father and son are prisoners in the public ì
+shackles. Talk to them, then unlock and free them as an act of ì
+kindness.
+
+ Judge Dryden: He is in charge of running the town and will help ìèyou get into the Oppression. Ask bout the Chain of  ì
+Oppression. He will want to know who sent you (Tactus in Minoc). ì
+He will then tell you to see Elistaria "on the northern-most isle ì
+of Britannia." Tell her the password IMPERA when you see her.
+
+ Graymarch: He is a prisoner who is concerned about                            ì
+his son Froed (Skara Brae).
+               
+ Felespar: This old wizard is also a prisoner, and you will find ì
+he was a Council Member. If you know the password for the ì
+Resistance, he will give you one of the Words of Power (VILIS), ì
+which will open Dungeon Despise.
+
+ Now, go to Chamfort's quarters, enter the fireplace, and go to ì
+the lower level of Yew. Follow the passage north as far as you ì
+can go, then east to the junction with a passage going south. ì
+Take the passage south. You have found the secret quarters of ì
+this Yew's Resistance movement. Here you will meet Jaana, who is ì
+a good addition for your party. She will add magical powers to ì
+your group, which will be needed later. Go back to the east/west ì
+corridor, and continue east. The next passage to the south leads ì
+to what looks like a blank wall. Search, and you will find a ì
+secret door. Don't bother with it. This room is under the jail ì
+and has a rat in it. If you have fallen through the trapdoor in ì
+the jail above, this is the room in which you landed. You can get ì
+out by opening the secret door. Go back to the east/west corridor ì
+and continue east to the final southern passage and stairs up. ì
+You can go south, dispose of the rats, and search the barrel if ì
+you want. Go up the stairs. You will be in an east/west passage, ì
+which is actually a secret route between the cells in the jail. ì
+There is a secret door in the exact middle, which will put you ì
+into the middle cell in the jail where Jerone is incarcerated. In ì
+this passage you will probably encounter Landon, who will tell ì
+you that Blackthorn has Lord British's Crown in a room at the top ì
+of his castle. He warns you that Blackthorn prohibits magic from ì
+being used in his castle, and tells you to seek out Sir Simon "on ì
+a mountain isle, west of the Spiritwood."
+
+ JHELOM
+
+ Jhelom is located on an island to the southwest of the main ì
+continent. There is a moongate located here. The town itself is a  ì
+single level; however, each of the buildings -- armoury, inn/pub, ì
+and shipwright -- all have second floors. Each of the corner ì
+towers has two stories. The towers are entered by going to either ì
+the southeastern or southwestern corners, then by going up to the ì
+top level, and traveling the walls. Really, there is little to be ì
+gained in these towers.
+
+ The main thing here is the northwestern tower. This is the home ì
+of Goeth, whowas one the Council Members. He is difficult to talk ì
+to, since you need to reverse your words with him. In addition to ì
+giving you one of the Words of Power (INOPIA) which opens Dungeon ì
+Destard, he will tell you the secret of the Moonstones. He tells ì
+you to stand at a moongate until just after it closes, then ìèsearch for and take the stone. The ston then be planted ì
+elsewhere and used for travel. This is most important when you ì
+begin to search the Underworld for the Shards, since in a couple ì
+of cases, it may be the best (or only) way to return to the ì
+surface.
+
+ Other people of interest:
+
+ Thorne, a battle-worn fighter: He will give you the Mantra of ì
+Valor (RA). He will also give you great help with Dungeon Destard ì
+by telling you to push on and shoot at walls and torches across ì
+chasms.
+
+ Bullwier: He tells you that Ambrose (who is recuperating in ì
+Cove) was injured while searching for the Mystical Weapons and ì
+Armour. Ambrose is evidently only lucid for about an hour each ì
+evening around midnight.
+
+ Trian, a young minstrel: He tells you about Goeth's speech ì
+impediment (or dementia), and tells you about Thorne and the help ì
+he can give.
+
+ MINOC
+
+ Minoc is located far north and east of the main continent. There ì
+is a moongate in the vicinity, and its harbor is protected by ì
+Lighthouse Stormcrow. The town is one level with an armoury,  ì
+shipwright, and healer having second floor living quarters. You ì
+will find the Mantra of Sacrifice (CAH) here. There is also a
+Mission for the poor here. The people and important clues:
+
+ Tactus, an obvious follower of Blackthorn's: Ask him about the ì
+Oppression and he will direct you to Judge Dryden in Yew.
+
+ Fenelon: She makes sails for Captain Blythe and is the daughter ì
+of Fiona. She will tell you that the guard is off at lunch time ì
+and at night, and that you should enter and leave the town then ì
+to avoid him.
+
+ Fiona: She runs the Poorhouse and was a former Council Member. ì
+She will give you the Word of Power (INFAMA) to open the Dungeon ì
+Shame.
+
+ The Beggar: Give him some charity, and he will tell you about ì
+Shenstone the Armourer who sneaks around town at noontime. If you ì
+follow Shenstone, he will lead you to a tree in the northwestern ì
+corner of Minoc. Search the tree, and get some badly needed Skull ì
+Keys.
+
+ MOONGLOW
+
+ Moonglow is located on a large island due east of Brittany Bay. ì
+On this island is The Lyceum and a moongate. Lighthouse Waveguide ì
+is just to the west of the island. Moonglow is one level with ì
+towers and walkways that have two levels. Actually, there is ìèlittle of interest in these towers. Ee them if you like. Let ì
+me stress the words of caution given earlier: Avoid the guards! ì
+The town's main attractions are a tavern and an apothecary. ì
+Reagents (Ash, Garlic, Nightshade, Ginseng, and Mandrake) are ì
+probably as inexpensive here as anywhere in the domain. In the ì
+Tavern you will meet Lord Stuart, who will tell you about the ì
+Spell to make food. It is a second circle spell (IN EX MANI) and ì
+requires Ginseng, Garlic and Mandrake. Actually, food created ì
+this way is very expensive. The use of this spell is recommended ì
+only in a major pinch. The Gypsy will give you the Mantra of ì
+Honesty (AHM). Zaccariah, who tends the Observatory atop the ì
+central tower in this town, explains a little about Astronomy, ì
+and tells you about Goeth in Jhelom, who "can tell you about the ì
+Moonstones." He is also a former Council Member, who can give you ì
+the Word of Power (AVIDUS) to open Dungeon Covetous.
+
+ NEW MAGINCIA
+
+ New Magincia is located on a small island in the east part of ì
+the ocean between Brittany Bay and Moonglow. There is a moongate ì
+nearby. This town has been established on the ruins of Magincia, ì
+which was destroyed prior to the ULTIMA IV scenario. It is a ì
+farming community. There is a tavern where you can buy food. ì
+Otherwise, its prime importance is the conversation its citizens ì
+can offer. The people of New Magincia move from place to place  ì
+depending on the time of day. Most of their conversation is ì
+philosophical and political about the problems in the realm ì
+caused by the loss of Lord British, and the rise to power of ì
+Blackthorn. Shirita, who tends the cemetery, tells you about the ì
+history of New Magincia, and tells you to visit the town's  ì
+recluse for some information about the virtue of Humility. The ì
+recluse, Wartow, gives you the Mantra of Humility (LUM). Kaiko ì
+relates to you the story of Hassad, one of the former Council ì
+Members, who spent time with them during his flight from Skara ì
+Brae, before Blackthorn caught him and imprisoned him in Castle ì
+Blackthorn's dungeon. Felicity will tell you to talk to the ì
+Daemon in the desert, for he has knowledge about Lord British. ì
+(Note: One of this location's residents may join your party
+if you ask.)
+
+ SKARA BRAE
+
+ Skara Brae is located on an island off the western coast of the ì
+main continent, and south and west from Britain. There is a  ì
+moongate on the island, which can be reached by skiff (if you ì
+have the courage and time to sail along the coast all the way ì
+from Britain). The town has an apothecary, a healer, an inn, and ì
+a mysterious, hard-to-access tower at its center. Reagents  ì
+available for purchase at the apothecary are Ash, Ginseng, Blood ì
+Moss, and Black Pearl. By the way, the globe in the Apothecary ì
+will give you a view of the town; it can also shock the devil out ì
+of you! The healer is the cheapest in the realm, and she will ì
+actually perform her work free if you are without funds. The ì
+mysterious tower can be entered by using an IN EX POR to unlock ì
+the door. Fight the bat, unlock the door, fight the bat, ad  ìènauseam, or until the last bat is deaimbing to the top level ì
+reveals a surly (and I do mean surly!) wizard and a telescope. ì
+The wizard will talk to you when you ask about the Oppression, ì
+but he wants you to rat on the Council Members for the ì
+information he has, which is that you should talk to Tactus in ì
+Minoc. The other residents of interest:
+
+ Saul: He tells you about Kindor, who is recuperating from a ì
+battle with the Shadowlords, and who is usually available at the ì
+healers at 6 p.m. each day.
+
+ Kindor: He will give you the Mantra for the Shrine of ì
+Spirituality (OM), and will tell you to talk to the Lady Janell ì
+in The Lyceum for the Shrine's location.
+
+ Froed: He's in the grove of trees and will tell you his father ì
+is imprisoned in Yew. He asks you to go tell him that is son is ì
+fine.
+
+ TRINSIC
+
+ Trinsic is located almost due south of Brittany Bay on the ì
+eastern coast of the main continent. Trinsic has an armoury, a ì
+healer, and a fine stable. Here you learn the Mantra of Honor ì
+(SUMM). From the old, sleep-walking Wizard Sindar, who was a ì
+former Council Member, you learn the Word of Power (IGNAVUS) to  ì
+open Dungeon Hythloth. Gruman may join your party if you ask at ì
+the right time. Otherwise, Trinsic offers little of value.
+
+ 
+ 
+
+
+
+
+
+ ULTIMA V
+  Part 4
+
+ THE VILLAGES
+
+ There are six villages scattered around the kingdom: East ì
+Brittany, North Brittany, West Brittany, Buccaneer's Den, Cove, ì
+and Paws.
+
+ THE BRITTANYS
+
+ The Brittanys (East, North, and West) lie around Lord British's ì
+Castle, and provide services to this region. In East Brittany you ì
+can buy a ship from the shipwright. By talking to Sir Adam, The ì
+Torch, you'll learn that there is a way to make ships go faster. ì
+Actually, if you search this building thoroughly, you will find ì
+the plans to HMS Cape, which when used aboard a ship, will cause ì
+it to go very rapidly, but not without some peril.
+
+è North Brittany is a farming community. Don't eat food from the ì
+field or off the tables; such actions are harmful to your virtue!  ì
+One of the farmers may join your party if asked correctly, and if ì
+you know the Resistance password. You can get a horse from the ì
+stable here. Also the stable boy, Kurt, will give you some ì
+insight into the horses of the land, and direct you to Treanna in ì
+the Castle's stable.
+
+ West Brittany is also a farming community whose residents are ì
+hard working. Talk to them to get a flavor of what is happening ì
+in Britannia; otherwise, they have little to offer.
+
+ BUCCANEER'S DEN
+
+ Buccaneer's Den is a very interesting place. It offers a guild ì
+where very exotic things can be purchased (if you can find its ì
+entrance), an Armoury (which offers among its "goodies" a Ring of ì
+Invisibility), an inn, restaurant, and a ship builder. You will ì
+meet Geoffrey, an old friend from ULTIMA IV, who is willing to ì
+join your quest. The village is located on a small island south ì
+and east from Brittany Bay. Entry to the Guild is best gained ì
+from outside the village walls; there is a secret door due east ì
+of the main entrance, which can be opened with an IN EX POR ì
+spell. You can exit through the fireplace. A secret door in the ì
+northeast corner of the shop leads to a passageway, which will ì
+take you back into the main part of the town. This is especially ì
+helpful since the village gates are closed at night. The guild ì
+offering is standard -- keys, gems and torches. (Note: For those ì
+who played ULTIMA IV, the sextant is not available
+as an unlisted item here, as it was in the former scenario.) In ì
+the tavern you will meet Tierra. Buy her a drink and she will  ì
+tell you about Bidney, who knows how to climb mountains. When you ì
+get Bidney (who is the town drunk) to talk about his mountain ì
+climbing days, he will tell you to see Lord Michael in Empath ì
+Abbey, and ask him about the Grapple. Scalley, the town's bard,  ì
+will tell you the story of a seaman named David, who now tends a  ì
+lighthouse (Grayhaven). David is the answer to the sextant ì
+question many of us had.
+
+ COVE
+
+ Cove is still as hidden as it was in ULTIMA IV, but is now  ì
+easier to get to by use of a ship/skiff or the magic carpet. It ì
+lies north and east of Brittany Bay on the south side of the ì
+large inland lake. The Apothecary in Cove offers Silk, Moss, ì
+Pearl, Nightshade, and Mandrake for your spell mixing. There are ì
+three people in Cove who have two very important clues:
+
+ The Twins, Leona and Ava, priestesses in the Temple: They relate ì
+to you the route to the Shard of Falsehood. To quote: "In the ì
+deep of night, many moons ago, a vision came unto my sister and ì
+I. We saw the Shard of Falsehood deep below a dungeon named ì
+Deceit. The path that was revealed traveled first southwest ì
+across many high peaks, opening to a large system of caverns. ì
+Then the way lead southwest. At a major intersection it turned ìènorthwest, soon branching northeaster a long journey ì
+northward, the passage turned west. Here the path went on to  ì
+rocky hills to the southwest, then turned northwest. Over a lake ì
+it ran, unto a massive series of great falls, ending in a larger ì
+lake. Here upon a small isle lies the Shard of Falsehood." ì
+Unfortunately, the instructions end here, and there are no ì
+directions for your return. (See the section on the Underworld ì
+for further discussion of this problem.)
+
+ Ambrose, who resides with the Healer where he is recuperating ì
+from wounds sustained while searching for the Mystics, awakes at ì
+midnight daily: He tells you that these magical weapons and ì
+armour are located north of the Underworld entrance to Hythloth, ì
+across some mountains, and in a lava field.
+
+ PAWS
+
+ Paws is located on the southern shore of Brittany Bay. It offers ì
+travelers an inn and a tavern for rest and nourishment. There is ì
+a stable called Wishing Well. This is a hint of what the various ì
+wishing wells throughout the realm will do. At the wells, pay one ì
+gold piece, and wish for a horse. At many such locations you will ì
+be provided with a ride. The guild provides keys, gems, and ì
+torches. You will meet Bandaii, a mage, who will tell you about a ì
+talking horse named Smith. This fabulous creature can actually be ì
+found in Iolo's barn. The words he can speak will restore shrines ì
+destroyed by Lord Blackthorn. (This is rumor and legend to this ì
+Avatar, as all shrines were found intact when I reached them.) It ì
+is also said that if questioned correctly, you can obtain a ì
+flying carpet from Bandaii.
+
+ THE LIGHTHOUSES
+
+ There are four lighthouses: Stormcrow, Grayhaven, Waveguide, and ì
+Fogsbane.
+   Stormcrow is located near Minoc and protects its harbor. ì
+Windemere, the lighthouse keeper, warns you about leaving a ship ì
+in the port of Minoc. Windemere's wife, Emily, has little to add ì
+which will help you.
+
+ Grayhaven is located on the southern tip of the main continent ì
+south of Trinsic. Here you will meet Lord Kenneth, who will teach ì
+you to play the Harpsichord using the music Stones printed in the ì
+Book of Lore. You must take this lesson and learn it well if you ì
+want to complete the game, since a very important artifact is ì
+available, but only to those who know how to play. (See Lord ì
+British's Castle.) David, the lighthouse keeper, will give you ì
+the Sextant when you ask him about it. Arbuthnot, the royal ì
+coinmaker, tells you the story of the Coin of the Codex, and you ì
+will meet David's son, Anthony.
+
+ Waveguide, which is just off the coast of Moonglow's island, is ì
+tended by Gregory, a very caustic and unfriendly man, and his  ì
+spaced-out wife, Jacqueline. Neither offered any words of wisdom ì
+to this Avatar when he visited and was rudely asked to leave ìètheir island.
+
+ Fogsbane, which protects the harbor at Brittany Bay, is tended ì
+by Jotham and his granddaughter, Jennifer. Although both are very ì
+hospitable, neither is able to provide insights needed for your ì
+quest.
+
+ THE HUTS
+
+ There are four huts to visit: Iolo's hut, where you begin the ì
+game; the Daemon's hut in the desert; the Alchemist's hut on the ì
+shore north and east of Brittany Bay; and Sutek's Hut, which is ì
+on an island in the southern ocean.
+
+ Iolo's hut is warm and cozy, but you cannot stay, for the great ì
+Quest of the Avatar awaits you, Iolo, and Shamino (who are a part ì
+of your immediate starting party). Exploration of the area around ì
+this hut, which is located deep in the woods south of Yew, will ì
+reveal a stable. Later in the game, Smith (the talking horse) ì
+will be there and talk with you. Some say his words have the ì
+power to restore shrines destroyed by Blackthorn. There is a ì
+wishing well here. You might try wishing for a horse so you can ì
+ride to your next destination.
+
+ In the desert to the far northeast of Brittany Bay, you will ì
+find the hut of the Daemon. Getting there is half the fun. You ì
+will run into many Sand Traps, which are almost indestructible. ì
+Use the flying carpet to save yourself some frustrations. The ì
+Daemon reveals the coordinates of the Shard of Hatred (I'A"-I'A") ì
+in the Underworld, and that it can be reached from the dungeons ì
+by Lost Hope Bay (Covetous and Wrong).
+
+ The Alchemist will teach you a new spell: REL XEN BET. This ì
+sixth circle magic is composed of Silk, Ash, Mandrake, and ì
+Nightshade, and will turn foes to rats, making them easier to ì
+kill. This spell is especially useful for getting rid of dragons, ì
+but Daemons seem to have a resistance to it.
+
+ Sutek, whose hut is on an island in the southern ocean, relates ì
+to you the proper method for using the Shards to dispose of the ì
+Shadowlords. He tells you that you must stand before the proper ì
+flame (Love, Truth, and Courage), call the name of the ì
+appropriate Shadowlord, and when he appears and is standing in ì
+the flame, (U)se that Shard. After the fireworks, the Shadowlord ì
+will be gone. Sutek explains the origin of the Shards for those ì
+who are really into the history of the land.
+
+ THE MINOR KEEPS
+                                   
+ There are four minor keeps: Bordermarch, Farthing, Windemere, ì
+and Stonegate. They are all hidden in obscure locations ì
+throughout Britannia.
+
+ Bordermarch is nestled in the mountains of an island off the ì
+western coast of Britannia. You will need the Grapple to climb ìèthe mountains to reach this keep. Sing the keep will reveal ì
+an Armoury in the northwest tower. Here you can buy Rings of ì
+Regeneration. This artifact is handy for regenerating your ì
+party's hit points while traveling. You will meet Dupre, a ì
+shining paladin and friend from ULTIMA IV, and he will offer to ì
+join you. Lady Tessa will tell you all you need to know about ì
+Lord British's Amulet, including the fact that without it, you ì
+cannot find the entrance to DOOM. Sir Simon gives you the ì
+information you need about the Crown and Sceptre. The Sceptre can ì
+dispel magical force fields, and the crown absorbs all magic -- ì
+no matter how powerful. All three of these artifacts are ì
+absolutely necessary in order for you to complete the Quest of ì
+the Avatar successfully.
+
+ Farthing can be found on a small island off the southwestern tip ì
+of Britannia. Again, you will need to search the island and climb  ì
+a few mountains to locate the keep. Once in the keep, you will ì
+meet some interesting people. Quinton, the keep's cook, tells you ì
+about Britannia's biggest gossip, Telila, who lives in Britain; ì
+he tells you to ask her about rumors or gossip. Dufus, a clumsy ì
+boy who is apprentice to the mage, Temme, tells you of a spyglass ì
+owned by the keep's owner, Lord Segallion. When you meet Lord ì
+Segallion and ask him about the spyglass, he will give it to you ì
+if you can answer his question. The poser he gives you is: "What ì
+is it the eight planets represent?" The answer: Virtues. With the ì
+spyglass, you can check the heavens in the evening to locate the ì
+Shadowlords. Temme, a mage of great repute, tells you of a new ì
+spell she has invented: AN YLEM. It will cause things to ì
+disappear. The problem is she cannot remember which reagents she  ì
+used; they were either Ash and Mandrake, or Garlic and Blood ì
+Moss. You might experiment. I didn't, and I finished the quest ì
+without ever knowing.
+
+ Windemere can be found on an island to the far north and east of ì
+the realm. Here you will meet Elistaria, who will give you the ì
+Black Badge of the Oppression when you can tell her the ì
+Oppression's password (IMPERA). She will also tell you that Thrud  ì
+has other things for you. Thrud has a sword and shield, which I ì
+found had little use or value. But the Black Badge, along with ì
+the password of the Oppression, are the keys to a successful ì
+foray on Blackthorn's Castle, and the acquisition of the Crown of ì
+Lord British.
+
+ Stonegate, the home of the Shadowlords, can be found in the ì
+mountains north of Cove. You will need to climb the mountains to  ì
+secure entrance, and the pass is from the west side of the range. ì
+Use a gem to locate the access; however, do not waste your time ì
+in trying to assault this keep until you have disposed of the ì
+Shadowlords. Once you have taken care of all three of them, the ì
+entry to the keep and acquisition of Lord British's Sceptre is ì
+fairly easy. At the door to the keep you will meet a Daemon, who ì
+will pose you a riddle. Don't even bother trying to figure it out ì
+because it makes no difference whether you answer it correctly or ì
+not: He will still attack you. Just kill the sucker, and go on ì
+in.
+èThe Sceptre is in the center of the keep, but board your carpet ì
+to get it or you will be sorry. Actually, using the carpet is the ì
+only way to get the Sceptre. Once you have it, leave. There is ì
+little else of interest in this keep.
+
+ THE CODEX
+
+ There is a large island in the far southeastern part of the ì
+ocean. This is the island on which the original entry to the ì
+Codex in ULTIMA IV was located. The path leading to the Shrine ì
+itself is quite obvious. Park your ship, take your skiff, dock, ì
+and walk up the path past the Guardians. You had better have a ì
+quest assigned from one of the Shrines, or you will not be able ì
+to pass. If you enter the Shrine to the Codex, everything else ì
+will be automatic. Once finished here, return to the Shrine from ì
+which you received the quest, and receive your reward.
+
+
+
+
+
+
+
+
+
+ ULTIMA V
+  Part 5
+
+ THE UNDERWORLD
+
+ There is one thing to bear in mind about the Underworld: It is ì
+huge! One should not explore the Underworld without a specific ì
+quest; random wandering is discouraged -- that is, unless you ì
+relish the idea of relentless attacks by Mongbats, and other ì
+creatures who are almost indestructible.
+
+ There are two ways to get to the Underworld: by accident and by ì
+design. Let's dispose of the former. As you explore the oceans of ì
+Britannia, you will see your old "friend": the whirlpool from ì
+previous ULTIMAs. Unfortunately, you WANT to avoid this ì
+whirlpool, for it will whisk you and your party off to the ì
+Underworld without proper preparation (or, more importantly, a ì
+way back to the surface). It is, therefore, advisable to save ì
+your game any time you are beginning an ocean voyage. If you get ì
+caught in a whirlpool, you will probably want to quit and restore ì
+from that point. Actually, you can explore, earn experience and ì
+treasure, then "die" and be taken back to Lord British's Castle; ì
+however, there are more interesting ways to accomplish the same ì
+goals in this game.
+
+ Instead, let's discuss planned trips into the Underworld. And, ì
+planned trips they should be! To be able to sustain the many ì
+dangers -- and frustrations -- you and your party will encounter, ì
+characters should be at least fifth or sixth level. You will need ì
+the best armour and weapons you can obtain at this point in the ìègame. The magic axe is probably tht weapon you can use, and ì
+one of your Underworld quests will provide you with the Mystical ì
+Armour (and weapons) which provide the best protection. Absolute ì
+"musts" to have with you: the magic carpet, the mountain climbing ì
+grapple, many gems for viewing, and several moonstones (you have ì
+learned how to obtain the moonstones, haven't you?). You should ì
+have as many reagents as you can afford, and be sure to mix many ì
+cure poison (AN NOX) spells. On one of your quests, you will need ì
+a LOT of IN POR spells also. One of the most helpful artifacts ì
+you can have with you (in addition to the suggested inventory) is ì
+the Ring of Invisibility. Generally, you can equip one member of ì
+the party with this ring and remove all others from the screen ì
+during combat; the monsters will think everyone has left, and you ì
+will win the battle. Unfortunately, you will only get points for ì
+the monsters actually killed. While helpful in the Underworld, ì
+the Ring of Invisibility is an absolute MUST in the Dungeons.
+
+ The quests can be categorized into four areas: search for the ì
+Amulet, obtain the Shards, quest for the Mystics, and enter Doom. ì
+Besides the whirlpool mentioned above, there are two planned ì
+methods for reaching the Underworld. The order in which you ì
+perform these quests (except for entering Doom, which must come ì
+last) is immaterial. However, acquiring the Shards and disposing ì
+of the Shadowlords was high on this Avatar's list of priorities!
+
+ To obtain Lord British's Amulet, you must read and follow ì
+Remoh's Journal, which is contained in the boxed game material. ì
+This entrance to the Underworld is through a small lake to the ì
+east of Spiritwood, which lies to the south and west of Lord ì
+British's Castle. Getting to the lake is a real pain, as you must ì
+get there by skiff. The best plan is to sail your schooner around ì
+the southern tip of the continent, then up the west coast to the ì
+group of islands at the entrance to the large bay just south of ì
+Spiritwood. Board your skiff at this point, and sail up the river ì
+to the small lake that empties over a waterfall. Sail into the ì
+lake and into the waterfalls. Voila! You are in the Underworld. ì
+From this point, and until you reach the Amulet, follow EXACTLY ì
+the route taken by Lord British and his group as reported by the ì
+Scribe Remoh in his Journal. These directions are quite clear and ì
+don't need to be repeated here. Once you have the Amulet, you ì
+will be faced with the problem of getting back. Remember the ì
+impassable waterfalls and obstacles you passed getting here? ì
+Returning the way you came is impossible. You will have to use a ì
+Moonstone. Plant it and return to the surface. (Make sure you ì
+record where you use each moonstone. If you don't, you may find ì
+yourself teleporting endlessly around the Underworld later in the ì
+game.)
+
+ Each of the three Shards is obtained by entering the Underworld ì
+via one of the dungeons. The Shard of Falsehood is from Deceit, ì
+the Shard of Hatred is from Covetous or Wrong, and the Shard of ì
+Cowardice is from Hythloth.
+
+ If you talked to the twins in the Temple in Cove, you got very ì
+detailed instructions on how to get to the Shard of Falsehood.  ìèWhat these young ladies failed to you was how to get back to ì
+the Dungeon entrance. If you follow their instructions closely, ì
+you will find a series of waterfalls, which end in a lake, in the ì
+middle of which is an island on which the Shard of Falsehood ì
+rests. You will obviously need the flying carpet to get it. Once  ì
+obtained, you would normally try to hike, fly, or climb to get ì
+back; fortunately, you have this walkthru to save you lots of ì
+frustration! There are three ways to get back: Use a moonstone, ì
+climb some mountains, or commit suicide. The easiest way is to ì
+plant a moonstone, and return to the surface. There is a passage ì
+through the mountains to the east of the island. It requires lots ì
+of exploration (the magic gems come in handy here) and hit points  ì
+to get through, but once you're through this mountain chain, you ì
+will be near the dungeon entrance.
+
+ The last way is to allow your party to run out of hit points, ì
+die, and be returned to Lord British's Castle. Somehow, to me, ì
+this did not seem like the hero's way out! So you have the Shard ì
+of Falsehood and are back in Britannia. Other parts of this ì
+walkthru will cover what to do with the Shard.
+
+ The Shard of Hatred is probably the easiest to find in the ì
+Underworld. From the Dungeon (either Covetous or Wrong), use a ì
+gem, and look for an area which is surrounded by paths. It will ì
+appear that you cannot enter because of the mountains. There is a ì
+path through the mountains from the northwest. The actual path ì
+will require exploration, use of gems, and lots of hit points. To ì
+get back to Britannia, another moonstone is suggested; however, ì
+you will need to return near to the dungeon entrance to use it. ì
+For some reason, I was never able to plant the moonstone in the ì
+enclosed area where the Shard was found.
+
+ From Dungeon Hythloth you can take care of two quests. The ì
+Mystical Armour and the Mystical Arms are found in the center of ì
+a cross-shaped lava field to the north of the dungeon entrance. ì
+Again, as with much of the Underworld, you will need to climb ì
+mountains to get there, which requires many hit points and heal ì
+spells and potions. To obtain the Mystics, walk into the lava ì
+field and position the party just south of the center. Have each ì
+character S)earch twice.
+
+ For the Shard of Cowardice, you will need a BUNCH of IN POR ì
+spells and gems. This area of the Underworld is like many rooms ì
+without any doors. The only way to get from room to room is to ì
+position the party at the furthest point of the direction in ì
+which you want to move, and cast an IN POR. Start from the area ì
+in which the dungeon entrance is located, and IN POR west until ì
+you can go no further. To tell where the boundaries to this area ì
+are, if you use a gem, you will not see any additional open ì
+spaces. Generally, the whole area is shaped like a long  ì
+rectangle. Once you have the pattern down, just IN POR from area ì
+to area, search the area thoroughly (the Shard is in plain ì
+sight), gather experience, and then you are ready go back to the ì
+entrance to Hythloth. This dungeon was the only one I found that ì
+could be re-entered for travel back to the surface.
+è
+ Now you have the Amulet, the three Shards have been obtained and ì
+used, you have the party equipped with the Mystics, and you're ì
+ready (hopefully!) to begin the final quest of the game. For the ì
+trek to Doom, you will need a little more preparation than that ì
+which was required at the beginning of this section. Since you ì
+will be entering the end-game phase, your Avatar should be at ì
+least level eight. The spells of the Eighth Circle are very nice ì
+to have. You will absolutely have to have the following with you,  ì
+because once you reach and enter Doom, there is no turning back. ì
+In addition to the Amulet, you need the Crown, Sceptre, and the ì
+mysterious box from Lord British's private apartment atop his ì
+Castle. You need the carpet, as well as many reagents and mixed ì
+spells as possible, and lots of food. Okay, if you're ready, ì
+let's go to Dungeon Shame and enter the Underworld.
+
+ At the Underworld entrance to Shame, board your magic carpet. ì
+The ground in this part of the Underworld is deadly swamp. Travel ì
+due east as far as you can go. Use a gem, and you should see an ì
+area to the west which is grassland bordered on the east by ì
+water. IN POR to the east, and travel by carpet to the island, ì
+which has many lava flows and mountains. Again, be prepared to ì
+take lots of damage trying to reach your goal. Equip the Amulet. ì
+Repeat, equip (Use) the Amulet, enter one of the lava streams, ì
+and walk towards the center of the island. You will come to ì
+darkness. Enter the dark area and use a gem. The Amulet allows ì
+you to "see" the entrance of Doom. Work your way to it, enter, ì
+and begin the final stages of the QUEST of the AVATAR.
+
+
+
+
+
+
+
+ ULTIMA V
+  Part 6
+
+ So you've destroyed the Shadowlords, completed all of the shrine ì
+quests, gathered a group of powerful heroes, and recovered all of ì
+Lord British's items (including the Sandalwood Box!). Your ì
+incredible quest is almost at its end. Take a breather, then ì
+enter Dungeon Doom.
+
+ Level 1: You'll find yourself in a strange room with ethereal  ì
+walls that appear to hide any exit. It's time to use Lord ì
+British's Sceptre. Walk over to one of the walls (I went west) ì
+and use it. The power of the sceptre will cause the walls near ì
+you to disappear. Walk through (it doesn't matter which direction  ì
+you go). Walk down the corridor until you find a ladder. Klimb ì
+down.
+
+ Level 2: View a gem. Get oriented, and then walk forward a ì
+space, turn left, walk forward twice, turn left, then walk ì
+forward to the down ladder, and Klimb down.
+è
+ Level 3: View a gem again. The room you want to go to is the ì
+farthest to the east, and lies beyond those secret doors.  ì
+Depending on which route you have taken so far, this route will ì
+be different. From wherever you are, though, head east. The way ì
+through the secret door is east. Enter the room, and defeat the ì
+demons. You should know good battle tactics by now. The only ì
+trouble you should have in this room is with the ghostly "ward" ì
+blocking your passage. The sceptre will destroy it as it did at ì
+the start of Doom. Klimb down the ladder twice to
+level 5.
+
+ Level 5: You may want to save your game at some time; just keep ì
+this in mind. Fortunately, ULTIMA V allows us that privilege. ì
+From here go east to an up portal. Using a gem, you'll find that ì
+this level is shaped like a diagonal 8. Again, you may have taken ì
+a different route, in which case you would go west to the other, ì
+north up portal. Whichever you use, go up.
+
+ Level 4: You should be in a "plus" shaped room. Walk into the ì
+center of the "plus," then descend through the portal.
+
+ Level 5, again: It's another of those wacky repeat levels seen ì
+so often in the ULTIMAs. Go east to the crossroads, then turn ì
+right, and go forward twice. Take this ladder up.
+
+ Level 4, again: From here, jog east a couple of squares, then ì
+descend the portal (it may be concealed). Klimb down from the ì
+ladder on Level 5. Welcome to Level 6.
+
+ Level 6: Go north a square, turn right, forward four times, turn ì
+right, forward three times, turn left, then forward into the ì
+room. Basically, just follow the corridor. Once in the room, ì
+polish off its denizens, then head north. You'll find a ladder at ì
+the end of the corridor. Take it down to Level 7.
+
+ Level 7: Here we'll do something tricky. If you kept going down, ì
+you'd end up at level 8, but it would only be a turnaround back ì
+up to level 6. So let's see what's in this little room to the ì
+south. Geez! Demons, Dragons, Sandtraps, oh my! With luck, your ì
+Avatar or wizard is eighth level. It is now IN VAS GRAV CORP or ì
+IN FLAM HUR time. The aforementioned spells work splendidly in ì
+this room. Finish off the incinerated inhabitants, pick up your ì
+spoils, and find the ladder down (in the middle of the room). Go ì
+down.
+
+ Level 8: Your quest is almost over. At this point, exhale ì
+voluntarily. Feels good to have almost completed ULTIMA V, eh? ì
+The rest of Doom is a convoluted contortion of some "Chutes and ì
+Ladders" offshoot. Right now, though, you're in a room filled ì
+with nasties. Position your mage at the bottom of the screen, ì
+then start lobbing your magic axes toward the northwest corner. ì
+There is a secret door trigger there somewhere. When you hit it, ì
+a slew of mongbats will parade out of a new opening. IN VAS GRAV ì
+CORP them (or IN FLAM HUR). Crisp, crisp, crisp little bats!  ìèDance wildly through the passage to est. Go up the ladder in ì
+the corridor.
+
+ Level 7: Here's a neat room. After defeating the foul host, find ì
+the secret triggers on the east wall (three of them, I believe). ì
+After opening the passage, hike north, then take the ladder or ì
+down portal (whichever) down.
+                           
+ Level 8: Go west from the portal, then take the ladder up.
+
+ Level 7: View a gem. There should be a down portal in the middle ì
+of this "C." Take it down.
+
+ Level 8: You'll end up on an isle in the middle of a tiny lake. ì
+Fight your way off, then walk around in the north. A trigger ì
+should open a passage in the northeast corner. Go into the ì
+passage, and push around. Another passage will open to the east. ì
+Go through it, then klimb up to level 7.
+
+ Level 7: This room is fairly similar to the one higher up on ì
+level 3. Kill the demons, then run to the east after using the ì
+sceptre -- a pool of fire usually springs up. Exit the room, and ì
+search in front of you. I wonder where that pit leads to? Take it ì
+down.
+
+ An odd room. Definitely not the kind of thing you'd normally see ì
+in a dungeon. Are you at the core of the world? Where's Lord ì
+British? Search around. I will leave the final "puzzle" up to ì
+you. Once you've found out where you need to go, go there.
+
+ Congratulations on the completion of a truly wondrous game! Good ì
+thing you brought that sandalwood box along. Revel in your glory, ì
+and prepare for the next of Lord British's unique gaming ì
+experiences -- ULTIMA VI. Just as ULTIMA V has defied the law of ì
+sequels, I am confident that ULTIMA VI will, as well.
+
+ Always remember: The quest of the Avatar is forever!
+
+ ****Call Dark Domain BBS ----- The Raven*****
+                              
+ 
+
+
+
+
+                                         
+
+
+
+ ULTIMA V
+  Part 7
+
+ MISCELLANEOUS ITEMS
+
+ The following paragraphs will give specific information that's ìèuseful in obtaining Lord British'sn jewels, which are needed ì
+to complete your quest.
+
+ Crown: The crown can be easily retrieved with the use of the ì
+magic carpet. This item is within Blackthorn's castle (located at ì
+position P'F"-M'E", or west from the Codex). The crown is located ì
+on the top level. This is how to get there:
+
+ From the entrance of Blackthorn's castle go north, and go up ì
+either one of the stairways located on the back wall. You will ì
+arrive and see a man sitting in a chair. Go through the secret ì
+door behind the ladder, and then go up the ladder right after it. ì
+You will find yourself in Blackthorn's throne room. Do not talk ì
+to Blackthorn or the jester. Go through the door on the north  ì
+wall (not the secret one), and up the ladder. You're on the roof. ì
+On the southern side is the entrance to the chamber with the ì
+crown. Try to avoid the Gargoyles, for they are hard to kill and ì
+will duplicate like slime. Use a skull key to open the door and ì
+get the crown. The crown will absorb all magic used against you.
+
+ Amulet: The amulet is located in the Underworld and is found by ì
+reading the journal of Lord British's travels which come packaged  ì
+with the game. The following is a summary of the directions:
+
+ Enter the waterfall located in Spiritwood (I'J"-D'G"), and you ì
+will end up in the Underworld. From there, travel south along the ì
+river. Soon you will come to a fork leading east and south; take ì
+the southern route. Continue past the waterfall, and take the ì
+west route at the next fork. Continue north from here. You will ì
+go through a waterfall and then into a lake. Go south, following ì
+the shore, until you come to two streams; take the western one. ì
+Follow this stream, through three waterfalls, into another lake. ì
+Here, you should see a rowboat. Follow the footpath south into a ì
+grassy area. Go through the north exit, which will lead to an  ì
+eastern path. Soon your path will turn south and you will enter ì
+into an area of swamps. There is a passage out to the northeast. ì
+This path will eventually lead to the "grave of lost souls," ì
+which is where the amulet is hidden.
+
+ Sceptre: The sceptre is located within the Shadowlords' castle. ì
+This castle is locked in by mountains and is located at E'K"-ì
+J'E". No spells can be cast in this castle, and all three ì
+Shadowlords will be there. The sceptre is in the center of the ì
+castle. Just enter (use the skull keys to get in), and go north ì
+until you see the sceptre. It is surrounded by trapdoors, which ì
+will drop you into a screen of fire; you will die if you fall. ì
+The solution to this is to use the magic carpet. The sceptre is ì
+used to dispel magic fields anywhere.
+
+ POTIONS AND SCROLLS
+
+ There are many extremely useful potions and scrolls in ULTIMA V. ì
+They are usually found in bookshelves or under beds. Here is a ì
+list of these useful potions and scrolls, and their functions:
+
+è POTIONS:
+
+ Purple - Turns player into a rat, just like the spell.
+ Black - Turns player invisible for combat. Same as a Ring of ì
+ Invisibility.
+ White - Gives a short view of the non-combat, non-dungeon ì
+ screen. Very handy in the Underworld!
+ Yellow - Performs a heal spell on the player it's used on.
+ Green - Poisons the player it's used on.
+ Orange - Performs a sleep spell on the player it's used on.
+ Blue - Casts awaken on a player.
+ Red - Cures a player of poison.
+
+
+ SCROLLS
+
+ Purple - Rel Xen Bet (1 Sp Silk, 1 S Ash, 1 Mandrake, 1 ì
+ Nightshade) Rat Spell Black - Sanct Lor
+ White - Wis An Ylem
+ Yellow - Mani, occasionally Vas Mani (unpredictable)
+ Green - In Nox Grav (on player); not really applicable to spell
+ Orange - In Zu Grav (on player); not really applicable to spell
+ Blue - An Zu
+ Red - An Nox (Extremely handy!!!)
+
+ 
+ 
+
+X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
+ Another file downloaded from:                     The NIRVANAnet(tm) Seven
+
+ & the Temple of the Screaming Electron   Taipan Enigma        510/935-5845
+ Burn This Flag                           Zardoz               408/363-9766
+ realitycheck                             Poindexter Fortran   510/527-1662
+ Lies Unlimited                           Mick Freen           801/278-2699
+ The New Dork Sublime                     Biffnix              415/864-DORK
+ The Shrine                               Rif Raf              206/794-6674
+ Planet Mirth                             Simon Jester         510/786-6560
+
+                          "Raw Data for Raw Nerves"
+X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
