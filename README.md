@@ -22,37 +22,7 @@ python build_capsule.py
 
 This will create a `capsule/` directory with all `.gmi` files ready to be served by a Gemini server.
 
-## Running Locally with Agate (Docker)
 
-To serve the capsule locally using Agate via Docker:
-
-```bash
-docker run --rm \
-  -v "$(pwd)/capsule:/var/gemini/content" \
-  -v "$(pwd)/.certificates:/var/gemini/.certificates" \
-  -p 1965:1965 \
-  -e GEMINI_HOST=localhost \
-  -e GEMINI_PORT=1965 \
-  makifoxgirl/agate \
-  --hostname localhost \
-  --content /var/gemini/content
-```
-
-On Windows PowerShell:
-
-```powershell
-docker run --rm `
-  -v "${PWD}/capsule:/var/gemini/content" `
-  -v "${PWD}/.certificates:/var/gemini/.certificates" `
-  -p 1965:1965 `
-  -e GEMINI_HOST=localhost `
-  -e GEMINI_PORT=1965 `
-  makifoxgirl/agate `
-  --hostname localhost `
-  --content /var/gemini/content
-```
-
-Then access the capsule at `gemini://localhost/` using a Gemini client.
 
 ### Notes on TLS
 

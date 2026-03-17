@@ -21,8 +21,8 @@ PAGES_DIR = CAPSULE_DIR / "pages"
 COLLECTIONS_DIR = CAPSULE_DIR / "collections"
 
 # Deploy target: override with env KRAKO_DEPLOY_TARGET.
-# Use a local path when running on the server (e.g. /var/lib/krako/content); use user@host:path for remote.
-DEPLOY_TARGET = os.environ.get("KRAKO_DEPLOY_TARGET", "root@portalidea:/var/lib/krako/content")
+# Default is local path (script usually runs on the server). Use user@host:path for remote deploy.
+DEPLOY_TARGET = os.environ.get("KRAKO_DEPLOY_TARGET", "/var/lib/krako/content")
 DEPLOY_REMOTE_PATH = "/var/lib/krako/content"
 DEPLOY_CHOWN = "krako:krako"
 
