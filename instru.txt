@@ -1,0 +1,2 @@
+rsync -a --delete ~/krako/capsule/ /var/lib/krako/content/
+chown -R krako:krako /var/lib/krako/content
