@@ -20,7 +20,8 @@ CAPSULE_DIR = PROJECT_ROOT / "capsule"
 PAGES_DIR = CAPSULE_DIR / "pages"
 COLLECTIONS_DIR = CAPSULE_DIR / "collections"
 
-# Deploy target (override with env KRAKO_DEPLOY_TARGET, e.g. root@portalidea:/var/lib/krako/content)
+# Deploy target: override with env KRAKO_DEPLOY_TARGET.
+# Use a local path when running on the server (e.g. /var/lib/krako/content); use user@host:path for remote.
 DEPLOY_TARGET = os.environ.get("KRAKO_DEPLOY_TARGET", "root@portalidea:/var/lib/krako/content")
 DEPLOY_REMOTE_PATH = "/var/lib/krako/content"
 DEPLOY_CHOWN = "krako:krako"
@@ -657,7 +658,7 @@ Enjoy your journey through the weird and wonderful corners of the internet.
     print(f"[OK] Generated index.gmi")
 
 def run_deploy():
-    """Sync capsule/ to DEPLOY_TARGET via rsync, then chown on remote."""
+    """Sync capsule/ to DEPLOY_TARGET (local path or user@host:path). Creates target dir if needed; runs chown after."""
     capsule_src = CAPSULE_DIR.resolve()
     if not capsule_src.exists():
         print("Deploy failed: capsule directory not found.")
@@ -665,32 +666,59 @@ def run_deploy():
     src = str(capsule_src).rstrip(os.sep) + os.sep
     target = DEPLOY_TARGET
     print("Deploying capsule to", target, "...")
+    # Remote = user@host:path (contains ":" and "@" before the colon); else local path
+    is_local = not (":" in target and "@" in target.split(":")[0])
+
     try:
-        r = subprocess.run(
-            ["rsync", "-a", "--delete", src, target],
-            check=False,
-            capture_output=True,
-            text=True,
-        )
-        if r.returncode != 0:
-            print("Deploy failed (rsync):", r.stderr or r.stdout or "unknown error")
-            sys.exit(1)
-        # Parse host from target (e.g. root@portalidea:/var/lib/krako/content -> root@portalidea)
-        if ":" in target:
+        if is_local:
+            dest_path = target.rstrip(os.sep)
+            os.makedirs(dest_path, exist_ok=True)
+            r = subprocess.run(
+                ["rsync", "-a", "--delete", src, dest_path + os.sep],
+                check=False,
+                capture_output=True,
+                text=True,
+            )
+            if r.returncode != 0:
+                print("Deploy failed (rsync):", r.stderr or r.stdout or "unknown error")
+                sys.exit(1)
+            r2 = subprocess.run(
+                ["chown", "-R", DEPLOY_CHOWN, dest_path],
+                check=False,
+                capture_output=True,
+                text=True,
+            )
+            if r2.returncode != 0:
+                print("Deploy (chown) failed:", r2.stderr or r2.stdout or "unknown error")
+                sys.exit(1)
+        else:
             host = target.split(":")[0]
             remote_path = target.split(":", 1)[1].rstrip("/")
-        else:
-            print("Deploy failed: cannot parse host from target for chown.")
-            sys.exit(1)
-        r2 = subprocess.run(
-            ["ssh", host, f"chown -R {DEPLOY_CHOWN} {remote_path}"],
-            check=False,
-            capture_output=True,
-            text=True,
-        )
-        if r2.returncode != 0:
-            print("Deploy (chown) failed:", r2.stderr or r2.stdout or "unknown error")
-            sys.exit(1)
+            # Ensure remote directory exists so rsync receiver can write
+            subprocess.run(
+                ["ssh", host, f"mkdir -p {remote_path}"],
+                check=False,
+                capture_output=True,
+                text=True,
+            )
+            r = subprocess.run(
+                ["rsync", "-a", "--delete", src, target],
+                check=False,
+                capture_output=True,
+                text=True,
+            )
+            if r.returncode != 0:
+                print("Deploy failed (rsync):", r.stderr or r.stdout or "unknown error")
+                sys.exit(1)
+            r2 = subprocess.run(
+                ["ssh", host, f"chown -R {DEPLOY_CHOWN} {remote_path}"],
+                check=False,
+                capture_output=True,
+                text=True,
+            )
+            if r2.returncode != 0:
+                print("Deploy (chown) failed:", r2.stderr or r2.stdout or "unknown error")
+                sys.exit(1)
         print("Deploy complete.")
     except FileNotFoundError as e:
         print("Deploy failed: rsync or ssh not found.", e)
