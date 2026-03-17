@@ -1,7 +1,11 @@
+# Webwalk
+
 
 => /collections/New/adventure/waxworks.gmi ← Waxworks
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/wega_station.gmi Wega Station →
+Read this next:
+=> /collections/New/adventure/wega_station.gmi Wega Station
 
 ---
 
@@ -460,4 +464,4 @@ The credits scroll up....
 ZEUS/RAZOR 1911
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

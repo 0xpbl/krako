@@ -1,7 +1,11 @@
+# Aquest
+
 
 => /collections/New/adventure/aod.gmi ← Aod
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/archipel.gmi Archipel →
+Read this next:
+=> /collections/New/adventure/archipel.gmi Archipel
 
 ---
 
@@ -608,4 +612,4 @@
      * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

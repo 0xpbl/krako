@@ -1,7 +1,11 @@
+# Trapdoor2
+
 
 => /collections/New/adventure/trapdoor.gmi ← Trapdoor
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/trinity.gmi Trinity →
+Read this next:
+=> /collections/New/adventure/trinity.gmi Trinity
 
 ---
 
@@ -112,4 +116,4 @@
                       http://members.tripod.com/~nfspd/
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

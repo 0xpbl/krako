@@ -1,7 +1,11 @@
+# Jinxter
+
 
 => /collections/New/adventure/jinxster.gmi ← Jinxster
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/journeywt.gmi Journeywt →
+Read this next:
+=> /collections/New/adventure/journeywt.gmi Journeywt
 
 ---
 
@@ -571,4 +575,4 @@ from: the Asimov collection
      * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

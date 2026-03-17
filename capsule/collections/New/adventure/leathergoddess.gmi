@@ -1,7 +1,11 @@
+# Leathergoddess
+
 
 => /collections/New/adventure/lawofthewest.gmi ← Lawofthewest
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/legendapachegold.gmi Legendapachegold →
+Read this next:
+=> /collections/New/adventure/legendapachegold.gmi Legendapachegold
 
 ---
 
@@ -97,4 +101,4 @@ The Motherboard Central...........................................316-342-5450
 ------------------------------------------------------------------------------
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

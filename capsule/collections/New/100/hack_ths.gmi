@@ -1,7 +1,11 @@
+# Hack Ths
+
 
 => /collections/New/100/hack7.gmi ← Hack7
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/highdoc.gmi Highdoc →
+Read this next:
+=> /collections/New/100/highdoc.gmi Highdoc
 
 ---
 
@@ -4495,4 +4499,4 @@
 !
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

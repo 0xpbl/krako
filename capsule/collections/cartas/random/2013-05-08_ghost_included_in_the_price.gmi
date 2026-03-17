@@ -1,8 +1,12 @@
 # Ghost Included in the Price
 
+Date: 2013-05-08
+
 => /collections/cartas/random/2013-03-15_ivo_who_saw_the_grape.gmi ← 2013-03-15 Ivo Who Saw The Grape
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2013-07-04_buying_a_flea.gmi 2013-07-04 Buying A Flea →
+Read this next:
+=> /collections/cartas/random/2013-07-04_buying_a_flea.gmi 2013-07-04 Buying A Flea
 
 ---
 
@@ -27,4 +31,4 @@ Regards,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

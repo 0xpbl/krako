@@ -1,7 +1,11 @@
+# Sorcererofclaymorgue
+
 
 => /collections/New/adventure/sorcerer.gmi ← Sorcerer
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/sorceria.gmi Sorceria →
+Read this next:
+=> /collections/New/adventure/sorceria.gmi Sorceria
 
 ---
 
@@ -29,4 +33,4 @@ Yoho - takes you to the field.
 Jacob Gunness - d.22/9-1990.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

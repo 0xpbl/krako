@@ -1,7 +1,11 @@
+# Hack1
+
 
 => /collections/New/100/groupass.gmi ← Groupass
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/hack11a.gmi Hack11A →
+Read this next:
+=> /collections/New/100/hack11a.gmi Hack11A
 
 ---
 
@@ -112,4 +116,4 @@ ARTICLE HAS BEEN WRITTEN BY:  THE KNIGHTS OF SHADOW
                                            
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

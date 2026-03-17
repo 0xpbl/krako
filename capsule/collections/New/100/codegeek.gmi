@@ -1,7 +1,11 @@
+# Codegeek
+
 
 => /collections/New/100/catstuff.gmi ← Catstuff
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/copyprot.gmi Copyprot →
+Read this next:
+=> /collections/New/100/copyprot.gmi Copyprot
 
 ---
 
@@ -453,4 +457,4 @@ GEEK CODE v1.0.1:   GSS d- -p+(---) c++(++++) l++ u++ e+/* m++(*)@ s-/++
                         n-(---) h+(*) f+ g+ w++ t++ r++ y+(*)
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

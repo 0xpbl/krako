@@ -1,7 +1,11 @@
+# Howtobbs
+
 
 => /collections/New/100/highdoc.gmi ← Highdoc
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/iaad.gmi Iaad →
+Read this next:
+=> /collections/New/100/iaad.gmi Iaad
 
 ---
 
@@ -171,4 +175,4 @@ other points of view, make it all worthwhile.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

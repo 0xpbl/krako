@@ -1,7 +1,11 @@
+# Kquest
+
 
 => /collections/New/adventure/kqiisolv.gmi ← Kqiisolv
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/krynn.gmi Krynn →
+Read this next:
+=> /collections/New/adventure/krynn.gmi Krynn
 
 ---
 
@@ -199,4 +203,4 @@ Power that you labored so long to recover.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

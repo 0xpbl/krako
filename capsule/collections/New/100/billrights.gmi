@@ -1,7 +1,11 @@
+# Billrights
+
 
 => /collections/New/100/bhbb1.gmi ← Bhbb1
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/black.gmi Black →
+Read this next:
+=> /collections/New/100/black.gmi Black
 
 ---
 
@@ -94,4 +98,4 @@ of the EFF. First printed by the New York Times and then re-printed by
 Playboy magazine.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

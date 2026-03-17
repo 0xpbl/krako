@@ -1,7 +1,11 @@
+# Finderskeepers
+
 
 => /collections/New/adventure/fgth.tip.gmi ← Fgth.Tip
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/fish.gmi Fish →
+Read this next:
+=> /collections/New/adventure/fish.gmi Fish
 
 ---
 
@@ -287,4 +291,4 @@ Epilogue
 Zub     10-11-2001
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

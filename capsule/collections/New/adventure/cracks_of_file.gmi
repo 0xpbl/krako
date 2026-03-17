@@ -1,7 +1,11 @@
+# Cracks Of File
+
 
 => /collections/New/adventure/cptblood.gmi ← Cptblood
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/cranston.gmi Cranston →
+Read this next:
+=> /collections/New/adventure/cranston.gmi Cranston
 
 ---
 
@@ -26,4 +30,4 @@ Drop falcon/Get ring/S/D/D/W/Get gobbol/E/U/W/N/W/N/E/N/W/W/W/U/W/S/E
 S/E/Drop ring
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

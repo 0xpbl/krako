@@ -1,7 +1,11 @@
+# Jacknipper
+
 
 => /collections/New/adventure/irish.gmi ← Irish
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/jackripper.gmi Jackripper →
+Read this next:
+=> /collections/New/adventure/jackripper.gmi Jackripper
 
 ---
 
@@ -168,4 +172,4 @@ carrying.
 THE GAME IS FINISHED. YOU ARE INDEED A LITTLE HORROR. TEE, HEE.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

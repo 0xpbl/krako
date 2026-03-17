@@ -1,7 +1,11 @@
+# Ecstatic
+
 
 => /collections/New/adventure/ecoqu1.gmi ← Ecoqu1
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ecstwalk.gmi Ecstwalk →
+Read this next:
+=> /collections/New/adventure/ecstwalk.gmi Ecstwalk
 
 ---
 
@@ -237,4 +241,4 @@
         Typed in by PADISHAR CREEL
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

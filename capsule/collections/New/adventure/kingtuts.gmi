@@ -1,7 +1,11 @@
+# Kingtuts
+
 
 => /collections/New/adventure/kingslve.gmi ← Kingslve
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/kobayashi.gmi Kobayashi →
+Read this next:
+=> /collections/New/adventure/kobayashi.gmi Kobayashi
 
 ---
 
@@ -19,4 +23,4 @@ Get spear/S/Get necklace/W/W/W/S/W/W/N/N/E/W/Drop spear/Drop necklace
 Score
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

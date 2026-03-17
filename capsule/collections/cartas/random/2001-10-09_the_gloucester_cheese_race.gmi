@@ -1,8 +1,12 @@
 # The Gloucester Cheese Race
 
+Date: 2001-10-09
+
 => /collections/cartas/random/2001-10-09_on_fences_and_property.gmi ← 2001-10-09 On Fences And Property
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2002-01-16_776_bc_at_the_olympics.gmi 2002-01-16 776 Bc At The Olympics →
+Read this next:
+=> /collections/cartas/random/2002-01-16_776_bc_at_the_olympics.gmi 2002-01-16 776 Bc At The Olympics
 
 ---
 
@@ -27,4 +31,4 @@ Warmly,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Hackersolution
+
 
 => /collections/New/adventure/hacker2.gmi ← Hacker2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/hampstead.gmi Hampstead →
+Read this next:
+=> /collections/New/adventure/hampstead.gmi Hampstead
 
 ---
 
@@ -58,4 +62,4 @@ was  a  "hidden" entrance to Cuba - when  you pressed U there, you went up to
 Fidel's island. :)
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

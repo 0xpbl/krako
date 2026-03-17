@@ -1,7 +1,11 @@
+# Kayleth
+
 
 => /collections/New/adventure/karateka.gmi ← Karateka
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/kcamelot.gmi Kcamelot →
+Read this next:
+=> /collections/New/adventure/kcamelot.gmi Kcamelot
 
 ---
 
@@ -17,4 +21,4 @@ Jacob Gunness - d.1/8-1990.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Uppergumtree
+
 
 => /collections/New/adventure/uninvited.gmi ← Uninvited
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/urbanupstart.gmi Urbanupstart →
+Read this next:
+=> /collections/New/adventure/urbanupstart.gmi Urbanupstart
 
 ---
 
@@ -40,4 +44,4 @@ easy and life in sleepy Gumtree can carry on as normal.
 CONGRATULATIONS
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

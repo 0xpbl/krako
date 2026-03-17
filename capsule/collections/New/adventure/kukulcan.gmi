@@ -1,7 +1,11 @@
+# Kukulcan
+
 
 => /collections/New/adventure/krynn.gmi ← Krynn
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/kyrandia.gmi Kyrandia →
+Read this next:
+=> /collections/New/adventure/kyrandia.gmi Kyrandia
 
 ---
 
@@ -65,4 +69,4 @@ SOLVED
  KUKULCAN.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

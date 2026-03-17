@@ -1,8 +1,12 @@
 # Borrowing an Eraser
 
+Date: 2012-05-07
+
 => /collections/cartas/random/2012-03-27_in_praise_of_human_lard.gmi ← 2012-03-27 In Praise Of Human Lard
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2013-03-15_ivo_who_saw_the_grape.gmi 2013-03-15 Ivo Who Saw The Grape →
+Read this next:
+=> /collections/cartas/random/2013-03-15_ivo_who_saw_the_grape.gmi 2013-03-15 Ivo Who Saw The Grape
 
 ---
 
@@ -27,4 +31,4 @@ Until soon,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

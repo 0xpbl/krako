@@ -101,6 +101,8 @@ O - Ocean, which you can not swim across completely or defend
 => /collections/New/adventure/kingqst2.gmi ← Kingqst2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/kingslve.gmi Kingslve →
+Read this next:
+=> /collections/New/adventure/kingslve.gmi Kingslve
 
 ---
 
@@ -809,4 +811,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

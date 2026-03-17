@@ -187,6 +187,8 @@ Below is a table of codes and locations.
 => /collections/New/adventure/2400ad.gmi ← 2400Ad
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/aaow.gmi Aaow →
+Read this next:
+=> /collections/New/adventure/aaow.gmi Aaow
 
 ---
 
@@ -1090,4 +1092,4 @@ vendors, how to find items, some conversations.
 Version 0.2.0(2/25/99):  added dialog information.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

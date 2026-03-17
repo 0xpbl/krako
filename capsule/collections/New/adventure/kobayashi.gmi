@@ -1,7 +1,11 @@
+# Kobayashi
+
 
 => /collections/New/adventure/kingtuts.gmi ← Kingtuts
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/kq-4.gmi Kq-4 →
+Read this next:
+=> /collections/New/adventure/kq-4.gmi Kq-4
 
 ---
 
@@ -29,4 +33,4 @@ ANALYSE MEGAUNIT (there is a Lasalite on one side), ACTIVATE MEGAUNIT (off!), GE
 Jacob Gunness - d.25/7-1990.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

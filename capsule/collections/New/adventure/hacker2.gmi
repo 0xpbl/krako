@@ -1,7 +1,11 @@
+# Hacker2
+
 
 => /collections/New/adventure/guildofthieves.gmi ← Guildofthieves
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/hackersolution.gmi Hackersolution →
+Read this next:
+=> /collections/New/adventure/hackersolution.gmi Hackersolution
 
 ---
 
@@ -68,4 +72,4 @@ will have no question about whether it was real or Memorex! They'll liquidate
 your droid, which could bring tears to your eyes!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

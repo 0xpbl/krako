@@ -1,7 +1,11 @@
+# Wishbringer
+
 
 => /collections/New/adventure/willyb.gmi ← Willyb
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/witness.gmi Witness →
+Read this next:
+=> /collections/New/adventure/witness.gmi Witness
 
 ---
 
@@ -94,4 +98,4 @@ tions, leave mail on one of the above boards......
 filesize:22 sectors.  (a little over a minute at 1200).
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

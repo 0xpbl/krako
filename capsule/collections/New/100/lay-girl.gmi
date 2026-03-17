@@ -1,7 +1,11 @@
+# Lay-Girl
+
 
 => /collections/New/100/krckwczt.gmi ← Krckwczt
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/leeches.gmi Leeches →
+Read this next:
+=> /collections/New/100/leeches.gmi Leeches
 
 ---
 
@@ -360,4 +364,4 @@
                               John Smith.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

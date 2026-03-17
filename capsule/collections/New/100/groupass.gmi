@@ -1,7 +1,11 @@
+# Groupass
+
 
 => /collections/New/100/gems.gmi ← Gems
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/hack1.gmi Hack1 →
+Read this next:
+=> /collections/New/100/hack1.gmi Hack1
 
 ---
 
@@ -52,4 +56,4 @@ Which goes to prove that some grounding problems can be passed on......
 P-80 Systems 304-744-2253
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

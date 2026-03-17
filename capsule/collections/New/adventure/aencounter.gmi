@@ -1,7 +1,11 @@
+# Aencounter
+
 
 => /collections/New/adventure/advquest.gmi ← Advquest
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/aiw.gmi Aiw →
+Read this next:
+=> /collections/New/adventure/aiw.gmi Aiw
 
 ---
 
@@ -68,4 +72,4 @@ THE EXPLANATION IS AS FOLLOWS:
             *FRED SOFTWARE*
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

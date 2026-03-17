@@ -1,8 +1,12 @@
 # Pablo Escobar Samba
 
+Date: 2010-11-22
+
 => /collections/cartas/random/2010-10-20_rejected_samba_north_korea.gmi ← 2010-10-20 Rejected Samba North Korea
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2011-04-14_tsetse_fly_chorus.gmi 2011-04-14 Tsetse Fly Chorus →
+Read this next:
+=> /collections/cartas/random/2011-04-14_tsetse_fly_chorus.gmi 2011-04-14 Tsetse Fly Chorus
 
 ---
 
@@ -30,4 +34,4 @@ All the best,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

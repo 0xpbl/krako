@@ -1,8 +1,12 @@
 # Official City Drunk
 
+Date: 2009-05-29
+
 => /collections/cartas/random/2009-03-23_moustache_as_collateral.gmi ← 2009-03-23 Moustache As Collateral
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2010-01-29_the_disguised_gorilla.gmi 2010-01-29 The Disguised Gorilla →
+Read this next:
+=> /collections/cartas/random/2010-01-29_the_disguised_gorilla.gmi 2010-01-29 The Disguised Gorilla
 
 ---
 
@@ -25,4 +29,4 @@ Cheers,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

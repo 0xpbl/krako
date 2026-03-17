@@ -1,7 +1,11 @@
+# Elvenemy
+
 
 => /collections/New/adventure/elvdunge.gmi ← Elvdunge
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/elvira.gmi Elvira →
+Read this next:
+=> /collections/New/adventure/elvira.gmi Elvira
 
 ---
 
@@ -40,4 +44,4 @@ LIF - life
 EXP - expirience ( percents of complete game )
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

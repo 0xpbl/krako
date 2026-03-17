@@ -1,7 +1,11 @@
+# Spelcst
+
 
 => /collections/New/adventure/spaceii.gmi ← Spaceii
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/spell101.gmi Spell101 →
+Read this next:
+=> /collections/New/adventure/spell101.gmi Spell101
 
 ---
 
@@ -88,4 +92,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

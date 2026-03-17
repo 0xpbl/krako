@@ -1,7 +1,11 @@
+# Conqsolv
+
 
 => /collections/New/adventure/comic.gmi ← Comic
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/conquest.gmi Conquest →
+Read this next:
+=> /collections/New/adventure/conquest.gmi Conquest
 
 ---
 
@@ -925,4 +929,4 @@ overflow, I say much, but have no words.
 EYE
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

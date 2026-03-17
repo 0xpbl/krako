@@ -110,6 +110,8 @@ for the NON-PUB DA # (ie, you give them the name & they give you the unlisted
 => /collections/New/100/balls.gmi ← Balls
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/basicom5.gmi Basicom5 →
+Read this next:
+=> /collections/New/100/basicom5.gmi Basicom5
 
 ---
 
@@ -417,4 +419,4 @@ Call The Works BBS - 1600+ Textfiles! - [914]/238-8195 - 300/1200 - Always Open
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

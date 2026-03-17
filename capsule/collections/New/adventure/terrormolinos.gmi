@@ -1,7 +1,11 @@
+# Terrormolinos
+
 
 => /collections/New/adventure/tenlittle.gmi ← Tenlittle
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/threeweeks.gmi Threeweeks →
+Read this next:
+=> /collections/New/adventure/threeweeks.gmi Threeweeks
 
 ---
 
@@ -43,4 +47,4 @@ PASSPORT, GET SUITCASE, GET CLOTHES, GET TICKETS, D, W, BOARD COACH
 Jacob Gunness - d.13/5-1990
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

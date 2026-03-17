@@ -1,7 +1,11 @@
+# Borrowt
+
 
 => /collections/New/adventure/borderzone.gmi ← Borderzone
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/brebynj.gmi Brebynj →
+Read this next:
+=> /collections/New/adventure/brebynj.gmi Brebynj
 
 ---
 
@@ -24,4 +28,4 @@ candlestick,get folder,arrest farnham,n,show folder ans suitcase and paper
 and report
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

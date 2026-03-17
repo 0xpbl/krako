@@ -1,7 +1,11 @@
+# Pirate
+
 
 => /collections/New/adventure/pilgrim.gmi ← Pilgrim
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/plan9.gmi Plan9 →
+Read this next:
+=> /collections/New/adventure/plan9.gmi Plan9
 
 ---
 
@@ -51,4 +55,4 @@ DUBLEONS, SCORE.
 YOU WON!!!!!!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

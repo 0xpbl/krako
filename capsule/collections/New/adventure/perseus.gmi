@@ -1,7 +1,11 @@
+# Perseus
+
 
 => /collections/New/adventure/pawn.gmi ← Pawn
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/phantasie1.gmi Phantasie1 →
+Read this next:
+=> /collections/New/adventure/phantasie1.gmi Phantasie1
 
 ---
 
@@ -20,4 +24,4 @@ Remove helmet/Look shield/Wait/Cut medusa/S/Fit halter/Get head
 Go pegasus/Ride pegasus/S/Show head/Cut chains
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

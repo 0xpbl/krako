@@ -1,7 +1,11 @@
+# Sky Walk
+
 
 => /collections/New/adventure/skooldaze.gmi ← Skooldaze
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/smashed.gmi Smashed →
+Read this next:
+=> /collections/New/adventure/smashed.gmi Smashed
 
 ---
 
@@ -183,4 +187,4 @@ Hitiek - he's still catatonic after typing the solve
 Red: Major thanks to Schmoo, Sup to Paco, Smellferd, Ratt, and Shubey
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

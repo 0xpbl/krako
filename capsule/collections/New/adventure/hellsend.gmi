@@ -1,7 +1,11 @@
+# Hellsend
+
 
 => /collections/New/adventure/hampstead.gmi ← Hampstead
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/herbertsdummy.gmi Herbertsdummy →
+Read this next:
+=> /collections/New/adventure/herbertsdummy.gmi Herbertsdummy
 
 ---
 
@@ -124,4 +128,4 @@ looking down at you... you are handed a halo and a harp).
                              The devil is destroyed
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

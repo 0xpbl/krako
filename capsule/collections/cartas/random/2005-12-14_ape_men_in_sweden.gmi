@@ -1,8 +1,12 @@
 # Ape-Men in Sweden
 
+Date: 2005-12-14
+
 => /collections/cartas/random/2005-11-24_part_camel.gmi ← 2005-11-24 Part Camel
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2005-12-27_darfur_is_a_mess.gmi 2005-12-27 Darfur Is A Mess →
+Read this next:
+=> /collections/cartas/random/2005-12-27_darfur_is_a_mess.gmi 2005-12-27 Darfur Is A Mess
 
 ---
 
@@ -25,4 +29,4 @@ Until soon,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

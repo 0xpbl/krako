@@ -1,7 +1,11 @@
+# Aland
+
 
 => /collections/New/adventure/al_dark.gmi ← Al Dark
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/aland2.gmi Aland2 →
+Read this next:
+=> /collections/New/adventure/aland2.gmi Aland2
 
 ---
 
@@ -38,4 +42,4 @@ Bricks>, <Get Firestone>, <Unlight Lamp>, [D,E,E,S], <Go Stump>,
 <Drop Firestone>, <Score>.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

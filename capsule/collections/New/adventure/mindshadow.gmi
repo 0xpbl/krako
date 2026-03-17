@@ -1,7 +1,11 @@
+# Mindshadow
+
 
 => /collections/New/adventure/mindfighter.gmi ← Mindfighter
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/mine.gmi Mine →
+Read this next:
+=> /collections/New/adventure/mine.gmi Mine
 
 ---
 
@@ -82,4 +86,4 @@ FORMATTED FOR 80 COLUMNS
 :-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

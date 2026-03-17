@@ -1,7 +1,11 @@
+# Karateka
+
 
 => /collections/New/adventure/journeywt.gmi ← Journeywt
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/kayleth.gmi Kayleth →
+Read this next:
+=> /collections/New/adventure/kayleth.gmi Kayleth
 
 ---
 
@@ -115,4 +119,4 @@ PRODUCING BETTER GAMES LATELY..
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

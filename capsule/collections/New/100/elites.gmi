@@ -1,7 +1,11 @@
+# Elites
+
 
 => /collections/New/100/elite.gmi ← Elite
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/ethics.gmi Ethics →
+Read this next:
+=> /collections/New/100/ethics.gmi Ethics
 
 ---
 
@@ -65,4 +69,4 @@ Ok hope we all work for a standard and faster/better elite system
 Ok please don't take this personaly!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Questron2
+
 
 => /collections/New/adventure/questron.gmi ← Questron
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/rebelplanet.gmi Rebelplanet →
+Read this next:
+=> /collections/New/adventure/rebelplanet.gmi Rebelplanet
 
 ---
 
@@ -192,4 +196,4 @@ you are welcomed as THE HERO!!!
 Well done, Count Of Questron, Baron of Landor!!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

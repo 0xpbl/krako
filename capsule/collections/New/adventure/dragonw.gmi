@@ -1,7 +1,11 @@
+# Dragonw
+
 
 => /collections/New/adventure/dragonskulle.gmi ← Dragonskulle
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dragonworld.gmi Dragonworld →
+Read this next:
+=> /collections/New/adventure/dragonworld.gmi Dragonworld
 
 ---
 
@@ -1132,4 +1136,4 @@ I hope that you do find it helpful!
 This walkthru copyrighted 1990 by Wyvern. All rights reserved.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

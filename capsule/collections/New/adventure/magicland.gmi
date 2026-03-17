@@ -1,7 +1,11 @@
+# Magicland
+
 
 => /collections/New/adventure/lurkinghorrorsolv.gmi ← Lurkinghorrorsolv
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/majik.gmi Majik →
+Read this next:
+=> /collections/New/adventure/majik.gmi Majik
 
 ---
 
@@ -53,4 +57,4 @@ Displayed on the Classic Adventures Solution Archive:
 http://hjem.get2net.dk/gunn/
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

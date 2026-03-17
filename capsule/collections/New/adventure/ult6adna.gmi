@@ -1,7 +1,11 @@
+# Ult6Adna
+
 
 => /collections/New/adventure/ult6.gmi ← Ult6
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ult6lang.gmi Ult6Lang →
+Read this next:
+=> /collections/New/adventure/ult6lang.gmi Ult6Lang
 
 ---
 
@@ -348,4 +352,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

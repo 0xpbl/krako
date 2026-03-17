@@ -1,7 +1,11 @@
+# Dodontae
+
 
 => /collections/New/100/diskgone.gmi ← Diskgone
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/easymony.gmi Easymony →
+Read this next:
+=> /collections/New/100/easymony.gmi Easymony
 
 ---
 
@@ -182,4 +186,4 @@ know what they're doing," Quasi?
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

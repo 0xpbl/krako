@@ -1,7 +1,11 @@
+# Modemlif
+
 
 => /collections/New/100/miami.gmi ← Miami
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/nighhack.gmi Nighhack →
+Read this next:
+=> /collections/New/100/nighhack.gmi Nighhack
 
 ---
 
@@ -319,4 +323,4 @@ of world do you want?"</i><i></i>
 </html>
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

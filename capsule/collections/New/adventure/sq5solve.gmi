@@ -1,7 +1,11 @@
+# Sq5Solve
+
 
 => /collections/New/adventure/sq4debug.gmi ← Sq4Debug
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/sqstory.gmi Sqstory →
+Read this next:
+=> /collections/New/adventure/sqstory.gmi Sqstory
 
 ---
 
@@ -304,4 +308,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

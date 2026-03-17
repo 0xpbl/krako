@@ -1,7 +1,11 @@
+# Se-Kaaofassiah
+
 
 => /collections/New/adventure/scotadam.gmi ← Scotadam
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/seabasedelta.gmi Seabasedelta →
+Read this next:
+=> /collections/New/adventure/seabasedelta.gmi Seabasedelta
 
 ---
 
@@ -148,4 +152,4 @@ done).
 THY SCORE 100%
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

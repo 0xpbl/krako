@@ -1,7 +1,11 @@
+# Lotsol
+
 
 => /collections/New/adventure/lotrsol.gmi ← Lotrsol
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/lsl2.gmi Lsl2 →
+Read this next:
+=> /collections/New/adventure/lsl2.gmi Lsl2
 
 ---
 
@@ -56,4 +60,4 @@ S, D, W, S, DIG (did you remember the shovel?), DROP SHOVEL, GET  BOTTLE, N, E, 
 Jacob Gunness - d.16/9-1990.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

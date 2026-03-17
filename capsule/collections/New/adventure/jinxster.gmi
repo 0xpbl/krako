@@ -1,7 +1,11 @@
+# Jinxster
+
 
 => /collections/New/adventure/jackripper.gmi ← Jackripper
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/jinxter.gmi Jinxter →
+Read this next:
+=> /collections/New/adventure/jinxter.gmi Jinxter
 
 ---
 
@@ -567,4 +571,4 @@
      * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

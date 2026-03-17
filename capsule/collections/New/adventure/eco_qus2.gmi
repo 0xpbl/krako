@@ -1,7 +1,11 @@
+# Eco Qus2
+
 
 => /collections/New/adventure/eco2solv.gmi ← Eco2Solv
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ecoqu1.gmi Ecoqu1 →
+Read this next:
+=> /collections/New/adventure/ecoqu1.gmi Ecoqu1
 
 ---
 
@@ -491,4 +495,4 @@
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Larry1
+
 
 => /collections/New/adventure/labyrinth.gmi ← Labyrinth
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/lastninja.gmi Lastninja →
+Read this next:
+=> /collections/New/adventure/lastninja.gmi Lastninja
 
 ---
 
@@ -74,4 +78,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Ad
+
 
 => /collections/New/100/actung.gmi ← Actung
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/adventur.gmi Adventur →
+Read this next:
+=> /collections/New/100/adventur.gmi Adventur
 
 ---
 
@@ -43,4 +47,4 @@ Upside Down AE Line 300/1200 baud apple-cat ][ (201) 625-8929 p/w = run
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

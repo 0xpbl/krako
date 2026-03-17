@@ -1,7 +1,11 @@
+# Frankenstein
+
 
 => /collections/New/adventure/flunky.gmi ← Flunky
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/future.gmi Future →
+Read this next:
+=> /collections/New/adventure/future.gmi Future
 
 ---
 
@@ -28,4 +32,4 @@ Jacob Gunness - d.20/3-1990.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

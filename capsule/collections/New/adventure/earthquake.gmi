@@ -1,7 +1,11 @@
+# Earthquake
+
 
 => /collections/New/adventure/dutchmansgold.gmi ← Dutchmansgold
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/earthris.gmi Earthris →
+Read this next:
+=> /collections/New/adventure/earthris.gmi Earthris
 
 ---
 
@@ -286,4 +290,4 @@ TALK
 PAY HAMPTON
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

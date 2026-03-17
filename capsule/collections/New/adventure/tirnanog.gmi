@@ -1,7 +1,11 @@
+# Tirnanog
+
 
 => /collections/New/adventure/timezone.gmi ← Timezone
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/tobeontop.gmi Tobeontop →
+Read this next:
+=> /collections/New/adventure/tobeontop.gmi Tobeontop
 
 ---
 
@@ -24,4 +28,4 @@ CHEAT
 on the ground and no Sidhe.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

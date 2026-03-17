@@ -1,7 +1,11 @@
+# Flunky
+
 
 => /collections/New/adventure/fish.gmi ← Fish
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/frankenstein.gmi Frankenstein →
+Read this next:
+=> /collections/New/adventure/frankenstein.gmi Frankenstein
 
 ---
 
@@ -114,4 +118,4 @@ Fixed by Vampiro and displayed at the C64 Walkthrough site at
 http://solutions.c64.org/
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

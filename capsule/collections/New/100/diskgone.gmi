@@ -1,7 +1,11 @@
+# Diskgone
+
 
 => /collections/New/100/dec.gmi ← Dec
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/dodontae.gmi Dodontae →
+Read this next:
+=> /collections/New/100/dodontae.gmi Dodontae
 
 ---
 
@@ -21,4 +25,4 @@ boots it, it boots him!!!
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

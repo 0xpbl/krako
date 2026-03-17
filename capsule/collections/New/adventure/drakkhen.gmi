@@ -1,7 +1,11 @@
+# Drakkhen
+
 
 => /collections/New/adventure/dragworld.gmi ← Dragworld
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dreamzone.gmi Dreamzone →
+Read this next:
+=> /collections/New/adventure/dreamzone.gmi Dreamzone
 
 ---
 
@@ -396,4 +400,4 @@ graphics and sound. You deserve them because you've finished the game!
  Downloaded From P-80 Systems 304-744-2253
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

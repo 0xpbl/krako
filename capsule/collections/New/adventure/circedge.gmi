@@ -1,7 +1,11 @@
+# Circedge
+
 
 => /collections/New/adventure/chrono.gmi ← Chrono
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/circuit.gmi Circuit →
+Read this next:
+=> /collections/New/adventure/circuit.gmi Circuit
 
 ---
 
@@ -735,4 +739,4 @@ CIRCUIT'S EDGE
 Enter choice !
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

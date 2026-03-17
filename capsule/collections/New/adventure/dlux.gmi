@@ -1,7 +1,11 @@
+# Dlux
+
 
 => /collections/New/adventure/dkok.gmi ← Dkok
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dracula.gmi Dracula →
+Read this next:
+=> /collections/New/adventure/dracula.gmi Dracula
 
 ---
 
@@ -58,4 +62,4 @@ DOOGER was here.
 DOWNLOADED FROM P-80 SYSTEMS 304-744-2253
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

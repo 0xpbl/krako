@@ -1,7 +1,11 @@
+# Mysterfh
+
 
 => /collections/New/adventure/musketeers.gmi ← Musketeers
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/neuro.gmi Neuro →
+Read this next:
+=> /collections/New/adventure/neuro.gmi Neuro
 
 ---
 
@@ -110,4 +114,4 @@ PULL BLUE
 DROP WATCH
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Neuroman
+
 
 => /collections/New/adventure/neuro.gmi ← Neuro
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/neuromancer.gmi Neuromancer →
+Read this next:
+=> /collections/New/adventure/neuromancer.gmi Neuromancer
 
 ---
 
@@ -153,4 +157,4 @@ option to unlock the door...do that, go buy a gas mask (important), use the
 gas mask, go in and get the cybereyes..
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

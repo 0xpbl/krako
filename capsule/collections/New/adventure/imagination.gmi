@@ -1,7 +1,11 @@
+# Imagination
+
 
 => /collections/New/adventure/icftd.gmi ← Icftd
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/impossiblemis.gmi Impossiblemis →
+Read this next:
+=> /collections/New/adventure/impossiblemis.gmi Impossiblemis
 
 ---
 
@@ -36,4 +40,4 @@ IMAGINATION - SOLUTION - TYPED BY VAXALON - 1994
 bell tower you will then know what to do!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,8 +1,12 @@
 # Grandpa Simpson's Onion Belt
 
+Date: 2007-01-15
+
 => /collections/cartas/random/2006-09-12_after_watching_the_farm_a_fazenda.gmi ← 2006-09-12 After Watching The Farm A Fazenda
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2007-04-12_breaking_news_badgers.gmi 2007-04-12 Breaking News Badgers →
+Read this next:
+=> /collections/cartas/random/2007-04-12_breaking_news_badgers.gmi 2007-04-12 Breaking News Badgers
 
 ---
 
@@ -32,4 +36,4 @@ Cheers,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

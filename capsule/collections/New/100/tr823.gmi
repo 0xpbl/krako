@@ -1,7 +1,11 @@
+# Tr823
+
 
 => /collections/New/100/top10.gmi ← Top10
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/upc.gmi Upc →
+Read this next:
+=> /collections/New/100/upc.gmi Upc
 
 ---
 
@@ -1954,4 +1958,4 @@ leave it to others to speculate on the value, if any, of these
 observations.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

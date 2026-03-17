@@ -1,7 +1,11 @@
+# Lsl5
+
 
 => /collections/New/adventure/lsl3slv.gmi ← Lsl3Slv
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/lsl5hint.gmi Lsl5Hint →
+Read this next:
+=> /collections/New/adventure/lsl5hint.gmi Lsl5Hint
 
 ---
 
@@ -630,4 +634,4 @@ on Larry (or Patti) that you  could possibly want. Check out our
 Order A Product section, or call our Sales Department.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

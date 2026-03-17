@@ -1,7 +1,11 @@
+# Ingridsback
+
 
 => /collections/New/adventure/infidel.gmi ← Infidel
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/institute.gmi Institute →
+Read this next:
+=> /collections/New/adventure/institute.gmi Institute
 
 ---
 
@@ -70,4 +74,4 @@ Jacob Gunness - fall 1989
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Sorceria
+
 
 => /collections/New/adventure/sorcererofclaymorgue.gmi ← Sorcererofclaymorgue
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/spaceace.gmi Spaceace →
+Read this next:
+=> /collections/New/adventure/spaceace.gmi Spaceace
 
 ---
 
@@ -1714,4 +1718,4 @@ the tuning fork, and divide the potion.
 Last page !
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

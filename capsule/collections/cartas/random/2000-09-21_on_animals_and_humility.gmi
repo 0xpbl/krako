@@ -1,8 +1,12 @@
 # On Animals and Humility
 
+Date: 2000-09-21
+
 => /collections/cartas/random/2000-04-06_moderate_reflections.gmi ← 2000-04-06 Moderate Reflections
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2001-06-06_proud_of_their_gums.gmi 2001-06-06 Proud Of Their Gums →
+Read this next:
+=> /collections/cartas/random/2001-06-06_proud_of_their_gums.gmi 2001-06-06 Proud Of Their Gums
 
 ---
 
@@ -26,4 +30,4 @@ Regards,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Zork2
+
 
 => /collections/New/adventure/zork1b.gmi ← Zork1B
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/zork3.gmi Zork3 →
+Read this next:
+=> /collections/New/adventure/zork3.gmi Zork3
 
 ---
 
@@ -86,4 +90,4 @@ SPELLS: Float - makes things float
 Jacob Gunness - 18/3-1990.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

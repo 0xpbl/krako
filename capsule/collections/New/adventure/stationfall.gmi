@@ -1,7 +1,11 @@
+# Stationfall
+
 
 => /collections/New/adventure/startrekpromethean.gmi ← Startrekpromethean
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/stoneville.gmi Stoneville →
+Read this next:
+=> /collections/New/adventure/stoneville.gmi Stoneville
 
 ---
 
@@ -116,4 +120,4 @@ PYRAMID.
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

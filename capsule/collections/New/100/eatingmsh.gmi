@@ -1,7 +1,11 @@
+# Eatingmsh
+
 
 => /collections/New/100/easymony.gmi ← Easymony
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/eel_bye.gmi Eel Bye →
+Read this next:
+=> /collections/New/100/eel_bye.gmi Eel Bye
 
 ---
 
@@ -69,4 +73,4 @@ out to the kitchen and get a snack...
 				Dave
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

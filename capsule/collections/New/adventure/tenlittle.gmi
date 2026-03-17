@@ -1,7 +1,11 @@
+# Tenlittle
+
 
 => /collections/New/adventure/tasstimes.gmi ← Tasstimes
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/terrormolinos.gmi Terrormolinos →
+Read this next:
+=> /collections/New/adventure/terrormolinos.gmi Terrormolinos
 
 ---
 
@@ -26,4 +30,4 @@ Get hammer/Get spanner/Break tiles/Drop spanner/Light candle/Go hole
 Get red/U/N/E/S/S/W/N/Drop red/S/E/Examine safe/Get golden
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

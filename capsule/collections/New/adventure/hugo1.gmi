@@ -1,7 +1,11 @@
+# Hugo1
+
 
 => /collections/New/adventure/ht02.gmi ← Ht02
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/hugo2.gmi Hugo2 →
+Read this next:
+=> /collections/New/adventure/hugo2.gmi Hugo2
 
 ---
 
@@ -131,4 +135,4 @@ Points  OUTSIDE HOUSE:
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

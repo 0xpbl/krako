@@ -1,7 +1,11 @@
+# Questron
+
 
 => /collections/New/adventure/questii.gmi ← Questii
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/questron2.gmi Questron2 →
+Read this next:
+=> /collections/New/adventure/questron2.gmi Questron2
 
 ---
 
@@ -239,4 +243,4 @@ IS HOW TO WIN QUESTRON STEP-BY-STEP:
    REST WILL TAKE CARE OF ITSELF.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

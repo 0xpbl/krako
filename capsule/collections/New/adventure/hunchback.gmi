@@ -1,7 +1,11 @@
+# Hunchback
+
 
 => /collections/New/adventure/hugo3.gmi ← Hugo3
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/iceman.gmi Iceman →
+Read this next:
+=> /collections/New/adventure/iceman.gmi Iceman
 
 ---
 
@@ -27,4 +31,4 @@ Jacob Gunness - february 1990.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

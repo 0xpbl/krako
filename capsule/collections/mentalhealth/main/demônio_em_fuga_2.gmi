@@ -1,3 +1,5 @@
+# Demônio Em Fuga 2
+
 
 => /collections/mentalhealth/main/demônio_em_fuga_1.gmi ← Demônio Em Fuga 1
 => /collections/mentalhealth/main/index.gmi ↑ Section index
@@ -28,4 +30,4 @@ Comecei a ganhar muito peso, em mais ou menos um ano, ganhei 30 quilos. Isso me 
 Obtive uma onda de criatividade, onde eu desenhava, pintava e escrevia muito.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

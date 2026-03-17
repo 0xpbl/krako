@@ -1,8 +1,12 @@
 # Presidents of Gabon
 
+Date: 2010-08-12
+
 => /collections/cartas/random/2010-05-19_notable_birthdays_june_7.gmi ← 2010-05-19 Notable Birthdays June 7
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2010-08-31_cone_before_ice_cream.gmi 2010-08-31 Cone Before Ice Cream →
+Read this next:
+=> /collections/cartas/random/2010-08-31_cone_before_ice_cream.gmi 2010-08-31 Cone Before Ice Cream
 
 ---
 
@@ -28,4 +32,4 @@ Regards,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

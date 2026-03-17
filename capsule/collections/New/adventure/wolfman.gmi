@@ -1,7 +1,11 @@
+# Wolfman
+
 
 => /collections/New/adventure/wizardscrown.gmi ← Wizardscrown
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/youngones.gmi Youngones →
+Read this next:
+=> /collections/New/adventure/youngones.gmi Youngones
 
 ---
 
@@ -80,4 +84,4 @@ stems will have different lenghts, allowing you to map the area.
 Jacob Gunness - d.17/2-1991.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

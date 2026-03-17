@@ -1,7 +1,11 @@
+# Aod
+
 
 => /collections/New/adventure/ampasswords.gmi ← Ampasswords
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/aquest.gmi Aquest →
+Read this next:
+=> /collections/New/adventure/aquest.gmi Aquest
 
 ---
 
@@ -28,4 +32,4 @@ Get arrowhead/Remove spectacles/Drop spectacles/U/S/S/E/E/Go march/E/N
 Throw medallion/Cut willow
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

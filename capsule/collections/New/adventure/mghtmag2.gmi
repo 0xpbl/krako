@@ -1,7 +1,11 @@
+# Mghtmag2
+
 
 => /collections/New/adventure/metalwarrior.gmi ← Metalwarrior
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/mh2hints.gmi Mh2Hints →
+Read this next:
+=> /collections/New/adventure/mh2hints.gmi Mh2Hints
 
 ---
 
@@ -3414,4 +3418,4 @@ MIGHT AND MAGIC II
  3 Character Devel
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Dejasolv
+
 
 => /collections/New/adventure/deadline.gmi ← Deadline
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dejavu.gmi Dejavu →
+Read this next:
+=> /collections/New/adventure/dejavu.gmi Dejavu
 
 ---
 
@@ -171,4 +175,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

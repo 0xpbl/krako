@@ -1,7 +1,11 @@
+# Ballyhoo
+
 
 => /collections/New/adventure/aztectomb.gmi ← Aztectomb
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/bardsolv.gmi Bardsolv →
+Read this next:
+=> /collections/New/adventure/bardsolv.gmi Bardsolv
 
 ---
 
@@ -77,4 +81,4 @@ UNTIL THE GIRL IS FALLING DOWN - WAIT UNTIL YOU FALL DOWN!!!
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

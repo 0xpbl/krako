@@ -1,7 +1,11 @@
+# Aiw
+
 
 => /collections/New/adventure/aencounter.gmi ← Aencounter
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/al_dark.gmi Al Dark →
+Read this next:
+=> /collections/New/adventure/al_dark.gmi Al Dark
 
 ---
 
@@ -265,4 +269,4 @@ use the hat.
 but after all this running around, you're probably glad it's all over!).
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

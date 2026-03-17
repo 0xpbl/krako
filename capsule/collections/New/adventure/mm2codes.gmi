@@ -1,7 +1,11 @@
+# Mm2Codes
+
 
 => /collections/New/adventure/missionasteroid.gmi ← Missionasteroid
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/mm2hintf.gmi Mm2Hintf →
+Read this next:
+=> /collections/New/adventure/mm2hintf.gmi Mm2Hintf
 
 ---
 
@@ -107,4 +111,4 @@
                         80046215                         86539614
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Spiii
+
 
 => /collections/New/adventure/spidermountain.gmi ← Spidermountain
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/spot.gmi Spot →
+Read this next:
+=> /collections/New/adventure/spot.gmi Spot
 
 ---
 
@@ -822,4 +826,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

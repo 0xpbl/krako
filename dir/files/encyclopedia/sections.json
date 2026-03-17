@@ -1,0 +1,5 @@
+{
+  "mainMenuName": "Encyclopedia",
+  "sections": { "main": "Main" },
+  "order": ["main"]
+}

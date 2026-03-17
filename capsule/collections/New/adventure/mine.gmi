@@ -1,7 +1,11 @@
+# Mine
+
 
 => /collections/New/adventure/mindshadow.gmi ← Mindshadow
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/miser.gmi Miser →
+Read this next:
+=> /collections/New/adventure/miser.gmi Miser
 
 ---
 
@@ -37,4 +41,4 @@
 Downloaded From P-80 Systems 304-744-2253
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

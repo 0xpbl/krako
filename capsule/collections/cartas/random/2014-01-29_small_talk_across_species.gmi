@@ -1,8 +1,12 @@
 # Small Talk Across Species
 
+Date: 2014-01-29
+
 => /collections/cartas/random/2013-07-04_buying_a_flea.gmi ← 2013-07-04 Buying A Flea
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2014-02-07_more_coffee_kofi.gmi 2014-02-07 More Coffee Kofi →
+Read this next:
+=> /collections/cartas/random/2014-02-07_more_coffee_kofi.gmi 2014-02-07 More Coffee Kofi
 
 ---
 
@@ -33,4 +37,4 @@ Cheers,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

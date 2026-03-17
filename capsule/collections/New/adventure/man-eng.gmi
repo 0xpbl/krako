@@ -1,7 +1,11 @@
+# Man-Eng
+
 
 => /collections/New/adventure/majik.gmi ← Majik
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/maniac.gmi Maniac →
+Read this next:
+=> /collections/New/adventure/maniac.gmi Maniac
 
 ---
 
@@ -95,4 +99,4 @@ NOTE: YOU CAN GET MORE ENJOYMENT FROM THIS GAME BY GOING BACK
                         = THE SURGEON =
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Wizardofoz
+
 
 => /collections/New/adventure/wizardofakyrz.gmi ← Wizardofakyrz
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/wizardscrown.gmi Wizardscrown →
+Read this next:
+=> /collections/New/adventure/wizardscrown.gmi Wizardscrown
 
 ---
 
@@ -405,4 +409,4 @@ adventures. Please read the other books in the series. You'll not be
 disappointed.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

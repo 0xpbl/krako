@@ -1,7 +1,11 @@
+# Adventureland2
+
 
 => /collections/New/adventure/adventureland.gmi ← Adventureland
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/advland.gmi Advland →
+Read this next:
+=> /collections/New/adventure/advland.gmi Advland
 
 ---
 
@@ -32,4 +36,4 @@ Go up/Go up/Go up/Go up/Go up/Drop mud/Go north/Drop bees/Get eggs
 Go south/Climb tree/Drop honey/Drop eggs/Score
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

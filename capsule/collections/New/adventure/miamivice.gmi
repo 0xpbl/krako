@@ -1,7 +1,11 @@
+# Miamivice
+
 
 => /collections/New/adventure/mh2hints.gmi ← Mh2Hints
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/mightandmagic.gmi Mightandmagic →
+Read this next:
+=> /collections/New/adventure/mightandmagic.gmi Mightandmagic
 
 ---
 
@@ -236,4 +240,4 @@ Produced by D.C.Ward   Programming by Canvas.
 Licensed by Merchandising Corporation of America, Inc.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

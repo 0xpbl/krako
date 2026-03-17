@@ -1,7 +1,11 @@
+# Startrekpromethean
+
 
 => /collections/New/adventure/startrek.gmi ← Startrek
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/stationfall.gmi Stationfall →
+Read this next:
+=> /collections/New/adventure/stationfall.gmi Stationfall
 
 ---
 
@@ -107,4 +111,4 @@ for their help!!)
 Originally displayed at the C64 Walkthrough Site http://solutions.c64.org
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

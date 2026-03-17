@@ -1,7 +1,11 @@
+# Chrono
+
 
 => /collections/New/adventure/chamscip.gmi ← Chamscip
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/circedge.gmi Circedge →
+Read this next:
+=> /collections/New/adventure/circedge.gmi Circedge
 
 ---
 
@@ -515,4 +519,4 @@ and a picture of Humphrey Bogart will appear telling you you've won the game.
 Downloaded From P-80 Systems 304-744-2253
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

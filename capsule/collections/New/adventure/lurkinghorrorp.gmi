@@ -1,7 +1,11 @@
+# Lurkinghorrorp
+
 
 => /collections/New/adventure/lurkinghorr.gmi ← Lurkinghorr
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/lurkinghorrorsolv.gmi Lurkinghorrorsolv →
+Read this next:
+=> /collections/New/adventure/lurkinghorrorsolv.gmi Lurkinghorrorsolv
 
 ---
 
@@ -22,4 +26,4 @@ and you're in.
 (>
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

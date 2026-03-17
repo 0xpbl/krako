@@ -1,0 +1,7 @@
+# Changelog
+
+Changes over time.
+
+## 2026-03
+
+Capsule reform: full site in English, new home (Start here, Best texts, Trails), branding "The Great Capsule of Pablo Murad", BBS Texts menu, static pages (about, now, uses, colophon, changelog, map), and discovery mechanisms.

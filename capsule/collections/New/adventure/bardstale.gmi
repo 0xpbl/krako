@@ -1,7 +1,11 @@
+# Bardstale
+
 
 => /collections/New/adventure/bardsolv.gmi ← Bardsolv
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/bardstale3.gmi Bardstale3 →
+Read this next:
+=> /collections/New/adventure/bardstale3.gmi Bardstale3
 
 ---
 
@@ -277,4 +281,4 @@ binding to your party any of your opponents in battle).
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

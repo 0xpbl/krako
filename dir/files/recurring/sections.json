@@ -1,0 +1,5 @@
+{
+  "mainMenuName": "Recurring",
+  "sections": { "main": "Ship's log and more" },
+  "order": ["main"]
+}

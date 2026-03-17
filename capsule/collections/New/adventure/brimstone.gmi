@@ -1,7 +1,11 @@
+# Brimstone
+
 
 => /collections/New/adventure/brebynj.gmi ← Brebynj
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/bt1solv.gmi Bt1Solv →
+Read this next:
+=> /collections/New/adventure/bt1solv.gmi Bt1Solv
 
 ---
 
@@ -175,4 +179,4 @@ from: the Asimov collection
      * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

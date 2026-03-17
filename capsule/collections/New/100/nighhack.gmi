@@ -1,7 +1,11 @@
+# Nighhack
+
 
 => /collections/New/100/modemlif.gmi ← Modemlif
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/noise.gmi Noise →
+Read this next:
+=> /collections/New/100/noise.gmi Noise
 
 ---
 
@@ -157,4 +161,4 @@ be going to sleep.  I've got school tomorrow.'  The cursor dances.
 '*** Thank You for Calling.'  The screen goes blank.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

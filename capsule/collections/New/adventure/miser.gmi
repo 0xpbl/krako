@@ -1,7 +1,11 @@
+# Miser
+
 
 => /collections/New/adventure/mine.gmi ← Mine
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/missionasteroid.gmi Missionasteroid →
+Read this next:
+=> /collections/New/adventure/missionasteroid.gmi Missionasteroid
 
 ---
 
@@ -21,4 +25,4 @@ Get ripcord/S/E/E/S/W/W/W/S/Go staircase/E/E/E/N/Get parachute
 Fix parachute/S/W/S/Get painting/S/Jump
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

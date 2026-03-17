@@ -1,8 +1,12 @@
 # Conversation Starter: Dolphin Bite
 
+Date: 2003-07-21
+
 => /collections/cartas/random/2003-03-18_corporate_ear_muffs.gmi ← 2003-03-18 Corporate Ear Muffs
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2003-08-27_still_on_cetaceans.gmi 2003-08-27 Still On Cetaceans →
+Read this next:
+=> /collections/cartas/random/2003-08-27_still_on_cetaceans.gmi 2003-08-27 Still On Cetaceans
 
 ---
 
@@ -27,4 +31,4 @@ Regards,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

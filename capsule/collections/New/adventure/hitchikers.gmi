@@ -1,7 +1,11 @@
+# Hitchikers
+
 
 => /collections/New/adventure/hhijinx.gmi ← Hhijinx
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/hobbit.gmi Hobbit →
+Read this next:
+=> /collections/New/adventure/hobbit.gmi Hobbit
 
 ---
 
@@ -105,4 +109,4 @@ Apple Manor.....(716) 654-POOF!
 [Hand him the tool spelled exactly right],[w],[d]....You solved it!!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

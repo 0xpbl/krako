@@ -1,7 +1,11 @@
+# Mardrms
+
 
 => /collections/New/adventure/maniacmansion.gmi ← Maniacmansion
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/maskofsun.gmi Maskofsun →
+Read this next:
+=> /collections/New/adventure/maskofsun.gmi Maskofsun
 
 ---
 
@@ -1354,4 +1358,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

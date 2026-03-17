@@ -1,7 +1,11 @@
+# Rebelplanet
+
 
 => /collections/New/adventure/questron2.gmi ← Questron2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/redhawk.gmi Redhawk →
+Read this next:
+=> /collections/New/adventure/redhawk.gmi Redhawk
 
 ---
 
@@ -626,4 +630,4 @@ ZEVEN
 END
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

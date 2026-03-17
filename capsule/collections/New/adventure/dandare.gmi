@@ -1,7 +1,11 @@
+# Dandare
+
 
 => /collections/New/adventure/danceofvampires.gmi ← Danceofvampires
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dantesinferno.gmi Dantesinferno →
+Read this next:
+=> /collections/New/adventure/dantesinferno.gmi Dantesinferno
 
 ---
 
@@ -68,4 +72,4 @@
  the bit you've got to figure out for yourself...
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

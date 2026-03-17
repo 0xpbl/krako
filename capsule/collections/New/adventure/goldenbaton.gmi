@@ -1,7 +1,11 @@
+# Goldenbaton
+
 
 => /collections/New/adventure/goblins2.gmi ← Goblins2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/grail.gmi Grail →
+Read this next:
+=> /collections/New/adventure/grail.gmi Grail
 
 ---
 
@@ -23,4 +27,4 @@ Go door/Drop hammer/Get raft/N/N/Sprinkle salt/Get slugs/N/N/Feed crab
 Sail lake/Blow horn/Throw knife/Get baton
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

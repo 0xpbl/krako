@@ -1,3 +1,5 @@
+# Yipl
+
 
 => /collections/New/100/whytext.gmi ← Whytext
 => /collections/New/100/index.gmi ↑ Section index
@@ -311,4 +313,4 @@ SF][G9:ba003.022285
                                    
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

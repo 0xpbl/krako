@@ -1,7 +1,11 @@
+# Longbow1
+
 
 => /collections/New/adventure/loadsofmidnight.gmi ← Loadsofmidnight
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/longbow2.gmi Longbow2 →
+Read this next:
+=> /collections/New/adventure/longbow2.gmi Longbow2
 
 ---
 
@@ -757,4 +761,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

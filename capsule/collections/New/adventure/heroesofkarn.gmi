@@ -1,7 +1,11 @@
+# Heroesofkarn
+
 
 => /collections/New/adventure/herbertsdummy.gmi ← Herbertsdummy
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/heroqst1.gmi Heroqst1 →
+Read this next:
+=> /collections/New/adventure/heroqst1.gmi Heroqst1
 
 ---
 
@@ -91,4 +95,4 @@ to Guard say to Beren "open clam" (may need to have crowbar on you) say to Istar
 back at cottage, drop pillow before dropping jade flower
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

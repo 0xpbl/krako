@@ -1,7 +1,11 @@
+# Journeywt
+
 
 => /collections/New/adventure/jinxter.gmi ← Jinxter
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/karateka.gmi Karateka →
+Read this next:
+=> /collections/New/adventure/karateka.gmi Karateka
 
 ---
 
@@ -20,4 +24,4 @@ Get gonkulator/W/W/N/N/N/N/N/N/Drop silver/Drop emerald/Drop vase
 Drop gonkulator/Fix ship
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

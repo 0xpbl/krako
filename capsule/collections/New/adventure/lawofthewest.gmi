@@ -1,7 +1,11 @@
+# Lawofthewest
+
 
 => /collections/New/adventure/lastninja2.gmi ← Lastninja2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/leathergoddess.gmi Leathergoddess →
+Read this next:
+=> /collections/New/adventure/leathergoddess.gmi Leathergoddess
 
 ---
 
@@ -86,4 +90,4 @@ That can be arranged, woman.
 ------------------------------------------
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

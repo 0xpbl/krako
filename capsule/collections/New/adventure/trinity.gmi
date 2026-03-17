@@ -1,7 +1,11 @@
+# Trinity
+
 
 => /collections/New/adventure/trapdoor2.gmi ← Trapdoor2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/twinkingdom.gmi Twinkingdom →
+Read this next:
+=> /collections/New/adventure/twinkingdom.gmi Twinkingdom
 
 ---
 
@@ -178,4 +182,4 @@ takes effect) - GET KNIFE - CUT (proper) WIRE WITH KNIFE!!
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

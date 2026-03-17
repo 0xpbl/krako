@@ -1,7 +1,11 @@
+# Hhijinx
+
 
 => /collections/New/adventure/heroqust.gmi ← Heroqust
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/hitchikers.gmi Hitchikers →
+Read this next:
+=> /collections/New/adventure/hitchikers.gmi Hitchikers
 
 ---
 
@@ -174,4 +178,4 @@ the last of your Cousin Herman".
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

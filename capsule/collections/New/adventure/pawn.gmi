@@ -1,7 +1,11 @@
+# Pawn
+
 
 => /collections/New/adventure/para.gmi ← Para
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/perseus.gmi Perseus →
+Read this next:
+=> /collections/New/adventure/perseus.gmi Perseus
 
 ---
 
@@ -420,4 +424,4 @@ from: the Asimov collection
     * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

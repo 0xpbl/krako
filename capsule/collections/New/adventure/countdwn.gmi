@@ -1,7 +1,11 @@
+# Countdwn
+
 
 => /collections/New/adventure/count.gmi ← Count
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/cptblood.gmi Cptblood →
+Read this next:
+=> /collections/New/adventure/cptblood.gmi Cptblood
 
 ---
 
@@ -525,4 +529,4 @@ game. And that's a pretty good surprise at the ending, too, wouldn't you say?
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

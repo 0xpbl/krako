@@ -1,5 +1,7 @@
 # Community Idea: Cured by Citrus
 
+Date: 2016-07-04
+
 => /collections/cartas/random/2016-05-17_community_idea_edecarlos_law_yer.gmi ← 2016-05-17 Community Idea Edecarlos Law Yer
 => /collections/cartas/random/index.gmi ↑ Section index
 
@@ -27,4 +29,4 @@ Until soon,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

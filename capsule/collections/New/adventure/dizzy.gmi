@@ -1,7 +1,11 @@
+# Dizzy
+
 
 => /collections/New/adventure/ditkafix.gmi ← Ditkafix
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dizzyprince.gmi Dizzyprince →
+Read this next:
+=> /collections/New/adventure/dizzyprince.gmi Dizzyprince
 
 ---
 
@@ -42,4 +46,4 @@ This Solution was found at the Spectrum Game Database. Don't know
 if the cheat works with the C64.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

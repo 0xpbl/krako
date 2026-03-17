@@ -1,8 +1,12 @@
 # Corporate Ear Muffs
 
+Date: 2003-03-18
+
 => /collections/cartas/random/2003-02-24_helio_the_hermeneut.gmi ← 2003-02-24 Helio The Hermeneut
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2003-07-21_conversation_starter_dolphin_bite.gmi 2003-07-21 Conversation Starter Dolphin Bite →
+Read this next:
+=> /collections/cartas/random/2003-07-21_conversation_starter_dolphin_bite.gmi 2003-07-21 Conversation Starter Dolphin Bite
 
 ---
 
@@ -25,4 +29,4 @@ Best,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

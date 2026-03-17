@@ -1,7 +1,11 @@
+# Infidel
+
 
 => /collections/New/adventure/indy3hnt.gmi ← Indy3Hnt
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ingridsback.gmi Ingridsback →
+Read this next:
+=> /collections/New/adventure/ingridsback.gmi Ingridsback
 
 ---
 
@@ -157,4 +161,4 @@ NEPHTHYS, OPEN SARCOPHAGUS
     BUT STILL, SOMEHOW VERY UNSATISFYING...
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

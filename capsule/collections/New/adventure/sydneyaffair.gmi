@@ -1,7 +1,11 @@
+# Sydneyaffair
+
 
 => /collections/New/adventure/suspended.gmi ← Suspended
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/t7g.gmi T7G →
+Read this next:
+=> /collections/New/adventure/t7g.gmi T7G
 
 ---
 
@@ -83,4 +87,4 @@
  make a cuppa.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Cranston
+
 
 => /collections/New/adventure/cracks_of_file.gmi ← Cracks Of File
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/crime_time.gmi Crime Time →
+Read this next:
+=> /collections/New/adventure/crime_time.gmi Crime Time
 
 ---
 
@@ -213,4 +217,4 @@ s
 < S=SELECTIONS, READ NO.# />@@>>:
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

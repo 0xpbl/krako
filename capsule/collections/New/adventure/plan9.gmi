@@ -1,7 +1,11 @@
+# Plan9
+
 
 => /collections/New/adventure/pirate.gmi ← Pirate
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/planetfall.gmi Planetfall →
+Read this next:
+=> /collections/New/adventure/planetfall.gmi Planetfall
 
 ---
 
@@ -167,4 +171,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

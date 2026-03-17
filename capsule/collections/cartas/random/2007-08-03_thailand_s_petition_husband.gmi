@@ -1,8 +1,12 @@
 # Thailand's Petition Husband
 
+Date: 2007-08-03
+
 => /collections/cartas/random/2007-06-01_tomatoes_once_poisonous.gmi ← 2007-06-01 Tomatoes Once Poisonous
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2008-01-21_san_marino_gdp_shares_1952.gmi 2008-01-21 San Marino Gdp Shares 1952 →
+Read this next:
+=> /collections/cartas/random/2008-01-21_san_marino_gdp_shares_1952.gmi 2008-01-21 San Marino Gdp Shares 1952
 
 ---
 
@@ -25,4 +29,4 @@ Until soon,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

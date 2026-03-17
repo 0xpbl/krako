@@ -1,7 +1,11 @@
+# Colorofmagic
+
 
 => /collections/New/adventure/colony.gmi ← Colony
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/colossal.gmi Colossal →
+Read this next:
+=> /collections/New/adventure/colossal.gmi Colossal
 
 ---
 
@@ -65,4 +69,4 @@ Try typing these inputs in part three.
 Ferus/Imagine Fergus/Judith/Terry/Colin. END
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

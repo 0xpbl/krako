@@ -1,7 +1,11 @@
+# Infobugs
+
 
 => /collections/New/100/icegun.gmi ← Icegun
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/intohell.gmi Intohell →
+Read this next:
+=> /collections/New/100/intohell.gmi Intohell
 
 ---
 
@@ -86,4 +90,4 @@ happen if you said AGAIN on the first move of the game?
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

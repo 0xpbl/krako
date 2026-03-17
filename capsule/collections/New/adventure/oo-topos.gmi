@@ -1,7 +1,11 @@
+# Oo-Topos
+
 
 => /collections/New/adventure/nightofaliens.gmi ← Nightofaliens
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/para.gmi Para →
+Read this next:
+=> /collections/New/adventure/para.gmi Para
 
 ---
 
@@ -188,4 +192,4 @@ ______________________________________________________________________________
 (>
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

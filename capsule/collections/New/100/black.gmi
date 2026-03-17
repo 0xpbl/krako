@@ -1,7 +1,11 @@
+# Black
+
 
 => /collections/New/100/billrights.gmi ← Billrights
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/bofh.gmi Bofh →
+Read this next:
+=> /collections/New/100/bofh.gmi Bofh
 
 ---
 
@@ -153,4 +157,4 @@ you don't want it to answer when Ma
 Bell calls!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

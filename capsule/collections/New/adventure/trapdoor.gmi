@@ -1,7 +1,11 @@
+# Trapdoor
+
 
 => /collections/New/adventure/transylvania.gmi ← Transylvania
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/trapdoor2.gmi Trapdoor2 →
+Read this next:
+=> /collections/New/adventure/trapdoor2.gmi Trapdoor2
 
 ---
 
@@ -133,4 +137,4 @@
  that you'll need to use a rather heavy object.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Ms-Dvi
+
 
 => /collections/New/adventure/mountainsket.gmi ← Mountainsket
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ms-sg.gmi Ms-Sg →
+Read this next:
+=> /collections/New/adventure/ms-sg.gmi Ms-Sg
 
 ---
 
@@ -214,4 +218,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

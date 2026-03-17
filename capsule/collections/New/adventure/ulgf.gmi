@@ -1,7 +1,11 @@
+# Ulgf
+
 
 => /collections/New/adventure/ugf.gmi ← Ugf
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ult5hint.gmi Ult5Hint →
+Read this next:
+=> /collections/New/adventure/ult5hint.gmi Ult5Hint
 
 ---
 
@@ -31,4 +35,4 @@ Give bridle/Give reins/Mount pegasus/Get fleece/Mount pegasus/W/Yes
 Give fleece
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

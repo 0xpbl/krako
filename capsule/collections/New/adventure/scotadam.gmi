@@ -1,7 +1,11 @@
+# Scotadam
+
 
 => /collections/New/adventure/sceptreofb.gmi ← Sceptreofb
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/se-kaaofassiah.gmi Se-Kaaofassiah →
+Read this next:
+=> /collections/New/adventure/se-kaaofassiah.gmi Se-Kaaofassiah
 
 ---
 
@@ -1146,4 +1150,4 @@ DIFFERNT PASSWORDS GIVEN IN PART 1, ONLY ONE IS CORRECT.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

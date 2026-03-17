@@ -1,7 +1,11 @@
+# Maniacmansion
+
 
 => /collections/New/adventure/maniac.gmi ← Maniac
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/mardrms.gmi Mardrms →
+Read this next:
+=> /collections/New/adventure/mardrms.gmi Mardrms
 
 ---
 
@@ -185,4 +189,4 @@ the key slot to enter the Meteor Room. Turn off switch!!
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

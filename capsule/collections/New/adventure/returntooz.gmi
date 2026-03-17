@@ -1,7 +1,11 @@
+# Returntooz
+
 
 => /collections/New/adventure/redhawk.gmi ← Redhawk
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ringofpower.gmi Ringofpower →
+Read this next:
+=> /collections/New/adventure/ringofpower.gmi Ringofpower
 
 ---
 
@@ -113,4 +117,4 @@ will return here), LEAVE.
                          Well done. You have saved Oz.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

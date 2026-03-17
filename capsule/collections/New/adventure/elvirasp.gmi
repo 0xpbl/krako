@@ -1,7 +1,11 @@
+# Elvirasp
+
 
 => /collections/New/adventure/elvira2.gmi ← Elvira2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/elvmaze.gmi Elvmaze →
+Read this next:
+=> /collections/New/adventure/elvmaze.gmi Elvmaze
 
 ---
 
@@ -528,4 +532,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

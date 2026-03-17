@@ -1,7 +1,11 @@
 # Moderate Reflections
 
+Date: 2000-04-06
+
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2000-09-21_on_animals_and_humility.gmi 2000-09-21 On Animals And Humility →
+Read this next:
+=> /collections/cartas/random/2000-09-21_on_animals_and_humility.gmi 2000-09-21 On Animals And Humility
 
 ---
 
@@ -24,4 +28,4 @@ Best,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

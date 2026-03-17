@@ -1,7 +1,11 @@
+# Wizardscrown
+
 
 => /collections/New/adventure/wizardofoz.gmi ← Wizardofoz
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/wolfman.gmi Wolfman →
+Read this next:
+=> /collections/New/adventure/wolfman.gmi Wolfman
 
 ---
 
@@ -416,4 +420,4 @@ doors quickly for the other levels.)  Kahei at Kahei.com for a marvelous
 hex editor that allowedme to concentrate on the puzzles.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# U72Spell
+
 
 => /collections/New/adventure/u72npcs.gmi ← U72Npcs
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ugadventure.gmi Ugadventure →
+Read this next:
+=> /collections/New/adventure/ugadventure.gmi Ugadventure
 
 ---
 
@@ -50,4 +54,4 @@
  69  Kal Vas Xen                        29  Wis Quas
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

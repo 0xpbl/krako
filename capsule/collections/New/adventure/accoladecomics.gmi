@@ -1,7 +1,11 @@
+# Accoladecomics
+
 
 => /collections/New/adventure/abyssal.gmi ← Abyssal
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/adventhint.gmi Adventhint →
+Read this next:
+=> /collections/New/adventure/adventhint.gmi Adventhint
 
 ---
 
@@ -95,4 +99,4 @@ Hint: Don't move too fast, the violet things can't shoot straight down.
 You can touch the floor and shoot at the red things through it.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

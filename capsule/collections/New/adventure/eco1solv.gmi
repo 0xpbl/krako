@@ -1,7 +1,11 @@
+# Eco1Solv
+
 
 => /collections/New/adventure/eco.gmi ← Eco
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/eco2solv.gmi Eco2Solv →
+Read this next:
+=> /collections/New/adventure/eco2solv.gmi Eco2Solv
 
 ---
 
@@ -195,4 +199,4 @@ You have completed the game.
                                                        3/2/92
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Bofh
+
 
 => /collections/New/100/black.gmi ← Black
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/cDc-0200.gmi Cdc-0200 →
+Read this next:
+=> /collections/New/100/cDc-0200.gmi Cdc-0200
 
 ---
 
@@ -124,4 +128,4 @@ I kill me; I really do!
 spt@waikato.ac.nz (Simon Travaglia)
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

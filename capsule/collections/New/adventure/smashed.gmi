@@ -1,7 +1,11 @@
+# Smashed
+
 
 => /collections/New/adventure/sky_walk.gmi ← Sky Walk
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/smugglersinn.gmi Smugglersinn →
+Read this next:
+=> /collections/New/adventure/smugglersinn.gmi Smugglersinn
 
 ---
 
@@ -38,4 +42,4 @@ enough money to buy back the still)
 Jacob Gunness - d. 22/8-1992.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

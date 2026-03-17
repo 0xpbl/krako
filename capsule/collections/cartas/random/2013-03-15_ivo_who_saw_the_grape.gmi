@@ -1,8 +1,12 @@
 # Ivo Who Saw the Grape
 
+Date: 2013-03-15
+
 => /collections/cartas/random/2012-05-07_borrowing_an_eraser.gmi ← 2012-05-07 Borrowing An Eraser
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2013-05-08_ghost_included_in_the_price.gmi 2013-05-08 Ghost Included In The Price →
+Read this next:
+=> /collections/cartas/random/2013-05-08_ghost_included_in_the_price.gmi 2013-05-08 Ghost Included In The Price
 
 ---
 
@@ -27,4 +31,4 @@ Best,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

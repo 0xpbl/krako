@@ -1,7 +1,11 @@
+# Epic
+
 
 => /collections/New/adventure/empireofkarn.gmi ← Empireofkarn
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/eriksol.gmi Eriksol →
+Read this next:
+=> /collections/New/adventure/eriksol.gmi Eriksol
 
 ---
 
@@ -975,4 +979,4 @@ HELP      - (PC - HOME) - GIVES HEADING TO TARGET OR MOTHERSHIPD
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Pyramidod
+
 
 => /collections/New/adventure/pyjamarama.gmi ← Pyjamarama
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/quest.gmi Quest →
+Read this next:
+=> /collections/New/adventure/quest.gmi Quest
 
 ---
 
@@ -59,4 +63,4 @@ written by double density
 brought to you by DOCTOR FLORA
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

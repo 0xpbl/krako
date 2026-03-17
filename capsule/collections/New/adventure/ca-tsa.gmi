@@ -1,7 +1,11 @@
+# Ca-Tsa
+
 
 => /collections/New/adventure/bz4.gmi ← Bz4
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/cadaver.gmi Cadaver →
+Read this next:
+=> /collections/New/adventure/cadaver.gmi Cadaver
 
 ---
 
@@ -3644,4 +3648,4 @@ Companionship
 Monsters
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

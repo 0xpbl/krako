@@ -1,7 +1,11 @@
+# Para
+
 
 => /collections/New/adventure/oo-topos.gmi ← Oo-Topos
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/pawn.gmi Pawn →
+Read this next:
+=> /collections/New/adventure/pawn.gmi Pawn
 
 ---
 
@@ -94,4 +98,4 @@ PARTY LAMP
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

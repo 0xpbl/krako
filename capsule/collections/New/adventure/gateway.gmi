@@ -1,7 +1,11 @@
+# Gateway
+
 
 => /collections/New/adventure/garfield.gmi ← Garfield
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ghosttown.gmi Ghosttown →
+Read this next:
+=> /collections/New/adventure/ghosttown.gmi Ghosttown
 
 ---
 
@@ -51,4 +55,4 @@ WAIT  - WAIT - WAIT - WAIT - WEST - WEST - LISTEN TO BERTRAND - WAIT - WAIT
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

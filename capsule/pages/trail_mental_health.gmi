@@ -1,0 +1,6 @@
+# Mental health
+
+=> /collections/mentalhealth/index.gmi Mental Health collection
+---
+
+By Pablo Murad — 2024–2026

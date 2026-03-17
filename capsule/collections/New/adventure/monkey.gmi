@@ -48,6 +48,8 @@ A - scrolls the inventory down
 => /collections/New/adventure/monkey-i.gmi ← Monkey-I
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/montyonrun.gmi Montyonrun →
+Read this next:
+=> /collections/New/adventure/montyonrun.gmi Montyonrun
 
 ---
 
@@ -285,4 +287,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

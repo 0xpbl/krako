@@ -1,7 +1,11 @@
+# Neuro
+
 
 => /collections/New/adventure/mysterfh.gmi ← Mysterfh
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/neuroman.gmi Neuroman →
+Read this next:
+=> /collections/New/adventure/neuroman.gmi Neuroman
 
 ---
 
@@ -732,4 +736,4 @@ S 9  067144:117372;126443;036160;65110;61456;23671;01326;1053;3173;2730;4300
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

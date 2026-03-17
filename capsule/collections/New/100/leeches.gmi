@@ -1,7 +1,11 @@
+# Leeches
+
 
 => /collections/New/100/lay-girl.gmi ← Lay-Girl
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/lozers.gmi Lozers →
+Read this next:
+=> /collections/New/100/lozers.gmi Lozers
 
 ---
 
@@ -265,4 +269,4 @@ Call The Works BBS - 1600+ Textfiles! - [914]/238-8195 - 300/1200 - Always Open
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

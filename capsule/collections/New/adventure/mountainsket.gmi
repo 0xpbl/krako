@@ -1,7 +1,11 @@
+# Mountainsket
+
 
 => /collections/New/adventure/mordonsquest.gmi ← Mordonsquest
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ms-dvi.gmi Ms-Dvi →
+Read this next:
+=> /collections/New/adventure/ms-dvi.gmi Ms-Dvi
 
 ---
 
@@ -78,4 +82,4 @@ Notes:
 -Waking the kitten each time prevents attack by warts.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

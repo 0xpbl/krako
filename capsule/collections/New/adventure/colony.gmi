@@ -1,7 +1,11 @@
+# Colony
+
 
 => /collections/New/adventure/colonel.gmi ← Colonel
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/colorofmagic.gmi Colorofmagic →
+Read this next:
+=> /collections/New/adventure/colorofmagic.gmi Colorofmagic
 
 ---
 
@@ -1222,4 +1226,4 @@ NEW WALKTHRUS
 Enter choice !
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

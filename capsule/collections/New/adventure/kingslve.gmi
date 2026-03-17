@@ -1,7 +1,11 @@
+# Kingslve
+
 
 => /collections/New/adventure/kingqst3.gmi ← Kingqst3
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/kingtuts.gmi Kingtuts →
+Read this next:
+=> /collections/New/adventure/kingtuts.gmi Kingtuts
 
 ---
 
@@ -191,4 +195,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Alone2
+
 
 => /collections/New/adventure/alondark.gmi ← Alondark
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/altered.gmi Altered →
+Read this next:
+=> /collections/New/adventure/altered.gmi Altered
 
 ---
 
@@ -292,4 +296,4 @@ moonlight.
 CONGRATULATIONS - YOU HAVE COMPLETED ALONE IN THE DARK 2 BROUGHT TO YOU BY DOM
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Darklordsolve
+
 
 => /collections/New/adventure/darklod.gmi ← Darklod
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/darksolv.gmi Darksolv →
+Read this next:
+=> /collections/New/adventure/darksolv.gmi Darksolv
 
 ---
 
@@ -75,4 +79,4 @@ The Fishin' Hole (9600 Baud) ...................... [804] 737-2432
 (>
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

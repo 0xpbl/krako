@@ -778,6 +778,8 @@ Self          affects the spellcaster only
 => /collections/New/adventure/bardstale.gmi ← Bardstale
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/bastard.gmi Bastard →
+Read this next:
+=> /collections/New/adventure/bastard.gmi Bastard
 
 ---
 
@@ -2008,4 +2010,4 @@ foes for about 2000
                                  points of damage.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

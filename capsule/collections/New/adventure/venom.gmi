@@ -1,7 +1,11 @@
+# Venom
+
 
 => /collections/New/adventure/velnors_lair.gmi ← Velnors Lair
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/voodoo_castle.gmi Voodoo Castle →
+Read this next:
+=> /collections/New/adventure/voodoo_castle.gmi Voodoo Castle
 
 ---
 
@@ -83,4 +87,4 @@ wall a circle of serpents with a hand in the middle), TALK TO ARREL MOVE HAND
    Arrel is now cured and the land is free of the evil of Traklan the Tyrant.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

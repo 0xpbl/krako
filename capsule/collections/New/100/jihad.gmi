@@ -1,7 +1,11 @@
+# Jihad
+
 
 => /collections/New/100/intro.gmi ← Intro
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/k-k00ld.gmi K-K00Ld →
+Read this next:
+=> /collections/New/100/k-k00ld.gmi K-K00Ld
 
 ---
 
@@ -270,4 +274,4 @@
                       ▀▀▀  info designed by tosh10!  ▀▀▀
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

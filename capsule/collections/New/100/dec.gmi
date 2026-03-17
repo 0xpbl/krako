@@ -1,7 +1,11 @@
+# Dec
+
 
 => /collections/New/100/copyprot.gmi ← Copyprot
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/diskgone.gmi Diskgone →
+Read this next:
+=> /collections/New/100/diskgone.gmi Diskgone
 
 ---
 
@@ -733,4 +737,4 @@ you got from drinking too much Coke?
 ------- End of Forwarded Message
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Comic
+
 
 => /collections/New/adventure/colossal.gmi ← Colossal
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/conqsolv.gmi Conqsolv →
+Read this next:
+=> /collections/New/adventure/conqsolv.gmi Conqsolv
 
 ---
 
@@ -18,4 +22,4 @@
   legal action from Nintendo itself is beyond me. ;)"
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Ferret
+
 
 => /collections/New/adventure/feasibility.gmi ← Feasibility
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/fgth.tip.gmi Fgth.Tip →
+Read this next:
+=> /collections/New/adventure/fgth.tip.gmi Fgth.Tip
 
 ---
 
@@ -58,4 +62,4 @@ looking for, a PC-BOARD called the Works....
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

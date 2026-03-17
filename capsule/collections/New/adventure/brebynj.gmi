@@ -1,7 +1,11 @@
+# Brebynj
+
 
 => /collections/New/adventure/borrowt.gmi ← Borrowt
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/brimstone.gmi Brimstone →
+Read this next:
+=> /collections/New/adventure/brimstone.gmi Brimstone
 
 ---
 
@@ -155,4 +159,4 @@ Have a good game and may none of your investments crash...
                   -=North Jabip=-
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

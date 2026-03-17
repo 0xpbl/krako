@@ -1,7 +1,11 @@
+# Moonmist
+
 
 => /collections/New/adventure/montyonrun.gmi ← Montyonrun
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/mordonsquest.gmi Mordonsquest →
+Read this next:
+=> /collections/New/adventure/mordonsquest.gmi Mordonsquest
 
 ---
 
@@ -455,4 +459,4 @@ from: the Asimov collection
      * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

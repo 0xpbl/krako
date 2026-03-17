@@ -1,7 +1,11 @@
+# Ult6Rfnc
+
 
 => /collections/New/adventure/ult6magc.gmi ← Ult6Magc
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ult6spls.gmi Ult6Spls →
+Read this next:
+=> /collections/New/adventure/ult6spls.gmi Ult6Spls
 
 ---
 
@@ -307,4 +311,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

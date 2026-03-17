@@ -1,7 +1,11 @@
+# Dutchmansgold
+
 
 => /collections/New/adventure/dungma.gmi ← Dungma
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/earthquake.gmi Earthquake →
+Read this next:
+=> /collections/New/adventure/earthquake.gmi Earthquake
 
 ---
 
@@ -19,4 +23,4 @@ Go trapdoor/Go door/Go west/Go south/Go saloon/Drop *tourquise
 Drop #silver/Get #gold/Drop #gold/Get *spanish/Drop *spanish/Score
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

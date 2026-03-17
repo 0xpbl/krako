@@ -1,7 +1,11 @@
+# Amforever
+
 
 => /collections/New/adventure/altered.gmi ← Altered
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/amfv.gmi Amfv →
+Read this next:
+=> /collections/New/adventure/amfv.gmi Amfv
 
 ---
 
@@ -137,4 +141,4 @@ You now have one final simulation to enter and enjoy..........
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

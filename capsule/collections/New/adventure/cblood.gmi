@@ -1,7 +1,11 @@
+# Cblood
+
 
 => /collections/New/adventure/cauldron.gmi ← Cauldron
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/cbsolve.gmi Cbsolve →
+Read this next:
+=> /collections/New/adventure/cbsolve.gmi Cbsolve
 
 ---
 
@@ -313,4 +317,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

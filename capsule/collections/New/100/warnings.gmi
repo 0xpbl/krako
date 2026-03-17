@@ -1,7 +1,11 @@
+# Warnings
+
 
 => /collections/New/100/warning.gmi ← Warning
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/watchem.gmi Watchem →
+Read this next:
+=> /collections/New/100/watchem.gmi Watchem
 
 ---
 
@@ -33,4 +37,4 @@
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Smugglersinn
+
 
 => /collections/New/adventure/smashed.gmi ← Smashed
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/solve.gmi Solve →
+Read this next:
+=> /collections/New/adventure/solve.gmi Solve
 
 ---
 
@@ -39,4 +43,4 @@ sunset...I guess! Anyway, you've solved the game. Wasn't too hard, huh?!?)
 Jacob Gunness - 1993
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

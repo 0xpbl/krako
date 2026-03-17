@@ -1,7 +1,11 @@
+# Longbow2
+
 
 => /collections/New/adventure/longbow1.gmi ← Longbow1
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/loomslv.gmi Loomslv →
+Read this next:
+=> /collections/New/adventure/loomslv.gmi Loomslv
 
 ---
 
@@ -561,4 +565,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Iceman
+
 
 => /collections/New/adventure/hunchback.gmi ← Hunchback
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/icftd.gmi Icftd →
+Read this next:
+=> /collections/New/adventure/icftd.gmi Icftd
 
 ---
 
@@ -502,4 +506,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

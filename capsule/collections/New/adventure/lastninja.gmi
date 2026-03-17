@@ -1,7 +1,11 @@
+# Lastninja
+
 
 => /collections/New/adventure/larry1.gmi ← Larry1
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/lastninja2.gmi Lastninja2 →
+Read this next:
+=> /collections/New/adventure/lastninja2.gmi Lastninja2
 
 ---
 
@@ -114,4 +118,4 @@ middle of the area in front of the scrolls, as the surrounding strip is fatal to
 touch. Now walk forward slightly and pick up the scrolls.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

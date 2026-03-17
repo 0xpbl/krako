@@ -1,7 +1,11 @@
+# Impossiblemis
+
 
 => /collections/New/adventure/imagination.gmi ← Imagination
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/impossiblemission2.gmi Impossiblemission2 →
+Read this next:
+=> /collections/New/adventure/impossiblemission2.gmi Impossiblemission2
 
 ---
 
@@ -594,4 +598,4 @@ Record             :   31590
  to download the IMs. L8r!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

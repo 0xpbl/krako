@@ -1,7 +1,11 @@
+# Eco2Solv
+
 
 => /collections/New/adventure/eco1solv.gmi ← Eco1Solv
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/eco_qus2.gmi Eco Qus2 →
+Read this next:
+=> /collections/New/adventure/eco_qus2.gmi Eco Qus2
 
 ---
 
@@ -787,4 +791,4 @@ fly in. Click the eye icon on Paquita when she asks you to and
 you will see a surprise!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

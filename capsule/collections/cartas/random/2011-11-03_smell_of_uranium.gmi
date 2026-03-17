@@ -1,8 +1,12 @@
 # Smell of Uranium
 
+Date: 2011-11-03
+
 => /collections/cartas/random/2011-05-25_hydrogenated_fat_parade.gmi ← 2011-05-25 Hydrogenated Fat Parade
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2011-11-15_pluto_the_dwarf_planet.gmi 2011-11-15 Pluto The Dwarf Planet →
+Read this next:
+=> /collections/cartas/random/2011-11-15_pluto_the_dwarf_planet.gmi 2011-11-15 Pluto The Dwarf Planet
 
 ---
 
@@ -26,4 +30,4 @@ Best,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

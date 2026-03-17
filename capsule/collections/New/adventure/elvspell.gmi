@@ -1,7 +1,11 @@
+# Elvspell
+
 
 => /collections/New/adventure/elvmaze.gmi ← Elvmaze
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/emerald_isle.gmi Emerald Isle →
+Read this next:
+=> /collections/New/adventure/emerald_isle.gmi Emerald Isle
 
 ---
 
@@ -123,4 +127,4 @@
 ╚══════════════════╧═══════════════════════════════════╧═══════════════════╝
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

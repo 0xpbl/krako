@@ -1,7 +1,11 @@
+# S4King
+
 
 => /collections/New/adventure/robinofsherwood.gmi ← Robinofsherwood
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/scapeghost.gmi Scapeghost →
+Read this next:
+=> /collections/New/adventure/scapeghost.gmi Scapeghost
 
 ---
 
@@ -176,4 +180,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Mmiiihin
+
 
 => /collections/New/adventure/mm2hintf.gmi ← Mm2Hintf
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/monkey-i.gmi Monkey-I →
+Read this next:
+=> /collections/New/adventure/monkey-i.gmi Monkey-I
 
 ---
 
@@ -108,4 +112,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

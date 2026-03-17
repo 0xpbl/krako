@@ -1,7 +1,11 @@
+# Violence
+
 
 => /collections/New/100/vaxen.gmi ← Vaxen
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/warbitch.gmi Warbitch →
+Read this next:
+=> /collections/New/100/warbitch.gmi Warbitch
 
 ---
 
@@ -224,4 +228,4 @@ Your Bare Hands:  A vandal needs no tools to do his dirty work -- his bare
 (>                                                                                                       
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,8 +1,12 @@
 # Tomatoes Once Poisonous
 
+Date: 2007-06-01
+
 => /collections/cartas/random/2007-04-12_breaking_news_badgers.gmi ← 2007-04-12 Breaking News Badgers
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2007-08-03_thailand_s_petition_husband.gmi 2007-08-03 Thailand S Petition Husband →
+Read this next:
+=> /collections/cartas/random/2007-08-03_thailand_s_petition_husband.gmi 2007-08-03 Thailand S Petition Husband
 
 ---
 
@@ -25,4 +29,4 @@ Warmly,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

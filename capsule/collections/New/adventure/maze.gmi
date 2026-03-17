@@ -1,7 +1,11 @@
+# Maze
+
 
 => /collections/New/adventure/masquerade.gmi ← Masquerade
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/mazmap.gmi Mazmap →
+Read this next:
+=> /collections/New/adventure/mazmap.gmi Mazmap
 
 ---
 
@@ -54,4 +58,4 @@ NOTE: Hidden passages are not noted on this map. Want to leave some
 Downloaded From P-80 Systems 304-744-2253
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,8 +1,12 @@
 # Pluto, the Dwarf Planet
 
+Date: 2011-11-15
+
 => /collections/cartas/random/2011-11-03_smell_of_uranium.gmi ← 2011-11-03 Smell Of Uranium
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2011-11-25_catheterization_samba.gmi 2011-11-25 Catheterization Samba →
+Read this next:
+=> /collections/cartas/random/2011-11-25_catheterization_samba.gmi 2011-11-25 Catheterization Samba
 
 ---
 
@@ -27,4 +31,4 @@ Regards,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

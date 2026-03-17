@@ -1,7 +1,11 @@
+# Goblins2
+
 
 => /collections/New/adventure/ghosttown.gmi ← Ghosttown
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/goldenbaton.gmi Goldenbaton →
+Read this next:
+=> /collections/New/adventure/goldenbaton.gmi Goldenbaton
 
 ---
 
@@ -248,4 +252,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

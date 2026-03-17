@@ -1,7 +1,11 @@
+# Darkhart
+
 
 => /collections/New/adventure/dark.gmi ← Dark
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/darklod.gmi Darklod →
+Read this next:
+=> /collections/New/adventure/darklod.gmi Darklod
 
 ---
 
@@ -836,4 +840,4 @@ work I put into playing THE DARK HEART OF UUKRUL.)
  Downloaded From P-80 Systems 304-744-2253
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

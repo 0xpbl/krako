@@ -1,7 +1,11 @@
+# Planetfall
+
 
 => /collections/New/adventure/plan9.gmi ← Plan9
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/plundered.gmi Plundered →
+Read this next:
+=> /collections/New/adventure/plundered.gmi Plundered
 
 ---
 
@@ -259,4 +263,4 @@ THE SYSOP SO THIS TUTORIAL CAN BE
 KEPT UP-TO-DATE!)
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

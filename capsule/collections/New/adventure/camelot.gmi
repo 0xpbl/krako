@@ -1,7 +1,11 @@
+# Camelot
+
 
 => /collections/New/adventure/cadaver.gmi ← Cadaver
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/cauldron.gmi Cauldron →
+Read this next:
+=> /collections/New/adventure/cauldron.gmi Cauldron
 
 ---
 
@@ -874,4 +878,4 @@ accomplishments while you wait for the next installment of CONQUESTS OF CAMELOT!
  Downloaded From P-80 Systems 304-744-2253
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

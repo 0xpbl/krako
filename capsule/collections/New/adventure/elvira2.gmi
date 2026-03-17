@@ -1,7 +1,11 @@
+# Elvira2
+
 
 => /collections/New/adventure/elvira1.gmi ← Elvira1
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/elvirasp.gmi Elvirasp →
+Read this next:
+=> /collections/New/adventure/elvirasp.gmi Elvirasp
 
 ---
 
@@ -500,4 +504,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

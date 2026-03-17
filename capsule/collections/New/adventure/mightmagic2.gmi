@@ -1,7 +1,11 @@
+# Mightmagic2
+
 
 => /collections/New/adventure/mightandmagic.gmi ← Mightandmagic
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/mindfighter.gmi Mindfighter →
+Read this next:
+=> /collections/New/adventure/mindfighter.gmi Mindfighter
 
 ---
 
@@ -346,4 +350,4 @@ Bjorgvin R. Leifsson
 brl@kopasker.is
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

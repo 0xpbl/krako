@@ -1,7 +1,11 @@
+# Circuit
+
 
 => /collections/New/adventure/circedge.gmi ← Circedge
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/circus.gmi Circus →
+Read this next:
+=> /collections/New/adventure/circus.gmi Circus
 
 ---
 
@@ -485,4 +489,4 @@ chip.
  Downloaded From P-80 Systems 304-744-2253
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

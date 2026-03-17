@@ -1,7 +1,11 @@
+# Feasibility
+
 
 => /collections/New/adventure/farmersdaughter.gmi ← Farmersdaughter
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ferret.gmi Ferret →
+Read this next:
+=> /collections/New/adventure/ferret.gmi Ferret
 
 ---
 
@@ -36,4 +40,4 @@ Climb rope/S/S/S/S/S/E/E/D/N/N/N/E/E/E/S/S/E/E/N/Go cave/Go tunnel/W
 Drop spear/Drop chalice/Drop ixion/Drop scimmitar/Score
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

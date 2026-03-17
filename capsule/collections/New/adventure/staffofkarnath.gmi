@@ -1,7 +1,11 @@
+# Staffofkarnath
+
 
 => /collections/New/adventure/st25.gmi ← St25
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/starcross.gmi Starcross →
+Read this next:
+=> /collections/New/adventure/starcross.gmi Starcross
 
 ---
 
@@ -74,4 +78,4 @@ The Abode of Karn
   the staff. Congratulations, you have won!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Pilgrim
+
 
 => /collections/New/adventure/phantasie2.gmi ← Phantasie2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/pirate.gmi Pirate →
+Read this next:
+=> /collections/New/adventure/pirate.gmi Pirate
 
 ---
 
@@ -17,4 +21,4 @@ Jacob Gunness - d.22/9-1990.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

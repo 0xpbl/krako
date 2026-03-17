@@ -1,7 +1,11 @@
+# Cdc-0200
+
 
 => /collections/New/100/bofh.gmi ← Bofh
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/captain.gmi Captain →
+Read this next:
+=> /collections/New/100/captain.gmi Captain
 
 ---
 
@@ -2874,4 +2878,4 @@ NO CARRIER
 \_______/|All Rights Taken For Granted Are Lost.   SIX GLORIOUS YEARS of cDc|
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

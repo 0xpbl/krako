@@ -1,7 +1,11 @@
+# Mazmap
+
 
 => /collections/New/adventure/maze.gmi ← Maze
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/metalwarrior.gmi Metalwarrior →
+Read this next:
+=> /collections/New/adventure/metalwarrior.gmi Metalwarrior
 
 ---
 
@@ -52,4 +56,4 @@ the upgraders of 550 decided not to tamper with a devious thing.
 Downloaded From P-80 Systems 304-744-2253
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

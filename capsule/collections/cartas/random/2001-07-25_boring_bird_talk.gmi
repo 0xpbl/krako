@@ -1,8 +1,12 @@
 # Boring Bird Talk
 
+Date: 2001-07-25
+
 => /collections/cartas/random/2001-06-28_on_long_novels.gmi ← 2001-06-28 On Long Novels
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2001-10-09_on_fences_and_property.gmi 2001-10-09 On Fences And Property →
+Read this next:
+=> /collections/cartas/random/2001-10-09_on_fences_and_property.gmi 2001-10-09 On Fences And Property
 
 ---
 
@@ -25,4 +29,4 @@ All the best,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

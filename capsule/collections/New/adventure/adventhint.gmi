@@ -1,7 +1,11 @@
+# Adventhint
+
 
 => /collections/New/adventure/accoladecomics.gmi ← Accoladecomics
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/adventur.gmi Adventur →
+Read this next:
+=> /collections/New/adventure/adventur.gmi Adventur
 
 ---
 
@@ -576,4 +580,4 @@ Wiz V: Kettles & False Mazes
      A reasonably satisfactory cure is to get out your set of originals and recopy the side that's been damaged. Everything on the restored level will be reset-- you may have to reopen a few locks, etc.-- but, at least, the quest can continue.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

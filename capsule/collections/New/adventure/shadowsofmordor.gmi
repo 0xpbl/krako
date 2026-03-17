@@ -1,7 +1,11 @@
+# Shadowsofmordor
+
 
 => /collections/New/adventure/shadowgate.gmi ← Shadowgate
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/sherlock.gmi Sherlock →
+Read this next:
+=> /collections/New/adventure/sherlock.gmi Sherlock
 
 ---
 
@@ -144,4 +148,4 @@ Originally displayed at the `Spectrum Adventurer' web pages
   (URL - http://home.virtual-pc.com/isblpx/index.html)
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

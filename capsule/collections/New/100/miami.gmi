@@ -1,7 +1,11 @@
+# Miami
+
 
 => /collections/New/100/mathimp.gmi ← Mathimp
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/modemlif.gmi Modemlif →
+Read this next:
+=> /collections/New/100/modemlif.gmi Modemlif
 
 ---
 
@@ -175,4 +179,4 @@ Have you read The Story of Mojo?
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

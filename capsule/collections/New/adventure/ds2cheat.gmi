@@ -1,7 +1,11 @@
+# Ds2Cheat
+
 
 => /collections/New/adventure/dreamzone.gmi ← Dreamzone
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ducktale.gmi Ducktale →
+Read this next:
+=> /collections/New/adventure/ducktale.gmi Ducktale
 
 ---
 
@@ -66,4 +70,4 @@ If you need anymore help contact my board, Paradox of Realms, 510-438-9753
 Or Internet email me at dan.huang@ventel.com
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

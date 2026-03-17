@@ -1,7 +1,11 @@
+# Startrek
+
 
 => /collections/New/adventure/starcross.gmi ← Starcross
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/startrekpromethean.gmi Startrekpromethean →
+Read this next:
+=> /collections/New/adventure/startrekpromethean.gmi Startrekpromethean
 
 ---
 
@@ -50,4 +54,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

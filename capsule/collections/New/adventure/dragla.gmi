@@ -1,7 +1,11 @@
+# Dragla
+
 
 => /collections/New/adventure/drag_sph.gmi ← Drag Sph
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dragonskulle.gmi Dragonskulle →
+Read this next:
+=> /collections/New/adventure/dragonskulle.gmi Dragonskulle
 
 ---
 
@@ -90,4 +94,4 @@ I hope you have enjoyed my crack of Dragon's Lair.
 							JT, NYC '90
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

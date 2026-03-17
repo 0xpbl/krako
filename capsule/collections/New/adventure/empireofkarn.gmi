@@ -1,7 +1,11 @@
+# Empireofkarn
+
 
 => /collections/New/adventure/emerald_isle.gmi ← Emerald Isle
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/epic.gmi Epic →
+Read this next:
+=> /collections/New/adventure/epic.gmi Epic
 
 ---
 
@@ -19,4 +23,4 @@ Note: the game is very picky about correct syntax. Whoever wrote the parser did 
 Jacob Gunness - d.6/8-1989.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

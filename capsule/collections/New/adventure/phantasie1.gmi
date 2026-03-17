@@ -99,6 +99,8 @@ can be found. To the South West lies Kilmor's room, in which Scroll
 => /collections/New/adventure/perseus.gmi ← Perseus
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/phantasie2.gmi Phantasie2 →
+Read this next:
+=> /collections/New/adventure/phantasie2.gmi Phantasie2
 
 ---
 
@@ -252,4 +254,4 @@ This solve written by:
 ----------------------------------------
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

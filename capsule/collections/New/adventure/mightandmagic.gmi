@@ -1,7 +1,11 @@
+# Mightandmagic
+
 
 => /collections/New/adventure/miamivice.gmi ← Miamivice
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/mightmagic2.gmi Mightmagic2 →
+Read this next:
+=> /collections/New/adventure/mightmagic2.gmi Mightmagic2
 
 ---
 
@@ -786,4 +790,4 @@ other is at 4th level E4 caves x0,y15
  Vellum Scroll: Sorpigal Caverns x1,y2
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

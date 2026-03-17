@@ -1,7 +1,11 @@
+# 914Bbs
+
 
 => /collections/New/adventure/zzzzzz.gmi ← Zzzzzz
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/actung.gmi Actung →
+Read this next:
+=> /collections/New/100/actung.gmi Actung
 
 ---
 
@@ -80,4 +84,4 @@ Bulletin to print, <L> for list, or <RETURN> to exit?
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

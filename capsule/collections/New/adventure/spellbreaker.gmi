@@ -1,7 +1,11 @@
+# Spellbreaker
+
 
 => /collections/New/adventure/spellbound.gmi ← Spellbound
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/spiderman.gmi Spiderman →
+Read this next:
+=> /collections/New/adventure/spiderman.gmi Spiderman
 
 ---
 
@@ -358,4 +362,4 @@ You should now have scored 600/600 and achieved the class of SCIENTIST!!
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

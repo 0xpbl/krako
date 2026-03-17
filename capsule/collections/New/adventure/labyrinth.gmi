@@ -1,7 +1,11 @@
+# Labyrinth
+
 
 => /collections/New/adventure/kyrandia.gmi ← Kyrandia
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/larry1.gmi Larry1 →
+Read this next:
+=> /collections/New/adventure/larry1.gmi Larry1
 
 ---
 
@@ -174,4 +178,4 @@
  READ RULE BOOK repeatedly to end up with over a fifty hour time limit!.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

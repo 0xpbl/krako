@@ -1,7 +1,11 @@
+# Warbitch
+
 
 => /collections/New/100/violence.gmi ← Violence
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/warning.gmi Warning →
+Read this next:
+=> /collections/New/100/warning.gmi Warning
 
 ---
 
@@ -163,4 +167,4 @@ tact me,leave feedback on the :  glue ball bbs->->312-465-hack
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Kq5
+
 
 => /collections/New/adventure/kq4sol.gmi ← Kq4Sol
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/kq5_1.gmi Kq5 1 →
+Read this next:
+=> /collections/New/adventure/kq5_1.gmi Kq5 1
 
 ---
 
@@ -646,4 +650,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

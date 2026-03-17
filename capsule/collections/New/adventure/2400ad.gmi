@@ -1,7 +1,11 @@
+# 2400Ad
+
 
 => /collections/New/adventure/221bakerst.gmi ← 221Bakerst
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/2400adfaq.gmi 2400Adfaq →
+Read this next:
+=> /collections/New/adventure/2400adfaq.gmi 2400Adfaq
 
 ---
 
@@ -231,4 +235,4 @@ Change log:
 homepage.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

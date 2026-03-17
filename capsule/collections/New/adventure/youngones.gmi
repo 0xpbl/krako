@@ -1,7 +1,11 @@
+# Youngones
+
 
 => /collections/New/adventure/wolfman.gmi ← Wolfman
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/zork1.gmi Zork1 →
+Read this next:
+=> /collections/New/adventure/zork1.gmi Zork1
 
 ---
 
@@ -19,4 +23,4 @@ suitcase
 5 pound not (ring Gadaffi and sell the bomb to get the 5 pounds?)
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

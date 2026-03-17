@@ -1,7 +1,11 @@
+# Lsl6-Wt
+
 
 => /collections/New/adventure/lsl5hint.gmi ← Lsl5Hint
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/luciferssol.gmi Luciferssol →
+Read this next:
+=> /collections/New/adventure/luciferssol.gmi Luciferssol
 
 ---
 
@@ -557,4 +561,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

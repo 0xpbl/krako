@@ -1,7 +1,11 @@
+# Uninvited
+
 
 => /collections/New/adventure/uninvite.gmi ← Uninvite
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/uppergumtree.gmi Uppergumtree →
+Read this next:
+=> /collections/New/adventure/uppergumtree.gmi Uppergumtree
 
 ---
 
@@ -68,4 +72,4 @@ UNTIL YOU CAN OPEN IT -  OPEN LIGHT - ENTER LIGHT - HIT BOY - OPERATE CROSS
 ON DEMON - ENTER WINDOW....TURN YOUR PRINTER ON!!!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

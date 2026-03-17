@@ -1,7 +1,11 @@
+# Timezone
+
 
 => /collections/New/adventure/timetunnel.gmi ← Timetunnel
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/tirnanog.gmi Tirnanog →
+Read this next:
+=> /collections/New/adventure/tirnanog.gmi Tirnanog
 
 ---
 
@@ -309,4 +313,4 @@ go machine, sit, push button, exit  machine, S.
         -----------------
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

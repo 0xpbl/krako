@@ -1,7 +1,11 @@
+# Twinkingdom
+
 
 => /collections/New/adventure/trinity.gmi ← Trinity
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/u72items.gmi U72Items →
+Read this next:
+=> /collections/New/adventure/u72items.gmi U72Items
 
 ---
 
@@ -54,4 +58,4 @@ S/E/Drink/S/S/E/N/Drop jug/Drop staff/Drop dagger/Score
  afterword:these are all the points what to do next?
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

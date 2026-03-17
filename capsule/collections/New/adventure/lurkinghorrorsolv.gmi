@@ -1,7 +1,11 @@
+# Lurkinghorrorsolv
+
 
 => /collections/New/adventure/lurkinghorrorp.gmi ← Lurkinghorrorp
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/magicland.gmi Magicland →
+Read this next:
+=> /collections/New/adventure/magicland.gmi Magicland
 
 ---
 
@@ -146,4 +150,4 @@ to games, Including StationFall and others, coming soon!
 Call :     Xanth (201) 689-0492   Citadel (317) 846-4146
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

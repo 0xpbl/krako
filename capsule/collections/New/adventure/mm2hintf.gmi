@@ -1,7 +1,11 @@
+# Mm2Hintf
+
 
 => /collections/New/adventure/mm2codes.gmi ← Mm2Codes
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/mmiiihin.gmi Mmiiihin →
+Read this next:
+=> /collections/New/adventure/mmiiihin.gmi Mmiiihin
 
 ---
 
@@ -413,4 +417,4 @@ AS HOAGIE, LAVERNE, AND BERNARD TOGETHER
         -DeaD GooN of Hybrid
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

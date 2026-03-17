@@ -1,7 +1,11 @@
+# Aztectomb
+
 
 => /collections/New/adventure/atalan.gmi ← Atalan
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ballyhoo.gmi Ballyhoo →
+Read this next:
+=> /collections/New/adventure/ballyhoo.gmi Ballyhoo
 
 ---
 
@@ -28,4 +32,4 @@ Go north/Climb statue/Take diamond/Go down/Go east/Look wall
 Insert diamond/Light torch/Go passage
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

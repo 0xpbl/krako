@@ -1,7 +1,11 @@
+# Hack7
+
 
 => /collections/New/100/hack11a.gmi ← Hack11A
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/hack_ths.gmi Hack Ths →
+Read this next:
+=> /collections/New/100/hack_ths.gmi Hack Ths
 
 ---
 
@@ -102,4 +106,4 @@ and I will like it to stay that way.
 [10] Tfiles: (1-29,?,Q) :
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Realpez
+
 
 => /collections/New/100/real.gmi ← Real
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/realpira.gmi Realpira →
+Read this next:
+=> /collections/New/100/realpira.gmi Realpira
 
 ---
 
@@ -314,4 +318,4 @@ classroom when there are
                         Dodgeball.)  (Real  Pez  Devotees have always thought
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

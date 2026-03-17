@@ -1,7 +1,11 @@
+# Guildofthieves
+
 
 => /collections/New/adventure/gruds.gmi ← Gruds
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/hacker2.gmi Hacker2 →
+Read this next:
+=> /collections/New/adventure/hacker2.gmi Hacker2
 
 ---
 
@@ -784,4 +788,4 @@
      * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

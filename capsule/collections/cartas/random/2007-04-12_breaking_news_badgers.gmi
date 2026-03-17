@@ -1,8 +1,12 @@
 # Breaking News: Badgers
 
+Date: 2007-04-12
+
 => /collections/cartas/random/2007-01-15_grandpa_simpson_s_onion_belt.gmi ← 2007-01-15 Grandpa Simpson S Onion Belt
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2007-06-01_tomatoes_once_poisonous.gmi 2007-06-01 Tomatoes Once Poisonous →
+Read this next:
+=> /collections/cartas/random/2007-06-01_tomatoes_once_poisonous.gmi 2007-06-01 Tomatoes Once Poisonous
 
 ---
 
@@ -27,4 +31,4 @@ All the best,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

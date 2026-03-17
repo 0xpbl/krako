@@ -1,7 +1,11 @@
+# Jackripper
+
 
 => /collections/New/adventure/jacknipper.gmi ← Jacknipper
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/jinxster.gmi Jinxster →
+Read this next:
+=> /collections/New/adventure/jinxster.gmi Jinxster
 
 ---
 
@@ -90,4 +94,4 @@ PEDESTAL, TAKE GOLD BALL, STAND ON PEDESTAL (game completed!!)
 - Jacob Gunnes
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

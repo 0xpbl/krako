@@ -1,7 +1,11 @@
+# Demons Winter
+
 
 => /collections/New/adventure/dejavu2.gmi ← Dejavu2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/desrtwlk.gmi Desrtwlk →
+Read this next:
+=> /collections/New/adventure/desrtwlk.gmi Desrtwlk
 
 ---
 
@@ -1064,4 +1068,4 @@ that's another story!
 ~                           *  THE END  ****
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

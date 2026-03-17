@@ -1,7 +1,11 @@
+# Valkyrie 17
+
 
 => /collections/New/adventure/vacstle2.gmi ← Vacstle2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/vamphunt.gmi Vamphunt →
+Read this next:
+=> /collections/New/adventure/vamphunt.gmi Vamphunt
 
 ---
 
@@ -45,4 +49,4 @@ unless you want to go for a swim!
 Jacob Gunness - December 1988.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

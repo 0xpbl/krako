@@ -1,7 +1,11 @@
+# Majik
+
 
 => /collections/New/adventure/magicland.gmi ← Magicland
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/man-eng.gmi Man-Eng →
+Read this next:
+=> /collections/New/adventure/man-eng.gmi Man-Eng
 
 ---
 
@@ -25,4 +29,4 @@ put sphere unit, s, s, w, w, n, w, w, n, majik, w, s, s, s, s, w, n, n, w, w,
 w, w, n. END
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

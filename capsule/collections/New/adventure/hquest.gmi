@@ -1,7 +1,11 @@
+# Hquest
+
 
 => /collections/New/adventure/hqsolve.gmi ← Hqsolve
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ht01.gmi Ht01 →
+Read this next:
+=> /collections/New/adventure/ht01.gmi Ht01
 
 ---
 
@@ -82,4 +86,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

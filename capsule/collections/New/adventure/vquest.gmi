@@ -1,7 +1,11 @@
+# Vquest
+
 
 => /collections/New/adventure/voodoo_castle.gmi ← Voodoo Castle
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/wally.gmi Wally →
+Read this next:
+=> /collections/New/adventure/wally.gmi Wally
 
 ---
 
@@ -192,4 +196,4 @@ know....
              Pyrotechnics
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

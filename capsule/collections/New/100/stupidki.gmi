@@ -1,7 +1,11 @@
+# Stupidki
+
 
 => /collections/New/100/spock.gmi ← Spock
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/taoprogram.gmi Taoprogram →
+Read this next:
+=> /collections/New/100/taoprogram.gmi Taoprogram
 
 ---
 
@@ -106,4 +110,4 @@ HAVE MUCH CHOICE.
 Downloaded From P-80 International Information Systems 304-744-2253
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,8 +1,12 @@
 # Community Idea: Better English than Hugh Grant
 
+Date: 2016-05-03
+
 => /collections/cartas/random/2016-03-24_community_idea_pure_corn_starch.gmi ← 2016-03-24 Community Idea Pure Corn Starch
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2016-05-17_community_idea_edecarlos_law_yer.gmi 2016-05-17 Community Idea Edecarlos Law Yer →
+Read this next:
+=> /collections/cartas/random/2016-05-17_community_idea_edecarlos_law_yer.gmi 2016-05-17 Community Idea Edecarlos Law Yer
 
 ---
 
@@ -28,4 +32,4 @@ All the best,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

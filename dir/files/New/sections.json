@@ -1,9 +1,9 @@
 {
-  "mainMenuName": "TEXTFILES.COM (mirror)",
+  "mainMenuName": "BBS Texts",
   "sections": {
     "adventure": "Adventure",
     "100": "100"
   },
   "order": ["adventure", "100"],
-  "intro": "=> http://textfiles.com TEXTFILES.COM\n\nConteúdo original por Jason Scott / textfiles.com. Este é um mirror não oficial e não autorizado, disponibilizado dentro do Gemini por pablo murad (0xpblab)."
+  "intro": "=> http://textfiles.com TEXTFILES.COM\n\nOriginal content by Jason Scott / textfiles.com. Unofficial, unauthorized mirror in Gemini by Pablo Murad."
 }

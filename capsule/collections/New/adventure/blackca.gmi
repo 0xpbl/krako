@@ -1,7 +1,11 @@
+# Blackca
+
 
 => /collections/New/adventure/beyondzork.gmi ← Beyondzork
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/blood.gmi Blood →
+Read this next:
+=> /collections/New/adventure/blood.gmi Blood
 
 ---
 
@@ -52,4 +56,4 @@ u now,dont get the book and the gold on the end,wait untill the game is over
 u can press the help key for see the commands..
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

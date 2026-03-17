@@ -1,7 +1,11 @@
+# Dantesinferno
+
 
 => /collections/New/adventure/dandare.gmi ← Dandare
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dark.gmi Dark →
+Read this next:
+=> /collections/New/adventure/dark.gmi Dark
 
 ---
 
@@ -41,4 +45,4 @@ gyrev@tin.it
 http://www.fantascienza.net/users/vallarino/english.html
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

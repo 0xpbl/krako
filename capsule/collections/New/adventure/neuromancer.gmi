@@ -1,7 +1,11 @@
+# Neuromancer
+
 
 => /collections/New/adventure/neuroman.gmi ← Neuroman
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/neverending.gmi Neverending →
+Read this next:
+=> /collections/New/adventure/neverending.gmi Neverending
 
 ---
 
@@ -709,4 +713,4 @@ Mediagenic.
  This walkthru is copyright (c) 1989 by Paul J. Grant. All rights reserved.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

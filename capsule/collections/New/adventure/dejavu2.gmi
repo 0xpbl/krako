@@ -1,7 +1,11 @@
+# Dejavu2
+
 
 => /collections/New/adventure/dejavu1.gmi ← Dejavu1
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/demons_winter.gmi Demons Winter →
+Read this next:
+=> /collections/New/adventure/demons_winter.gmi Demons Winter
 
 ---
 
@@ -270,4 +274,4 @@ remembrance.
  DEJA VU II is published by ICOM Simulations and distributed by Mindscape, Inc.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

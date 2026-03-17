@@ -1,7 +1,11 @@
+# Luciferssol
+
 
 => /collections/New/adventure/lsl6-wt.gmi ← Lsl6-Wt
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/lurkinghorr.gmi Lurkinghorr →
+Read this next:
+=> /collections/New/adventure/lurkinghorr.gmi Lurkinghorr
 
 ---
 
@@ -86,4 +90,4 @@ W,OPEN,[CLIMB(2),LOOK PIT,LOOK PATTERNS
           =>THE OUTSIDERS<=
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

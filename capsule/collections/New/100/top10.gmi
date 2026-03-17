@@ -1,7 +1,11 @@
+# Top10
+
 
 => /collections/New/100/tencoms.gmi ← Tencoms
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/tr823.gmi Tr823 →
+Read this next:
+=> /collections/New/100/tr823.gmi Tr823
 
 ---
 
@@ -87,4 +91,4 @@ And the Number One "false fact" ever reported about this story . . .
     Don't we wish!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

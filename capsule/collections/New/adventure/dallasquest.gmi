@@ -1,7 +1,11 @@
+# Dallasquest
+
 
 => /collections/New/adventure/d-dgsolv.gmi ← D-Dgsolv
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/danceofvampires.gmi Danceofvampires →
+Read this next:
+=> /collections/New/adventure/danceofvampires.gmi Danceofvampires
 
 ---
 
@@ -63,4 +67,4 @@ were to type [Clue] in all the rooms it would give you a hint, along with that
 a little logic will help you solve this adventure!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

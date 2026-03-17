@@ -1,7 +1,11 @@
+# Greatescape
+
 
 => /collections/New/adventure/grail.gmi ← Grail
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/gruds.gmi Gruds →
+Read this next:
+=> /collections/New/adventure/gruds.gmi Gruds
 
 ---
 
@@ -45,4 +49,4 @@ All right... now here is what you should do:
 - During the exercise, quickly get the shears and the compass. Cut the fence, and go outside the camp. Leave the compass, and go back in the camp! Wait till the next day. Again, during the exercise, act quickly. Get the map with the false ID, cut the fence, drop the shears, get the compass... and run for it! If you perform Great, you will Escape. Congratulations and all... they will accidentally shoot you later, anyway. Nah, just kiddin'. L8R. :)
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

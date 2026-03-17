@@ -1,7 +1,11 @@
+# Cutthroats
+
 
 => /collections/New/adventure/curse.gmi ← Curse
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/cyborg.gmi Cyborg →
+Read this next:
+=> /collections/New/adventure/cyborg.gmi Cyborg
 
 ---
 
@@ -119,4 +123,4 @@ classified as - a rich diver! -         your adventure is now over!
 cutthroats solve  written by- green manalishi  thanx to- the i.c. of trade!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

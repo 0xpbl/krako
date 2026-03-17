@@ -1,8 +1,12 @@
 # An Aparicio on the Pitch
 
+Date: 2010-04-23
+
 => /collections/cartas/random/2010-02-17_amapa_s_26_guinea_fowl.gmi ← 2010-02-17 Amapa S 26 Guinea Fowl
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2010-05-19_notable_birthdays_june_7.gmi 2010-05-19 Notable Birthdays June 7 →
+Read this next:
+=> /collections/cartas/random/2010-05-19_notable_birthdays_june_7.gmi 2010-05-19 Notable Birthdays June 7
 
 ---
 
@@ -25,4 +29,4 @@ Until soon,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

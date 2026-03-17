@@ -1,7 +1,11 @@
+# Pq2 Solv
+
 
 => /collections/New/adventure/pq2.gmi ← Pq2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/pqhints.gmi Pqhints →
+Read this next:
+=> /collections/New/adventure/pqhints.gmi Pqhints
 
 ---
 
@@ -348,4 +352,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Captain
+
 
 => /collections/New/100/cDc-0200.gmi ← Cdc-0200
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/captmidn.gmi Captmidn →
+Read this next:
+=> /collections/New/100/captmidn.gmi Captmidn
 
 ---
 
@@ -64,4 +68,4 @@ of the calls originating from Mountain View, California, whose population is
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

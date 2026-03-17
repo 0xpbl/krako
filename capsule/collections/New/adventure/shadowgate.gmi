@@ -1,7 +1,11 @@
+# Shadowgate
+
 
 => /collections/New/adventure/sexvixens.gmi ← Sexvixens
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/shadowsofmordor.gmi Shadowsofmordor →
+Read this next:
+=> /collections/New/adventure/shadowsofmordor.gmi Shadowsofmordor
 
 ---
 
@@ -202,4 +206,4 @@ from: the Asimov collection
      * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

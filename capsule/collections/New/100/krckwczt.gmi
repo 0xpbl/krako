@@ -425,6 +425,8 @@ TRACE.	IN ONE OF THE ROUTINES FOLLOWING A C000 REFERENCE, YOU WILL FIND A CMP
 => /collections/New/100/killshco.gmi ← Killshco
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/lay-girl.gmi Lay-Girl →
+Read this next:
+=> /collections/New/100/lay-girl.gmi Lay-Girl
 
 ---
 
@@ -3155,4 +3157,4 @@ PROMISE) TO ALLOW KRAKROMS, HARD RESETS, AND KREATIVE KRACKING USE OF THE 64K
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Crowley
+
 
 => /collections/New/adventure/crime_time.gmi ← Crime Time
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/curse.gmi Curse →
+Read this next:
+=> /collections/New/adventure/curse.gmi Curse
 
 ---
 
@@ -204,4 +208,4 @@ murder.  however, it's not your typical case...
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

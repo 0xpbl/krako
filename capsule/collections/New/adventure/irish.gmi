@@ -1,7 +1,11 @@
+# Irish
+
 
 => /collections/New/adventure/institute.gmi ← Institute
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/jacknipper.gmi Jacknipper →
+Read this next:
+=> /collections/New/adventure/jacknipper.gmi Jacknipper
 
 ---
 
@@ -132,4 +136,4 @@ victorious at the battle of Ragnarok? The tale is told in the fall
 fo the runes; the rest is up to you.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

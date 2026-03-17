@@ -1,7 +1,11 @@
+# Fairlight
+
 
 => /collections/New/adventure/fahrenheit451.gmi ← Fahrenheit451
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/farmersdaughter.gmi Farmersdaughter →
+Read this next:
+=> /collections/New/adventure/farmersdaughter.gmi Farmersdaughter
 
 ---
 
@@ -101,4 +105,4 @@ Piti wrote this solution during a dark and stormy day in the spring
 of 2000.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

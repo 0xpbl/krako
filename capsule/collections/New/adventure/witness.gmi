@@ -1,7 +1,11 @@
+# Witness
+
 
 => /collections/New/adventure/wishbringer.gmi ← Wishbringer
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/wizardofakyrz.gmi Wizardofakyrz →
+Read this next:
+=> /collections/New/adventure/wizardofakyrz.gmi Wizardofakyrz
 
 ---
 
@@ -180,4 +184,4 @@ SYNOPSIS OF THE ACTUAL EVENTS.
 THAT'S ALL FOLKS!!!!!!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

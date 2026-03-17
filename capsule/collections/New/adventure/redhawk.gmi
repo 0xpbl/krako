@@ -1,7 +1,11 @@
+# Redhawk
+
 
 => /collections/New/adventure/rebelplanet.gmi ← Rebelplanet
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/returntooz.gmi Returntooz →
+Read this next:
+=> /collections/New/adventure/returntooz.gmi Returntooz
 
 ---
 
@@ -46,4 +50,4 @@ take a photo. This ensures that your popularity is kept topped up so that you
 keep the radio. Also, only become Redhawk when it is really necessary.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

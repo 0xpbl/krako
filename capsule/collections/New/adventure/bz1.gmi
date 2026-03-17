@@ -1,7 +1,11 @@
+# Bz1
+
 
 => /collections/New/adventure/bureaucracy.gmi ← Bureaucracy
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/bz2.gmi Bz2 →
+Read this next:
+=> /collections/New/adventure/bz2.gmi Bz2
 
 ---
 
@@ -196,4 +200,4 @@ This walkthru is copyrighted 1987 by Scorpia, all rights reserved.
                                                   
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

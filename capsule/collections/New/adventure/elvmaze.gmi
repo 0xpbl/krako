@@ -1,7 +1,11 @@
+# Elvmaze
+
 
 => /collections/New/adventure/elvirasp.gmi ← Elvirasp
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/elvspell.gmi Elvspell →
+Read this next:
+=> /collections/New/adventure/elvspell.gmi Elvspell
 
 ---
 
@@ -52,4 +56,4 @@
 P.S - best wiew of MAZE is in EGA43
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

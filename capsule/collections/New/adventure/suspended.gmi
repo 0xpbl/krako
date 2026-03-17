@@ -3,6 +3,8 @@
 => /collections/New/adventure/suspect.gmi ← Suspect
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/sydneyaffair.gmi Sydneyaffair →
+Read this next:
+=> /collections/New/adventure/sydneyaffair.gmi Sydneyaffair
 
 ---
 
@@ -284,4 +286,4 @@ ENJOY!
 JOHN L. MOSS
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

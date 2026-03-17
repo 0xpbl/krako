@@ -1,7 +1,11 @@
+# Heroqust
+
 
 => /collections/New/adventure/heroqst1.gmi ← Heroqst1
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/hhijinx.gmi Hhijinx →
+Read this next:
+=> /collections/New/adventure/hhijinx.gmi Hhijinx
 
 ---
 
@@ -340,4 +344,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

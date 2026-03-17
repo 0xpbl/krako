@@ -1,7 +1,11 @@
+# Zzzzzz
+
 
 => /collections/New/adventure/zork3.gmi ← Zork3
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/100/914bbs.gmi 914Bbs →
+Read this next:
+=> /collections/New/100/914bbs.gmi 914Bbs
 
 ---
 
@@ -24,4 +28,4 @@ open door, leave bus, drop bullseye, drop balloon, climb pit, raise baton,
 climb rope, e, take cheese, drop hat, eat cheese, raise baton, n. END
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

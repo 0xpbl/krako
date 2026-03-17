@@ -1,7 +1,11 @@
+# Adventure
+
 
 => /collections/New/adventure/adventur.gmi ← Adventur
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/adventureland.gmi Adventureland →
+Read this next:
+=> /collections/New/adventure/adventureland.gmi Adventureland
 
 ---
 
@@ -75,4 +79,4 @@ Silver Bars						North-South Passage
 Coins							West Side Chamber
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

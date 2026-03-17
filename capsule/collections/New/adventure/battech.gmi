@@ -1,7 +1,11 @@
+# Battech
+
 
 => /collections/New/adventure/bastard.gmi ← Bastard
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/beyondzork.gmi Beyondzork →
+Read this next:
+=> /collections/New/adventure/beyondzork.gmi Beyondzork
 
 ---
 
@@ -253,4 +257,4 @@ by Mediagenic.
 *****DOWNLOADED FROM P080 SYSTEMS (304) 744-2253
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

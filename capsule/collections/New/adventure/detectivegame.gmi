@@ -1,7 +1,11 @@
+# Detectivegame
+
 
 => /collections/New/adventure/destiny.gmi ← Destiny
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/discwrld.gmi Discwrld →
+Read this next:
+=> /collections/New/adventure/discwrld.gmi Discwrld
 
 ---
 
@@ -87,4 +91,4 @@ THE DETECTIVE GAME
  mr2703@digibank.it
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

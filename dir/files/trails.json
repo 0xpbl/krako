@@ -1,0 +1,44 @@
+[
+  {
+    "id": "5min",
+    "title": "Read in 5 minutes",
+    "links": [
+      ["/pages/recomendati0n.gmi", "Curated links"],
+      ["/pages/about.gmi", "About"],
+      ["/collections/cartas/random/2000-04-06_moderate_reflections.gmi", "Moderate reflections (letter)"]
+    ]
+  },
+  {
+    "id": "strange_texts",
+    "title": "Strange texts",
+    "links": [
+      ["/collections/New/adventure/index.gmi", "BBS Adventure"],
+      ["/collections/New/100/index.gmi", "BBS 100"]
+    ]
+  },
+  {
+    "id": "personal_letters",
+    "title": "Personal letters",
+    "links": [
+      ["/collections/cartas/random/index.gmi", "Letters index"],
+      ["/collections/cartas/random/2000-04-06_moderate_reflections.gmi", "Moderate reflections"],
+      ["/collections/cartas/random/2001-07-25_boring_bird_talk.gmi", "Boring bird talk"]
+    ]
+  },
+  {
+    "id": "mental_health",
+    "title": "Mental health",
+    "links": [
+      ["/collections/mentalhealth/index.gmi", "Mental Health collection"]
+    ]
+  },
+  {
+    "id": "obscure_files",
+    "title": "Obscure files (BBS)",
+    "links": [
+      ["/collections/New/index.gmi", "BBS Texts"],
+      ["/collections/New/adventure/index.gmi", "Adventure"],
+      ["/collections/New/100/index.gmi", "100"]
+    ]
+  }
+]

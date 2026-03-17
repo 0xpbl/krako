@@ -1,7 +1,11 @@
+# Waxworks
+
 
 => /collections/New/adventure/wally.gmi ← Wally
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/webwalk.gmi Webwalk →
+Read this next:
+=> /collections/New/adventure/webwalk.gmi Webwalk
 
 ---
 
@@ -29,4 +33,4 @@ W/W/Get crowbar/E/Go door/Go passage/Open sarcophagus/Give leaves
 Wear mask
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

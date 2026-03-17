@@ -1,7 +1,11 @@
+# Adventur
+
 
 => /collections/New/adventure/adventhint.gmi ← Adventhint
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/adventure.gmi Adventure →
+Read this next:
+=> /collections/New/adventure/adventure.gmi Adventure
 
 ---
 
@@ -139,4 +143,4 @@ FINISHED THE GAME OF ADVENTURE!
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

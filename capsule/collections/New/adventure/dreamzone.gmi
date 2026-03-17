@@ -1,7 +1,11 @@
+# Dreamzone
+
 
 => /collections/New/adventure/drakkhen.gmi ← Drakkhen
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ds2cheat.gmi Ds2Cheat →
+Read this next:
+=> /collections/New/adventure/ds2cheat.gmi Ds2Cheat
 
 ---
 
@@ -182,4 +186,4 @@ GIVE BROTHER GUN.
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

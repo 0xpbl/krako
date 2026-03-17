@@ -1,7 +1,11 @@
+# Amnesia
+
 
 => /collections/New/adventure/amfv.gmi ← Amfv
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ampasswords.gmi Ampasswords →
+Read this next:
+=> /collections/New/adventure/ampasswords.gmi Ampasswords
 
 ---
 
@@ -162,4 +166,4 @@ Hollings.....
 Amnesia is copyrighted 1984-86 by Thomas Disch and Cognetics Corp.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

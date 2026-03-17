@@ -1,7 +1,11 @@
+# Utopia
+
 
 => /collections/New/100/urine.gmi ← Urine
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/vaxen.gmi Vaxen →
+Read this next:
+=> /collections/New/100/vaxen.gmi Vaxen
 
 ---
 
@@ -138,4 +142,4 @@ CALL THE GLUE BALL 312-465-4225 AND READ BARNEY'S B-FILES.  THEY'RE AWESOME.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

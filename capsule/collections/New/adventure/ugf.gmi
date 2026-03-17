@@ -1,7 +1,11 @@
+# Ugf
+
 
 => /collections/New/adventure/ugadventure.gmi ← Ugadventure
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ulgf.gmi Ulgf →
+Read this next:
+=> /collections/New/adventure/ulgf.gmi Ulgf
 
 ---
 
@@ -217,4 +221,4 @@ START: (E,S,S,E,E,N)
      ADVENTURER.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

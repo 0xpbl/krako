@@ -1,7 +1,11 @@
+# Murderonm
+
 
 => /collections/New/adventure/ms-un.gmi ← Ms-Un
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/musketeers.gmi Musketeers →
+Read this next:
+=> /collections/New/adventure/musketeers.gmi Musketeers
 
 ---
 
@@ -113,4 +117,4 @@ Accuse Ms Smallworth (cabin 20) and take her to the saloon (cabin 24) and
 the complete explanation is displayed, for your delectation.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

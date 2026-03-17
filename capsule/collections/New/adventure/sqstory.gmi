@@ -1,7 +1,11 @@
+# Sqstory
+
 
 => /collections/New/adventure/sq5solve.gmi ← Sq5Solve
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/srcastle.gmi Srcastle →
+Read this next:
+=> /collections/New/adventure/srcastle.gmi Srcastle
 
 ---
 
@@ -77,4 +81,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

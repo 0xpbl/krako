@@ -1,7 +1,11 @@
+# Advland
+
 
 => /collections/New/adventure/adventureland2.gmi ← Adventureland2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/advquest.gmi Advquest →
+Read this next:
+=> /collections/New/adventure/advquest.gmi Advquest
 
 ---
 
@@ -45,4 +49,4 @@ YOU WIN!
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Pyjamarama
+
 
 => /collections/New/adventure/pqhints.gmi ← Pqhints
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/pyramidod.gmi Pyramidod →
+Read this next:
+=> /collections/New/adventure/pyramidod.gmi Pyramidod
 
 ---
 
@@ -86,4 +90,4 @@ been something more than just the title music being changed.
 NOTES
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

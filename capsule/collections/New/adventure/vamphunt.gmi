@@ -1,7 +1,11 @@
+# Vamphunt
+
 
 => /collections/New/adventure/valkyrie_17.gmi ← Valkyrie 17
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/velnors_lair.gmi Velnors Lair →
+Read this next:
+=> /collections/New/adventure/velnors_lair.gmi Velnors Lair
 
 ---
 
@@ -51,4 +55,4 @@ horror films, or "mystical" D&D type stuff, you will enjoy this video as
 much as I did.   I thought it was excellent.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

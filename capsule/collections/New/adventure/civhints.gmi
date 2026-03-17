@@ -1,7 +1,11 @@
+# Civhints
+
 
 => /collections/New/adventure/circus.gmi ← Circus
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/cn-iman.gmi Cn-Iman →
+Read this next:
+=> /collections/New/adventure/cn-iman.gmi Cn-Iman
 
 ---
 
@@ -658,4 +662,4 @@ TWO GREAT UNDOCUMENTED FEATURES
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

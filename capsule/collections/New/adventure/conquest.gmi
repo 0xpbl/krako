@@ -1,7 +1,11 @@
+# Conquest
+
 
 => /collections/New/adventure/conqsolv.gmi ← Conqsolv
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/count.gmi Count →
+Read this next:
+=> /collections/New/adventure/count.gmi Count
 
 ---
 
@@ -350,4 +354,4 @@ YOU DID BUY IT, OR DIDN'T YOU ?!?!?!?
 BYE BYE !
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

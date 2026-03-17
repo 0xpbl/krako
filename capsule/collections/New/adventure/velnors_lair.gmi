@@ -1,7 +1,11 @@
+# Velnors Lair
+
 
 => /collections/New/adventure/vamphunt.gmi ← Vamphunt
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/venom.gmi Venom →
+Read this next:
+=> /collections/New/adventure/venom.gmi Venom
 
 ---
 
@@ -100,4 +104,4 @@ save your position before confronting Velnor), E (east/west passage), POLYMORPH
                 CONGRATULATIONS on the completion of your quest.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

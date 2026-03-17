@@ -1,7 +1,11 @@
+# Abyssal
+
 
 => /collections/New/adventure/aas.gmi ← Aas
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/accoladecomics.gmi Accoladecomics →
+Read this next:
+=> /collections/New/adventure/accoladecomics.gmi Accoladecomics
 
 ---
 
@@ -37,4 +41,4 @@ ADVENTURE SOLVE FOR: >>> ABYSSAL ZONE <<<
     IT'S POSSIBLE, BECAUSE THERE IS JUST NOT ENOUGH AIR TO SOLVE IT WITH...<END>
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,0 +1,5 @@
+{
+  "mainMenuName": "Cemetery of ideas",
+  "sections": { "main": "Main" },
+  "order": ["main"]
+}

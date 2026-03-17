@@ -1,8 +1,12 @@
 # Tsetse Fly Chorus
 
+Date: 2011-04-14
+
 => /collections/cartas/random/2010-11-22_pablo_escobar_samba.gmi ← 2010-11-22 Pablo Escobar Samba
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2011-05-25_hydrogenated_fat_parade.gmi 2011-05-25 Hydrogenated Fat Parade →
+Read this next:
+=> /collections/cartas/random/2011-05-25_hydrogenated_fat_parade.gmi 2011-05-25 Hydrogenated Fat Parade
 
 ---
 
@@ -27,4 +31,4 @@ Warmly,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

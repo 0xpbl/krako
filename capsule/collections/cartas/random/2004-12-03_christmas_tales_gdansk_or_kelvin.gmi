@@ -1,8 +1,12 @@
 # Christmas Tales: Gdansk or Kelvin
 
+Date: 2004-12-03
+
 => /collections/cartas/random/2004-04-20_pan_games_flash.gmi ← 2004-04-20 Pan Games Flash
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2005-04-22_noise_proves_nothing.gmi 2005-04-22 Noise Proves Nothing →
+Read this next:
+=> /collections/cartas/random/2005-04-22_noise_proves_nothing.gmi 2005-04-22 Noise Proves Nothing
 
 ---
 
@@ -31,4 +35,4 @@ Best,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

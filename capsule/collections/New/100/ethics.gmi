@@ -1,7 +1,11 @@
+# Ethics
+
 
 => /collections/New/100/elites.gmi ← Elites
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/famous.gmi Famous →
+Read this next:
+=> /collections/New/100/famous.gmi Famous
 
 ---
 
@@ -158,4 +162,4 @@ Downloaded from Just Say Yes. 2 lines, More than 500 files online!
          Full access on first call. 415-922-2008 CASFA
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

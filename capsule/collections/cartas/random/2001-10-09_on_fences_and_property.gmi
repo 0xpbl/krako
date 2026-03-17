@@ -1,8 +1,12 @@
 # On Fences and Property
 
+Date: 2001-10-09
+
 => /collections/cartas/random/2001-07-25_boring_bird_talk.gmi ← 2001-07-25 Boring Bird Talk
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2001-10-09_the_gloucester_cheese_race.gmi 2001-10-09 The Gloucester Cheese Race →
+Read this next:
+=> /collections/cartas/random/2001-10-09_the_gloucester_cheese_race.gmi 2001-10-09 The Gloucester Cheese Race
 
 ---
 
@@ -26,4 +30,4 @@ Until soon,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

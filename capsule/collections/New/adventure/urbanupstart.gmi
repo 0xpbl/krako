@@ -1,7 +1,11 @@
+# Urbanupstart
+
 
 => /collections/New/adventure/uppergumtree.gmi ← Uppergumtree
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/uukrul.gmi Uukrul →
+Read this next:
+=> /collections/New/adventure/uukrul.gmi Uukrul
 
 ---
 
@@ -23,4 +27,4 @@ Give fiver to officer/Enter/Wear suit/Read book
 Insert small key in panel/Take off
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

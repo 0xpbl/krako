@@ -1,7 +1,11 @@
+# Kingqst2
+
 
 => /collections/New/adventure/kingiv.gmi ← Kingiv
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/kingqst3.gmi Kingqst3 →
+Read this next:
+=> /collections/New/adventure/kingqst3.gmi Kingqst3
 
 ---
 
@@ -558,4 +562,4 @@ reserved.
 Last page !
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

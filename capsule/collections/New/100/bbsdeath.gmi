@@ -1,7 +1,11 @@
+# Bbsdeath
+
 
 => /collections/New/100/basicom5.gmi ← Basicom5
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/bc760mod.gmi Bc760Mod →
+Read this next:
+=> /collections/New/100/bc760mod.gmi Bc760Mod
 
 ---
 
@@ -157,4 +161,4 @@ who can't even bring themselves to answer their own mail.  Saddening.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

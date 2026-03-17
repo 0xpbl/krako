@@ -1,7 +1,11 @@
+# Maniac
+
 
 => /collections/New/adventure/man-eng.gmi ← Man-Eng
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/maniacmansion.gmi Maniacmansion →
+Read this next:
+=> /collections/New/adventure/maniacmansion.gmi Maniacmansion
 
 ---
 
@@ -446,4 +450,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

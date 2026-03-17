@@ -1,7 +1,11 @@
+# Realpira
+
 
 => /collections/New/100/realpez.gmi ← Realpez
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/revhack.gmi Revhack →
+Read this next:
+=> /collections/New/100/revhack.gmi Revhack
 
 ---
 
@@ -1356,4 +1360,4 @@ company manufactured a given game.
 ---------------
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

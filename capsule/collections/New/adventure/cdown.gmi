@@ -1,7 +1,11 @@
+# Cdown
+
 
 => /collections/New/adventure/ccamelot.gmi ← Ccamelot
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/chamber.gmi Chamber →
+Read this next:
+=> /collections/New/adventure/chamber.gmi Chamber
 
 ---
 
@@ -142,4 +146,4 @@ then top and last the middle one.
 That's it. Enjoy the ending. (what a waste to my opinion... :-) )
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

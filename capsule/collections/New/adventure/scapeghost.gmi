@@ -1,7 +1,11 @@
+# Scapeghost
+
 
 => /collections/New/adventure/s4king.gmi ← S4King
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/sceptreofb.gmi Sceptreofb →
+Read this next:
+=> /collections/New/adventure/sceptreofb.gmi Sceptreofb
 
 ---
 
@@ -30,4 +34,4 @@ Part 3
 Jacob Gunness - d.5/12-1989
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

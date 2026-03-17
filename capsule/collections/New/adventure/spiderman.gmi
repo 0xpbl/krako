@@ -1,7 +1,11 @@
+# Spiderman
+
 
 => /collections/New/adventure/spellbreaker.gmi ← Spellbreaker
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/spidermountain.gmi Spidermountain →
+Read this next:
+=> /collections/New/adventure/spidermountain.gmi Spidermountain
 
 ---
 
@@ -34,4 +38,4 @@ Empty aquarium/Drop aquarium/Get gem/W/Shoot web/At bio/N/Drop all
 Score
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

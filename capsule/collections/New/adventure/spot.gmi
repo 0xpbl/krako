@@ -1,7 +1,11 @@
+# Spot
+
 
 => /collections/New/adventure/spiii.gmi ← Spiii
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/spytrek.gmi Spytrek →
+Read this next:
+=> /collections/New/adventure/spytrek.gmi Spytrek
 
 ---
 
@@ -52,4 +56,4 @@ That's it - I'm outta here.
 Downloaded From P-80 Systems 304-744-2253
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

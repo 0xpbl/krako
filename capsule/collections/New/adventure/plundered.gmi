@@ -1,7 +1,11 @@
+# Plundered
+
 
 => /collections/New/adventure/planetfall.gmi ← Planetfall
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/pn.gmi Pn →
+Read this next:
+=> /collections/New/adventure/pn.gmi Pn
 
 ---
 
@@ -82,4 +86,4 @@ CRULLEY............to complete the adventure!!!!!!!!
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Desrtwlk
+
 
 => /collections/New/adventure/demons_winter.gmi ← Demons Winter
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/destiny.gmi Destiny →
+Read this next:
+=> /collections/New/adventure/destiny.gmi Destiny
 
 ---
 
@@ -452,4 +456,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

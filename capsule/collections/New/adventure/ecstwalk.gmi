@@ -1,7 +1,11 @@
+# Ecstwalk
+
 
 => /collections/New/adventure/ecstatic.gmi ← Ecstatic
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/elvdunge.gmi Elvdunge →
+Read this next:
+=> /collections/New/adventure/elvdunge.gmi Elvdunge
 
 ---
 
@@ -150,4 +154,4 @@ explains itself.
 -muggs@irc
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

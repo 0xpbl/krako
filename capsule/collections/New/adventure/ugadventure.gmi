@@ -1,7 +1,11 @@
+# Ugadventure
+
 
 => /collections/New/adventure/u72spell.gmi ← U72Spell
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ugf.gmi Ugf →
+Read this next:
+=> /collections/New/adventure/ugf.gmi Ugf
 
 ---
 
@@ -29,4 +33,4 @@ Drop matches/Drop torch/S/Get key/N/Get torch/Get matches/Get axe
 Light torch/N/W/Climb ladder/N/W/N/N/N/E/N/N/Open gate
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

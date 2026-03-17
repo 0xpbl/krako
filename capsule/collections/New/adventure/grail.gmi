@@ -1,7 +1,11 @@
+# Grail
+
 
 => /collections/New/adventure/goldenbaton.gmi ← Goldenbaton
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/greatescape.gmi Greatescape →
+Read this next:
+=> /collections/New/adventure/greatescape.gmi Greatescape
 
 ---
 
@@ -586,4 +590,4 @@ Compiled by Alexis Bryushinin (FIDO 2:5020/48.10)
 -------------------------------------------------
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

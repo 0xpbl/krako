@@ -1,7 +1,11 @@
+# Arkwalk
+
 
 => /collections/New/adventure/archipel.gmi ← Archipel
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/atalan.gmi Atalan →
+Read this next:
+=> /collections/New/adventure/atalan.gmi Atalan
 
 ---
 
@@ -151,4 +155,4 @@ any questions, direct them to THE SHEIK at....
 714:472:8241 Asylum ][ / 25 megs
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

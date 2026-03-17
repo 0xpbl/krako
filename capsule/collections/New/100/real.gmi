@@ -1,7 +1,11 @@
+# Real
+
 
 => /collections/New/100/purity.gmi ← Purity
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/realpez.gmi Realpez →
+Read this next:
+=> /collections/New/100/realpez.gmi Realpez
 
 ---
 
@@ -516,4 +520,4 @@ the initial inspiration.
          21 16:55:16 1982
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

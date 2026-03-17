@@ -1,7 +1,11 @@
+# Advquest
+
 
 => /collections/New/adventure/advland.gmi ← Advland
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/aencounter.gmi Aencounter →
+Read this next:
+=> /collections/New/adventure/aencounter.gmi Aencounter
 
 ---
 
@@ -95,4 +99,4 @@ Sharks - use the trident.
 Jacob Gunness - d. 27/12-1990.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

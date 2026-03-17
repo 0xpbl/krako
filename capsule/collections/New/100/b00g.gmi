@@ -1,7 +1,11 @@
+# B00G
+
 
 => /collections/New/100/arttext.gmi ← Arttext
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/balls.gmi Balls →
+Read this next:
+=> /collections/New/100/balls.gmi Balls
 
 ---
 
@@ -135,4 +139,4 @@ They're coming to take me away, ha ha.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

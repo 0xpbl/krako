@@ -1,7 +1,11 @@
+# Sceptreofb
+
 
 => /collections/New/adventure/scapeghost.gmi ← Scapeghost
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/scotadam.gmi Scotadam →
+Read this next:
+=> /collections/New/adventure/scotadam.gmi Scotadam
 
 ---
 
@@ -57,4 +61,4 @@ TAKE THE SCEPTRE AND GET TELEPORTED. RETURN TO THE BALCONY AND YOU WILL
 HAVE COMPLETED THE GAME WITH 100%!!!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

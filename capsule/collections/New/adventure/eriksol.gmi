@@ -1,7 +1,11 @@
+# Eriksol
+
 
 => /collections/New/adventure/epic.gmi ← Epic
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/eureka.gmi Eureka →
+Read this next:
+=> /collections/New/adventure/eureka.gmi Eureka
 
 ---
 
@@ -72,4 +76,4 @@ Sound of a Cat moving - tie the bell to the cat at Al Kwasarmi.
 Jacob Gunness - d.19/11-1990.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

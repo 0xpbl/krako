@@ -1,7 +1,11 @@
+# Questforwhorehouse
+
 
 => /collections/New/adventure/questforgrail.gmi ← Questforgrail
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/questii.gmi Questii →
+Read this next:
+=> /collections/New/adventure/questii.gmi Questii
 
 ---
 
@@ -15,4 +19,4 @@ give dres, fuck rece, n, n, balloons, fuck girl, get knif, kill guar,
 n, go bed, kiss girl, eat girl, fuck girl
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

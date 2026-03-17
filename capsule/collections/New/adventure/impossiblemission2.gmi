@@ -1,7 +1,11 @@
+# Impossiblemission2
+
 
 => /collections/New/adventure/impossiblemis.gmi ← Impossiblemis
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/incrediblehulk.gmi Incrediblehulk →
+Read this next:
+=> /collections/New/adventure/incrediblehulk.gmi Incrediblehulk
 
 ---
 
@@ -113,4 +117,4 @@
  to download the IMs. L8r!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

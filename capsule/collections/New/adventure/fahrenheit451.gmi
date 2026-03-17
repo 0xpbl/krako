@@ -1,7 +1,11 @@
+# Fahrenheit451
+
 
 => /collections/New/adventure/expeiditionamazon.gmi ← Expeiditionamazon
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/fairlight.gmi Fairlight →
+Read this next:
+=> /collections/New/adventure/fairlight.gmi Fairlight
 
 ---
 
@@ -48,4 +52,4 @@ MICROCASSETTE!!!!!!!THE END. WAIT ABOUT 30 SECONDS!!!
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

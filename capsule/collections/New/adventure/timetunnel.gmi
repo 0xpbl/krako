@@ -1,7 +1,11 @@
+# Timetunnel
+
 
 => /collections/New/adventure/threeweeks.gmi ← Threeweeks
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/timezone.gmi Timezone →
+Read this next:
+=> /collections/New/adventure/timezone.gmi Timezone
 
 ---
 
@@ -219,4 +223,4 @@ Thanks to Georg Rottensteiner for help on the final stage.
 Thanks go to whoever wrote the initial solution too, don't know his name.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

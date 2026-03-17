@@ -1,7 +1,11 @@
+# Tobeontop
+
 
 => /collections/New/adventure/tirnanog.gmi ← Tirnanog
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/tracesanction.gmi Tracesanction →
+Read this next:
+=> /collections/New/adventure/tracesanction.gmi Tracesanction
 
 ---
 
@@ -218,4 +222,4 @@ off the computer.
 version of the game. So thank Jack Alien for it...---
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Balls
+
 
 => /collections/New/100/b00g.gmi ← B00G
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/basicom4.gmi Basicom4 →
+Read this next:
+=> /collections/New/100/basicom4.gmi Basicom4
 
 ---
 
@@ -71,4 +75,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

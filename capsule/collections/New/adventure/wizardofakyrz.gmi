@@ -1,7 +1,11 @@
+# Wizardofakyrz
+
 
 => /collections/New/adventure/witness.gmi ← Witness
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/wizardofoz.gmi Wizardofoz →
+Read this next:
+=> /collections/New/adventure/wizardofoz.gmi Wizardofoz
 
 ---
 
@@ -40,4 +44,4 @@ not aware of the point in this (perhaps an urge to play "Gauntlet" :-)
 Jacob Gunness - d.31/3-1991.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Legendapachegold
+
 
 => /collections/New/adventure/leathergoddess.gmi ← Leathergoddess
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/lhorror.gmi Lhorror →
+Read this next:
+=> /collections/New/adventure/lhorror.gmi Lhorror
 
 ---
 
@@ -26,4 +30,4 @@ enter canoe, paddle, u, take dirt, u, throw dirt, invert stick, wave stick,
 d, d, s, s, s, monigero, sit on log, n, push boulder hard. END
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

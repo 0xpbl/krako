@@ -1,7 +1,11 @@
+# Hollywoodhijinx
+
 
 => /collections/New/adventure/hobbit.gmi ← Hobbit
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/hqsolve.gmi Hqsolve →
+Read this next:
+=> /collections/New/adventure/hqsolve.gmi Hqsolve
 
 ---
 
@@ -170,4 +174,4 @@ the last of your Cousin Herman".
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

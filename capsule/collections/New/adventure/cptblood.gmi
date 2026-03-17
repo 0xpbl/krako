@@ -1,7 +1,11 @@
+# Cptblood
+
 
 => /collections/New/adventure/countdwn.gmi ← Countdwn
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/cracks_of_file.gmi Cracks Of File →
+Read this next:
+=> /collections/New/adventure/cracks_of_file.gmi Cracks Of File
 
 ---
 
@@ -657,4 +661,4 @@ Toolworks.
 *****DOWNLOADED FROM P-80 SYSTEMS (304) 744-2253
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

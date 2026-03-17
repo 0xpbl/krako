@@ -1,7 +1,11 @@
+# Warning
+
 
 => /collections/New/100/warbitch.gmi ← Warbitch
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/warnings.gmi Warnings →
+Read this next:
+=> /collections/New/100/warnings.gmi Warnings
 
 ---
 
@@ -51,4 +55,4 @@ to fool the CD, as your level of desperation will only have increased during
 said period of time.  Just give up.  It's truly HOPELESS.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

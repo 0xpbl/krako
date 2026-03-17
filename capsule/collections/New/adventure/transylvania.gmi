@@ -1,7 +1,11 @@
+# Transylvania
+
 
 => /collections/New/adventure/tracesanction.gmi ← Tracesanction
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/trapdoor.gmi Trapdoor →
+Read this next:
+=> /collections/New/adventure/trapdoor.gmi Trapdoor
 
 ---
 
@@ -141,4 +145,4 @@ LATER--     ENCHANTOR
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

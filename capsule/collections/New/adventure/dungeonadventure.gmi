@@ -1,7 +1,11 @@
+# Dungeonadventure
+
 
 => /collections/New/adventure/dungeon.gmi ← Dungeon
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dungma.gmi Dungma →
+Read this next:
+=> /collections/New/adventure/dungma.gmi Dungma
 
 ---
 
@@ -113,4 +117,4 @@ Mithril can teleport you to ALL pedestals and from all except Black.
 Jacob Gunness - d.7/2-1990.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

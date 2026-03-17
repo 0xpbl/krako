@@ -1,8 +1,12 @@
 # Do Be Do Be Do
 
+Date: 2005-07-01
+
 => /collections/cartas/random/2005-06-30_germany_vs_south_korea_broadcast.gmi ← 2005-06-30 Germany Vs South Korea Broadcast
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2005-11-24_part_camel.gmi 2005-11-24 Part Camel →
+Read this next:
+=> /collections/cartas/random/2005-11-24_part_camel.gmi 2005-11-24 Part Camel
 
 ---
 
@@ -27,4 +31,4 @@ All the best,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

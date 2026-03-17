@@ -95,6 +95,8 @@ the IAAD, public domain files, or shareware programs.
 => /collections/New/100/howtobbs.gmi ← Howtobbs
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/icegun.gmi Icegun →
+Read this next:
+=> /collections/New/100/icegun.gmi Icegun
 
 ---
 
@@ -1314,4 +1316,4 @@ at the online addresses listed above.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

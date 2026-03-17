@@ -1,7 +1,11 @@
+# Futurwar
+
 
 => /collections/New/adventure/future.gmi ← Future
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/garfield.gmi Garfield →
+Read this next:
+=> /collections/New/adventure/garfield.gmi Garfield
 
 ---
 
@@ -398,4 +402,4 @@ Mediagenic.
 Last page !
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

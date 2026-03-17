@@ -1,7 +1,11 @@
+# Dragworld
+
 
 => /collections/New/adventure/dragonworld.gmi ← Dragonworld
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/drakkhen.gmi Drakkhen →
+Read this next:
+=> /collections/New/adventure/drakkhen.gmi Drakkhen
 
 ---
 
@@ -83,4 +87,4 @@ from: the Asimov collection
 --End of Session--
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

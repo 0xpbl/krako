@@ -1,7 +1,11 @@
+# Bureau
+
 
 => /collections/New/adventure/buck.gmi ← Buck
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/bureaucracy.gmi Bureaucracy →
+Read this next:
+=> /collections/New/adventure/bureaucracy.gmi Bureaucracy
 
 ---
 
@@ -476,4 +480,4 @@ you might even get to Paris!
 Bureaucracy is copyrighted 1987 by Infocom, Inc.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Drag Sph
+
 
 => /collections/New/adventure/dracula.gmi ← Dracula
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dragla.gmi Dragla →
+Read this next:
+=> /collections/New/adventure/dragla.gmi Dragla
 
 ---
 
@@ -244,4 +248,4 @@
 		  DEATH	& GREAT	VINNY SOLUTION.	GOOD DAY!!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Intohell
+
 
 => /collections/New/100/infobugs.gmi ← Infobugs
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/intro.gmi Intro →
+Read this next:
+=> /collections/New/100/intro.gmi Intro
 
 ---
 
@@ -245,4 +249,4 @@ next time when we experience more demonic slaughter...
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

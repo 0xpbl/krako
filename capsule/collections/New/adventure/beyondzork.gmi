@@ -1,7 +1,11 @@
+# Beyondzork
+
 
 => /collections/New/adventure/battech.gmi ← Battech
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/blackca.gmi Blackca →
+Read this next:
+=> /collections/New/adventure/blackca.gmi Blackca
 
 ---
 
@@ -558,4 +562,4 @@ from: the Asimov collection
   successive moves or you expire.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

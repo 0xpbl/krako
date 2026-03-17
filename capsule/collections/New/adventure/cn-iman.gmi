@@ -1,7 +1,11 @@
+# Cn-Iman
+
 
 => /collections/New/adventure/civhints.gmi ← Civhints
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/colonel.gmi Colonel →
+Read this next:
+=> /collections/New/adventure/colonel.gmi Colonel
 
 ---
 
@@ -421,4 +425,4 @@ CONGRATULATIONS, YOU HAVE JUST FINISHED CODENAME: ICEMAN!!!
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

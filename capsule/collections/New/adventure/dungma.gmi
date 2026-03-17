@@ -29,6 +29,8 @@ powerful Priest and Wizard....but pick for yourself who u like!..
 => /collections/New/adventure/dungeonadventure.gmi ← Dungeonadventure
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dutchmansgold.gmi Dutchmansgold →
+Read this next:
+=> /collections/New/adventure/dutchmansgold.gmi Dutchmansgold
 
 ---
 
@@ -674,4 +676,4 @@ peace to the land..and order to the GALAXY!
 You've Finished DUNGEON MASTER...
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

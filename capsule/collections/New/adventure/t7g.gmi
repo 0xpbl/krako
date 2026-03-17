@@ -707,6 +707,8 @@ Bishop's needing a change:
 => /collections/New/adventure/sydneyaffair.gmi ← Sydneyaffair
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/tasstimes.gmi Tasstimes →
+Read this next:
+=> /collections/New/adventure/tasstimes.gmi Tasstimes
 
 ---
 
@@ -1304,4 +1306,4 @@ _/ù| \_ ú    ú#######      _/ | \_ ù ú  #######     ú _/ |ú\_      ######
  on your first call!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

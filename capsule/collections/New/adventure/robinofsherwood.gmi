@@ -1,7 +1,11 @@
+# Robinofsherwood
+
 
 => /collections/New/adventure/roadwar2000.gmi ← Roadwar2000
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/s4king.gmi S4King →
+Read this next:
+=> /collections/New/adventure/s4king.gmi S4King
 
 ---
 
@@ -20,4 +24,4 @@ Jacob Gunness - fall 1987.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

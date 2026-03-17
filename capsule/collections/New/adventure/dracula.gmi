@@ -1,7 +1,11 @@
+# Dracula
+
 
 => /collections/New/adventure/dlux.gmi ← Dlux
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/drag_sph.gmi Drag Sph →
+Read this next:
+=> /collections/New/adventure/drag_sph.gmi Drag Sph
 
 ---
 
@@ -22,4 +26,4 @@ Jacob Gunness - d.2/8-1990.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

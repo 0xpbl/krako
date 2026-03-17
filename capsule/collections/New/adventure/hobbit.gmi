@@ -1,7 +1,11 @@
+# Hobbit
+
 
 => /collections/New/adventure/hitchikers.gmi ← Hitchikers
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/hollywoodhijinx.gmi Hollywoodhijinx →
+Read this next:
+=> /collections/New/adventure/hollywoodhijinx.gmi Hollywoodhijinx
 
 ---
 
@@ -28,4 +32,4 @@ Read magic door/Look door/Wait(at a certain moment the door opens)/W
 Smash web/Sw/W/W/W/W/Nw/W/Go door/Open chest/Put treasure
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

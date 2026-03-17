@@ -1,7 +1,11 @@
+# Metalwarrior
+
 
 => /collections/New/adventure/mazmap.gmi ← Mazmap
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/mghtmag2.gmi Mghtmag2 →
+Read this next:
+=> /collections/New/adventure/mghtmag2.gmi Mghtmag2
 
 ---
 
@@ -60,4 +64,4 @@ Solution done 1999 by Martin Brunner. If you have some more hints, please
 mail me at c64@utanet.at.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Elvira
+
 
 => /collections/New/adventure/elvenemy.gmi ← Elvenemy
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/elvira1.gmi Elvira1 →
+Read this next:
+=> /collections/New/adventure/elvira1.gmi Elvira1
 
 ---
 
@@ -144,4 +148,4 @@ Time        : 2355
 Thanks to TANGPENG, eet.holden
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

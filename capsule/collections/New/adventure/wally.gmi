@@ -1,7 +1,11 @@
+# Wally
+
 
 => /collections/New/adventure/vquest.gmi ← Vquest
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/waxworks.gmi Waxworks →
+Read this next:
+=> /collections/New/adventure/waxworks.gmi Waxworks
 
 ---
 
@@ -195,4 +199,4 @@ Everyone's a wally, everyone's a wally, that's the word
 NOTES
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

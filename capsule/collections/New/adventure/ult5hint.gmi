@@ -1,7 +1,11 @@
+# Ult5Hint
+
 
 => /collections/New/adventure/ulgf.gmi ← Ulgf
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ult6.gmi Ult6 →
+Read this next:
+=> /collections/New/adventure/ult6.gmi Ult6
 
 ---
 
@@ -1461,4 +1465,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

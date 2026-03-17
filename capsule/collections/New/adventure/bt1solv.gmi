@@ -1,7 +1,11 @@
+# Bt1Solv
+
 
 => /collections/New/adventure/brimstone.gmi ← Brimstone
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/bt2maps.gmi Bt2Maps →
+Read this next:
+=> /collections/New/adventure/bt2maps.gmi Bt2Maps
 
 ---
 
@@ -307,4 +311,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

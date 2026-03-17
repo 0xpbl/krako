@@ -1,7 +1,11 @@
+# Bastard
+
 
 => /collections/New/adventure/bardstale3.gmi ← Bardstale3
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/battech.gmi Battech →
+Read this next:
+=> /collections/New/adventure/battech.gmi Battech
 
 ---
 
@@ -68,4 +72,4 @@ oil, itching powder or sneezing powder.
  Reset the computer.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

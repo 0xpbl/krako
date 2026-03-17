@@ -1,7 +1,11 @@
+# Masquerade
+
 
 => /collections/New/adventure/maskofsun.gmi ← Maskofsun
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/maze.gmi Maze →
+Read this next:
+=> /collections/New/adventure/maze.gmi Maze
 
 ---
 
@@ -101,4 +105,4 @@ CALL THE POST OFFICE    617-965-2436
 =======================================
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

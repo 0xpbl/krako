@@ -1,7 +1,11 @@
+# Mordonsquest
+
 
 => /collections/New/adventure/moonmist.gmi ← Moonmist
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/mountainsket.gmi Mountainsket →
+Read this next:
+=> /collections/New/adventure/mountainsket.gmi Mountainsket
 
 ---
 
@@ -80,4 +84,4 @@ only dial 1611 to learn of 'perseverance', which is certainly something you
 need in order to get through this frequently illogical adventure. END
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

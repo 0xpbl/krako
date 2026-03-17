@@ -1,7 +1,11 @@
+# Aas
+
 
 => /collections/New/adventure/aaow.gmi ← Aaow
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/abyssal.gmi Abyssal →
+Read this next:
+=> /collections/New/adventure/abyssal.gmi Abyssal
 
 ---
 
@@ -467,4 +471,4 @@ Volker Blasius <blasius@gmd.de> and the documentation for the various
 systems mentioned here.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

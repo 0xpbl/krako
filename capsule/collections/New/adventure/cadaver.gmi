@@ -1,7 +1,11 @@
+# Cadaver
+
 
 => /collections/New/adventure/ca-tsa.gmi ← Ca-Tsa
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/camelot.gmi Camelot →
+Read this next:
+=> /collections/New/adventure/camelot.gmi Camelot
 
 ---
 
@@ -148,4 +152,4 @@ Typed by rygar!
                          -=USA/Fairlight=-
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

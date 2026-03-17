@@ -1,8 +1,12 @@
 # The Horse at the Gates
 
+Date: 2002-09-11
+
 => /collections/cartas/random/2002-04-19_sombreros_and_sophistication.gmi ← 2002-04-19 Sombreros And Sophistication
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2003-02-24_helio_the_hermeneut.gmi 2003-02-24 Helio The Hermeneut →
+Read this next:
+=> /collections/cartas/random/2003-02-24_helio_the_hermeneut.gmi 2003-02-24 Helio The Hermeneut
 
 ---
 
@@ -28,4 +32,4 @@ Warmly,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

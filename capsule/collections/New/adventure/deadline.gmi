@@ -1,7 +1,11 @@
+# Deadline
+
 
 => /collections/New/adventure/darthvader.gmi ← Darthvader
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dejasolv.gmi Dejasolv →
+Read this next:
+=> /collections/New/adventure/dejasolv.gmi Dejasolv
 
 ---
 
@@ -124,4 +128,4 @@ them. If you have other methods of solving DEADLINE, let us know!
  DEADLINE is published by Infocom, Inc.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Loadsofmidnight
+
 
 => /collections/New/adventure/lifeboat.gmi ← Lifeboat
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/longbow1.gmi Longbow1 →
+Read this next:
+=> /collections/New/adventure/longbow1.gmi Longbow1
 
 ---
 
@@ -27,4 +31,4 @@ jump window, out, N, SE, NE, N, throw rope, wait until dragon comes.
 Part 3 password - "DEEP GULLY"
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

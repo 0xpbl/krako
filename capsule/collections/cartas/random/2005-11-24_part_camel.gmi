@@ -1,8 +1,12 @@
 # Part Camel
 
+Date: 2005-11-24
+
 => /collections/cartas/random/2005-07-01_do_be_do_be_do.gmi ← 2005-07-01 Do Be Do Be Do
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2005-12-14_ape_men_in_sweden.gmi 2005-12-14 Ape Men In Sweden →
+Read this next:
+=> /collections/cartas/random/2005-12-14_ape_men_in_sweden.gmi 2005-12-14 Ape Men In Sweden
 
 ---
 
@@ -26,4 +30,4 @@ Warmly,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

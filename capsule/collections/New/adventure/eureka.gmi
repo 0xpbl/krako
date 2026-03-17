@@ -1,7 +1,11 @@
+# Eureka
+
 
 => /collections/New/adventure/eriksol.gmi ← Eriksol
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/expeiditionamazon.gmi Expeiditionamazon →
+Read this next:
+=> /collections/New/adventure/expeiditionamazon.gmi Expeiditionamazon
 
 ---
 
@@ -25,4 +29,4 @@ S/E/S/Take diamond/N/W/S/W/Sw/S/Use ladder/U/Take ladder/W/Use ladder
 Take fungi/U/E/S/Use fungi/E/Nw/D/S/W/Use diamond/Take talisman
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

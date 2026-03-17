@@ -1,7 +1,11 @@
+# Suspect
+
 
 => /collections/New/adventure/sundog.gmi ← Sundog
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/suspended.gmi Suspended →
+Read this next:
+=> /collections/New/adventure/suspended.gmi Suspended
 
 ---
 
@@ -211,4 +215,4 @@ YOUR WELL-DESERVED PULITZER PRIZE...
 =END=
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

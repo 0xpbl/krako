@@ -1,7 +1,11 @@
+# Kq-4
+
 
 => /collections/New/adventure/kobayashi.gmi ← Kobayashi
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/kq3-hint.gmi Kq3-Hint →
+Read this next:
+=> /collections/New/adventure/kq3-hint.gmi Kq3-Hint
 
 ---
 
@@ -266,4 +270,4 @@
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

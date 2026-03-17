@@ -1,7 +1,11 @@
+# Uninvite
+
 
 => /collections/New/adventure/ultima7.gmi ← Ultima7
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/uninvited.gmi Uninvited →
+Read this next:
+=> /collections/New/adventure/uninvited.gmi Uninvited
 
 ---
 
@@ -448,4 +452,4 @@ open it the hard way. Remember how we "opened" the chair back in the
 entrance hall? Attack the cookie jar
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

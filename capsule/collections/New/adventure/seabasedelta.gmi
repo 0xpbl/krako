@@ -1,7 +1,11 @@
+# Seabasedelta
+
 
 => /collections/New/adventure/se-kaaofassiah.gmi ← Se-Kaaofassiah
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/sexvixen.gmi Sexvixen →
+Read this next:
+=> /collections/New/adventure/sexvixen.gmi Sexvixen
 
 ---
 
@@ -18,4 +22,4 @@ NOTE: you're not really supposed to know about how to launch the missile at the 
 Jacob Gunness - spring 1988.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

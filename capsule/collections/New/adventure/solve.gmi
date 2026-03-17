@@ -1,7 +1,11 @@
+# Solve
+
 
 => /collections/New/adventure/smugglersinn.gmi ← Smugglersinn
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/solvefor.gmi Solvefor →
+Read this next:
+=> /collections/New/adventure/solvefor.gmi Solvefor
 
 ---
 
@@ -105,4 +109,4 @@ Hope this works for you..  it did for me ;)
 JAMMER/R2, WITH LICENCE TO GAME
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

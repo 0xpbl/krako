@@ -1,7 +1,11 @@
+# Dkok
+
 
 => /collections/New/adventure/dizzyprince.gmi ← Dizzyprince
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dlux.gmi Dlux →
+Read this next:
+=> /collections/New/adventure/dlux.gmi Dlux
 
 ---
 
@@ -1431,4 +1435,4 @@ DEATH KNIGHTS OF KRYNN is published by Strategic Simulations, Incorporated.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

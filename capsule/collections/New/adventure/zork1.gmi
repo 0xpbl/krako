@@ -1,7 +1,11 @@
+# Zork1
+
 
 => /collections/New/adventure/youngones.gmi ← Youngones
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/zork1b.gmi Zork1B →
+Read this next:
+=> /collections/New/adventure/zork1b.gmi Zork1B
 
 ---
 
@@ -80,4 +84,4 @@ TREASURES:
 Jacob Gunness - 23/3-1990.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

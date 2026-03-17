@@ -1,7 +1,11 @@
+# Captmidn
+
 
 => /collections/New/100/captain.gmi ← Captain
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/catstuff.gmi Catstuff →
+Read this next:
+=> /collections/New/100/catstuff.gmi Catstuff
 
 ---
 
@@ -420,4 +424,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

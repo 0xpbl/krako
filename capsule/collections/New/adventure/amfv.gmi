@@ -1,7 +1,11 @@
+# Amfv
+
 
 => /collections/New/adventure/amforever.gmi ← Amforever
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/amnesia.gmi Amnesia →
+Read this next:
+=> /collections/New/adventure/amnesia.gmi Amnesia
 
 ---
 
@@ -717,4 +721,4 @@ Have you ever:
     for help?
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

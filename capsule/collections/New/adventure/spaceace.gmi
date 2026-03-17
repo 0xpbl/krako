@@ -1,7 +1,11 @@
+# Spaceace
+
 
 => /collections/New/adventure/sorceria.gmi ← Sorceria
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/spaceii.gmi Spaceii →
+Read this next:
+=> /collections/New/adventure/spaceii.gmi Spaceii
 
 ---
 
@@ -249,4 +253,4 @@ TEXT 'CHEATER' FILE VERSION.
          WRITTEN: 2/18/84 BY BATMAN
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

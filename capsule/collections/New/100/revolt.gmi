@@ -1,7 +1,11 @@
+# Revolt
+
 
 => /collections/New/100/revhack.gmi ← Revhack
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/safeinfo.gmi Safeinfo →
+Read this next:
+=> /collections/New/100/safeinfo.gmi Safeinfo
 
 ---
 
@@ -99,4 +103,4 @@ Call the Works, 3000+ text files online, 617-861-8976.
   "The Works: It won't just scare you...It'll fuck you up for life."
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

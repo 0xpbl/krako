@@ -1,7 +1,11 @@
+# Nightofaliens
+
 
 => /collections/New/adventure/neverending.gmi ← Neverending
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/oo-topos.gmi Oo-Topos →
+Read this next:
+=> /collections/New/adventure/oo-topos.gmi Oo-Topos
 
 ---
 
@@ -65,4 +69,4 @@ established, input voice command), CANCEL INVASION (message sent).
                               You have scored 100%
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

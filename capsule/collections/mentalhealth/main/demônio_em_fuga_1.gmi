@@ -1,6 +1,10 @@
+# Demônio Em Fuga 1
+
 
 => /collections/mentalhealth/main/index.gmi ↑ Section index
 => /collections/mentalhealth/main/demônio_em_fuga_2.gmi Demônio Em Fuga 2 →
+Read this next:
+=> /collections/mentalhealth/main/demônio_em_fuga_2.gmi Demônio Em Fuga 2
 
 ---
 
@@ -36,4 +40,4 @@ No ano de dois mil e dez, perdi um primo que era muito próximo e quase um irmã
 Eu estava obcecado pela morte.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

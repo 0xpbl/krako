@@ -1,7 +1,11 @@
+# Elvdunge
+
 
 => /collections/New/adventure/ecstwalk.gmi ← Ecstwalk
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/elvenemy.gmi Elvenemy →
+Read this next:
+=> /collections/New/adventure/elvenemy.gmi Elvenemy
 
 ---
 
@@ -45,4 +49,4 @@
        ╚════════╝
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

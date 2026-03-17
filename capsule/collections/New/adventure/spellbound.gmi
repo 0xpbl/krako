@@ -1,7 +1,11 @@
+# Spellbound
+
 
 => /collections/New/adventure/spell101.gmi ← Spell101
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/spellbreaker.gmi Spellbreaker →
+Read this next:
+=> /collections/New/adventure/spellbreaker.gmi Spellbreaker
 
 ---
 
@@ -73,4 +77,4 @@ in their portraits.  Once you've summoned the last character
 and hence completed the game.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

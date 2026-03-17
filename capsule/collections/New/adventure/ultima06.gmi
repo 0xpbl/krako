@@ -1,7 +1,11 @@
+# Ultima06
+
 
 => /collections/New/adventure/ult6spls.gmi ← Ult6Spls
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ultima3.gmi Ultima3 →
+Read this next:
+=> /collections/New/adventure/ultima3.gmi Ultima3
 
 ---
 
@@ -595,4 +599,4 @@ WALKTHRUS: T-U
  3 Ultima I
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

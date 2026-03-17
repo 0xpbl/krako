@@ -1,7 +1,11 @@
+# Alondark
+
 
 => /collections/New/adventure/aland2.gmi ← Aland2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/alone2.gmi Alone2 →
+Read this next:
+=> /collections/New/adventure/alone2.gmi Alone2
 
 ---
 
@@ -607,4 +611,4 @@ Computer & Information Science ** My opinions don't reflect those of the U of D
 --     7078 SAUPSTAD      --
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

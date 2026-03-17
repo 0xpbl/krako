@@ -1,7 +1,11 @@
+# Tasstimes
+
 
 => /collections/New/adventure/t7g.gmi ← T7G
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/tenlittle.gmi Tenlittle →
+Read this next:
+=> /collections/New/adventure/tenlittle.gmi Tenlittle
 
 ---
 
@@ -253,4 +257,4 @@ from: the Asimov collection
     * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

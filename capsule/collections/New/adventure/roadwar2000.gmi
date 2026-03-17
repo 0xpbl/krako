@@ -1,7 +1,11 @@
+# Roadwar2000
+
 
 => /collections/New/adventure/risedrag.gmi ← Risedrag
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/robinofsherwood.gmi Robinofsherwood →
+Read this next:
+=> /collections/New/adventure/robinofsherwood.gmi Robinofsherwood
 
 ---
 
@@ -58,4 +62,4 @@ Never use abstract combat.  Be wary of hiring new doctors or drill
 sergeants to replace old ones.  (Politicians are much less important).
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

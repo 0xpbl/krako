@@ -1,7 +1,11 @@
+# Uukrul
+
 
 => /collections/New/adventure/urbanupstart.gmi ← Urbanupstart
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/vacstle2.gmi Vacstle2 →
+Read this next:
+=> /collections/New/adventure/vacstle2.gmi Vacstle2
 
 ---
 
@@ -776,4 +780,4 @@ end game.
 					      isslbh@nusvm.bitnet
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

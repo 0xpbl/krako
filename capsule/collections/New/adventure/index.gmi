@@ -450,4 +450,4 @@
 => /collections/New/adventure/zzzzzz.gmi Zzzzzz
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -24,6 +24,8 @@ manipulate the  object by pressing  <ENTER>. If the  cursor is a
 => /collections/New/adventure/mghtmag2.gmi ← Mghtmag2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/miamivice.gmi Miamivice →
+Read this next:
+=> /collections/New/adventure/miamivice.gmi Miamivice
 
 ---
 
@@ -581,4 +583,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

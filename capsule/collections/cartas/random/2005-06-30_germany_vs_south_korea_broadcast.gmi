@@ -1,8 +1,12 @@
 # Germany vs South Korea Broadcast
 
+Date: 2005-06-30
+
 => /collections/cartas/random/2005-05-17_joel_stole_my_gibao.gmi ← 2005-05-17 Joel Stole My Gibao
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2005-07-01_do_be_do_be_do.gmi 2005-07-01 Do Be Do Be Do →
+Read this next:
+=> /collections/cartas/random/2005-07-01_do_be_do_be_do.gmi 2005-07-01 Do Be Do Be Do
 
 ---
 
@@ -30,4 +34,4 @@ Cheers,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

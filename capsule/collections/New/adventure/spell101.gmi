@@ -1,7 +1,11 @@
+# Spell101
+
 
 => /collections/New/adventure/spelcst.gmi ← Spelcst
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/spellbound.gmi Spellbound →
+Read this next:
+=> /collections/New/adventure/spellbound.gmi Spellbound
 
 ---
 
@@ -616,4 +620,4 @@ Entertainment and distributed by Electronic Arts.
 Last page !
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

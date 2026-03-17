@@ -1,8 +1,12 @@
 # 237 Reasons for the Old Days
 
+Date: 2012-02-17
+
 => /collections/cartas/random/2011-12-14_male_nipple_question.gmi ← 2011-12-14 Male Nipple Question
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2012-03-27_in_praise_of_human_lard.gmi 2012-03-27 In Praise Of Human Lard →
+Read this next:
+=> /collections/cartas/random/2012-03-27_in_praise_of_human_lard.gmi 2012-03-27 In Praise Of Human Lard
 
 ---
 
@@ -29,4 +33,4 @@ All the best,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

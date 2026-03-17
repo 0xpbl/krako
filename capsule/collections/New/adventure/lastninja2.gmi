@@ -1,7 +1,11 @@
+# Lastninja2
+
 
 => /collections/New/adventure/lastninja.gmi ← Lastninja
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/lawofthewest.gmi Lawofthewest →
+Read this next:
+=> /collections/New/adventure/lawofthewest.gmi Lawofthewest
 
 ---
 
@@ -307,4 +311,4 @@ result of the alarm is that your oponents will run faster. (I don't know if
 it's same with all versions).
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

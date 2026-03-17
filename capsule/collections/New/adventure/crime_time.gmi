@@ -1,7 +1,11 @@
+# Crime Time
+
 
 => /collections/New/adventure/cranston.gmi ← Cranston
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/crowley.gmi Crowley →
+Read this next:
+=> /collections/New/adventure/crowley.gmi Crowley
 
 ---
 
@@ -158,4 +162,4 @@ feel free to email me at hahaw@wish.nl
 This walkthrough was originally found at http://solutions.c64.org/
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

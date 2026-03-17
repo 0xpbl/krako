@@ -1,7 +1,11 @@
+# Kq3-Hint
+
 
 => /collections/New/adventure/kq-4.gmi ← Kq-4
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/kq4sol.gmi Kq4Sol →
+Read this next:
+=> /collections/New/adventure/kq4sol.gmi Kq4Sol
 
 ---
 
@@ -346,4 +350,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

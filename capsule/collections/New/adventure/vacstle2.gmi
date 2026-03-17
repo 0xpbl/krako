@@ -1,7 +1,11 @@
+# Vacstle2
+
 
 => /collections/New/adventure/uukrul.gmi ← Uukrul
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/valkyrie_17.gmi Valkyrie 17 →
+Read this next:
+=> /collections/New/adventure/valkyrie_17.gmi Valkyrie 17
 
 ---
 
@@ -28,4 +32,4 @@ Go hole/Examine ball/W/Read book/Read page/Drop book/Get idol/Put foot
 On cristo/Circle coffin/Wave stick/Yell chant
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

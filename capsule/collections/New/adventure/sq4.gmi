@@ -1,7 +1,11 @@
+# Sq4
+
 
 => /collections/New/adventure/spytrek.gmi ← Spytrek
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/sq4debug.gmi Sq4Debug →
+Read this next:
+=> /collections/New/adventure/sq4debug.gmi Sq4Debug
 
 ---
 
@@ -525,4 +529,4 @@ will be formatted.
  
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

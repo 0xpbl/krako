@@ -1,7 +1,11 @@
+# Institute
+
 
 => /collections/New/adventure/ingridsback.gmi ← Ingridsback
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/irish.gmi Irish →
+Read this next:
+=> /collections/New/adventure/irish.gmi Irish
 
 ---
 
@@ -172,4 +176,4 @@ Happy whatevering,
 Ctrl-Reset
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

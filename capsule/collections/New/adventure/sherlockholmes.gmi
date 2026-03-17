@@ -1,7 +1,11 @@
+# Sherlockholmes
+
 
 => /collections/New/adventure/sherlock.gmi ← Sherlock
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/sinbadgs.gmi Sinbadgs →
+Read this next:
+=> /collections/New/adventure/sinbadgs.gmi Sinbadgs
 
 ---
 
@@ -417,4 +421,4 @@ Show jewels to guard and finish +1.............100/100!
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Count
+
 
 => /collections/New/adventure/conquest.gmi ← Conquest
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/countdwn.gmi Countdwn →
+Read this next:
+=> /collections/New/adventure/countdwn.gmi Countdwn
 
 ---
 
@@ -64,4 +68,4 @@ and mallet)
 - Jacob Gunness
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

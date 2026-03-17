@@ -1,7 +1,11 @@
+# Lhorror
+
 
 => /collections/New/adventure/legendapachegold.gmi ← Legendapachegold
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/lifeboat.gmi Lifeboat →
+Read this next:
+=> /collections/New/adventure/lifeboat.gmi Lifeboat
 
 ---
 
@@ -68,4 +72,4 @@ THING - GET STONE!!!!.......THE END!!!!
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

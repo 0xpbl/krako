@@ -1,7 +1,11 @@
+# Lurkinghorr
+
 
 => /collections/New/adventure/luciferssol.gmi ← Luciferssol
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/lurkinghorrorp.gmi Lurkinghorrorp →
+Read this next:
+=> /collections/New/adventure/lurkinghorrorp.gmi Lurkinghorrorp
 
 ---
 
@@ -64,4 +68,4 @@ THING - GET STONE!!!!.......THE END!!!!
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Blood
+
 
 => /collections/New/adventure/blackca.gmi ← Blackca
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/bond.gmi Bond →
+Read this next:
+=> /collections/New/adventure/bond.gmi Bond
 
 ---
 
@@ -306,4 +310,4 @@ Equitus, and the endgame sequence will take over. Congratulations!
  Downloaded From P-80 Systems 304-744-2253
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

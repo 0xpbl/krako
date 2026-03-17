@@ -1,7 +1,11 @@
+# Incrediblehulk
+
 
 => /collections/New/adventure/impossiblemission2.gmi ← Impossiblemission2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/indjones.gmi Indjones →
+Read this next:
+=> /collections/New/adventure/indjones.gmi Indjones
 
 ---
 
@@ -49,4 +53,4 @@ DOME:
 YOU HAVE NOW SOLVED: THE INCREADABLE HULK!!!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

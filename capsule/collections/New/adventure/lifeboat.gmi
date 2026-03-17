@@ -1,7 +1,11 @@
+# Lifeboat
+
 
 => /collections/New/adventure/lhorror.gmi ← Lhorror
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/loadsofmidnight.gmi Loadsofmidnight →
+Read this next:
+=> /collections/New/adventure/loadsofmidnight.gmi Loadsofmidnight
 
 ---
 
@@ -19,4 +23,4 @@ Jacob Gunness - d.13/1-1991.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

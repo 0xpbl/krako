@@ -1,7 +1,11 @@
+# Buck
+
 
 => /collections/New/adventure/bttf.gmi ← Bttf
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/bureau.gmi Bureau →
+Read this next:
+=> /collections/New/adventure/bureau.gmi Bureau
 
 ---
 
@@ -440,4 +444,4 @@ and distributed by Electronic Arts.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

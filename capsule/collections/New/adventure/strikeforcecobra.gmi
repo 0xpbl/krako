@@ -1,7 +1,11 @@
+# Strikeforcecobra
+
 
 => /collections/New/adventure/stoneville.gmi ← Stoneville
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/sudan.gmi Sudan →
+Read this next:
+=> /collections/New/adventure/sudan.gmi Sudan
 
 ---
 
@@ -35,4 +39,4 @@ Have fun! I did.
  - Jaromir Krol / "Jerry King" - http://jaromirkrol.web.com
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Destiny
+
 
 => /collections/New/adventure/desrtwlk.gmi ← Desrtwlk
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/detectivegame.gmi Detectivegame →
+Read this next:
+=> /collections/New/adventure/detectivegame.gmi Detectivegame
 
 ---
 
@@ -309,4 +313,4 @@ THAT'S IT, YOU HAVE COMPLETED DESTINY...
        * COURTESY OF THE DRAGON LORD OF THE DIGITAL GANG *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

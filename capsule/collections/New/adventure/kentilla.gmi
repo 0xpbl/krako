@@ -1,7 +1,11 @@
+# Kentilla
+
 
 => /collections/New/adventure/kcamelot.gmi ← Kcamelot
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/kingiv.gmi Kingiv →
+Read this next:
+=> /collections/New/adventure/kingiv.gmi Kingiv
 
 ---
 
@@ -29,4 +33,4 @@ NOTE: One of the Urga-Mauls (it's random who) has Velmista which will cure you.
 Jacob Gunness - d.1/2-1990
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

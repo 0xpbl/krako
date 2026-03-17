@@ -1,7 +1,11 @@
+# Phrack.29
+
 
 => /collections/New/100/phrack.01.gmi ← Phrack.01
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/pokelist.gmi Pokelist →
+Read this next:
+=> /collections/New/100/pokelist.gmi Pokelist
 
 ---
 
@@ -4463,4 +4467,4 @@ Phrack World News QuickNotes
                         >--------=====END=====--------<
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

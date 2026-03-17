@@ -1,7 +1,11 @@
+# Danceofvampires
+
 
 => /collections/New/adventure/dallasquest.gmi ← Dallasquest
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dandare.gmi Dandare →
+Read this next:
+=> /collections/New/adventure/dandare.gmi Dandare
 
 ---
 
@@ -165,4 +169,4 @@ WITH KNIFE (releasing Anna), S, U, W (end of balcony), JUMP OUT OF WINDOW.
       You are a vampire hunter and have completed 100% of your adventure.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

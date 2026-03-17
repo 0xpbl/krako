@@ -1,7 +1,11 @@
+# Darthvader
+
 
 => /collections/New/adventure/darksolv.gmi ← Darksolv
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/deadline.gmi Deadline →
+Read this next:
+=> /collections/New/adventure/deadline.gmi Deadline
 
 ---
 
@@ -19,4 +23,4 @@ W/N/U/Drop princess/Drop map/D/n/E/E/Say security/Show i.d.
 Get crystals/W/W/S/U/Drop crystals/N/Say sesame/Push button
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# U72Items
+
 
 => /collections/New/adventure/twinkingdom.gmi ← Twinkingdom
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/u72npcs.gmi U72Npcs →
+Read this next:
+=> /collections/New/adventure/u72npcs.gmi U72Npcs
 
 ---
 
@@ -412,4 +416,4 @@ Ultima 7 Part II: Items  (by item name)                    From: "twigs"
  764  wall                 732  window
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

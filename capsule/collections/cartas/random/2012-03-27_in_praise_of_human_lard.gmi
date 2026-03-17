@@ -1,8 +1,12 @@
 # In Praise of Human Lard
 
+Date: 2012-03-27
+
 => /collections/cartas/random/2012-02-17_237_reasons_for_the_old_days.gmi ← 2012-02-17 237 Reasons For The Old Days
 => /collections/cartas/random/index.gmi ↑ Section index
 => /collections/cartas/random/2012-05-07_borrowing_an_eraser.gmi 2012-05-07 Borrowing An Eraser →
+Read this next:
+=> /collections/cartas/random/2012-05-07_borrowing_an_eraser.gmi 2012-05-07 Borrowing An Eraser
 
 ---
 
@@ -27,4 +31,4 @@ Warmly,
 Marcos Barbxxara
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

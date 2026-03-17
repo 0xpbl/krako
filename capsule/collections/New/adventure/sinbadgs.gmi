@@ -1,7 +1,11 @@
+# Sinbadgs
+
 
 => /collections/New/adventure/sherlockholmes.gmi ← Sherlockholmes
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/skooldaze.gmi Skooldaze →
+Read this next:
+=> /collections/New/adventure/skooldaze.gmi Skooldaze
 
 ---
 
@@ -36,4 +40,4 @@ Go east and continue to shore and then to lake. Swim east to Golden Ship.
 flask, trap him and the game is completed.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

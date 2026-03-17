@@ -3,6 +3,8 @@
 => /collections/New/100/lozers.gmi ← Lozers
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/mathimp.gmi Mathimp →
+Read this next:
+=> /collections/New/100/mathimp.gmi Mathimp
 
 ---
 
@@ -196,4 +198,4 @@ Call The Works BBS - 1600+ Textfiles! - [914]/238-8195 - 300/1200 - Always Open
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

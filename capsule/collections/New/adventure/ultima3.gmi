@@ -1,7 +1,11 @@
+# Ultima3
+
 
 => /collections/New/adventure/ultima06.gmi ← Ultima06
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ultima7.gmi Ultima7 →
+Read this next:
+=> /collections/New/adventure/ultima7.gmi Ultima7
 
 ---
 
@@ -322,4 +326,4 @@ INSERTING CARDS INTO EXODUS:
 =END=
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

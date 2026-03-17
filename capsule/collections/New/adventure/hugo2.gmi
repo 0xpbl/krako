@@ -1,7 +1,11 @@
+# Hugo2
+
 
 => /collections/New/adventure/hugo1.gmi ← Hugo1
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/hugo3.gmi Hugo3 →
+Read this next:
+=> /collections/New/adventure/hugo3.gmi Hugo3
 
 ---
 
@@ -173,4 +177,4 @@ Freeman in getting through the game.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

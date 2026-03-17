@@ -1,7 +1,11 @@
+# Heroqst1
+
 
 => /collections/New/adventure/heroesofkarn.gmi ← Heroesofkarn
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/heroqust.gmi Heroqust →
+Read this next:
+=> /collections/New/adventure/heroqust.gmi Heroqust
 
 ---
 
@@ -502,4 +506,4 @@ CompuServe             TEG-10206
 Last page !
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

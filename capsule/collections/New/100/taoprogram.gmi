@@ -1,7 +1,11 @@
+# Taoprogram
+
 
 => /collections/New/100/stupidki.gmi ← Stupidki
 => /collections/New/100/index.gmi ↑ Section index
 => /collections/New/100/taping.gmi Taping →
+Read this next:
+=> /collections/New/100/taping.gmi Taping
 
 ---
 
@@ -979,4 +983,4 @@
                                  - 16 -
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Emerald Isle
+
 
 => /collections/New/adventure/elvspell.gmi ← Elvspell
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/empireofkarn.gmi Empireofkarn →
+Read this next:
+=> /collections/New/adventure/empireofkarn.gmi Empireofkarn
 
 ---
 
@@ -59,4 +63,4 @@ Treasures: 1. Map  2. Chest  3. Nugget  4. Opal  5. Platinum Pyramid     6. Dubl
 Jacob Gunness - d.21/11-1990.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

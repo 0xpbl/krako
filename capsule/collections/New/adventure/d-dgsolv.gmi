@@ -1,7 +1,11 @@
+# D-Dgsolv
+
 
 => /collections/New/adventure/cyborg.gmi ← Cyborg
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dallasquest.gmi Dallasquest →
+Read this next:
+=> /collections/New/adventure/dallasquest.gmi Dallasquest
 
 ---
 
@@ -354,4 +358,4 @@ some help on the 3DS animations, though... they all are rather boring, esp.
 the ending...<G>
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

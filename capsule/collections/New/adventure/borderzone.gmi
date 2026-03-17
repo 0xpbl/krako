@@ -1,7 +1,11 @@
+# Borderzone
+
 
 => /collections/New/adventure/bond.gmi ← Bond
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/borrowt.gmi Borrowt →
+Read this next:
+=> /collections/New/adventure/borrowt.gmi Borrowt
 
 ---
 
@@ -83,4 +87,4 @@ DROP  CARD - KNOCK ON EASTERN DOOR - SAY "(password)" - STAND BEHIND DOOR -
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

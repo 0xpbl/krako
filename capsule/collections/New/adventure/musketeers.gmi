@@ -1,7 +1,11 @@
+# Musketeers
+
 
 => /collections/New/adventure/murderonm.gmi ← Murderonm
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/mysterfh.gmi Mysterfh →
+Read this next:
+=> /collections/New/adventure/mysterfh.gmi Mysterfh
 
 ---
 
@@ -24,4 +28,4 @@ This solution was made by Martin Brunner in 1998.
 Originally found at http://solutions.c64.org/
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

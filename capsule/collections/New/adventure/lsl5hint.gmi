@@ -1,7 +1,11 @@
+# Lsl5Hint
+
 
 => /collections/New/adventure/lsl5.gmi ← Lsl5
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/lsl6-wt.gmi Lsl6-Wt →
+Read this next:
+=> /collections/New/adventure/lsl6-wt.gmi Lsl6-Wt
 
 ---
 
@@ -855,4 +859,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

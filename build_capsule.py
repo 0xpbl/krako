@@ -7,6 +7,7 @@ Converts .txt and .md files to Gemtext (.gmi) format.
 import argparse
 import json
 import os
+import random
 import re
 import subprocess
 import sys
@@ -19,6 +20,35 @@ SOURCE_DIR = PROJECT_ROOT / "dir" / "files"
 CAPSULE_DIR = PROJECT_ROOT / "capsule"
 PAGES_DIR = CAPSULE_DIR / "pages"
 COLLECTIONS_DIR = CAPSULE_DIR / "collections"
+
+# Home: Start here (5 curated links)
+START_HERE_LINKS = [
+    ("/collections/cartas/random/index.gmi", "Letters"),
+    ("/collections/New/adventure/index.gmi", "BBS Texts (Adventure)"),
+    ("/pages/recomendati0n.gmi", "Curated links"),
+    ("/pages/about.gmi", "About"),
+    ("/pages/map.gmi", "Map"),
+]
+# Home: Best texts (up to ~10 anchor links; paths relative to capsule root)
+BEST_TEXTS_LINKS = [
+    ("/pages/recomendati0n.gmi", "Curated links"),
+    ("/collections/cartas/random/index.gmi", "Letters"),
+    ("/collections/New/adventure/index.gmi", "BBS Adventure"),
+    ("/collections/New/100/index.gmi", "BBS 100"),
+    ("/pages/about.gmi", "About"),
+    ("/pages/now.gmi", "Now"),
+    ("/pages/uses.gmi", "Uses"),
+    ("/pages/colophon.gmi", "Colophon"),
+]
+# Trail ids used in home (pages: /pages/trail_<id>.gmi)
+TRAIL_IDS = ["5min", "strange_texts", "personal_letters", "mental_health", "obscure_files"]
+TRAIL_TITLES = {
+    "5min": "Read in 5 minutes",
+    "strange_texts": "Strange texts",
+    "personal_letters": "Personal letters",
+    "mental_health": "Mental health",
+    "obscure_files": "Obscure files (BBS)",
+}
 
 # Deploy target: override with env KRAKO_DEPLOY_TARGET.
 # Default is local path (script usually runs on the server). Use user@host:path for remote deploy.
@@ -290,7 +320,7 @@ def get_collection_files(collection_name: str) -> List[Tuple[str, Path]]:
 
 def get_footer() -> str:
     """Generate footer text."""
-    return "\n---\n\ndesenvolvido por pablo murad - 2024 - 2026\n"
+    return "\n---\n\nBy Pablo Murad — 2024–2026\n"
 
 def write_gmi_file(path: Path, content: str, add_footer: bool = False):
     """Write .gmi file."""
@@ -433,14 +463,14 @@ def build_collection(collection_name: str):
     # Add previous/next navigation to files
     all_files_flat = []
     for section in sections_order:
-        for file_path in files_by_section.get(section, []):
-            if file_path.suffix:
-                sanitized_name = sanitize_filename(file_path.stem)
+        for src_path in files_by_section.get(section, []):
+            if src_path.suffix:
+                sanitized_name = sanitize_filename(src_path.stem)
             else:
-                sanitized_name = sanitize_filename(file_path.name)
-            all_files_flat.append((section, sanitized_name))
+                sanitized_name = sanitize_filename(src_path.name)
+            all_files_flat.append((section, sanitized_name, src_path))
     
-    for idx, (section, file_name) in enumerate(all_files_flat):
+    for idx, (section, file_name, src_path) in enumerate(all_files_flat):
         file_path = COLLECTIONS_DIR / collection_name / section / f"{file_name}.gmi"
         
         if file_path.exists():
@@ -450,19 +480,26 @@ def build_collection(collection_name: str):
             # Add navigation at the beginning
             nav_lines = []
             nav_lines.append("")
+            # Date line for dated documents (e.g. letters YYYY-MM-DD_title)
+            date_match = re.match(r"^(\d{4}-\d{2}-\d{2})", src_path.stem if src_path.suffix else src_path.name)
+            if date_match:
+                nav_lines.append("Date: " + date_match.group(1))
+                nav_lines.append("")
             
             if idx > 0:
-                prev_section, prev_name = all_files_flat[idx - 1]
+                prev_section, prev_name, _ = all_files_flat[idx - 1]
                 prev_display = prev_name.replace('_', ' ').title()
                 nav_lines.append(f"=> /collections/{collection_name}/{prev_section}/{prev_name}.gmi ← {prev_display}")
             
             nav_lines.append(f"=> /collections/{collection_name}/{section}/index.gmi ↑ Section index")
             
             if idx < len(all_files_flat) - 1:
-                next_section, next_name = all_files_flat[idx + 1]
+                next_section, next_name, _ = all_files_flat[idx + 1]
                 next_display = next_name.replace('_', ' ').title()
                 nav_lines.append(f"=> /collections/{collection_name}/{next_section}/{next_name}.gmi {next_display} →")
-            
+                nav_lines.append("Read this next:")
+                nav_lines.append(f"=> /collections/{collection_name}/{next_section}/{next_name}.gmi {next_display}")
+
             nav_lines.append("")
             nav_lines.append("---")
             nav_lines.append("")
@@ -480,9 +517,10 @@ def build_collection(collection_name: str):
                 else:
                     new_lines.append(line)
             
-            # If no heading found, add at the beginning
+            # If no heading found, add title from filename and nav at the beginning
             if not first_heading_found:
-                new_lines = nav_lines + new_lines
+                title = file_name.replace("_", " ").title()
+                new_lines = ["# " + title, ""] + nav_lines + new_lines
             
             updated_content = '\n'.join(new_lines)
             # Keep footer if it exists, otherwise add it
@@ -498,7 +536,7 @@ def build_cartas_collection():
     return build_collection("cartas")
 
 def translate_collection_name(name: str, sections_data: dict = None) -> str:
-    """Translate collection name if needed (for Portuguese to English)."""
+    """Translate collection name if needed (for Portuguese to English). Menu uses mainMenuName from sections.json (e.g. BBS Texts for New)."""
     if sections_data:
         main_menu_name = sections_data.get('mainMenuName', name.title())
         if main_menu_name == 'Cartas para Pablo':
@@ -506,156 +544,180 @@ def translate_collection_name(name: str, sections_data: dict = None) -> str:
         elif main_menu_name == 'Cartas':
             return 'Letters'
         return main_menu_name
-    
-    # Handle common compound words first (before any transformation)
+
+    # Handle common compound words when no sections_data
     common_words = {
         'mentalhealth': 'Mental Health',
         'mental health': 'Mental Health',
+        'new': 'BBS Texts',
     }
-    
     name_lower = name.lower().replace('_', ' ')
     if name_lower in common_words:
         return common_words[name_lower]
-    
-    # Replace underscores with spaces
+
     name = name.replace('_', ' ')
-    
-    # Add spaces before capital letters (for camelCase)
     name = re.sub(r'(?<!^)(?<! )([A-Z])', r' \1', name)
-    
     return name.title()
 
 def build_index(pages: List[str], collections_data: dict):
     """
-    Generate index.gmi (home page).
-    collections_data: dict mapping collection_name -> sections_data
+    Generate index.gmi (home page) in English.
+    Branding: The Great Capsule of Pablo Murad.
+    Structure: Start here, Best texts, What's new, Trails; footer links to about/now/uses/colophon/changelog/map.
     """
-    content = """```
- __                   __          
-│  │ ______________  │  │ ______  
-│  │╱ ╱╲_  __ ╲__  ╲ │  │╱ ╱  _ ╲ 
-│    <  │  │ ╲╱╱ __ ╲│    <  <_> )
-│__│_ ╲ │__│  (____  ╱__│_ ╲____╱ 
-     ╲╱            ╲╱     ╲╱      
-```
+    content = "# The Great Capsule of Pablo Murad\n\n"
+    content += "A personal space for exploration, reading trails, and archived texts.\n\n"
+    content += "---\n\n"
 
-# Krako
+    content += "## Start here\n\n"
+    for path, label in START_HERE_LINKS:
+        content += f"=> {path} {label}\n"
+    content += "\n"
 
-the Quantum Experimental Laboratories at 0xpblab — directory
+    content += "## Best texts\n\n"
+    for path, label in BEST_TEXTS_LINKS:
+        content += f"=> {path} {label}\n"
+    content += "\n"
 
-A web1-style directory of interesting places on the internet.
+    content += "## What's new\n\n"
+    content += "=> /pages/changelog.gmi Changelog\n\n"
 
-This is a Gemini capsule.
+    content += "## Trails\n\n"
+    for tid in TRAIL_IDS:
+        title = TRAIL_TITLES.get(tid, tid.replace("_", " ").title())
+        content += f"=> /pages/trail_{tid}.gmi {title}\n"
+    content += "\n"
 
----
+    content += "---\n\n"
+    content += "=> /pages/about.gmi About\n"
+    content += "=> /pages/now.gmi Now\n"
+    content += "=> /pages/uses.gmi Uses\n"
+    content += "=> /pages/colophon.gmi Colophon\n"
+    content += "=> /pages/changelog.gmi Changelog\n"
+    content += "=> /pages/map.gmi Map\n"
 
-## Welcome
-
-Welcome to a mildly organized pile of internet oddities, lovingly indexed by 0xpblab.
-
-Here you'll find a collection of things that made someone go "hmm", things that made someone go "why", and things that made someone go "what".
-
-The internet is weird, and that's okay.
-
----
-
-## Explore
-
-"""
-    
-    # Count pages (excluding empty index)
-    page_count = len([p for p in pages if p != "index"])
-    
-    if pages:
-        content += "### Pages\n\n"
-        for page in pages:
-            if page == "index":
-                continue  # Skip empty index page
-            # Keep original case if it's already uppercase/mixed, otherwise use uppercase
-            page_display = page.replace('_', ' ')
-            # If it contains numbers or is already in a special format, preserve it
-            if page.lower() == 'recomendati0n':
-                page_display = 'Recomendati0N'
-            else:
-                page_display = page_display.upper()
-            content += f"=> /pages/{page}.gmi {page_display}\n"
-        content += "\n"
-    
-    if collections_data:
-        content += "### Collections\n\n"
-        for collection_name in sorted(collections_data.keys()):
-            sections_data = collections_data[collection_name]
-            if sections_data:
-                collection_display = translate_collection_name(collection_name, sections_data)
-                # Convert to uppercase for display
-                collection_display = collection_display.upper()
-                # If collection has only one section, link directly to section index
-                sections_order = sections_data.get('order', [])
-                if len(sections_order) == 1:
-                    # Single section - link directly to section index
-                    section = sections_order[0]
-                    content += f"=> /collections/{collection_name}/{section}/index.gmi {collection_display}\n"
-                else:
-                    # Multiple sections - link to collection index
-                    content += f"=> /collections/{collection_name}/index.gmi {collection_display}\n"
-            else:
-                collection_display = translate_collection_name(collection_name)
-                collection_display = collection_display.upper()
-                content += f"=> /collections/{collection_name}/index.gmi {collection_display}\n"
-        content += "\n"
-    
-    content += """---
-
-## Quick Start
-
-"""
-    
-    if page_count > 0:
-        if page_count == 1:
-            content += "=> /pages/recomendati0n.gmi Browse curated links\n"
-        else:
-            content += f"=> /pages/recomendati0n.gmi Browse {page_count} curated links\n"
-    
-    if collections_data:
-        for collection_name in sorted(collections_data.keys()):
-            sections_data = collections_data[collection_name]
-            if sections_data:
-                collection_display = translate_collection_name(collection_name, sections_data)
-                # If collection has only one section, link directly to section index
-                sections_order = sections_data.get('order', [])
-                if len(sections_order) == 1:
-                    section = sections_order[0]
-                    link_path = f"/collections/{collection_name}/{section}/index.gmi"
-                else:
-                    link_path = f"/collections/{collection_name}/index.gmi"
-                
-                # Add a generic description based on collection name
-                if 'cartas' in collection_name.lower():
-                    content += f"=> {link_path} Explore personal letters collection\n"
-                elif 'mental' in collection_name.lower():
-                    content += f"=> {link_path} Explore {collection_display.lower()} collection\n"
-                else:
-                    content += f"=> {link_path} Explore {collection_display.lower()} collection\n"
-    
-    content += """
----
-
-## About
-
-This capsule is a curated collection of interesting places on the internet and personal correspondence from the early web era.
-
-Navigate using the links above, or explore the collections to discover content that captures the spirit of the independent web.
-
-Enjoy your journey through the weird and wonderful corners of the internet.
-
----
-
-*Crafted with questionable taste and questionable methods*
-
-"""
-    
     write_gmi_file(CAPSULE_DIR / "index.gmi", content, add_footer=True)
     print(f"[OK] Generated index.gmi")
+
+def build_trails():
+    """Load trails.json and generate /pages/trail_<id>.gmi for each trail."""
+    trails_file = SOURCE_DIR / "trails.json"
+    if not trails_file.exists():
+        print("[WARNING] trails.json not found; skipping trail pages.")
+        return
+    with open(trails_file, "r", encoding="utf-8") as f:
+        trails = json.load(f)
+    for t in trails:
+        tid = t.get("id")
+        title = t.get("title", tid.replace("_", " ").title())
+        links = t.get("links", [])
+        if not tid:
+            continue
+        content = f"# {title}\n\n"
+        for item in links:
+            if isinstance(item, list):
+                path, label = item[0], item[1]
+            else:
+                path, label = item, item
+            content += f"=> {path} {label}\n"
+        out = PAGES_DIR / f"trail_{tid}.gmi"
+        write_gmi_file(out, content, add_footer=True)
+        print(f"[OK] Generated {out.name}")
+    return len(trails)
+
+def build_random():
+    """Generate random.gmi: one random document link (picked at build time)."""
+    doc_links = []
+    for gmi in COLLECTIONS_DIR.rglob("*.gmi"):
+        if gmi.name == "index.gmi":
+            continue
+        try:
+            rel = gmi.relative_to(COLLECTIONS_DIR)
+            path = "/collections/" + rel.as_posix()
+            display = gmi.stem.replace("_", " ").title()
+            doc_links.append((path, display))
+        except ValueError:
+            continue
+    if not doc_links:
+        content = "# Random\n\nNo documents in collections yet.\n"
+    else:
+        path, display = random.choice(doc_links)
+        content = "# Random\n\n=> " + path + " " + display + "\n"
+    write_gmi_file(PAGES_DIR / "random.gmi", content, add_footer=True)
+    print("[OK] Generated random.gmi")
+
+def build_by_year():
+    """Generate by_year.gmi: letters grouped by year (from cartas filenames)."""
+    cartas_dir = SOURCE_DIR / "cartas"
+    by_year = {}
+    year_re = re.compile(r"^(\d{4})-\d{2}-\d{2}")
+    if cartas_dir.exists():
+        for section_dir in cartas_dir.iterdir():
+            if not section_dir.is_dir():
+                continue
+            for f in section_dir.iterdir():
+                if not f.is_file() or f.suffix not in (".md", ".txt", ""):
+                    continue
+                name = f.stem if f.suffix else f.name
+                m = year_re.match(name)
+                if m:
+                    year = m.group(1)
+                    sanitized = sanitize_filename(name)
+                    path = f"/collections/cartas/{section_dir.name}/{sanitized}.gmi"
+                    by_year.setdefault(year, []).append((path, name.replace("_", " ").title()))
+    for year in by_year:
+        by_year[year].sort(key=lambda x: x[1])
+    content = "# By year\n\nLetters grouped by year.\n\n---\n\n"
+    for year in sorted(by_year.keys(), reverse=True):
+        content += f"## {year}\n\n"
+        for path, label in by_year[year]:
+            content += f"=> {path} {label}\n"
+        content += "\n"
+    write_gmi_file(PAGES_DIR / "by_year.gmi", content, add_footer=True)
+    print("[OK] Generated by_year.gmi")
+
+def build_discovery_placeholders():
+    """Generate placeholder pages for tags and mood (To be populated / Coming soon)."""
+    mood_names = ["Light", "Weird", "Technical", "Intimate", "Dark"]
+    content_tags = "# Tags\n\nComing soon.\n"
+    write_gmi_file(PAGES_DIR / "tags.gmi", content_tags, add_footer=True)
+    for mood in mood_names:
+        slug = mood.lower()
+        content = f"# {mood}\n\nTo be populated.\n"
+        write_gmi_file(PAGES_DIR / f"mood_{slug}.gmi", content, add_footer=True)
+    print("[OK] Generated tags.gmi and mood_*.gmi placeholders")
+
+def build_map(pages: List[str], collections_data: dict):
+    """Generate map.gmi: structured index of collections, sections, and static pages (English)."""
+    content = "# Map\n\n"
+    content += "Structured index of the capsule.\n\n"
+    content += "---\n\n"
+
+    content += "## Static pages\n\n"
+    for page in sorted(pages):
+        if page == "index":
+            continue
+        label = page.replace("_", " ").title()
+        if page.lower() == "recomendati0n":
+            label = "Recomendati0n"
+        content += f"=> /pages/{page}.gmi {label}\n"
+    content += "\n"
+
+    content += "## Collections\n\n"
+    for collection_name in sorted(collections_data.keys()):
+        sections_data = collections_data[collection_name]
+        display_name = translate_collection_name(collection_name, sections_data)
+        content += f"### {display_name}\n\n"
+        content += f"=> /collections/{collection_name}/index.gmi Collection index\n\n"
+        sections_order = sections_data.get("order", [])
+        sections_dict = sections_data.get("sections", {})
+        for section in sections_order:
+            section_display = sections_dict.get(section, section.replace("_", " ").title())
+            content += f"=> /collections/{collection_name}/{section}/index.gmi {section_display}\n"
+        content += "\n"
+
+    write_gmi_file(PAGES_DIR / "map.gmi", content, add_footer=True)
+    print(f"[OK] Generated map.gmi")
 
 def run_deploy():
     """Sync capsule/ to DEPLOY_TARGET (local path or user@host:path). Creates target dir if needed; runs chown after."""
@@ -760,9 +822,26 @@ def main():
             collections_data[collection_name] = collection_data
         print()
 
+    # Build trails (from trails.json)
+    print("Generating trail pages...")
+    build_trails()
+    print()
+
+    # Discovery: random, by_year, placeholders
+    print("Generating discovery pages...")
+    build_random()
+    build_by_year()
+    build_discovery_placeholders()
+    print()
+
     # Build index
     print("Generating index.gmi...")
     build_index(pages, collections_data)
+    print()
+
+    # Build map
+    print("Generating map.gmi...")
+    build_map(pages, collections_data)
     print()
 
     print("Build complete!")

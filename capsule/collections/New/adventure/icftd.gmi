@@ -1,7 +1,11 @@
+# Icftd
+
 
 => /collections/New/adventure/iceman.gmi ← Iceman
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/imagination.gmi Imagination →
+Read this next:
+=> /collections/New/adventure/imagination.gmi Imagination
 
 ---
 
@@ -377,4 +381,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

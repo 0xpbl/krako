@@ -1,6 +1,10 @@
+# 221Baker
+
 
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/221bakerst.gmi 221Bakerst →
+Read this next:
+=> /collections/New/adventure/221bakerst.gmi 221Bakerst
 
 ---
 
@@ -487,4 +491,4 @@ MOTIVE:   INSURANCE MONEY
 WHERE MURDER WEAPON IS: PLAYHOUSE PROP ROOM
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

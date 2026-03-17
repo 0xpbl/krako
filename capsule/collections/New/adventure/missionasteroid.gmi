@@ -1,7 +1,11 @@
+# Missionasteroid
+
 
 => /collections/New/adventure/miser.gmi ← Miser
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/mm2codes.gmi Mm2Codes →
+Read this next:
+=> /collections/New/adventure/mm2codes.gmi Mm2Codes
 
 ---
 
@@ -20,4 +24,4 @@ Push blue button/Push black button/Push black button/Push white button
 Pull throttle/Look watch/Look watch
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

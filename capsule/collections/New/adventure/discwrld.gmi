@@ -1,7 +1,11 @@
+# Discwrld
+
 
 => /collections/New/adventure/detectivegame.gmi ← Detectivegame
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/ditkafix.gmi Ditkafix →
+Read this next:
+=> /collections/New/adventure/ditkafix.gmi Ditkafix
 
 ---
 
@@ -121,4 +125,4 @@ Square: use mambo on the dragon. Give mambo a lit firecracker, use him on the dr
 I hope that helps. Any comments to Julian@svenedin.demon.co.uk, or compuserve 100414,2526
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

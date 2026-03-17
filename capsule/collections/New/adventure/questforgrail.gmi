@@ -1,7 +1,11 @@
+# Questforgrail
+
 
 => /collections/New/adventure/quest.gmi ← Quest
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/questforwhorehouse.gmi Questforwhorehouse →
+Read this next:
+=> /collections/New/adventure/questforwhorehouse.gmi Questforwhorehouse
 
 ---
 
@@ -20,4 +24,4 @@ drop paper, n, n, take grail, w, s, u, n, u, w, n, n, w, w, u, u, s, s, s,
 e, e, n, e, take glove, w, n, w, n, put grail on throne. END
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

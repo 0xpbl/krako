@@ -1,7 +1,11 @@
+# Wega Station
+
 
 => /collections/New/adventure/webwalk.gmi ← Webwalk
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/willyb.gmi Willyb →
+Read this next:
+=> /collections/New/adventure/willyb.gmi Willyb
 
 ---
 
@@ -18,4 +22,4 @@ Go hangar/Go hangar/Go spacecraft/Drop epson/Drop tape/Press button/1
 Press button/3/Press button/2
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

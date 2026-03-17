@@ -1,7 +1,11 @@
+# Dragonworld
+
 
 => /collections/New/adventure/dragonw.gmi ← Dragonw
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dragworld.gmi Dragworld →
+Read this next:
+=> /collections/New/adventure/dragworld.gmi Dragworld
 
 ---
 
@@ -80,4 +84,4 @@
 --End of Session--
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

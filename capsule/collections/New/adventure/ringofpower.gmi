@@ -1,7 +1,11 @@
+# Ringofpower
+
 
 => /collections/New/adventure/returntooz.gmi ← Returntooz
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/risedrag.gmi Risedrag →
+Read this next:
+=> /collections/New/adventure/risedrag.gmi Risedrag
 
 ---
 
@@ -27,4 +31,4 @@ E/N/N/Open cage/Oil cage/Open cage/Drop bird/N/W/S/W/W/W/N/N/W/S/S/S/E
 Say ....(the words you read on the poster)/S/S/W/N/Take ring
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

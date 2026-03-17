@@ -1,7 +1,11 @@
+# St25
+
 
 => /collections/New/adventure/srcastle.gmi ← Srcastle
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/staffofkarnath.gmi Staffofkarnath →
+Read this next:
+=> /collections/New/adventure/staffofkarnath.gmi Staffofkarnath
 
 ---
 
@@ -181,4 +185,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

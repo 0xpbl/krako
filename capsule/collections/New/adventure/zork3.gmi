@@ -1,7 +1,11 @@
+# Zork3
+
 
 => /collections/New/adventure/zork2.gmi ← Zork2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/zzzzzz.gmi Zzzzzz →
+Read this next:
+=> /collections/New/adventure/zzzzzz.gmi Zzzzzz
 
 ---
 
@@ -59,4 +63,4 @@ empire!)
 Jacob Gunness - 18/3-1990.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

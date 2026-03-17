@@ -1,7 +1,11 @@
+# Stoneville
+
 
 => /collections/New/adventure/stationfall.gmi ← Stationfall
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/strikeforcecobra.gmi Strikeforcecobra →
+Read this next:
+=> /collections/New/adventure/strikeforcecobra.gmi Strikeforcecobra
 
 ---
 
@@ -26,4 +30,4 @@ Feed serval/Go east/Examine goblet/Go up/Open door/Enter door
 Examine picture/Open safe/86/56/98/Read will
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

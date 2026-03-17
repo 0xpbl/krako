@@ -1,7 +1,11 @@
+# Maskofsun
+
 
 => /collections/New/adventure/mardrms.gmi ← Mardrms
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/masquerade.gmi Masquerade →
+Read this next:
+=> /collections/New/adventure/masquerade.gmi Masquerade
 
 ---
 
@@ -169,4 +173,4 @@ EXIT THE PYRAMID.  YOU ARE NOW FINISHED
 WITH MASK OF THE SUN!
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

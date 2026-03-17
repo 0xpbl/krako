@@ -1,7 +1,11 @@
+# Bz3
+
 
 => /collections/New/adventure/bz2.gmi ← Bz2
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/bz4.gmi Bz4 →
+Read this next:
+=> /collections/New/adventure/bz4.gmi Bz4
 
 ---
 
@@ -194,4 +198,4 @@ This walkthru is copyrighted 1987 by Scorpia, all rights reserved.
                     
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

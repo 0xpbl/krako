@@ -1,7 +1,11 @@
+# Threeweeks
+
 
 => /collections/New/adventure/terrormolinos.gmi ← Terrormolinos
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/timetunnel.gmi Timetunnel →
+Read this next:
+=> /collections/New/adventure/timetunnel.gmi Timetunnel
 
 ---
 
@@ -174,4 +178,4 @@ Sinclair Hacker Chris Wood.
   ...........................................................................
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

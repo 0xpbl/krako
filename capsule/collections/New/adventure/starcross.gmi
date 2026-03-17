@@ -1,7 +1,11 @@
+# Starcross
+
 
 => /collections/New/adventure/staffofkarnath.gmi ← Staffofkarnath
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/startrek.gmi Startrek →
+Read this next:
+=> /collections/New/adventure/startrek.gmi Startrek
 
 ---
 
@@ -330,4 +334,4 @@ PERFECT SCORE.
                <D><J><C>
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

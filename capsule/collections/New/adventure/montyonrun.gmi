@@ -1,7 +1,11 @@
+# Montyonrun
+
 
 => /collections/New/adventure/monkey.gmi ← Monkey
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/moonmist.gmi Moonmist →
+Read this next:
+=> /collections/New/adventure/moonmist.gmi Moonmist
 
 ---
 
@@ -39,4 +43,4 @@ Michiel, FidoNet 2:283/502
 Check also out http://hem2.passagen.se/uffewald/monty for Monty on the Run hints.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

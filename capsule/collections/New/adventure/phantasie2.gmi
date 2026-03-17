@@ -1,7 +1,11 @@
+# Phantasie2
+
 
 => /collections/New/adventure/phantasie1.gmi ← Phantasie1
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/pilgrim.gmi Pilgrim →
+Read this next:
+=> /collections/New/adventure/pilgrim.gmi Pilgrim
 
 ---
 
@@ -143,4 +147,4 @@ As  the enchanted metal of the fighter cut the substance of the devil great
 flames  burst forth. I could jus
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

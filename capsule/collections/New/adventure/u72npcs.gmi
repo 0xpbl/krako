@@ -1,7 +1,11 @@
+# U72Npcs
+
 
 => /collections/New/adventure/u72items.gmi ← U72Items
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/u72spell.gmi U72Spell →
+Read this next:
+=> /collections/New/adventure/u72spell.gmi U72Spell
 
 ---
 
@@ -118,4 +122,4 @@ No.  Name                No.  Name                No.  Name
  97  Murder4             152  Sethys               61  Zulith
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

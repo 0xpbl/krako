@@ -114,6 +114,8 @@ Note  Some number codes were used in this map because the streets
 => /collections/New/adventure/bt1solv.gmi ← Bt1Solv
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/bt_doc.gmi Bt Doc →
+Read this next:
+=> /collections/New/adventure/bt_doc.gmi Bt Doc
 
 ---
 
@@ -195,4 +197,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

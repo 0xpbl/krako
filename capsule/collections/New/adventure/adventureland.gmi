@@ -1,7 +1,11 @@
+# Adventureland
+
 
 => /collections/New/adventure/adventure.gmi ← Adventure
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/adventureland2.gmi Adventureland2 →
+Read this next:
+=> /collections/New/adventure/adventureland2.gmi Adventureland2
 
 ---
 
@@ -35,4 +39,4 @@ thirteen treasures, say score.  The treasure summary:
 	Dragon Eggs
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Risedrag
+
 
 => /collections/New/adventure/ringofpower.gmi ← Ringofpower
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/roadwar2000.gmi Roadwar2000 →
+Read this next:
+=> /collections/New/adventure/roadwar2000.gmi Roadwar2000
 
 ---
 
@@ -905,4 +909,4 @@ factory, try spritzing her with NaPent.
 Press <CR> for more !
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

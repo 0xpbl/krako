@@ -1,7 +1,11 @@
+# Expeiditionamazon
+
 
 => /collections/New/adventure/eureka.gmi ← Eureka
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/fahrenheit451.gmi Fahrenheit451 →
+Read this next:
+=> /collections/New/adventure/fahrenheit451.gmi Fahrenheit451
 
 ---
 
@@ -245,4 +249,4 @@ You've finally solved it!
 Disk Master
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

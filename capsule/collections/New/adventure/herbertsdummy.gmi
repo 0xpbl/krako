@@ -1,7 +1,11 @@
+# Herbertsdummy
+
 
 => /collections/New/adventure/hellsend.gmi ← Hellsend
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/heroesofkarn.gmi Heroesofkarn →
+Read this next:
+=> /collections/New/adventure/heroesofkarn.gmi Heroesofkarn
 
 ---
 
@@ -140,4 +144,4 @@ not to say it's bad though..it's still a really good game. Some
 of the sub-games are great fun on their own.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

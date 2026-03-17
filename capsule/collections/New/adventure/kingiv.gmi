@@ -1,7 +1,11 @@
+# Kingiv
+
 
 => /collections/New/adventure/kentilla.gmi ← Kentilla
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/kingqst2.gmi Kingqst2 →
+Read this next:
+=> /collections/New/adventure/kingqst2.gmi Kingqst2
 
 ---
 
@@ -309,4 +313,4 @@ X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

@@ -1,7 +1,11 @@
+# Chamscip
+
 
 => /collections/New/adventure/chamber.gmi ← Chamber
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/chrono.gmi Chrono →
+Read this next:
+=> /collections/New/adventure/chrono.gmi Chrono
 
 ---
 
@@ -513,4 +517,4 @@ sacrificial blade).
 Press <CR> for more !
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

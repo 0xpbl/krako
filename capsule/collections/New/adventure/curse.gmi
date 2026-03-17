@@ -1,7 +1,11 @@
+# Curse
+
 
 => /collections/New/adventure/crowley.gmi ← Crowley
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/cutthroats.gmi Cutthroats →
+Read this next:
+=> /collections/New/adventure/cutthroats.gmi Cutthroats
 
 ---
 
@@ -162,4 +166,4 @@ P.S. If you are interested in SOLUTIONS call ViRTUAL REALiTY BBS:
 Written by VeRTeX.
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

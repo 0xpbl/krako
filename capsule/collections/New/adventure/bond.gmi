@@ -1,7 +1,11 @@
+# Bond
+
 
 => /collections/New/adventure/blood.gmi ← Blood
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/borderzone.gmi Borderzone →
+Read this next:
+=> /collections/New/adventure/borderzone.gmi Borderzone
 
 ---
 
@@ -448,4 +452,4 @@ distributed by Interplay Productions.
 
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026

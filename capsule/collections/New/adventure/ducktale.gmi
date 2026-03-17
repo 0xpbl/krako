@@ -1,7 +1,11 @@
+# Ducktale
+
 
 => /collections/New/adventure/ds2cheat.gmi ← Ds2Cheat
 => /collections/New/adventure/index.gmi ↑ Section index
 => /collections/New/adventure/dungeon.gmi Dungeon →
+Read this next:
+=> /collections/New/adventure/dungeon.gmi Dungeon
 
 ---
 
@@ -32,4 +36,4 @@ Thanks go to:  C Serpent for play testing and Lord Blix for cracking it.
 Brought to you by:  Humble Slave #10
 ---
 
-desenvolvido por pablo murad - 2024 - 2026
+By Pablo Murad — 2024–2026
