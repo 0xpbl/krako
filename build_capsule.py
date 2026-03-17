@@ -4,17 +4,26 @@ Build script to convert the Krako project into a Gemini capsule.
 Converts .txt and .md files to Gemtext (.gmi) format.
 """
 
-import os
+import argparse
 import json
+import os
 import re
+import subprocess
+import sys
 from pathlib import Path
 from typing import List, Tuple
 
-# Directories
-SOURCE_DIR = Path("dir/files")
-CAPSULE_DIR = Path("capsule")
+# Paths relative to script location (run from any cwd)
+PROJECT_ROOT = Path(__file__).resolve().parent
+SOURCE_DIR = PROJECT_ROOT / "dir" / "files"
+CAPSULE_DIR = PROJECT_ROOT / "capsule"
 PAGES_DIR = CAPSULE_DIR / "pages"
 COLLECTIONS_DIR = CAPSULE_DIR / "collections"
+
+# Deploy target (override with env KRAKO_DEPLOY_TARGET, e.g. root@portalidea:/var/lib/krako/content)
+DEPLOY_TARGET = os.environ.get("KRAKO_DEPLOY_TARGET", "root@portalidea:/var/lib/krako/content")
+DEPLOY_REMOTE_PATH = "/var/lib/krako/content"
+DEPLOY_CHOWN = "krako:krako"
 
 def ensure_dir(path: Path):
     """Create directory if it doesn't exist."""
@@ -647,26 +656,74 @@ Enjoy your journey through the weird and wonderful corners of the internet.
     write_gmi_file(CAPSULE_DIR / "index.gmi", content, add_footer=True)
     print(f"[OK] Generated index.gmi")
 
+def run_deploy():
+    """Sync capsule/ to DEPLOY_TARGET via rsync, then chown on remote."""
+    capsule_src = CAPSULE_DIR.resolve()
+    if not capsule_src.exists():
+        print("Deploy failed: capsule directory not found.")
+        sys.exit(1)
+    src = str(capsule_src).rstrip(os.sep) + os.sep
+    target = DEPLOY_TARGET
+    print("Deploying capsule to", target, "...")
+    try:
+        r = subprocess.run(
+            ["rsync", "-a", "--delete", src, target],
+            check=False,
+            capture_output=True,
+            text=True,
+        )
+        if r.returncode != 0:
+            print("Deploy failed (rsync):", r.stderr or r.stdout or "unknown error")
+            sys.exit(1)
+        # Parse host from target (e.g. root@portalidea:/var/lib/krako/content -> root@portalidea)
+        if ":" in target:
+            host = target.split(":")[0]
+            remote_path = target.split(":", 1)[1].rstrip("/")
+        else:
+            print("Deploy failed: cannot parse host from target for chown.")
+            sys.exit(1)
+        r2 = subprocess.run(
+            ["ssh", host, f"chown -R {DEPLOY_CHOWN} {remote_path}"],
+            check=False,
+            capture_output=True,
+            text=True,
+        )
+        if r2.returncode != 0:
+            print("Deploy (chown) failed:", r2.stderr or r2.stdout or "unknown error")
+            sys.exit(1)
+        print("Deploy complete.")
+    except FileNotFoundError as e:
+        print("Deploy failed: rsync or ssh not found.", e)
+        sys.exit(1)
+
 def main():
     """Main function."""
+    parser = argparse.ArgumentParser(description="Build Krako Gemini capsule.")
+    parser.add_argument(
+        "--deploy",
+        action="store_true",
+        help="After build, rsync capsule to server and run chown (see DEPLOY_TARGET).",
+    )
+    args = parser.parse_args()
+
     print("Starting Gemini capsule build...\n")
-    
+
     # Create directories
     ensure_dir(CAPSULE_DIR)
     ensure_dir(PAGES_DIR)
     ensure_dir(COLLECTIONS_DIR)
-    
+
     # Build pages
     print("Converting pages...")
     pages = build_pages()
     print()
-    
+
     # Discover and build collections
     print("Discovering collections...")
     collections = discover_collections()
     print(f"Found collections: {', '.join(collections) if collections else 'none'}")
     print()
-    
+
     collections_data = {}
     for collection_name in collections:
         print(f"Processing {collection_name} collection...")
@@ -674,14 +731,18 @@ def main():
         if collection_data:
             collections_data[collection_name] = collection_data
         print()
-    
+
     # Build index
     print("Generating index.gmi...")
     build_index(pages, collections_data)
     print()
-    
+
     print("Build complete!")
     print(f"Capsule generated at: {CAPSULE_DIR.absolute()}")
+
+    if args.deploy:
+        print()
+        run_deploy()
 
 if __name__ == "__main__":
     main()
