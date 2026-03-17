@@ -1,0 +1,75 @@
+
+    ANNOUNCING the discovery of text file steroids!!!
+
+    Do you need to bulk up that thin 1K text file of yours to a big 10K
+    text file?  You want to be the top uploader in your favorite phreak
+    board, eh?  Well, the scientists at the MS/PC-DOS testing lab here
+    in Struct Def City, California have discovered a "loophole" in text
+    files.  The designers of DOS made the end-of-file marker (tells DOS
+    that the text file ends there and there is no more text to be shown
+    after it) a Ctrl-Z;ASCII 26;HEX 1A.  However, we found a text editor
+    that ignores the Ctrl-Z and therefore, bypasses the Ctrl-Z barrier.
+    Futhermore, you could create a binary file which acts as a text file.
+    This means that you could add anything after any text file to add
+    muscle to it (And moves you closer to be the top uploader in your
+    favorite BBS).
+
+    Also, as an added bonus, you can hide your *secret information* from
+    people who is not supposed to be looking at your file.  This means
+    that you could trade codes without anybody knowing anything.  For
+    example, you upload a "buffed" text file to a BBS containing your
+    "codez".  You tell your friend that it has the codez imbeded to it
+    and he then extracts it.  You could choose who gets your codez.
+    Anybody could download it *but* nobody could get the codes unless you
+    tell 'em it's there.  BTW- You need my text file editor that bypasses
+    the Ctrl-Z barrier or use your all trusty Norton Utilities to get rid
+    of those 1A's;26's;Ctrl-Z's.
+
+    Have fun!!
+
+    CAUTION: This file has steroids imbeded to it....
+
+
+25 Dec 1989 Message by Struct Def to all....
+
+Merry Christmas!!!  HERE'S my steroids imbeded as I told ya.....
+
+The following junk is the steroids...
+
+
+δVers 2.00║nΘ5╞D?╝╦P┤0═!<}║èδτ╕?7═!Ç·/u╞î\╞Ä\╞ï/╛ü?ΦÄ<
+t┴┐╨3╔¬A¼< t<
+t&:ïtδφNΦn:ïu¼<Bt
+<bt║áΘ╦╞â╞?Oáî²≥«ⁿtΘö?πÇ=:u╞êG░?¬XW╞ë┤═!óèè\?
+╥t■╩┤═!< u║SΘÇ┤═!< u║SΘrâ?tï≤â╞┐Å¼¬
+└u·Ç>ê║ît║╨┤;═!║SsΘC╕$5═!ëäîå╕$%║■
+═!^┐\?╕)═!PX
+└║StΘÇ>]? uΘ╥■╛b┐e?╣?≤ªta┤║\?═!óC
+└t&┤║\?═!
+└t║╨Θß┤║\?═!┤║\?═!║~┤    ═!╛\?┐╙╣      ?≤ñ░$¬¬¬║╙┤═!
+└tÇ>R?uΦ╓
+δΘ║      Θƒ║µΘÖ3└ú}?ú?ú⌠ú÷@új?úß║╦ï·┤═!ï?IëB÷C
+$File Creation Error
+$Cannot edit .BAK file--rename file$No room in directory for file$Disk full-- write not completed$
+Insufficient memory
+$File not found
+$Entry error
+$New file
+$Not found
+$O.K.? $Line too long
+$End of input file
+$Abort edit (Y/N)? $Must specify destination line number
+$Not enough room to merge the entire file
+$???????????????????????????????????????????????????????????????????????????????????????????
+
+.. That was EDLIN for my computer [EDLIN is junk!!! EDIT is superior!!!]
+
+Oh yeah, did you notice the ""'s -- that are the Control-Z's if you
+didn't know....
+
+seeya! bYE!
+
+struct def 1990's rule!
+
+                                    THE END
+

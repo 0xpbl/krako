@@ -1,0 +1,78 @@
+
+         Test points are indicated by *()*          B1 (9V)    B2 (9V)
+                                                 + │ │ │ -   - │ │ │+
+  ┌──────────────────────────┬─────────┬──┬────────┤││││├───┬─┤││││├──┬/\/\/\┐
+  │                          │ 390K Ω  │  │ 1uF 50V│ │ │    │  │ │ │  │ 2.2K │
+  ├───────────/\/\/\┐        ├─/\/\/\──(──(────┬─┤├──┐      └──── ┬   │  Ω   │
+  │  100K Ω   5.6M Ω├────────(──────┐  │  │    │-  + ├/\/\/\────┬ ┴ S1│    ┌─┘
+  └──/\/\/\─┬───┐   │        │      │  │  │    │     │ 6.8K Ω ══╧══  ┌┘    │
+    photo  │┘   │ ──┴──      │  ┌───┴──┴──┴────┴─────┴────┐    ═══   │     │
+    L1463~─│┐   │ ──┬──.05uF │  │   9  12 11   6     1    │     ═    │     │
+     ~~~~   └>┐ │ ▄▄┴──┐  50V│  │                *(6-8V)* │ ┌─/\/\/\─┘     │*
+         ┌────┘ │ / S2A│  ┌──)──┤7        U1              │ │  6.8K Ω      │A
+         │    R ▀/ ▄T  │  ├──(──┤4                        │ │1uF  -┌─/\/\/\┼┐
+   ┌───┐ │      ┌──┘   │  ├──)──┤10      CA3018  *(3-4V, 5├─┼───┤├─┤ 100K Ω││
+ │\│ M ├─)──────┘      │  │  │  │                  50 mV  │ │ +  ┌─┘┌──────┘│
+ │ │ i │ │             │  │  │  │                  peak to│ │    │ │┘NPN    │
+ │ │ k │ │             │  │  │  │ *(4-5V)*          peak)*│ │    └─│┐  PN   │
+ │/│ e ├─┼──┐   390K Ω │  │  │  │ 8             3         │ │       └>─┐2222│
+   └───┘ │  └──/\/\/\──┘  │  │  └─┬─────────────┬─────────┘ │    ┌─────┘    │
+         ├─────────┬──────┘  └/\/\┤            -├─/\/\/\────┘    │   -  +   │
+         │         │        6.8K──┴── +       ──┴──  390K Ω      │ ┌──┤├────┘
+       ══╧══       │         Ω  ──┬── <-1uF-> ──┬── +            │ │     1uF
+        ═══        │             -│     50V     v 5K Ω (Note A1) │ │
+         ═         │              ├──────────/\/\/\/\┬──┬────────┘ │
+*A is 3-4V,        ├────────┐     └───────────┤├─────┘══╧══        │
+    2V peak to peak│        │                   .01    ═══         │
+                   │        │    1.5K Ω                 ═          │
+  (The section in  │        ├────UUUUUUUU──────────────────────────┘
+  the dotted box   │        │    ════════  (Audio type matching transformer)
+  may be replaced  │        └────∩∩∩∩∩∩∩∩──────────────┐
+  with an    ......│.............. 500 Ω               █
+  amplifier) :     │      1K Ω   :                 S2B/    -+       2K Ω
+             :     └──┬─UUUUUUUU────────────────────▄/  ▄──┤├──┬─/\/\/\/\─┐
+             :        │ ════════ :    to          R      T 1uF │    ⌠─────┤
+             :        └─∩∩∩∩∩∩∩∩─────>     ┌─────┬──┬─/\/\/\/\─┤          │
+             :            8 Ω    : headset │   ══╧══│   47 K Ω │ ┌<───────┤
+             :...................:         │    ═══ │          ││┘PN2907  │
+                                           │     ═  │          └│┐PNP     │
+   *****                                   │        │          ┌─┘   *****│
+   Emitter is HLMP3750 (visible red)       │        │  1K Ω    │ ┌┼«──────┤
+           or XC880    (Infra-red)         │        ├─/\/\/\/\─┤ └───────┐│
+                                  ┌────────┘        │         ┌┘ ┌/\/\/\─┘│
+                                  │    ││           │         │ ├┘ 27Ω ½ W│
+                                  ├────┤├───┐       │ (NPN    └─┼┐D40D5   │
+                                  │    ││   │       │ Power Tab) └>─┐     │
+                                  █         │       └───────────────┘     │
+                          S2C    /    │ │ │ │                             │
+                                / ▄──┤││││├─┴─────────────────────────────┘
+                            R    T    │ │ │
+                                      B3    (6V)
+
+A1   This potentiometer is connected to " S1 ". 
+Check Battery " B1 " for approx 2ma (milliampre) (.002 ampre) drain.
+Check Battery " B2 " for approx 3 1/2 ma drain.
+Adjust potentiometer on base of the NPN transistor untill the emitter
+   diode draws approx 20 ma.
+
+Phototransistor and Photodiode may be connected to the main assembly by
+a length of shielded mike cable. 
+
+Microphone is a crystal cartridge type (approx 1 inch diam.)
+
+" R " is receive, " T " is transmit.
+S2A-C need not be activated to receive. 
+
+Use proper Infra-red lenses. Glass is OPAQUE to I.R. and will SEVERELY
+degrade the performance of this device. Visible red may be used.
+Red filters over phototransistor will assist the rejection of light
+in the visible spectrum, and enhance the funtion of the amplifier.
+
+
+Good luck. Be careful. I've done my best, but no promises.
+
+(ps. Injection lasers may be substituted for the emitter in this circuit,
+with PROPER MODIFICATION).
+
+..
+

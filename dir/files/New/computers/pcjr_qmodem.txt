@@ -1,0 +1,25 @@
+QMODEMjr command keys / use ALT key with the following keys:
+------------------------------------------------------------
+             
+A   strip/convert table screen    N    not used
+B   not used                      O    change directory path
+C   clear screen                  P    change baud rate, ect.
+D   dialing directory             Q    redial
+E   echo on/off                   R    jump to DOS
+F   options menu                  S    split screen
+G   ansi on/off                   T    screen dump
+H   not used                      U    not used
+I   program information           V    file viewer
+J   key definitions               W    directory viewer
+K   not used                      X    quit program
+L   logged drive                  Z    not used
+             
+------------------------------------------------------------ 
+             
+delete all message strings:  CONNECT, BUSY, NO CARRIER, ect. 
+             
+baud rate 300  /  data bit 8  /  parity N  /  stop bits 1
+             
+PCjr internal modem initialization string:  ^N F 4  (note spaces)
+             
+PCjr internal modem pulse dial string:  ^N D W I  (note spaces)

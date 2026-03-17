@@ -1,0 +1,217 @@
+===========================================================================
+Packet: BBYTE
+Date: 04-12-94 (20:13)             Number: 1040
+From: WAYNE DELISLE SR.            Refer#: NONE
+  To: DON CUSTER                    Recvd: NO
+Subj: PCjr to CGA display adapter    Conf: (22) CLTTECH
+---------------------------------------------------------------------------
+Subject: PCjr to CGA display adapter
+
+Don,
+Here is the info on building the PCjr Display cable adapter.
+
+I bought all the parts at Radio Shack including 5' of shielded cable for
+less
+then $5.00.
+
+For the 2x9 berg connector, I used a broken connector I had removed from an
+old floppy drive cable and cut down to size. I used a cheap plastic 9 pin D
+shell
+hood and hacked it up with an exacto knife and super-glued it together for
+the
+cover.
+        ┌─────────────────────────────────────────────────────────┐
+        │ PCjr Display Cable Specifications ─ PCjr to CGA Monitor │
+        └─────────────────────────────────────────────────────────┘
+
+             PCjr                                        9─PIN
+            SYSTEM                                       COLOR
+          CONNECTOR                                     DISPLAY
+              D                      CABLE             CONNECTOR
+                                ┌──────────────┐       (D─SHELL)
+                   A1 ──────────┤ NOT USED     │
+                   A2 ──────────┤ NOT USED     │
+                   A3 ──────────┤ NOT USED     │
+                   A4 ──────────┤ RED          ├────────── 5
+                   A5 ──────────┤ GREEN        ├────────── 3
+                   A6 ──────────┤ BLUE         ├────────── 6
+                   A7 ──────────┤ INTENSITY    ├────────── 4
+                   A8 ──────────┤ NOT USED     │
+                   A9 ──────────┤ NOT USED     │
+                   B1 ──────────┤ VERTICAL     ├────────── 9
+                   B2 ──────────┤ NOT USED     │
+                   B3 ──────────┤ HORIZONTAL   ├────────── 8
+                   B4 ──────────┤ NOT USED     │
+                   B5 ──────────┤ GROUND       ├────────── 2
+                   B6 ──────────┤ NOT USED     │
+                   B7 ──────────┤ NOT USED     │
+                   B8 ──────────┤ NOT USED     │
+                   B9 ──────────┤ GROUND       ├────────── 1
+                                └──────────────┘
+
+                                                    FRONT VIEW
+             FRONT VIEW                          \───────────────/
+      A9 ┌─┬─┬─┬─┬─┬─┬─┬─┬─┐ A1                   \1 o o o o o 5/
+         ├─┼─┼─┼─┼─┼─┼─┼─┼─┤                       \6 o o o o 9/
+      B9 └─┴─┴─┴─┴─┴─┴─┴─┴─┘ B1                     \─────────/
+
+                 CGA Adapter for PCjr Display
+                 ────────────────────────────
+
+   This Document gives some Technical Information on the IBM PCjr Color
+   Display, Diagrams and Data for building a cable to adapt the PCjr Display
+   to the IBM Color Graphics Adapter (CGA) Card.
+
+   Designed at home on my IBM PCjr and Tested on my IBM XT286 with CGA and
+   PCjr Display. Also work with the IBM Convertible Displays, and with EGA
+   card in CGA mode.
+
+   Reference: 1) "IBM Hardware Maintenance and Service:  PCjr"
+              2) "Installation Instructions for the Color Graphics Adapter,"
+              3) "Installation Instructions for the Enhanced Graphics
+                  Adapter."
+
+
+   PCjr Display Pinout vs. CGA
+   ───────────────────────────
+
+   PCjr RGB output is:                      PC CGA output pin is:
+
+        A01  - TV Vertical drive  ................ n/a
+        A02    Gnd
+        A03  - TV Horizontal drive  .............. n/a
+        A04    Blue  .............................  5   Blue
+        A05    Red ...............................  3   Red
+        A06    Intensity  ........................  6   Intensity
+        A07    Green .............................  4   Green
+        A08  - Comp Sync drive  .................. n/a
+        A09    Audio out  ........................ n/a
+
+        B01  + Vert drive out  ...................  9   +Vertical
+        B02    Gnd
+        B03  + Horz drive out  ...................  8   +Horizontal
+        B04    Gnd
+        B05    Gnd  ..............................  2   Ground
+        B06    Gnd
+        B07    Gnd
+        B08    Gnd
+        B09    Gnd - Frame .......................  1   Ground
+
+
+   Here is the pin layout as you look into the holes on the CGA and the
+   Display's connector:
+
+         1  o         1-B9          letter "D" stamped on top
+              o 6     2-B5
+         2  o         3-A5               9 8 7 6 5 4 3 2 1
+              o 7     4-A7             ┌───────────────────┐
+         3  o         5-A4           A   o o o o o o o o o
+              o 8     6-A6           B   o o o o o o o o o
+         4  o         7-n/c
+              o 9     8-B3
+         5  o         9-B1
+
+
+   ADAPTER CABLE Diagram: CGA TO PCjr DISPLAY
+   ──────────────────────────────────────────
+
+   PCjr CD     Berg   2x9 Berg             9 pin D Shell   9 pin D
+   Connector  Header  Female                    Male        Female
+   2x9 Female  2x9                                          CGA Card
+                           Hood            Hood
+       ┌ AB           BA ┐/                    \               │
+       │┌──┐         ┌──┐│         6"            ┌─           ─┐
+       ││oo│1  ─╫─  9│oo││       CABLE          1│o \       / o│1
+       ││oo│2  ─╫─  8│oo││   8 Wire Shielded     │  o│6   6│o  │
+       ││oo│3  ─╫─  7│oo││                      2│o  │     │  o│2
+   ────┤│oo│4  ─╫─  6│oo│├───────────────────────│  o│7   7│o  │
+    "D"││oo│5  ─╫─  5│oo││"D"                   3│o  │     │  o│3
+   ────┤│oo│6  ─╫─  4│oo│├───────────────────────│  o│8   8│o  │
+       ││oo│7  ─╫─  3│oo││                      4│o  │     │  o│4
+       ││oo│8  ─╫─  2│oo││                       │  o│9   9│o  │
+       ││oo│9  ─╫─  1│oo││                      5│o /       \ o│5
+       │└──┘         └──┘│                       └─           ─┘
+       └  Pins Flipped   ┘                            Pins     │
+           1:9  9:1                                    1:1     │
+
+
+
+   ADAPTER CABLE Wiring List: CGA TO PCjr DISPLAY
+   ──────────────────────────────────────────────
+
+   PCjr CD     Berg   2x9 Berg    CABLE      9 pin D Shell   9 pin D
+   Connector  Header  Female      8 Wire          Male        Female
+   2x9 Female  2x9                Shielded                    CGA Card
+   ────────── ─────── ─────────  ──────────   ──────────────  ─────────
+      B9  ............  B1  ....   Green  ........  1  .........  1
+      B5  ............  B5  ....   Blue   ........  2  .........  2
+      A5  ............  A5  ....   Purple ........  3  .........  3
+      A7  ............  A3  ....   Black  ........  4  .........  4
+      A4  ............  A6  ....   Brown  ........  5  .........  5
+      A6  ............  A4  ....   Red    ........  6  .........  6
+      n/c               n/c        n/c              7  .........  7
+      B3  ............  B7  ....   Orange ........  8  .........  8
+      B1  ............  B9  ....   Yellow ........  9  .........  9
+
+
+   ADAPTER CABLE Parts List: CGA TO PCjr DISPLAY
+   ─────────────────────────────────────────────
+
+
+   Method 1: Modify IBM PCjr Adapter Cable # 1504643
+   ─────────────────────────────────────────────────
+
+   QTY    Supplier        Description
+   ───    ─────────────   ─────────────────────────────────
+
+    1     IBM             IBM PCjr Adapter Cable P/N 1504643
+    1     AMP, 3M, Berg   D-Subminiature Male 9-pin Solder
+    1     AMP, 3M, Berg   2x9 pin .100" Center Header
+          Molex.               ┌─┐
+                           ────┤─├────
+                           ────┤─├────       END View
+                               └─┘
+                           │<L>│ │<L>│  L = .023"min - .04"max
+
+   Instructions: Replace the 9-pin D Female with the 9-pin Male.
+                 Open the 2x9 Connector and move the pin contacts to
+                   match the wiring list above.
+                 Plug the Adapter cable 2x9 connector to the PCjr Display
+                   matching the "D" to "D".
+                 Plug the Adapter Cable 9-pin D-Shell to the CGA and secure.
+
+
+
+   Method 2: Build from scratch
+   ────────────────────────────
+
+   QTY    Supplier        Description
+   ───    ────────        ───────────────────────────────────
+
+    1     AMP, 3M, Berg   D-Subminiature Male 9-pin Solder-Cup Connector
+    1     AMP, 3M, Berg   D-Subminiature 9-pin Hood (Metal or Metalized)
+
+    6"    Belden, etc.    8-Wire Shielded Cable 22 or 23 AWG Stranded
+
+    1     AMP, 3M, Berg   2x9 .100" Center Housing for Connector
+   18     AMP, 3M, Berg   .100" Center Socket Contacts
+    1     AMP, 3M, Berg   2x9 .100" Center Hood (Metal or Metalized)
+
+    1     AMP, 3M, Berg   2x9 pin .100" Center Header
+          Molex.               ┌─┐
+                           ────┤─├────
+                           ────┤─├────       END View
+                               └─┘
+                           │<L>│ │<L>│  L = .023"min - .04"max
+
+
+   Instructions: Solder on the 9-pin D Male and assemble Hood.
+                 Wire the 2x9 Connector to match the wiring list above
+                   and assemble Hood.
+                 Plug the Adapter cable 2x9 connector to the PCjr Display
+                   matching the "D" to "D".
+                 Plug the Adapter Cable 9-pin D-Shell to the CGA and secure.
+
+
+--- GEcho 1.00
+ * Origin: The Matrix BBS 704-535-7361 Area 704 Hub, SkyNet  (1:379/33)

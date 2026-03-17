@@ -1,0 +1,50 @@
+  I.C.s are LM 386s            Input (small 8ohm            Batteries are 9V
+  8 pin dip 1/2 Watt amp.          speaker works ok)  'Transistor radio' type.
+                    10K^        /│             10K^
+                ┌─/\/\/\/\─┬───< │         ┌─/\/\/\/\─┬──┐
+   MOUTHPIECE   │    ⌠─────┘  ┌─\│         │    ⌠─────┘  │  EARPIECE
+                │             │   +9Vdc    │             │              +9Vdc
+     ┌─────┐2   │9      ┌─────)───O        │  ┌─────┐2   │9      ┌─────────O
+     │    _│____│_      ├─┤├──┤ 100uf      │  │    _│____│_      ├─┤├──┐ 100uf
+     ├────\4    6/──────┘ 10uf│      ┌─────┘  ├────\4    6/──────┘ 10uf│
+     │  f  \   1/───────┤├─┐  │      │        │  f  \   1/───────┤├─┐  │
+  ┌──┴─┤├───\  /──/\/\/\/\─┤  │      │     ┌──┴─┤├───\  /──/\/\/\/\─┤  │
+  ├───┐   7  \/ 8    ⌠─────┘  │      │     │       7  \/ 8    ⌠─────┘  │
+══╧══ │      │ 5    1.5K^   ══╧══    │   ══╧══        │ 5    1.5K^   ══╧══
+ ═══  │      │               ═══     │    ═══         │               ═══
+  ═   │    __│__              ═      │     ═        __│__              ═
+      │    ──┬── 200 uf              │              ──┬── 200 uf
+      │      │                       │                │
+      │      │                       │                └────> To earphone.
+      │      │                       │             (directly to an 8ohm load)
+      │      │                       │                      1/2 Watt
+      │      │ Signal (+) side       │              (recommend smal earphone)
+──────)──────┴───────┬───────────────┴───────────────────┬────────────────────
+      │              │   Two lead telephone cable       ┌┘ (pretty poor Zener
+      │              │ strung with parallel circuitry    │       huh?)
+      │              │  in mind.                         │         6V
+      │              │                                   │
+──────┴──────────────(───────────────────────────────────)──────────────────┬─
+Ground (common side) │    Sb           │█│Piezo buzzer   │  (3-12V)         │
+                     └───O   O────┬────┤█├───────────────)───┐              │
+                         ──┬──    │    │█│    ┌──────────┘  │┘  NPN         │
+               Push "Sb" to make  │           └─/\/\/\/\────│┐  (general    │
+            EVERY FLIPPIN' BODYS  O +9Vdc                   │└┐  purpose)  │
+            buzzer go off. Yup, This               ^           └────────────┘
+            is a party line.                   Gotta play with this value
+                                                 depending on the buzzer. If
+   The 1.5K ohm pot on pin 8 and the         you want to be fancy, use a logic
+   cap on pin 1 form a method of adjusting     gate.
+   the "GAIN" of the amplifier from about 20
+   to about 200. (I used a single section like this in one of the local
+   churches for the hard of hearing. I ran them off an amplifier used by the
+   pastor. When the pastors amplifier was shut off and when adjusted to max,
+   they kept complaining about picking up PBS.)
+
+   The 10K ohm pot on the inputs (pin 9) is what you use as the "VOLUME"
+   control.
+
+   Transposing this stuff to ASCII aint the easiest thing I've ever done,
+   so don't be surprized if I made some mistakes. (I'd be surprized if I
+   didn't). If (when) you find any, please NET-MAIL me or .TIC me the
+   correction(s). (9:1992/209 or 1:132/209) Thanks. I hope this helps.

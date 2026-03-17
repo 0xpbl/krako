@@ -1,0 +1,62 @@
+This textfile explains how to adapt an IBM Industrial keyboard 
+to a normal AT type computer.  (5-pin plug / 1/2" diameter) 
+
+     NOTE: The numbers corresponding to the pins in the 
+           following diagrams are strictly for the reference 
+           purposes of this textfile only.  DO NOT attempt 
+           to use these numbers for any other application. 
+
+               on all diagrams: o = hole/socket 
+                                * = pin/plug 
+                                V = key/notch
+
+----------------------------------------------------------------------
+
+Looking into the keyboard socket on the back of the computer, the 
+hole pattern of a normal AT type keyboard socket should look very 
+similar to the following diagram:
+
+                             V
+                 
+                 1 ----- o       o ----- 5    
+                  2 ----- o     o ----- 4    
+                     3 ----- o
+
+----------------------------------------------------------------------
+
+Looking into the plug coming from the AT type keyboard, the pin 
+pattern of a normal AT type keyboard plug should look very similar 
+to the following diagram:
+
+                             V
+                 
+                 5 ----- *       * ----- 1       
+                  4 ----- *     * ----- 2  
+                             * ----- 3
+
+
+Looking into the plug coming from the Industrial keyboard, the pin 
+pattern of the Industrial keyboard plug should look very similar to 
+the following diagram:
+         
+                             V
+                 6 ----- *       * ----- 2        
+                             * ----- 1          
+                 5 ----- *       * ----- 3
+                     4 ----- *
+
+-----------------------------------------------------------------------
+
+Using the diagrams above as a reference, make the following connections 
+from the Industrial keyboard plug to the AT type keyboard plug:
+
+      Industrial                       AT type
+     keyboard plug                  keyboard plug
+     -------------                  -------------
+           1 ------------ to ------------ 2
+           2 not used
+           3 ------------ to ------------ 4
+           4 ------------ to ------------ 3
+           5 not used
+           6 ------------ to ------------ 1
+                                          5 not used

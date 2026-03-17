@@ -1,0 +1,29 @@
+            Serial Port Pins / Looking into/at the back of the PCjr 
+ 
+  === == == == == == == == == == == == == == == == == == == == == == == == ==
+ ||   ----     ----     ----     ----     ----     ----     ----     ----   ||
+ ||  | A1 |   | A2 |   | A3 |   | A4 |   | A5 |   | A6 |   | A7 |   | A8 |  ||
+ ||   ----     ----     ----     ----     ----     ----     ----     ----   ||
+ ||                                                                         ||
+ ||   ----     ----     ----     ----     ----     ----     ----     ----   ||
+ ||  | B1 |   | B2 |   | B3 |   | B4 |   | B5 |   | B6 |   | B7 |   | B8 |  ||
+ ||   ----     ----     ----     ----     ----     ----     ----     ----   ||
+  === == == == == == == == == == == == == == == == == == == == == == == == ==
+                           (16 Pin - AMP Connector) 
+ 
+ 
+ A1 - pin not used                   B1 - shield/chassis ground
+ 
+ A2 - data terminal ready            B2 - signal ground
+ 
+ A3 - request to send                B3 - signal ground
+ 
+ A4 - transmit data                  B4 - signal ground
+ 
+ A5 - carrier detect                 B5 - signal ground
+ 
+ A6 - data set ready                 B6 - signal ground
+ 
+ A7 - clear to send                  B7 - signal ground
+ 
+ A8 - receive data                   B8 - signal ground

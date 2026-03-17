@@ -1,0 +1,1175 @@
+
+
+
+
+
+
+
+
+
+
+                       THE SPECTRE OF MACINTOSH EMULATION
+
+                           Eating the Forbidden Apple
+
+                                  By Wm. Price
+
+
+
+
+
+                                    --- * ---
+
+         This is a reprint from the BMUG (Berkeley Macintosh User Group)
+
+         Journal for Spring/Fall 1989.  It is written for a Macintosh
+
+         audience that has not met the Spectre with excitement.  On
+
+         GEnie, there once was a topic on the Macintosh Roundtable
+
+         called "Macintosh versus Spectre - Which is Best" (or something
+
+         to that effect).  Evidently the discussions were not fully
+
+         appreciated by the Sons and Daughters of Father Apple (a
+
+         maternalistic group would have behaved differently), and at
+
+         their request it was moved to the Gadgets Roundtable.
+
+         Discussions about computing should be held with less polarity
+
+         than Senator Jesse Helms' views on art.  Thanks are due to a
+
+         much more liberal, and worldly editorial staff at BMUG for
+
+         inviting this choir to sing in their church.  This West Coast
+
+         group with their tie-dyed T-shirts and earrings opened the eyes
+
+         of white shirt and tie, wing-tipped shoe businessmen at this
+
+         Summer's Mac World Expo in Washington, DC.  They added a unique
+
+         flavor to the stiff Washington scene.
+
+                                    --- * ---
+
+
+
+
+
+
+
+         TERRITORIAL IMPERATIVES
+
+
+
+              Few subjects outside religion, social issues, and politics
+
+         raise strong, even emotional feelings. But among them is
+
+         computing where brand loyalties are such that whatever one buys
+
+         is "wrong" from the perspective of those who own different
+
+         equipment. Remarks such as "Why did you ever buy that arcane,
+
+         medieval system?" are common expressions of disdain. Aside from
+
+         these perspectives, there is the question of Macintosh
+
+         emulation. If emulation is being performed, how successful is
+
+         it, how well does Macintosh software operate in a pseudo
+
+         environment, and are the costs for emulation competitive?
+
+         Answers to these questions and more are explored in this review
+
+         of nibbling the Apple.
+
+
+
+
+
+         ROOTS OF HEARSAY
+
+
+
+              Over the past few years  several efforts have been made to
+
+         develop Macintosh clones in Taiwan, Korea, Brazil, and Germany
+
+         followed by rumors of legal action from Cupertino.  Yet this
+
+         "cloned"  capability has been around since 1986 in the form of
+
+         an 8 MHz Motorola 68000 based computer from Atari and the Magic
+
+         Sac and successor Spectre 128 cartridge emulators from David
+
+         Small.  This conjunction was unplanned.  There was no
+
+         collusion, but rather a collision of interests, and only
+
+         recently have the individuals involved been able to work in a
+
+         mutual business relationship -- albeit a minimal one.
+
+
+
+              The Spectre emulator operates the Atari ST as a Macintosh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Plus, and comparative benchmarks show that Mac software is
+
+         executed at speed increases of 20 percent over the Plus. This
+
+         can be attributed to use of custom chips in the ST that handle
+
+         some of the I/O functions to relieve the 68000 processor for
+
+         other concurrent operations.  Transfer of data from hard disks
+
+         through the ST's Direct Memory Access (DMA) port is slightly
+
+         faster than on a Macintosh II.  And the 12-inch, 640x480
+
+         monochrome monitor provides a viewing area some 30 percent
+
+         larger than that of the Plus.  With STs available in half to
+
+         4MB RAM models at relatively reasonable prices, the performance
+
+         of this emulation is worthy  of serious attention, even from
+
+         the skeptics.
+
+
+
+              Both IBM and Macintosh users have commented that the ST is
+
+         the most underrated computer on the market, and Atari lacks
+
+         aggressive marketing and support to change perceptions.  It's
+
+         as if the ST's designer developed an instrument beyond Atari's
+
+         understanding and ability to exploit.  This immediately recalls
+
+         the pioneering developments by a remarkably talented staff at
+
+         Xerox's Palo Alto Research Center. The futuristic results were
+
+         more fully exploited by companies other than Xerox.
+
+
+
+              The ST was developed not as a Macintosh clone but rather
+
+         as a look-alike and feel-like system that operates with a mouse
+
+         under the Graphic Environment Manager(GEM) -- a windows shell
+
+         developed by Digital Research Inc. Introduced in 1985, Atari
+
+         must be given credit for recognizing the efficacy of this
+
+         approach to computing years before IBM was driven to adopt it.
+
+         The ST's disk format is almost identical to that used by IBM,
+
+         and the ST's operating system can directly read both 3.5 and
+
+         5.25-inch IBM disks.  Its low cost -- one of Atari's major
+
+         production objectives -- has made the ST an ideal host for
+
+         third party developers.  Emulators have been a logical choice,
+
+         and the first -- Magic Sac -- was introduced in the Fall of
+
+         1986 to support Macintosh operation.
+
+
+
+              An IBM PC emulator developed by Bill Teal -- a former
+
+         senior systems engineer in IBM's Federal Systems Division --
+
+         followed within months. Dubbed pc ditto, it is remarkable that
+
+         his PC XT emulation is totally software based, especially when
+
+         it was considered unlikely that a Motorola 68000 could be used
+
+         to emulate an Intel 8088 processor.  A new version will rely on
+
+         a cartridge and custom gate arrays to increase emulation speed.
+
+         A CP/M Z80 emulator is also available. But the real eyebrow
+
+         raiser is near perfect emulation of the Macintosh with David
+
+         Small's Magic Sac and Spectre 128.
+
+
+
+
+
+         THE  MAC CONNECTION
+
+
+
+              Dave's Macinations began soon after the ST was introduced,
+
+         but it was the ready availability of Apple's 64K Operating
+
+         System ROMs that made his idea a reality.  When the original
+
+         Macintosh was upgraded in 1985 by replacing the 64K ROMs, a
+
+         plentiful supply of these chips appeared on the market.  The
+
+         Magic Sac cartridge and emulation software were sold without
+
+         the essential Apple ROMs. Owners or prospective owners had to
+
+         purchase these chips separately and make a simple installation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         in the cartridge.  Since Macintosh software will not display
+
+         properly on the ST's color monitor, aspiring users had to
+
+         purchase an additional high reso-lution monochrome monitor.
+
+
+
+              Macintosh emulation was an instant success with existing
+
+         ST users. Although very few if any STs have been purchased
+
+         solely on the basis of this capability, Magic Sac and pc ditto
+
+         emulation make the ST an attractive computing system. This is
+
+         especially true where IBM PCs dominate the office place, and
+
+         compatibility, rather than ease of use and performance, is
+
+         often a driving force when buying home computers.
+
+
+
+              Although emulation works well, initially Macintosh disks
+
+         -- formatted and written at five different rotational speeds --
+
+         could not be used with ST 3.5-inch drives that run at a
+
+         constant 300 RPM. Software had to be transferred to Magic Sac
+
+         disks that are formatted with the same track and sector layout
+
+         but at constant speed.  To make this transfer, software is
+
+         ported from a Macintosh through a null modem cable connected to
+
+         the ST. TermWorks, with its 9600 baud rate, can be used on both
+
+         computers with Ramdisks to speed transfer. Although Dave Small
+
+         provided utilities for both the  Macintosh and ST to port
+
+         contents of entire disks, disk-to-disk transfer was slow. But
+
+         his software did answer the "chicken and egg" question by
+
+         allowing System and Finder, TermWorks and a Ramdisk utility to
+
+         be ported first and establish a bridgehead on the ST for more
+
+         efficient transfer operations.
+
+
+
+
+
+         MAC-IN-A-BOX
+
+
+
+              Not many Macintosh friends, despite the portability of
+
+         their systems, were willing to spend the better part of Sundays
+
+         performing software transfers to an ST.  A solution was in the
+
+         works, but production problems and FCC testing delayed delivery
+
+         by some 6 months. Named the Translator, this small Z80 computer
+
+         is daisy chained through the ST's external floppy drive port to
+
+         perform reading, formatting, and writing of Macintosh disks on
+
+         constant speed ST drives. Contents of Macintosh disks, either
+
+         single files or entire disks, are read in one drive and written
+
+         to a Magic Sac disk in the other. Although applications on
+
+         Macintosh disks can be executed using the Translator, the
+
+         slowness in performing disk operations clearly compares with
+
+         the high viscosity of molasses. Transfer between 800K formats
+
+         takes just over 12 minutes, but despite this slow process,
+
+         files can be copied to Magic Sac disks where "real time"
+
+         reading and writing is fully achieved.
+
+
+
+              The Translator's computer is operated through MIDI In/Out
+
+         lines connected to the ST.  It maintains proper linear
+
+         micro-bit spacing when writing to either Macintosh or Magic
+
+         disks, and data written at variable speeds are treated as
+
+         different frequencies to achieve compatibility between the two
+
+         methods of recording data.
+
+
+
+              More recently, Richard Adam's new Happy Discovery
+
+         Cartridge has furnished a faster means of transfer. Designed
+
+         primarily for copying protected software, special utilities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         support transfer between Macintosh and Magic Sac/Spectre disks.
+
+         An 800K transfer is completed in 6 minutes.  But the Discovery
+
+         Cartridge, unlike the Translator, cannot read and display disk
+
+         contents.  It is a blind copying device, much like Copy II Mac,
+
+         that exercises control over disk drives that cannot be achieved
+
+         solely with software.
+
+
+
+              Solutions often uncover other impediments.  Some drive
+
+         mechanisms, like the earlier NECs, have internal frequency
+
+         filters on the Write Data line.  Although intended for
+
+         eliminating the possibility of stray frequencies, this
+
+         protection feature inhibits writing to Macintosh disks at the
+
+         low frequencies required. In some cases, these filters can be
+
+         removed to provide fully successful operation with the
+
+         Translator.
+
+
+
+
+
+         KEEPING PACE WITH APPLE
+
+
+
+              Just as Macintosh users discovered, the Magic Sac with 64K
+
+         ROMs has its limitations.  Although Dave Small provided a
+
+         unique capability for reading double-sided MFM disks, the HFS
+
+         format can only be used with HD-20.  But the greater problem is
+
+         with newer versions of software developed around Apple's 128K
+
+         ROMs.  In the Spring of 1988, Dave completed the last
+
+         enhancements to Magic Sac and began exploring emulation with
+
+         128K ROMs.  After long nights, some of which produced over a
+
+         thousand lines of code, the Spectre 128 cartridge was delivered
+
+         in a record-breaking 3 months.  Immersed in the Mac world, Dave
+
+         understands every piece of code in the Macintosh Operating
+
+         System better than some applications developers. Spectre was
+
+         introduced at an Atari show in California, and the limited
+
+         production run of some 200 cartridges was sold out on the first
+
+         day.  Like its predecessor, 128K ROMs must be purchased
+
+         separately and installed by users.  Although not as plentiful
+
+         as the 64Ks, the higher priced 128s are available from several
+
+         sources.
+
+
+
+              Spectre 128 is compatible with System 6.0.2, Finder 6.1,
+
+         and Multifinder.  But many users continue to prefer System 6.0
+
+         and Finder 4.2.  Spectre works well with newer applications
+
+         including MacWrite 5.01, MS Write 1.0, WriteNow 2.0, FullWrite
+
+         Professional 1.0, Word Finder 2.0, Spellswell 2.0f, MacProof
+
+         3.0, MS Works 2.0, Reflex Plus 1.0, 4th Dimension 1.01,
+
+         FoxBase+ 1.1, MORE II 2.0, PageMaker 3.0a, Ready,Set,Go! 4.5,
+
+         Adobe Illustrator '88 1.6, FreeHand 1.0, Image Studio 1.0,
+
+         MacDraw II 1.0, MacPaint 3.01, SuperPaint 1.1, Cricket Draw
+
+         1.1, Cricket Graph 1.1, Ready,Set,Show 1.0, and PowerPoint 1.0.
+
+         Although HyperCard 1.2.1 works, it is unstable with some
+
+         stacks.  A compatibility list covering some 400 commercial
+
+         software titles and versions is available from GEnie Page 691,
+
+         File #81. About 75 items are identified as not compatible, and
+
+         over half won't run because of copy protection that prevents
+
+         transfer to Spectre disks.
+
+
+
+              A host of CDEVs, INITs, and DAs such as Suitcase II 1.2.2,
+
+         On Cue 1.3, Menu Fonts II 2.0, Hierarchy DA, Memoir DA, Super
+
+         Clock 3.0, and Sun Clock 1.4 DA also function properly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Surprisingly ResEdit, FEdit Plus, Mac Zap  and sector editors
+
+         work with Spectre formatted disks. As for sound, although the
+
+         Macintosh and ST methods are substantially different, a recent
+
+         version of Spectre does provide support.  This emulation
+
+         noticeably slows operation, so sound can be toggled ON or OFF
+
+         at anytime.  Sound Master does work and the familiar HAL is
+
+         available on start-up.
+
+
+
+
+
+         INCOMPATIBILITIES
+
+
+
+              Software that is hardware specific or doesn't comply fully
+
+         with Apple's APD standards may not operate with Spectre.  For
+
+         example, the zero RAM address in a Macintosh is the beginning
+
+         location for the ST's ROM-based system.  Dave performs an
+
+         incredible number of traps for "illegal" calls and reroutes
+
+         them to maintain a seamless operation, but there are some that
+
+         can't be handled.  Among the applications that won't work with
+
+         Spectre are Fontastic 2.6(Fontastic Plus 2.02 works),
+
+         Fontographer 1.5 (2.3 works), Copy II Mac, MacTermhnal, disk
+
+         copy in Mac Tools  and Mac Zap, Mac Write 4.5 (4.6  and 5.0
+
+         work), MS Word,  and TOPS.  With Spectre and 128K ROMs, MS Word
+
+         3.01 and 3.02 give an "Out of Memory" message, but with 64K
+
+         ROO�OÀÏÏOÏ��ÏÏ�Ï�:7;·¹5;´º47ºº0·<897±62¶¹ ¶:47º³´(º°¹5,(92¹¹3:·1º4··94º;´¶677º894·::7077·¨7¹º)±¹4¸:22»4±²9º±´0¹0·"¸9··1·¶¸0º4±627¹$("2¹µ%2º894·:2¹*429°¶²64¶´º0º4··0¶9·   applies to operation on a Macintosh.
+
+
+
+              The ability to read and write Macintosh formatted disks in
+
+         real time is now being accomplished with the Spectre GCR.  In
+
+         fact, GCR can read Macintosh disks slightly faster than Spectre
+
+         disks.  GCR (Group Coded Recording) is a special format
+
+         developed by Steve Wozniak for the Apple II.  His IWM
+
+         (Integrated Woz Machine) controller chip to handle this format
+
+         was so simple and successful that it was carried over to the
+
+         Macintosh.  The need to transfer software and operate from
+
+         Spectre disks is eliminated with Spectre GCR, which brings
+
+         emulation closer to the real thing by running Macintosh
+
+         software right out of the box.
+
+
+
+              A wide variety of printers can be driven through the ST's
+
+         parallel or serial ports using SoftStyle drivers, Grappler LS,
+
+         and Printer Interface III 2.0.  Output from a 300 dpi HP Desk
+
+         Jet, although slow, is remarkably close to that of a laser
+
+         printer.  But a major drawback is the inability to print
+
+         directly to a PostScript laser. The System requires Apple Talk,
+
+         which is not available on the ST.  A cumbersome alternative is
+
+         to save files as Encapsulated PostScript(EPS) and upload or
+
+         dump them through the serial port with a utility. It would
+
+         appear that if an entire computer system and its unique floppy
+
+         drives can be emulated, it should be possible to do the same
+
+         for Apple Talk.  Unfortunately this is not one of Dave's
+
+         current priorities, but he has struck on a possible solution.
+
+
+
+
+
+         DIFFERENCES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Shutdown and Restart are not supported by Spectre.
+
+         CommanaÏAÏÏÆO�ÏÄÁÏÏ�O�O��OOðpÏÏÏÏÏÏÏÏÏ�ÏO	ÀÏÏ�Ï��OO�ÁÏ�OOðpÏÏÏÏÏÏÏÏÏ��O�	ÀÏÏO�ÏO���	ÏO�OO�ppÏÏÏÏÏÏÏÏÏ�Ï�À  Of course disks cannot be formatted from the
+
+         desktop.  Spectre utilities, operating under native ST control,
+
+         are used to format both Spectre and Macintosh disks.
+
+
+
+              The ST's hard drive support provides a wide range of
+
+         options, and its 10.6 megabit-per-second transfer rate through
+
+         the DMA port has few contenders in either the Macintosh or IBM
+
+         world.  Hard disks can be partitioned for ST, Macintosh, and
+
+         DOS usage on the same drive.  My ST system has two 62MB
+
+         Miniscribe RLL drives with four 12MB partitions for Macintosh
+
+         software, 5 for ST applications, and 1 for MS DOS use.
+
+
+
+              RLL encoding yields an increase of 50 percent in sectors
+
+         per track, and with 1:1 interleave format, contents of an
+
+         entire track are transferred in one revolution of the disk.  As
+
+         another bonus, RLL and 1:1 give a 50 percent increase in the
+
+         rate of data transfer. The Macintosh Plus is limited to a 3:1
+
+         interleave where three revolutions are required to transfer
+
+         contents of a single track. A stock IBM PC XT with a 4.77 MHz
+
+         clock must use a slower 6:1 interleave format requiring 6
+
+         revolutions to transfer a track.  Even though there are minor
+
+         shortcomings to Spectre emulation, they are far outweighed by
+
+         other benefits.
+
+
+
+
+
+         THE ST BEHAVING AS ITSELF
+
+
+
+              Although earlier Atari 8-bit computers were popular for
+
+         game software, the ST is a radically different architecture
+
+         that provides performance and capabilities comparable to and in
+
+         some cases better than other personal computers.  And it does
+
+         so at one of the lowest prices in the industry.  The ST's GEM
+
+         desktop display is similar to the Macintosh.  Multiple windows
+
+         can be opened, scrolled and resized, and directories are
+
+         displayed either as icons or text.  Mouse operation is
+
+         augmented by Function and Control (Command) Keys.  But unlike
+
+         the Macintosh, most printer drivers are unique to and installed
+
+         by each application.  Global access provided by the Mac System
+
+         is not available on the ST except for special drivers and
+
+         related fonts.
+
+
+
+              The ST is produced in four capacities: the half megabyte
+
+         520ST, 1MB 1040ST, 2MB Mega ST2, and 4MB ST4.  Lower capacity
+
+         models can be upgraded to 4MB.  All STs come with an internal,
+
+         double-sided, 3.5-inch floppy drive; a mouse; and 94-key
+
+         extended keyboard.  ST Color and monochrome monitors are
+
+         optional, and the ST can drive most multisynch monitors such as
+
+         NEC, Sony, Princeton Graphics, and Mitsubishi with an adapter
+
+         cable. Standard on all models are serial and parallel ports for
+
+         modems and printers, DMA hard disk port, MIDI In and Out, RGB
+
+         analog output in both color and monochrome, high speed
+
+         cartridge slot, and separate connections for mouse and joy
+
+         stick.  Supra and ICD market DMA interface boards for hard disk
+
+         mechanisms, and fortunately both provide a wide range of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         utilities that support most popular drives and controllers.
+
+         ICD utilities now support Sony's rewriteable magneto-optical
+
+         disk drive which can be connected through their DMA interface.
+
+
+
+              It would be a mistake to simply view the ST and Spectre
+
+         with "peaceful coexistence", or worse still, with disdain.  The
+
+         ST with Spectre and pc ditto provide a viable gateway and
+
+         turnstile for my Macintosh II.  It has more  advantages than
+
+         Esperanto, and languages involved need not be learned.  Word
+
+         Perfect files produced on an IBM PC can be loaded directly into
+
+         the ST version of Word Perfect.  These files can then be saved
+
+         as ASCII text, and with Transverter, an ST utility developed by
+
+         Doug Wheeler, files can be transferred and converted to
+
+         Macintosh disks for use with MacWrite, Ready,Set,Go!, and other
+
+         applications that import ASCII or Mac binary text files.  The
+
+         reverse transfer and conversion from Macintosh through the ST
+
+         to an IBM PC is equally as easy.
+
+
+
+
+
+         THROUGH THE LOOKING GLASS
+
+
+
+              Has this straddling of several computers produced a form
+
+         of schizophrenia?  Has the forbidden fruit been eaten?  To the
+
+         contrary, a true perspective of co-processing has emerged.  And
+
+         as noted earlier, there are more similarities than differences
+
+         with the Macintosh.  The desktop displays and operation of the
+
+         ST and Macintosh are so similar that one is equally comfortable
+
+         with either.  ST users are frequent visitors to GEnie's Page
+
+         606.  Macintosh users can also benefit by visiting the Gadgets
+
+         by Small (Spectre) Roundtable on Page 690.  You will quickly
+
+         discover that ST users are not content with off-the-shelf
+
+         products.  They are an aggressive group best characterized as
+
+         RYO (Roll-Your-Own).
+
+
+
+              You will also discover that domestic support from Atari
+
+         Corporation is minimal. A high exchange rate for the American
+
+         dollar, lower import duties in the Common Market, and the
+
+         European's more pragmatic approach to computing with less buyer
+
+         concern for brand names have turned Atari's attention to that
+
+         market.  Almost 70 percent of the ST production is shipped to
+
+         Western Europe.
+
+
+
+
+
+         THE FUTURE
+
+
+
+              Earlier this year, Atari demonstrated a laptop ST at the
+
+         Hanover Computer Fair (CeBIT).  Currently called STacy, it may
+
+         join the thin ranks of other Mac laptops by using the Spectre.
+
+         With a super-twist, LCD display of 640x400 pixels, it will be
+
+         offered in 1MB or 2MB RAM versions with either 2 floppy drives
+
+         or 1 floppy and a 30MB hard disk. Although a tracball is built
+
+         into the keyboard, a mouse can also be used.  Reportedly this
+
+         unit will be assembled in Japan rather than Taiwan.
+
+
+
+              Also shown was a prototype 16MHz 68030 TT with full 32-bit
+
+         I/O and internal processing. UNIX is supported and it will
+
+         share the ST's operating system to provide compatibility.
+
+         Although scheduled for production this year in Germany, keep
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         your expectations moderate because Atari is noted for
+
+         indecision and vaporware. Atari will not move until the price
+
+         is right.  In promising a CD ROM drive, Atari indicated it
+
+         would not be available until units could be produced for a
+
+         retail price in the $500 range. Although operational prototypes
+
+         have been demonstrated, production units are not yet
+
+         available.
+
+
+
+              On the positive side, Atari does not gouge your pocket.
+
+         This has created a market where users expect reasonable prices,
+
+         and third party developers of software and peripherals have
+
+         been forced to compete in this lower pricing structure.
+
+         Another plus is David Small's robust support for his product.
+
+         With earlier releases of software, it was routine for him to
+
+         upload improved versions to Compuserve and GEnie sometimes as
+
+         frequently as 3 consecutive nights. Persistence, enthusiasm,
+
+         and superb expertise are understatements. The ST and Spectre
+
+         are well worth the investment as a back-up or companion to your
+
+         Macintosh.  You will also appreciate the color monitor and
+
+         variety of respectable ST software that is available.  ST users
+
+         are delighted with this triple-header computing capability.
+
+
+
+              In exploring this emulation, it appears that the major
+
+         differences between the Macintosh and ST are the 64K or 128K
+
+         System ROMs, the floppy drive controller, and Apple Talk. The
+
+         ST addresses ROM and RAM differently, it uses three custom
+
+         chips to augment the 68000 processor, and Direct Memory Access
+
+         instead of SCSI is used to interface hard disk drives. Of
+
+         course there are much deeper technical differences in the
+
+         architectures. The questions are whether or not (in the
+
+         tradition of Adam and Eve) great damage has been done to
+
+         society,  or if there are redeeming values from this emulation.
+
+         You now have the information to make your judgement.
+
+
+
+
+
+
+
+         PRICES                         List / Discount
+
+         ----------------------------------------------
+
+         520ST                         $  600/ $  500
+
+         1040ST                        $  800/ $  699
+
+         Mega ST2                      $     / $ 1200
+
+         Mega ST2 Color                $ 1900/ $ 1500
+
+         Mega ST2 Monochrome           $ 1700/ $ 1300
+
+         Mega ST4                      $     / $ 1700
+
+         Mega ST4 Color                $ 2600/ $ 2000
+
+         Mega ST4
+
+             Monochrome                $ 2400/ $ 1800
+
+         Color Monitor                 $  400/ $  329
+
+         Monochrome
+
+             Monitor                   $  200/ $  150
+
+         Spectre 128                   $  180/ $  130
+
+         Spectre GCR                   $  300/ $  215
+
+         Magic Sac                     $   65/ $   50
+
+         Translator                    $  300/ $  250
+
+         Apple 64K ROMs (2)            $     / $   50
+
+         Apple 128K ROMs (2)           $     / $  100
+
+         Happy Discovery
+
+             Cartridge (Basic)         $  250/ $  190
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         pc ditto                      $   90/ $   70
+
+         pc ditto II Board             $  300/ $  225
+
+
+
+
+
+         Bill Price writes for Current Notes magazine concentrating
+
+         primarily on desktop publishing and peripheral devices for the
+
+         ST.  He is both an ST and Macintosh II user.  He established
+
+         the Desktop Publishing and Presentations Center at the U.S.
+
+         Department of State.  Introducing the Macintosh to the
+
+         Department, the centre is also equipped with IBM PS-2 and Wang
+
+         386 capabilities to provide a range of choices to users free
+
+         from marketing pressure.  The Centre provides graphic design
+
+         and applications assistance as well as produces Department
+
+         publications and presentations.
+
+
+
+         GEnie Mail: WM.H.PRICE
+
+
+
+         Bill Price
+
+         126 Casmar St. SE
+
+         Vienna, VA 22180
+
+
+
+         (703) 560-2684
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

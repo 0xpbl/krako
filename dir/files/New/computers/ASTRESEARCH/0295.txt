@@ -1,0 +1,104 @@
+AST RESEARCH TECHNICAL BULLETIN TB-0295           9-3-87
+
+
+AST TURBOLASER LASER PRINTER CONTROLLER IDENTIFICATION
+
+
+PURPOSE
+
+1. To identify the various configurations of the Laser
+   Printer Controller (LPC) printed circuit boards used
+   with the different models of AST's TURBOLASER Printers.
+
+2. To assist users in identifying the correct software to
+   be used with corresponding LPC's.
+
+GENERAL:
+
+AST RESEARCH markets several models of the Turbolaser
+Printer identified as follows:
+
+       TURBOLASER       (Also referred to as /XL)
+       TURBOLASER/EL    (Entry Level)
+       TURBOLASER/PS    (PostScript)
+
+All of these printers can be upgraded with various
+options to increase memory size, add the  PostScript
+option, and additional soft fonts.
+
+Each model uses unique software and fonts to control
+printer operation. Users should not use software or
+fonts unless designed for that particular printer.
+
+     -Do not use /EL software on /XL printers.
+     -Do not use /XL software on /EL printers.
+
+Please refer to Page 2 for assistance in identifying the
+various configurations of the LPC. Although each part can be
+identified by a unique part number, once assembled (adding a
+Memory Pak or changing the PAL chip), the true identity must
+be determined by visual observation.
+
+LPC's configured for /EL Printers, will have a PAL chip at
+location U51, AST part number 107101-293. Upgrades are
+available from AST Research to enhance the capabilities of
+the /EL printer.
+
+
+
+              TURBOLASER  LPC  IDENTIFICATION
+
+
+╔═══════════════╗
+║        ═ PAL  ║        10 MHZ LPC       202093-001
+║          U51  ║        (Original)  PAL  107101-071A
+╚══════════╗    ║
+           ╚════╝
+╔═══════════════╗
+║        ═ PAL  ║        12 MHZ LPC       202093-002
+║          U51  ║        (Original)  PAL  107101-071A
+╚══════════╗    ║
+           ╚════╝
+╔═══════════════╗
+║        ═ PAL  ║        10 MHZ LPC       202093-001
+║          U51  ║        (W/EL PAL)       107101-293A
+╚══════════╗    ║
+           ╚════╝
+╔═══════════════╗
+║        ═ PAL  ║        12 MHZ LPC       202093-003
+║          U51  ║        (W/EL PAL        107101-293A
+╚══════════╗    ║
+           ╚════╝
+
+
+╔══════╗
+║║║║   ║ Vertical        512KB PAK        202097-003
+║║║║   ║ RAM Chips
+╚══════╝
+╔══════╗
+║══════║ Horizontal      1MB PAK          202097-001
+║══════║ RAM Chips
+╚══════╝
+╔══════╗
+║║║║║║║║ Vertical        1.5MB PAK        202097-002
+║║║║║║║║ RAM Chips
+╚══════╝
+
+
+
+╔══════╦════════╗
+║══════║ ═ PAL  ║     LPC  202093-001     202122-001
+║══════║   U51  ║     1MB  202097-001
+╚══════╩═══╗    ║     (No assembly identification)
+           ╚════╝
+╔══════╦════════╗
+║║║║║║║║ ═ PAL  ║     LPC    202093-002   202166-001
+║║║║║║║║   U51  ║     1.5MB  202097-002
+╚══════╩═══╗    ║     (No assembly identification)
+           ╚════╝
+╔══════╦════════╗
+║║║║║║║║ ═ PAL  ║     LPC    202093-001     NO P.N.
+║║║║║║║║   U51  ║     1.5MB  202097-002    AVAILABLE
+╚══════╩═══╗    ║     (Has been field upgraded)
+           ╚════╝     (No assembly identification)
+

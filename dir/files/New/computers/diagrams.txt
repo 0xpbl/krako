@@ -1,0 +1,465 @@
+
+       ┌────────────────────────────────────────────────────────────────────┐
+       │ DIAGRAMS.DOC   Supplement to TheRef(tm) Drive & Controller Listing │▒
+       ├────────────────────────────────────────────────────────────────────┤▒
+       │   In "publishing" TheRef(tm), I've often been asked the difference │▒
+       │ between the types of drive controllers and recording methods.  I'm │▒
+       │ not going to get into that in this document, as it would require a │▒
+       │ good sized doc. of it's own.  What I have supplied are diagrams of │▒
+       │ the different connectors associated with the technology today.     │▒
+       │                                                                frf │▒
+       ├────────────────────────────┤ CABLES ├──────────────────────────────┤▒
+       │                                                                    │▒
+       │            Controller     Drive 2(or none)       Drive 1           │▒
+       │                                                                    │▒
+       │              1╔══╗ ─────────1╔══╗ ────stripe─────1╔══╗ Pins 10-16  │▒
+       │ FLOPPY cable  ║::║≡≡≡≡≡≡≡≡≡≡≡║├┤║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║├┤║ are twisted │▒
+       │ with twist    ║::║≡≡≡≡≡≡≡≡≡≡≡║├┤║≡≡≡≡≡≡≡≡≡≡≡≡≡XX≡≡║├┤║ before the  │▒
+       │ (control &    ║::║≡≡≡≡≡≡≡≡≡≡≡║├┤║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║├┤║ connector.  │▒
+       │ data, 34 pin) ║::║≡≡≡≡≡≡≡≡≡≡≡║├┤║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║├┤║  (7 wires)  │▒
+       │               ╚══╝           ╚══╝                 ╚══╝             │▒
+       │              1╔══╗ ─────────1╔══╗ ────stripe─────1╔══╗ Pins 25-29  │▒
+       │ ST412 & ESDI  ║::║≡≡≡≡≡≡≡≡≡≡≡║├┤║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║├┤║ are twisted │▒
+       │ Hard Drive    ║::║≡≡≡≡≡≡≡≡≡≡≡║├┤║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║├┤║ before the  │▒
+       │ cable w/twist ║::║≡≡≡≡≡≡≡≡≡≡≡║├┤║≡≡≡≡≡≡≡≡≡≡≡≡≡XX≡≡║├┤║ connector.  │▒
+       │ (control)     ║::║≡≡≡≡≡≡≡≡≡≡≡║├┤║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║├┤║  (5 wires)  │▒
+       │               ╚══╝           ╚══╝                 ╚══╝             │▒
+       │              1╔══╗ ───────────stripe─────────────1╔══╗ (no twists) │▒
+       │ ST412 & ESDI  ║::║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║├┤║ Each drive  │▒
+       │ Hard Drive    ║::║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║├┤║ has it's    │▒
+       │ (data, 20 pin)║::║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║├┤║ own data    │▒
+       │               ╚══╝                                ╚══╝ cable       │▒
+       │                                                                    │▒
+       │ IMPORTANT NOTE: Pin #1 on any drive cable SHOULD be indicated by a │▒
+       │                 a colored stripe.  If you should find the stripe   │▒
+       │                 by connector pin 34 (or 20), inspect the whole     │▒
+       │                 cable VERY throughly!                              │▒
+       │                                                                    │▒
+       │ DRIVE SELECT  For both Floppy and Hard drives, when the 34 pin     │▒
+       │ JUMPERS:      cable has a twist, the device number should be set   │▒
+       │               to the second position.  Drives numbered 0-3, set to │▒
+       │               1, those numbered 1-4, set to 2.  When cables with-  │▒
+       │               out a twist are used, Floppy "A", and(or) Hard drive │▒
+       │               "C" should be set to 1, and the second Floppy and    │▒
+       │               (or) Hard drive should be set to 2.                  │▒
+       │                                                                    │▒
+       │ TERMINATORS:  When using more than one drive on a cable (ie; 2FDs  │▒
+       │               or 2HDs), the terminating resistor pack should be    │▒
+       │               left on the drive furthest from the controller, and  │▒
+       │               removed from the drive closest to the controller.    │▒
+       │                                                                    │▒
+       │        NOTE:  On SCSI drives, the Host Adapter also has resistors. │▒
+       │               These are needed to terminate both ends of the bus.  │▒
+       │               Since the SCSI bus can have up to 7 devices attached │▒
+       │               to it, only the Host Adapter and the device farthest │▒
+       │               from it will retain the resistors.  All devices in-  │▒
+       │               between should have theirs removed.                  │▒
+       └────────────────────────────────────────────────────────────────────┘▒
+        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+       
+       ┌────────────────────────────────────────────────────────────────────┐
+       │ DIAGRAMS.DOC                                                     2 │▒
+       ├──────────────────────────┤ CONNECTIONS ├───────────────────────────┤▒
+       │                                                                    │▒
+       │ FLOPPY DRIVES                                      ┌─────┐         │▒
+       │                                     HI/LO DENSITY >│2   1│ GND     │▒
+       │ The connector on a floppy drive               N/C  │4 _ 3│  |      │▒
+       │ consists of 34 conductors.  Both              N/C  │6   5│  |      │▒
+       │ control and data use this same              INDEX <│8   7│  |      │▒
+       │ cable.  Most cables have a twist    MOTOR ENAB. A >│10  9│  |      │▒
+       │ that interchanges pins 10 through    DRIVE SEL. B >│12 11│  |      │▒
+       │ 16 at the end of the cable (on       DRIVE SEL. A >│14 13│  |      │▒
+       │ drive 1).  Most floppy connect-     MOTOR ENAB. B >│16 15│  |      │▒
+       │ ors have a "key" between pins      DIRECTION SEL. >│18 17│  |      │▒
+       │ 4 & 6, and 3 & 5, to prevent the        HEAD STEP >│20 19│  |      │▒
+       │ cable from being reversed.  At         WRITE DATA >│22 21│  |      │▒
+       │ the other end,  the dual row con-      WRITE GATE >│24 23│  |      │▒
+       │ nector that attaches to the con-         TRACK 00 <│26 25│  |      │▒
+       │ troller card will usually have a    WRITE PROTECT <│28 27│  |      │▒
+       │ set of ridges that coincide with        READ DATA <│30 29│  |      │▒
+       │ cutouts in the controller card's      HEAD SELECT >│32 31│  |      │▒
+       │ connector.  Note that old style       DISK CHANGE <│34 33│ GND     │▒
+       │ floppy-only controllers used a                     └─────┘         │▒
+       │ card-edge connector just like that        > Input   ( At the       │▒
+       │ of the drive.                             < Output   Drive Conn.)  │▒
+       │                                                                    │▒
+       │ ST506/412 HARD DRIVE  (MFM & RLL)                                  │▒
+       │                                                                    │▒
+       │ This standard drive system uses                    ┌─────┐         │▒
+       │ two cables; a 34 conductor control     HEAD SEL. 8 │2   1│ GND     │▒
+       │ cable, and a 20 conductor data         HEAD SEL. 4 │4 _ 3│  |      │▒
+       │ cable.  The control cable contains      WRITE GATE │6   5│  |      │▒
+       │ a twist of the conductors going to   SEEK COMPLETE │8   7│  |      │▒
+       │ the farthest drive, which is drive         TRACK 0 │10  9│  |      │▒
+       │ "C" on most systems.  This twist       WRITE FAULT │12 11│  |      │▒
+       │ consists of conductors 25 through      HEAD SEL. 1 │14 13│  |      │▒
+       │ 29.  As with the floppy cable, the        RESERVED │16 15│  |      │▒
+       │ ST506/412 cables normally have a       HEAD SEL. 2 │18 17│  |      │▒
+       │ key to prevent reversal, and the             INDEX │20 19│  |      │▒
+       │ controller end has a pin-type con-           READY │22 21│  |      │▒
+       │ nector, while the drive end has a             STEP │24 23│  |      │▒
+       │ card-edge type connector.             DRIVE SEL. 1 │26 25│  |      │▒
+       │                                       DRIVE SEL. 2 │28 27│  |      │▒
+       │                   ┌─────┐             DRIVE SEL. 3 │30 29│  |      │▒
+       │       DRIVE SEL'D │1   2│ GND         DRIVE SEL. 4 │32 31│  |      │▒
+       │          RESERVED │3 _ 4│  |          DIRECTION IN │34 33│ GND     │▒
+       │             |     │5   6│  |                       └─────┘         │▒
+       │             |     │7   8│ GND                                      │▒
+       │          RESERVED │9  10│ RESERVED          Though control signals │▒
+       │               GND │11 12│ GND               go through a single 34 │▒
+       │     * WRITE DATA+ │13 14│ * WRITE DATA-     conductor cable, data  │▒
+       │               GND │15 16│ GND               flows through seperate │▒
+       │      * READ DATA+ │17 18│ * READ DATA-      20 conductor cables    │▒
+       │               GND │19 20│ GND               for each drive (C,D).  │▒
+       │ *(MFM or RLL)     └─────┘                                          │▒
+       └────────────────────────────────────────────────────────────────────┘▒
+        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+                                                                             
+       ┌────────────────────────────────────────────────────────────────────┐
+       │ DIAGRAMS.DOC                                                     3 │▒
+       ├──────────────────────────┤ CONNECTIONS ├───────────────────────────┤▒
+       │                                                                    │▒
+       │ ESDI HARD DRIVES                                      ┌─────┐      │▒
+       │                                           HEAD SEL. 3 │2   1│ GND  │▒
+       │ Though ESDI and ST506/412 drives          HEAD SEL. 2 │4 _ 3│  |   │▒
+       │ share similar looking cables,              WRITE GATE │6   5│  |   │▒
+       │ even to the point of having a        CONFIG/STAT DATA │8   7│  |   │▒
+       │ twist, the actual data and con-         TRANSFER ACK. │10  9│  |   │▒
+       │ trol signals are very different.            ATTENTION │12 11│  |   │▒
+       │ One should never mix components           HEAD SEL. 0 │14 13│  |   │▒
+       │ from these two drive types.        SECT/ADD.MK. FOUND │16 15│  |   │▒
+       │ While the ST506/412 interface             HEAD SEL. 1 │18 17│  |   │▒
+       │ utilizes a standard pulse code                  INDEX │20 19│  |   │▒
+       │ to transmit data between the                    READY │22 21│  |   │▒
+       │ drive and controller, ESDI uses         TRANS.REQUEST │24 23│  |   │▒
+       │ a pulse code that does not require       DRIVE SEL. 1 │26 25│  |   │▒
+       │ the level to return to zero between      DRIVE SEL. 2 │28 27│  |   │▒
+       │ pulses.  This format is refered to       DRIVE SEL. 3 │30 29│  |   │▒
+       │ as NRZ, or Non Return to Zero.  By          READ GATE │32 31│  |   │▒
+       │ utilizing NRZ, the clock that data       COMMAND DATA │34 33│ GND  │▒
+       │ is transfered by can be increased,                    └─────┘      │▒
+       │ thereby increasing the troughput to                                │▒
+       │ and from the ESDI disk.                                            │▒
+       │                                        ┌─────┐                     │▒
+       │                            DRIVE SEL'D │1   2│ SECT/ADD.MK. FOUND  │▒
+       │                          SEEK COMPLETE │3 _ 4│ ADDRESS MARK ENABLE │▒
+       │                   RESV'D FOR STEP MODE │5   6│ GND                 │▒
+       │                           WRITE CLOCK+ │7   8│ WRITE CLOCK-        │▒
+       │                      CARTRIDGE CHANGED │9  10│ READ REF. CLOCK+    │▒
+       │                       READ REF. CLOCK- │11 12│ GND                 │▒
+       │                        NRZ WRITE DATA+ │13 14│ NRZ WRITE DATA-     │▒
+       │                                    GND │15 16│ GND                 │▒
+       │                         NRZ READ DATA+ │17 18│ NRZ READ DATA-      │▒
+       │                                    GND │19 20│ GND                 │▒
+       │                                        └─────┘                     │▒
+       │                                                                    │▒
+       │ ───────────────┐ And in this corner... Recording ┌──────────────── │▒
+       │                                                                    │▒
+       │     Times were, you had a simple choice for type of disk drive...  │▒
+       │ Any kind, as long as it was ST506/412.  Those were the heydays of  │▒
+       │ MFM drives.  But many manufacturers weren't content with the 17    │▒
+       │ sectors/track that MFM provided.  They devised a newer encoding    │▒
+       │ scheme to pack data tighter, and called it RLL, or Run Length      │▒
+       │ Limited, as opposed to MFM, or Modified Frequency Modulation.  It  │▒
+       │ involves using groups of 16 bits rather than each individual bit,  │▒
+       │ thus achieving a sort of "compression" of the information as it is │▒
+       │ encoded.  Since the same information takes up less space as RLL    │▒
+       │ encoded data, more info can be writen to the disk.  The most com-  │▒
+       │ mon RLL technique, known as 2,7 RLL, can pack roughly 50% more on  │▒
+       │ a disk than MFM.  Of course, there is always a trade-off, and the  │▒
+       │ timing and media required for RLL is it.  RLL requires a higher    │▒
+       │ grade of media because of it's dense bit-packing, and timing is    │▒
+       │ more critical, since the data is flowing at 50% higher rate than   │▒
+       │ an MFM drive.  Also, the mechanics of the drive must have tighter  │▒
+       └────────────────────────────────────────────────────────────────────┘▒
+        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+                                                                              
+       ┌────────────────────────────────────────────────────────────────────┐ 
+       │ DIAGRAMS.DOC                                                     4 │▒
+       ├────────────────────────────────────────────────────────────────────┤▒
+       │ tolerences because head positioning becomes more critical.  These  │▒
+       │ requirements kept RLL drives at a premium.  It has only been the   │▒
+       │ last two years, that RLL drives have outsold MFM, and have all but │▒
+       │ wiped them from the marketplace.  This turnabout has come from the │▒
+       │ need to increase disk capacity more and more.  Both ESDI, and SCSI │▒
+       │ type drives utilize RLL.(1*) encoding to achieve high capacity and │▒
+       │ transfer rates (from the disk).  And the newest interface, IDE, or │▒
+       │ Integrated Drive Electronics, is also based on this technology.    │▒
+       │ ───────────────────────────────┐ ┌──────────────────────────────── │▒
+       │                                                  ┌─────┐           │▒
+       │ SCSI HARD DRIVES                           DB0 <>│2   1│ GND    5  │▒
+       │                                            DB1 <>│4   3│  |     0  │▒
+       │ The normal internal cable for SCSI         DB2 <>│6   5│  |        │▒
+       │ is a 50 conductor ribbon, with all         DB3 <>│8   7│  |     P  │▒
+       │ odd numbered conductors grounded.          DB4 <>│10  9│  |     I  │▒
+       │ Two conductors, numbers 25 & 26, are       DB5 <>│12 11│  |     N  │▒
+       │ often left not-connected, as they          DB6 <>│14 13│  |        │▒
+       │ deal with Terminator power, and can        DB7 <>│16 15│  |     D  │▒
+       │ be easily shorted by cable reversals.      DBP <>│18 17│  |     U  │▒
+       │ There are no twists in this cable,         GND   │20 19│  |     A  │▒
+       │ and it's length may be a maximum of        GND   │22 21│  |     L  │▒
+       │ 6 meters.  But one is advised to use       GND   │24 23│  |        │▒
+       │ minimum lengths to improve timing.      TERM PWR │26 25│  |     R  │▒
+       │ Up to seven drives, or devices may be      GND   │28 27│  |     O  │▒
+       │ attached to an SCSI cable.  Each is        GND   │30 29│  |     W  │▒
+       │ daisy-chained on the cable, or, when       ATN < │32 31│  |        │▒
+       │ a device has two connectors, another       GND   │34 33│  |     C  │▒
+       │ cable may be "spliced" into the chain      BSY <>│36 35│  |     O  │▒
+       │ starting at the second connector, and      ACK < │38 37│  |     N  │▒
+       │ continued on.  Care must be taken to       RST <>│40 39│  |     N  │▒
+       │ insure that cables and connectors are      MSG  >│42 41│  |     E  │▒
+       │ not reversed, as this would short pin      SEL <>│44 43│  |     C  │▒
+       │ 26 (TERMPWR) to ground, and likely         C/D  >│46 45│  |     T  │▒
+       │ damage the drive or controller.  Also,     REQ  >│48 47│  |     O  │▒
+       │ as explained earlier, the terminating      I/O  >│50 49│ GND    R  │▒
+       │ resistors should remain only on the              └─────┘           │▒
+       │ controller (Host Adapter) and the LAST           ┌──┐ DB-25F CONN. │▒
+       │ drive on the cable, regardless of it's     GND   │1 └──┐           │▒
+       │ address.                                   DB1 <>│2  14│<> DB0     │▒
+       │    Most SCSI Host Adapters also have       DB3 <>│3  15│<> DB2     │▒
+       │ a connector for external drives in the     DB5 <>│4  16│<> DB4     │▒
+       │ form of a Centronics(tm) type 50 pin,      DB7 <>│5  17│<> DB6     │▒
+       │ or an "alternate", DB-25F connector.       GND   │6  18│<> PARITY  │▒
+       │ Only the internal 50-pin, and the          SEL <>│7  19│   GND     │▒
+       │ "alternate" external connector are         GND   │8  20│ > ATN     │▒
+       │ shown here.  (see also: MORE SCSI)       TMPWR   │9  21│<  MSG     │▒
+       │    Also, these diagrams refer to the       RST <>│10 22│ > ACK     │▒
+       │ single-ended SCSI connections, since       C/D   │11 23│<> BSY     │▒
+       │ this is the most common arrangement        I/O  >│12 24│<  REQ     │▒
+       │ for PCs today.  The Differential SCSI      GND   │13 25│   GND     │▒
+       │ requires balanced lines, and is used             │  ┌──┘           │▒
+       │ mostly on high-end workstations.                 └──┘ FUTURE DOMAIN│▒
+       └────────────────────────────────────────────────────────────────────┘▒
+        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+                                                                             
+       ┌────────────────────────────────────────────────────────────────────┐
+       │ DIAGRAMS.DOC                                                     5 │▒
+       ├────────────────────────────┤ CABLES ├──────────────────────────────┤▒
+       │ SCSI (cont.)                                                       │▒
+       │                          (T)                       ┌─(DC)┐    (T)  │▒
+       │ On an SCSI cable, the  1╔══╗─stripe─1╔══╗──1╔══╗──1╔══╦══╗──1╔══╗  │▒
+       │ terminating resistors   ║::║≡≡≡≡≡≡≡≡≡║::║≡≡≡║::║≡≡≡║::║::║≡≡≡║::║  │▒
+       │ (T) remain at the END   ║::║≡≡≡≡≡≡≡≡≡║::║≡≡≡║::║≡≡≡║::║::║≡≡≡║::║  │▒
+       │ devices on the cable,   ║::║≡≡≡≡≡≡≡≡≡║::║≡≡≡║::║≡≡≡║::║::║≡≡≡║::║  │▒
+       │ even when 2 cables are  ║::║≡≡≡≡≡≡≡≡≡║::║≡≡≡║::║≡≡≡║::║::║≡≡≡║::║  │▒
+       │ "Daisy-Chained" (DC).   ║::║≡≡≡≡≡≡≡≡≡║::║≡≡≡║::║≡≡≡║::║::║≡≡≡║::║  │▒
+       │ Also, the external      ║::║≡≡≡≡≡≡≡≡≡║::║≡≡≡║::║≡≡≡║::║::║≡≡≡║::║  │▒
+       │ connector may be used,  ╚══╝         ╚══╝   ╚══╝   ╚══╩══╝   ╚══╝  │▒
+       │ requiring the removal    (HA)          Drives 1-7 (in any order)   │▒
+       │ of the Host Adapter's                                              │▒
+       │ internal Term. resistors.                                          │▒
+       ├──────────────────────────┤ CONNECTORS ├────────────────────────────┤▒
+       │                                                                    │▒
+       │ IDE (AT) HARD DRIVES                       (<> AT THE DRIVE CONN)  │▒
+       │                                                  ┌─────┐           │▒
+       │ IDE, or Integrated Drive Electronics       RST  >│1   2│   GND     │▒
+       │ is the most recent drive interface to      SD7 <>│3   4│<> SD8     │▒
+       │ gain popularity.  Often, the control       SD6 <>│5   6│<> SD9     │▒
+       │ circuitry is built into the mother-        SD5 <>│7   8│<> SD10    │▒
+       │ board, eliminating the requirement for     SD4 <>│9  10│<> SD11    │▒
+       │ a seperate Host Adapter.  There are 2      SD3 <>│11 12│<> SD12    │▒
+       │ types of IDE interfaces...those for the    SD2 <>│13 14│<> SD13    │▒
+       │ 8-bit XT bus, and those for the 16-bit     SD1 <>│15 16│<> SD14    │▒
+       │ AT bus (detailed here).  The cable for     SD0 <>│17 18│<> SD15    │▒
+       │ IDE contains 40 conductors and has no      GND   │19 20│N/C (KEY)  │▒
+       │ twists.  Like an SCSI cable, the IDE      RES.N/C│21 22│   GND     │▒
+       │ cable uses a Dual-row Pin connector for    IOW  >│23 24│   GND     │▒
+       │ both ends.  A single cable may be used     IOR  >│25 26│   GND     │▒
+       │ to connect two drives, or two cables      RES.N/C│27 28│N/C RES.   │▒
+       │ may be Daisy-Chained.  Most IDE Host      RES.N/C│29 30│   GND     │▒
+       │ Adapters will support two hard drives.    IRQ14 <│31 32│> I/O CS16 │▒
+       │ The first drive should be jumpered as      SA1 <>│33 34│<> PDIAG   │▒
+       │ the Master drive, and the second as the    SA0 <>│35 36│<> SA2     │▒
+       │ Slave drive.  Plug-in IDE Host Adapters    CS0  >│37 38│<  CS1     │▒
+       │ are often called Paddle-Boards, and      ACTIVE <│39 40│   GND     │▒
+       │ may contain a floppy controller, and             └─────┘           │▒
+       │ serial and parallel ports.                                         │▒
+       │                                                                    │▒
+       ├────────────────────────────┤ CABLES ├──────────────────────────────┤▒
+       │ Note:                                                              │▒
+       │                        1╔══╗────stripe─────1╔══╗───────────1╔══╗   │▒
+       │ The IDE Host Adapter    ║::║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║::║≡≡≡≡≡≡≡≡≡≡≡≡║::║   │▒
+       │ connector may be on     ║::║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║::║≡≡≡≡≡≡≡≡≡≡≡≡║::║   │▒
+       │ a plug-in Paddle-Board  ║::║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║::║≡≡≡≡≡≡≡≡≡≡≡≡║::║   │▒
+       │ or may be integrated    ║::║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║::║≡≡≡≡≡≡≡≡≡≡≡≡║::║   │▒
+       │ on the Motherboard.     ║::║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║::║≡≡≡≡≡≡≡≡≡≡≡≡║::║   │▒
+       │                         ╚══╝                ╚══╝            ╚══╝   │▒
+       │                         Host Adapter       Drives 1-2 (any order)  │▒
+       ├────────────────────────────────────────────────────────────────────┤▒
+       │  1*  There ARE some SCSI drives that utilize MFM, but very few.    │▒
+       └────────────────────────────────────────────────────────────────────┘▒
+        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+           
+       ┌────────────────────────────────────────────────────────────────────┐
+       │ DIAGRAMS.DOC                                                     6 │▒
+       ├───────────────────────┐ More on Recording ┌────────────────────────┤▒
+       │                                                                    │▒
+       │ WRITE PRECOMPENSATION                                              │▒
+       │                                                                    │▒
+       │    OK, so we've all seen it listed, and maybe even had to set it   │▒
+       │ in the CMOS.  So what IS it?  And what does it do?                 │▒
+       │    PreComp. is the way in which the electronics compensates for    │▒
+       │ eventual "drift" of the magnetic domains written on the disk.  A   │▒
+       │ simple explaination is that it allows the head to space bits that  │▒
+       │ would attract each other, further apart, while it puts those that  │▒
+       │ repel each other, closer together.  It does this by analyzing the  │▒
+       │ data stream, and adjusting the timing for each bit, to allow it to │▒
+       │ be recorded earlier or later, if needed.                           │▒
+       │    Not all disks require you to set their PreComp value.  Those    │▒
+       │ that do are asking for a cylinder to start PreComp. at.  Since the │▒
+       │ packing of the bits on a disk increases as you get closer to the   │▒
+       │ center of the disk (higher cylinders), the requirement for PreComp.│▒
+       │ increases too.  The PreComp. value specified by the Manufacturer   │▒
+       │ for a disk is his way of insuring your long term data stability.   │▒
+       │                                                                    │▒
+       │         ──< THE EFFECT OF PRECOMPENSATION OVER TIME >──            │▒
+       │                                                                    │▒
+       │    When recorded (w/o PreComp)      When recorded (with PreComp)   │▒
+       │ ┌──────────────────────────────┐  ┌──────────────────────────────┐ │▒
+       │ │ +-   -+   +-   +-   -+   -+  │  │   +-  -+  +-   -+    -+    -+│ │▒
+       │ └──────────────────────────────┘  └──────────────────────────────┘ │▒
+       │                                                                    │▒
+       │     After time (w/o PreComp)          After time (with PreComp)    │▒
+       │ ┌──────────────────────────────┐  ┌──────────────────────────────┐ │▒
+       │ │+-    -+    +- +-     -+ -+   │  │  +-   -+   +-   -+   -+   -+ │ │▒
+       │ └──────────────────────────────┘  └──────────────────────────────┘ │▒
+       │                                                                    │▒
+       │    From the figures above, we can see how a slight amount of Pre-  │▒
+       │ Compensation can insure long term stability.  The disk that didn't │▒
+       │ employ PreComp was eventually unreadable.  Of course, this would   │▒
+       │ take time to happen, but no one can give cold hard specs on how    │▒
+       │ much drift will occure.  (Of course, this example is a gross sim-  │▒
+       │ plification of the process, but, hey, who's counting?)             │▒
+       │                                                                    │▒
+       ├───────────────────────┤ For Notes & Such ├─────────────────────────┤▒
+       │                                                                    │▒
+       │                                                                    │▒
+       │                                                                    │▒
+       │                                                                    │▒
+       │                                                                    │▒
+       │                                                                    │▒
+       │                                                                    │▒
+       │                                                                    │▒
+       │                                                                    │▒
+       │                                                                    │▒
+       │                                                                    │▒
+       │                                                                    │▒
+       │                                                                    │▒
+       └────────────────────────────────────────────────────────────────────┘▒
+        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+        
+       ┌────────────────────────────────────────────────────────────────────┐
+       │ DIAGRAMS.DOC                                                     7 │▒
+       ├────────────────────────────────────────────────────────────────────┤▒
+       │ APPLE SCSI                                                         │▒
+       │                                                                    │▒
+       │   Unlike in the PC world, the Apple          APPLE DB-25 SCSI      │▒
+       │ standardized on one drive interface,             ┌────┐            │▒
+       │ SCSI.  Also, Apple standardized on         REQ  >│1   └┐           │▒
+       │ a 25 pin connector for external con-       MSG  >│2  14│   GND     │▒
+       │ nections.  However, Apple decided not      I/O  >│3  15│<  C/D     │▒
+       │ to implement the complete ANSI spec.,      RST <>│4  16│   GND     │▒
+       │ so one must be careful that peripherals    ACK < │5  17│ > ATN     │▒
+       │ used are certified to work with Apple's    BSY <>│6  18│   GND     │▒
+       │ SCSI bus.                                  GND   │7  19│<> SEL     │▒
+       │   Apple also developed it's own pin-       DB0 <>│8  20│<> PARITY  │▒
+       │ configuration.  The Apple and Future       GND   │9  21│<> DB1     │▒
+       │ Domain 25-pin SCSI connectors are as       DB3 <>│10 22│<> DB2     │▒
+       │ close to "Standards" as there are in       DB5 <>│11 23│<> DB4     │▒
+       │ the world of PCs.  But the real ANSI       DB6 <>│12 24│   GND     │▒
+       │ Standard called for a 50 pin connector     DB7 <>│13 25│  TMPWR    │▒
+       │ commonly referred to as a "Centronics"           │    ┌┘           │▒
+       │ type (made popular by the Centronics             └────┘            │▒
+       │ printer company).  Instead of the 25                               │▒
+       │ staggered pins of the Apple & Future                               │▒
+       │ Domain type connectors, the Centronics           ┌───┐             │▒
+       │ type uses 2 parallel rows of 25 pins.            │   └─┐           │▒
+       │ This arrangement allows the use of extra     GND │1  26│<> DB0     │▒
+       │ grounds for better isolation.                 │  │2  27│<> DB1     │▒
+       │                                               │  │3  28│<> DB2     │▒
+       │ SCSI HISTORY                                  │  │4  29│<> DB3     │▒
+       │                                               │  │5  30│<> DB4     │▒
+       │   SCSI has it's roots in the mainframe        │  │6  31│<> DB5     │▒
+       │ world, but it's first implementation in       │  │7  32│<> DB6     │▒
+       │ the PC world came soon after the first        │  │8  33│<> DB7     │▒
+       │ PC.  Shugart Associates devised an inter-     │  │9  34│<> DBP     │▒
+       │ face that they designated the SASI, or        │  │10 35│   GND     │▒
+       │ "Shugart Associates Standard Interface"       │  │11 36│   GND     │▒
+       │ They proposed that SASI be adopted by ANSI    │  │12 37│   GND     │▒
+       │ for small computers, but durring the work     │  │13 38│ TERM.PWR. │▒
+       │ required for ratification, they discovered    │  │14 39│   GND     │▒
+       │ the process would take too much effort, and   │  │15 40│   GND     │▒
+       │ that the IPI groups were already well into    │  │16 41│ > ATN     │▒
+       │ their effort. (which had many features the    │  │17 42│   GND     │▒
+       │ same as SASI)  A decision was made to take    │  │18 43│<> BSY     │▒
+       │ features of both interfaces, and put forth    │  │19 44│ > ACK     │▒
+       │ a new specification for a new interface,      │  │20 45│<> RST     │▒
+       │ SCSI was born, and ratified in 1986 by        │  │21 46│<  MSG     │▒
+       │ ANSI.  Since then, many have said that the    │  │22 47│<> SEL     │▒
+       │ original spec. was not tight enough, and      │  │23 48│<  C/D     │▒
+       │ that it allowed Manufacturers to make         │  │24 49│<  REQ     │▒
+       │ drives that met the ANSI spec., but would    GND │25 50│<  I/O     │▒
+       │ not talk to each other.  Recently, the           │   ┌─┘           │▒
+       │ ANSI SCSI committee has proposed newer,          └───┘             │▒
+       │ tighter, more extended specs., for           50 PIN "CENTRONICS"   │▒
+       │ SCSI-2, and now SCSI-3.                   FOR "PC" TYPE COMPUTERS  │▒
+       └────────────────────────────────────────────────────────────────────┘▒
+        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+
+       ┌────────────────────────────────────────────────────────────────────┐
+       │ DIAGRAMS.DOC                                                     8 │▒
+       ├────────────────────┐ CONSTRUCTION PROJECT ┌────────────────────────┤▒
+       │ SCSI TERMINATION                                                   │▒
+       │                                                                    │▒
+       │   With the advent of increased use of SCSI for peripherals comes   │▒
+       │ the chance that one day you'll need an SCSI terminating resistor.  │▒
+       │ Prepare for a shock, because you might be very suprised at the     │▒
+       │ prices charged, for what you get.  Many Manufacturers still have   │▒
+       │ SCSI peripheral hardware priced   ┌──────────────────────────────┐ │▒
+       │ for the Workstation market, not   │   1 ─/\/\/\/─ 26 ─/\/\/\/─┐  │ │▒
+       │ the PC market.  We may see these  │   2 ─/\/\/\/─ 27 ─/\/\/\/─┤  │ │▒
+       │ prices erode as more PCs adopt    │   3 ─/\/\/\/─ 28 ─/\/\/\/─┤  │ │▒
+       │ SCSI as their disk interface of   │   4 ─/\/\/\/─ 29 ─/\/\/\/─┤  │ │▒
+       │ choice, but for now be prepared   │   5 ─/\/\/\/─ 30 ─/\/\/\/─┤  │ │▒
+       │ to pay a premium for anything to  │   6 ─/\/\/\/─ 31 ─/\/\/\/─┤  │ │▒
+       │ do with SCSI.                     │   7 ─/\/\/\/─ 32 ─/\/\/\/─┤  │ │▒
+       │   So here you are, with a disk    │   8 ─/\/\/\/─ 33 ─/\/\/\/─┤  │ │▒
+       │ drive mounted internally, and a   │   9 ─/\/\/\/─ 34 ─/\/\/\/─┤  │ │▒
+       │ CDRom hanging off the back of the │  10           35          │  │ │▒
+       │ PC.  Everything looks great, but  │  11           36          │  │ │▒
+       │ it just doesn't work... Maybe it  │  12           37          │  │ │▒
+       │ doesn't even recognize the CDRom. │  13           38 ─────────┤  │ │▒
+       │ You've checked the connectors, and│  14           39          │  │ │▒
+       │ everything looks good... So what's│  15           40          │  │ │▒
+       │ the problem?  Well, did you check │  16 ─/\/\/\/─ 41 ─/\/\/\/─┤  │ │▒
+       │ the terminators?   (Say Whaaat??) │  17           42          │  │ │▒
+       │ Improper termination of an SCSI   │  18 ─/\/\/\/─ 43 ─/\/\/\/─┤  │ │▒
+       │ bus can raise havock with the Host│  19 ─/\/\/\/─ 44 ─/\/\/\/─┤  │ │▒
+       │ Adapter's interface circuit, and  │  20 ─/\/\/\/─ 45 ─/\/\/\/─┤  │ │▒
+       │ result in missing peripherals, or │  21 ─/\/\/\/─ 46 ─/\/\/\/─┤  │ │▒
+       │ intermittent operation and pos-   │  22 ─/\/\/\/─ 47 ─/\/\/\/─┤  │ │▒
+       │ sible loss of data.               │  23 ─/\/\/\/─ 48 ─/\/\/\/─┤  │ │▒
+       │   Well, here's a way to build an  │  24 ─/\/\/\/─ 49 ─/\/\/\/─┤  │ │▒
+       │ inexpensive terminator that will  │  25 ─/\/\/\/─ 50 ─/\/\/\/─┘  │ │▒
+       │ connect to the second SCSI con-   │       220Ω         330Ω      │ │▒
+       │ nector on many SCSI peripherals.  └──────────────────────────────┘ │▒
+       │   All you need is a Male 50-pin      SCSI Terminator Schematic     │▒
+       │ Centronics type connector, a small                                 │▒
+       │ length of wire, and 18 resistors of 330Ω and 18 of 220Ω, 1/4 watt. │▒
+       │   The schematic for connecting the resistors & connector is above, │▒
+       │ and I'll not go any deeper into construction except to say that if │▒
+       │ you can't take it from here without explaination, you should buy   │▒
+       │ your terminator instead, as you can do too much damage if you do it│▒
+       │ wrong.                                                             │▒
+       ├────────────────────────────────────────────────────────────────────┤▒
+       │                                                                    │▒
+       │                                                                    │▒
+       │                                                                    │▒
+       │                                                                    │▒
+       │               (This space left unintentionally blank!)             │▒
+       │                                                                    │▒
+       │                                                                    │▒
+       │                                                                    │▒
+       │                                                                    │▒
+       └────────────────────────────────────────────────────────────────────┘▒
+        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒

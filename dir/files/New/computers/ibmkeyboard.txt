@@ -1,0 +1,33 @@
+
+IBM keyboard cable pin assignments
+----------------------------------
+
+For the PC (both ends):
+
+   Pin 1: +Keyboard clock (+5 Vdc signal level)
+   Pin 2: +Keyboard data  (+5 Vdc signal level)
+   Pin 3: -Keyboard reset (not used by keyboard)
+   Pin 4: Ground
+   Pin 5: +5 Vdc
+
+For the PS/2 keyboard and mouse connector:
+
+   System end (6-pin DIN)
+
+   Pin 1  : +KBD data
+   Pin 2  : Reserved
+   Pin 3  : Ground
+   Pin 4  : +5 Vdc
+   Pin 5  : +KBD clk
+   Pin 6  : Reserved
+   Shield : Frame ground
+
+   Keyboard end (6-pin phone)
+
+   Pin A  : Reserved
+   Pin B  : +KBD data
+   Pin C  : Ground
+   Pin D  : +KBD clock
+   Pin E  : +5v
+   Pin F  : Reserved
+   Shield : Frame ground

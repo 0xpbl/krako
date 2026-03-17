@@ -1,0 +1,95 @@
+        ┌─────────────────────────────────────────────────────────┐
+        │ PCjr Display Cable Specifications ─ PCjr to CGA Monitor │
+        └─────────────────────────────────────────────────────────┘
+
+            (IBM monitors all have male DB-9 connectors on them)
+
+             PCjr                                        9─PIN
+            SYSTEM                                       COLOR
+          CONNECTOR                                     DISPLAY
+              D                      CABLE             CONNECTOR
+                                ┌──────────────┐       (D─SHELL)
+                   A1 ──────────┤ NOT USED     │
+                   A2 ──────────┤ NOT USED     │
+                   A3 ──────────┤ NOT USED     │
+                   A4 ──────────┤ RED          ├────────── 5
+                   A5 ──────────┤ GREEN        ├────────── 3
+                   A6 ──────────┤ BLUE         ├────────── 6
+                   A7 ──────────┤ INTENSITY    ├────────── 4
+                   A8 ──────────┤ NOT USED     │
+                   A9 ──────────┤ NOT USED     │
+                   B1 ──────────┤ VERTICAL     ├────────── 9
+                   B2 ──────────┤ NOT USED     │
+                   B3 ──────────┤ HORIZONTAL   ├────────── 8
+                   B4 ──────────┤ NOT USED     │
+                   B5 ──────────┤ GROUND       ├────────── 2
+                   B6 ──────────┤ NOT USED     │
+                   B7 ──────────┤ NOT USED     │
+                   B8 ──────────┤ NOT USED     │
+                   B9 ──────────┤ GROUND       ├────────── 1
+                                └──────────────┘
+
+                                                    FRONT VIEW
+             FRONT VIEW                          \───────────────/
+      A9 ┌─┬─┬─┬─┬─┬─┬─┬─┬─┐ A1                   \1 o o o o o 5/
+         ├─┼─┼─┼─┼─┼─┼─┼─┼─┤                       \6 o o o o 9/
+      B9 └─┴─┴─┴─┴─┴─┴─┴─┴─┘ B1                     \─────────/
+
+   -----------------------------------------------------------------------
+
+   PCjr Display Pinout vs. CGA
+   ───────────────────────────
+
+   PCjr RGB output is:                      PC CGA output pin is:
+
+        A01  - TV Vertical drive  ................ n/a
+        A02    Gnd
+        A03  - TV Horizontal drive  .............. n/a
+        A04    Blue  .............................  5   Blue
+        A05    Red ...............................  3   Red
+        A06    Intensity  ........................  6   Intensity
+        A07    Green .............................  4   Green
+        A08  - Comp Sync drive  .................. n/a
+        A09    Audio out  ........................ n/a
+
+        B01  + Vert drive out  ...................  9   +Vertical
+        B02    Gnd
+        B03  + Horz drive out  ...................  8   +Horizontal
+        B04    Gnd
+        B05    Gnd  ..............................  2   Ground
+        B06    Gnd
+        B07    Gnd
+        B08    Gnd
+        B09    Gnd - Frame .......................  1   Ground
+
+
+   Here is the pin layout as you look into the holes on the CGA and the
+   Display's connector:
+
+         1  o         1-B9          letter "D" stamped on top
+              o 6     2-B5
+         2  o         3-A5               9 8 7 6 5 4 3 2 1
+              o 7     4-A7             ┌───────────────────┐
+         3  o         5-A4           A   o o o o o o o o o
+              o 8     6-A6           B   o o o o o o o o o
+         4  o         7-n/c
+              o 9     8-B3
+         5  o         9-B1
+
+   -----------------------------------------------------------------------
+   
+        PCjr COLOR DISPLAY to DB-9 (male) for IBM PC/XT/AT CGA
+      
+        PIN       DESCRIPTION and COLOR of PCjr DISPLAY WIRES
+        ----      -------------------------------------------
+         1        large gray / cable shield / bare ground / white
+         2        clear / light red / light blue
+         3        bright red
+         4        green
+         5        dark blue
+         6        orange (tan)
+         7        pin not used
+         8        brown
+         9        yellow
+
+         three (3) wires will be cut off: purple / black / gray

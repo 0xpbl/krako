@@ -1,0 +1,57 @@
+AST RESEARCH TECHNICAL BULLETIN TB-0259          02/09/87
+
+
+
+PREMIUM 286 / NEC FD1155C FLOPPY DISK DRIVE JUMMPER SETTINGS
+
+
+               ╔══════════╗  ╔═══════════════════╗
+               ║║║║║║║║║║║║  ║    ┌- TERMINATOR  ║
+          ╔════╝2  1      ╚══╝                  ║
+          ║      ██.  ...█. █.╔═════╗            ║
+          ║           ...█. █.║  Ω  ║╔═══════════╝
+          ╚═╗         x3210 21╚═════╝║
+            ║                        ║
+            ║                 ╔══════╝
+            ║                 ║
+            ║                 ║
+            ║ █1              ║
+          ╔═╝ █   1.. ██1 ╔═══╝
+          ║   .2  2██ ..2 ║
+          ║       3.. ..3 ║
+          ║       4.. ██1 ║
+          ║       5██ ..2 ║
+          ║               ║
+          ║               ║
+          ║               ║  FD 1155C PRINTED CIRCUIT BOARD
+          ║               ║
+          ║               ║
+          ║           █.. ║
+          ║           █.. ╚╗
+          ║           321  ║
+          ║                ║
+          ║                ║
+          ╚╗               ║
+          ╔╝               ║
+          ║                ║
+          ║                ║
+          ║                ╚════╗
+          ║                     ║
+          ║                     ║
+          ╚═════════════════════╝
+
+
+NOTES:
+1. AST has determined that the jumper settings shown above
+   will provide the most reliable operation of the Floppy Disk
+   drive. This configuration improves the compatibility between
+   360KB diskettes used in this drive and 360KB drives.
+
+2. CAUTION: Writing from a 1.2 MB drive to a diskette
+   formatted on a 360KB drive might make the diskette
+   unreadable on a 360KB drive.
+
+3. When adding a second floppy drive, remove the terminating
+   resistor "Ω"  from the first drive and reinstall in the
+   second drive.
+

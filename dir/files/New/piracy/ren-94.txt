@@ -1,0 +1,91 @@
+▄▄▄▄
+█▐ ▀█▄
+█▐  ▐█▌
+█▐   ██ ▄▄▄▄   ▄▄▄▄    ▄▄▄    ▄▄▄▄  ▄▄▄▄    ▄▄▄▄   ▄▄▄    ▄▄▄     ▄▄▄   ▄▄▄▄
+█▐   ██ █▐ ▀█▄ █▐ ▀█▄  █▐▀█▄  ▐█▌▌ ██▀ ▀█▄ ██▀ ▀█▄ █▐▀█▄  █▐▀█▄  ██ ▀█▄ █▐ ▀█▄
+█▐  ▐█▌ █▐  ▐█▌█▐  ▐█▌ █▐ ▐█▌ ▐█▌▌ █▐   ▐█▌█▐   ▐█▌█▐ ▐█▌ █▐ ▐█▌ █▐   █ █▐  ▐█▌
+█▐ ▄█▀  █▐   ▀▌█▐   ██ █▐  ██ ▐█▌▌ ██▄   ▀▌██▄   ▀▌█▐  ██ █▐  ██ █▐   ▐ █▐   ▀▌
+████▄   ███▄   █▐   ██ ██████ ▐█▌▌  ▀▀██▄   ▀▀██▄  ██████ █▐  ██ █▐     ███▄
+█▐ ▀██  █▐     █▐   ██ █▐  ██ ▐█▌▌     ▐█▌     ▐█▌ █▐  ██ █▐  ██ █▐     █▐
+█▐  ▐█▌ █▐   ▄▌█▐   ▐█ █▐  ▐█ ▐█▌▌      ██      ██ █▐  ▐█ █▐  ▐█ █▐   ▐ █▐   ▄▌
+█▐   ██ █▐  ▐█▌█▐   ▐█ █▐  ▐█ ▐█▌▌ ▄▀▌  ██ ▄▀▌  ██ █▐  ▐█ █▐  ▐█ █▐   █ █▐  ▐█▌
+█▐  ▐█▌ █▐ ▄█▀ █▐    █ █▐   █ ▐█▌▌ ▌    ██ ▌    ██ █▐   █ █▐   █ ██ ▄█▀ █▐ ▄█▀
+█▐  ██  ▀▀▀▀   ▀▀▌   █ ▀▀▌  █ ▀▀▀▀ █    ██ █    ██ ▀▀▌  █ ▀▀▌  █  ▀▀▀   ▀▀▀▀
+▀▀▀ ▀█▄              ▐      ▐      ▐▌  ▐█▌ ▐▌  ▐█▌      ▐      ▐    Untouchable
+      ▀█▄▄           ▐      ▐       █▄▄█▀   █▄▄█▀       ▐      ▐    ·∙8/20/93∙·
+         ▀▀▀▀█▄▄▄▄▄▄                 ▀▀      ▀▀
+
+                          ┌═══════════════════════┐
+                          │·∙· Renaissance '94 ·∙·│
+                          └═══════════════════════┘
+
+┌═══════════════════┐
+│ Renaissance Staff │
+└═══════════════════┘
+
+■ Daredevil            [·∙Coder/SysOp/PR/Organizer∙·]
+■ Whitefiend           [·∙Graphics Coordinator∙·]
+■ C.C.Catch            [·∙Awesome Music∙·]
+■ Ryan Cramer          [·∙Awesome Music∙·]
+■ StarScream           [·∙Coder∙·]
+
+┌═════════════════════┐
+│ Graphics Department │
+└═════════════════════┘
+
+■ Digital Sculptor     [·∙VGA∙·]
+■ El Diablo            [·∙VGA∙·]
+■ Untouchable          [·∙ANSI/VGA∙·]
+■ Mr. Happy            [·∙Amiga/VGA∙·]
+■ RS                   [·∙Amiga∙·]
+
+┌═══════════════┐
+│ Contacting Us │
+└═══════════════┘
+
+        Renaissance can be contacted on our HQ board, The Sound Barrier, at
+the number listed below. "Fan Mail" or any other requests/inquiries can be
+mailed to the following address:
+
+        Renaissance
+        P.O. Box 060-156
+        Staten Island, N.Y.
+        10306-0002
+        USA
+
+        I can't guarantee a reply to every letter, but I will do my best
+to please everyone. Please, no letter bombs... The post office gets pissed
+off at us everytime it gets blown up.
+
+
+                        ┌─────────────────────────────┐
+                        │ ·∙·  Renaissance Sites  ·∙· │
+                        │ ·∙· UNITED STATES/CANADA ·∙·│
+┌───────────────────────┴──┬───────────────┬──────────┴───────┬───────────────┐
+│       BBS Name           │  BBS Number   │    Modem Type    │     Sysop     │
+├──────────────────────────┼───────────────┼──────────────────┼───────────────┤
+│ The Sound Barrier - 1 HQ │ 718-979-6629  │ USR Dual 14400   │ Daredevil     │
+│ The Sound Barrier - 2 HQ │ 718-979-9406  │ 9600 v.32/v.42   │ Daredevil     │
+│ The Crack Site - 1 GHQ   │ 908-PRI-VATE  │ USR Dual 16800   │ Whitefiend    │
+│ The Crack Site - 2 GHQ   │ 908-PRI-VATE  │ USR Dual 14400   │ Whitefiend    │
+│ The Outer Limits ][      │ 718-PRI-VATE  │ USR HST 14400    │ Star Gazer    │
+│ The Music Connection - 1 │ 214-596-2827  │ USR Dual 21600   │ Rob Butler    │
+│ The Music Connection - 2 │ 214-964-3743  │ USR Dual 14400   │ Rob Butler    │
+├──────────────────────────┴───────────────┴──────────────────┴───────────────┤
+│ HQ  = World Headquarters                                                    │
+│ GHQ = Graphics Department Headquarters                                      │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+                        ┌─────────────────────────────┐
+                        │ ·∙·  Renaissance Sites  ·∙· │
+                        │       ·∙· EUROPE ·∙·        │
+┌───────────────────────┴──┬───────────────┬──────────┴──┬────────────────────┐
+│       BBS Name           │  BBS Number   │  Baud Rate  │      Sysop         │
+├──────────────────────────┼───────────────┼─────────────┼────────────────────┤
+│ Buster - Belgium HQ      │+32-53-772385  │Zyxel 19.2   │ Dark Inventor      │
+│ StarPort - Finnish HQ - 1│+358-0-804-4626│USR Dual 14.4│ Abyss              │
+│ StarPort - Finnish HQ - 2│+358-0-804-1133│USR 14.4     │ Abyss              │
+│ Dracker BBS - Spain      │+34-3-3853393  │USR Dual 16.8│ G\/y-t             │
+└──────────────────────────┴───────────────┴─────────────┴────────────────────┘
+
+

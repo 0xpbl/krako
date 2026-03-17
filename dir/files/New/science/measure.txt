@@ -1,0 +1,24 @@
+ ╔═════════════════════════════════════╦══════════════════════════════════════╗
+ ║  Linear Measure                     ║    Liquid Measure                    ║
+ ║  ──────────────                     ║    ──────────────                    ║
+ ║   12 inches   = 1 foot              ║       4 gills   = 1 pint             ║
+ ║    3 feet     = 1 yard              ║       2 pints   = 1 quart            ║
+ ║  5.5 yards    = 1 rod               ║       4 quarts  = 1 gallon           ║
+ ║   40 rods     = 1 furlong           ║    31.5 gallons = 1 barrel           ║
+ ║    8 furlongs = 1 stat.mile         ║       2 barrels = 1 hogshead         ║
+ ╠═════════════════════════════════════╬══════════════════════════════════════╣
+ ║  Mariner's Measure                  ║    Dry Measure                       ║
+ ║  ─────────────────                  ║    ───────────                       ║
+ ║     6 feet       = 1 fathom         ║    2 pints  = 1 quart                ║
+ ║  1000 fathoms    = 1 naut.mile      ║    8 quarts = 1 peck                 ║
+ ║     3 naut.miles = 1 league         ║    4 pecks  = 1 bushel               ║
+ ╠═════════════════════════════════════╬══════════════════════════════════════╣
+ ║  Square Measure                     ║    Apothecaries Measure              ║
+ ║  ──────────────                     ║    ────────────────────              ║
+ ║    144 sq. inches = 1 sq. ft.       ║    60 minims        = 1 fluid dram   ║
+ ║      9 sq. feet   = 1 sq. yd.       ║     8 fluid drams   = 1 fluid ounce  ║
+ ║  30.25 sq. yards  = 1 sq. rd.       ║    16 fluid ounces  = 1 pint         ║
+ ║    160 sq. rods   = 1 acre          ║     2 pints         = 1 quart        ║
+ ║    640 acres      = 1 sq. mile      ║     4 quarts        = 1 gallon       ║
+ ╚═════════════════════════════════════╩══════════════════════════════════════╝
+
