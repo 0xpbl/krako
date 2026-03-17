@@ -1,11 +1,42 @@
 {
   "mainMenuName": "TEXTS",
   "sections": {
-    "adventure": "Adventure",
     "100": "100",
+    "adventure": "Adventure",
+    "anarchy": "Anarchy",
     "computers/CYBERSPACE": "CYBERSPACE",
-    "computers/ASTRESEARCH": "ASTRESEARCH"
+    "computers/ASTRESEARCH": "ASTRESEARCH",
+    "conspiracy": "Conspiracy",
+    "hacking": "Hacking",
+    "humor": "Humor",
+    "internet": "Internet",
+    "occult": "Occult",
+    "piracy": "Piracy",
+    "programming": "Programming",
+    "rpg": "RPG",
+    "science": "Science",
+    "stories": "Stories",
+    "survival": "Survival",
+    "ufo": "UFO"
   },
-  "order": ["adventure", "100", "computers/CYBERSPACE", "computers/ASTRESEARCH"],
+  "order": [
+    "100",
+    "adventure",
+    "anarchy",
+    "computers/CYBERSPACE",
+    "computers/ASTRESEARCH",
+    "conspiracy",
+    "hacking",
+    "humor",
+    "internet",
+    "occult",
+    "piracy",
+    "programming",
+    "rpg",
+    "science",
+    "stories",
+    "survival",
+    "ufo"
+  ],
   "intro": "=> http://textfiles.com TEXTFILES.COM\n\nOriginal content by Jason Scott / textfiles.com. Unofficial, unauthorized mirror in Gemini by Pablo Murad."
 }
